@@ -1,0 +1,82 @@
+<locations>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditFort_03</prefab>
+    <worldX>188</worldX>
+    <worldY>46</worldY>
+    <terrainX>1</terrainX>
+    <terrainY>75</terrainY>
+    <locationID>188014675</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_08</prefab>
+    <worldX>190</worldX>
+    <worldY>27</worldY>
+    <terrainX>2</terrainX>
+    <terrainY>3</terrainY>
+    <locationID>190022703</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditFort_02</prefab>
+    <worldX>258</worldX>
+    <worldY>44</worldY>
+    <terrainX>11</terrainX>
+    <terrainY>32</terrainY>
+    <locationID>258114432</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_04</prefab>
+    <worldX>156</worldX>
+    <worldY>64</worldY>
+    <terrainX>95</terrainX>
+    <terrainY>91</terrainY>
+    <locationID>156956491</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_06</prefab>
+    <worldX>182</worldX>
+    <worldY>51</worldY>
+    <terrainX>31</terrainX>
+    <terrainY>94</terrainY>
+    <locationID>182315194</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditFort_02</prefab>
+    <worldX>279</worldX>
+    <worldY>3</worldY>
+    <terrainX>96</terrainX>
+    <terrainY>46</terrainY>
+    <locationID>279960346</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_05</prefab>
+    <worldX>273</worldX>
+    <worldY>50</worldY>
+    <terrainX>37</terrainX>
+    <terrainY>17</terrainY>
+    <locationID>273375017</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_09</prefab>
+    <worldX>206</worldX>
+    <worldY>25</worldY>
+    <terrainX>56</terrainX>
+    <terrainY>62</terrainY>
+    <locationID>206562562</locationID>
+</locationInstance>
+</locations>

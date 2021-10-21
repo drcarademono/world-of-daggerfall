@@ -1,0 +1,22 @@
+<locations>
+<locationInstance>
+    <name>Shrine</name>
+    <type>2</type>
+    <prefab>WOD_Shrine_Dibella_01</prefab>
+    <worldX>122</worldX>
+    <worldY>267</worldY>
+    <terrainX>60</terrainX>
+    <terrainY>39</terrainY>
+    <locationID>1226026739</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Shrine</name>
+    <type>2</type>
+    <prefab>WOD_Shrine_Dibella_01</prefab>
+    <worldX>127</worldX>
+    <worldY>261</worldY>
+    <terrainX>33</terrainX>
+    <terrainY>14</terrainY>
+    <locationID>1273326114</locationID>
+</locationInstance>
+</locations>

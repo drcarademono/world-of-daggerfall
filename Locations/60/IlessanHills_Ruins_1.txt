@@ -1,0 +1,962 @@
+<locations>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>232</worldX>
+    <worldY>98</worldY>
+    <terrainX>100</terrainX>
+    <terrainY>30</terrainY>
+    <locationID>2321009830</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>221</worldX>
+    <worldY>103</worldY>
+    <terrainX>78</terrainX>
+    <terrainY>12</terrainY>
+    <locationID>2217810312</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>229</worldX>
+    <worldY>100</worldY>
+    <terrainX>20</terrainX>
+    <terrainY>84</terrainY>
+    <locationID>2292010084</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>239</worldX>
+    <worldY>102</worldY>
+    <terrainX>11</terrainX>
+    <terrainY>63</terrainY>
+    <locationID>2391110263</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>258</worldX>
+    <worldY>110</worldY>
+    <terrainX>68</terrainX>
+    <terrainY>12</terrainY>
+    <locationID>2586811012</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>331</worldX>
+    <worldY>70</worldY>
+    <terrainX>46</terrainX>
+    <terrainY>89</terrainY>
+    <locationID>331467089</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>313</worldX>
+    <worldY>91</worldY>
+    <terrainX>4</terrainX>
+    <terrainY>72</terrainY>
+    <locationID>313049172</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>228</worldX>
+    <worldY>68</worldY>
+    <terrainX>87</terrainX>
+    <terrainY>67</terrainY>
+    <locationID>228876867</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>306</worldX>
+    <worldY>68</worldY>
+    <terrainX>63</terrainX>
+    <terrainY>93</terrainY>
+    <locationID>306636893</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>233</worldX>
+    <worldY>88</worldY>
+    <terrainX>1</terrainX>
+    <terrainY>91</terrainY>
+    <locationID>233018891</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>233</worldX>
+    <worldY>100</worldY>
+    <terrainX>56</terrainX>
+    <terrainY>51</terrainY>
+    <locationID>2335610051</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>266</worldX>
+    <worldY>70</worldY>
+    <terrainX>90</terrainX>
+    <terrainY>7</terrainY>
+    <locationID>266907007</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>339</worldX>
+    <worldY>80</worldY>
+    <terrainX>82</terrainX>
+    <terrainY>36</terrainY>
+    <locationID>339828036</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>217</worldX>
+    <worldY>91</worldY>
+    <terrainX>3</terrainX>
+    <terrainY>50</terrainY>
+    <locationID>217039150</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>327</worldX>
+    <worldY>84</worldY>
+    <terrainX>79</terrainX>
+    <terrainY>95</terrainY>
+    <locationID>327798495</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>291</worldX>
+    <worldY>96</worldY>
+    <terrainX>71</terrainX>
+    <terrainY>43</terrainY>
+    <locationID>291719643</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>342</worldX>
+    <worldY>93</worldY>
+    <terrainX>16</terrainX>
+    <terrainY>84</terrainY>
+    <locationID>342169384</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>218</worldX>
+    <worldY>87</worldY>
+    <terrainX>62</terrainX>
+    <terrainY>80</terrainY>
+    <locationID>218628780</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>297</worldX>
+    <worldY>62</worldY>
+    <terrainX>88</terrainX>
+    <terrainY>67</terrainY>
+    <locationID>297886267</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>290</worldX>
+    <worldY>52</worldY>
+    <terrainX>22</terrainX>
+    <terrainY>34</terrainY>
+    <locationID>290225234</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>338</worldX>
+    <worldY>84</worldY>
+    <terrainX>27</terrainX>
+    <terrainY>63</terrainY>
+    <locationID>338278463</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>265</worldX>
+    <worldY>79</worldY>
+    <terrainX>47</terrainX>
+    <terrainY>87</terrainY>
+    <locationID>265477987</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>295</worldX>
+    <worldY>76</worldY>
+    <terrainX>35</terrainX>
+    <terrainY>60</terrainY>
+    <locationID>295357660</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>260</worldX>
+    <worldY>67</worldY>
+    <terrainX>90</terrainX>
+    <terrainY>91</terrainY>
+    <locationID>260906791</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>236</worldX>
+    <worldY>129</worldY>
+    <terrainX>100</terrainX>
+    <terrainY>34</terrainY>
+    <locationID>23610012934</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>273</worldX>
+    <worldY>73</worldY>
+    <terrainX>20</terrainX>
+    <terrainY>91</terrainY>
+    <locationID>273207391</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>305</worldX>
+    <worldY>96</worldY>
+    <terrainX>69</terrainX>
+    <terrainY>30</terrainY>
+    <locationID>305699630</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>292</worldX>
+    <worldY>107</worldY>
+    <terrainX>8</terrainX>
+    <terrainY>67</terrainY>
+    <locationID>2920810767</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>329</worldX>
+    <worldY>99</worldY>
+    <terrainX>48</terrainX>
+    <terrainY>78</terrainY>
+    <locationID>329489978</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>284</worldX>
+    <worldY>80</worldY>
+    <terrainX>38</terrainX>
+    <terrainY>92</terrainY>
+    <locationID>284388092</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>231</worldX>
+    <worldY>79</worldY>
+    <terrainX>55</terrainX>
+    <terrainY>67</terrainY>
+    <locationID>231557967</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>237</worldX>
+    <worldY>92</worldY>
+    <terrainX>75</terrainX>
+    <terrainY>82</terrainY>
+    <locationID>237759282</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>227</worldX>
+    <worldY>95</worldY>
+    <terrainX>83</terrainX>
+    <terrainY>69</terrainY>
+    <locationID>227839569</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>265</worldX>
+    <worldY>104</worldY>
+    <terrainX>61</terrainX>
+    <terrainY>14</terrainY>
+    <locationID>2656110414</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>309</worldX>
+    <worldY>55</worldY>
+    <terrainX>99</terrainX>
+    <terrainY>92</terrainY>
+    <locationID>309995592</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>334</worldX>
+    <worldY>59</worldY>
+    <terrainX>17</terrainX>
+    <terrainY>35</terrainY>
+    <locationID>334175935</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>280</worldX>
+    <worldY>64</worldY>
+    <terrainX>97</terrainX>
+    <terrainY>57</terrainY>
+    <locationID>280976457</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>300</worldX>
+    <worldY>64</worldY>
+    <terrainX>70</terrainX>
+    <terrainY>0</terrainY>
+    <locationID>300706400</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>327</worldX>
+    <worldY>99</worldY>
+    <terrainX>1</terrainX>
+    <terrainY>45</terrainY>
+    <locationID>327019945</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>277</worldX>
+    <worldY>57</worldY>
+    <terrainX>10</terrainX>
+    <terrainY>80</terrainY>
+    <locationID>277105780</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>310</worldX>
+    <worldY>63</worldY>
+    <terrainX>11</terrainX>
+    <terrainY>66</terrainY>
+    <locationID>310116366</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>343</worldX>
+    <worldY>87</worldY>
+    <terrainX>68</terrainX>
+    <terrainY>99</terrainY>
+    <locationID>343688799</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>289</worldX>
+    <worldY>98</worldY>
+    <terrainX>1</terrainX>
+    <terrainY>10</terrainY>
+    <locationID>289019810</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>306</worldX>
+    <worldY>95</worldY>
+    <terrainX>38</terrainX>
+    <terrainY>74</terrainY>
+    <locationID>306389574</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>282</worldX>
+    <worldY>107</worldY>
+    <terrainX>17</terrainX>
+    <terrainY>88</terrainY>
+    <locationID>2821710788</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>228</worldX>
+    <worldY>111</worldY>
+    <terrainX>96</terrainX>
+    <terrainY>55</terrainY>
+    <locationID>2289611155</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>247</worldX>
+    <worldY>91</worldY>
+    <terrainX>76</terrainX>
+    <terrainY>37</terrainY>
+    <locationID>247769137</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>270</worldX>
+    <worldY>85</worldY>
+    <terrainX>24</terrainX>
+    <terrainY>84</terrainY>
+    <locationID>270248584</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>326</worldX>
+    <worldY>71</worldY>
+    <terrainX>92</terrainX>
+    <terrainY>95</terrainY>
+    <locationID>326927195</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>219</worldX>
+    <worldY>102</worldY>
+    <terrainX>7</terrainX>
+    <terrainY>76</terrainY>
+    <locationID>2190710276</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>211</worldX>
+    <worldY>65</worldY>
+    <terrainX>3</terrainX>
+    <terrainY>5</terrainY>
+    <locationID>211036505</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>274</worldX>
+    <worldY>67</worldY>
+    <terrainX>62</terrainX>
+    <terrainY>59</terrainY>
+    <locationID>274626759</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>244</worldX>
+    <worldY>99</worldY>
+    <terrainX>27</terrainX>
+    <terrainY>42</terrainY>
+    <locationID>244279942</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>295</worldX>
+    <worldY>83</worldY>
+    <terrainX>50</terrainX>
+    <terrainY>93</terrainY>
+    <locationID>295508393</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>246</worldX>
+    <worldY>90</worldY>
+    <terrainX>77</terrainX>
+    <terrainY>49</terrainY>
+    <locationID>246779049</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>313</worldX>
+    <worldY>58</worldY>
+    <terrainX>80</terrainX>
+    <terrainY>30</terrainY>
+    <locationID>313805830</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>272</worldX>
+    <worldY>107</worldY>
+    <terrainX>56</terrainX>
+    <terrainY>7</terrainY>
+    <locationID>2725610707</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>222</worldX>
+    <worldY>89</worldY>
+    <terrainX>60</terrainX>
+    <terrainY>34</terrainY>
+    <locationID>222608934</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>267</worldX>
+    <worldY>84</worldY>
+    <terrainX>63</terrainX>
+    <terrainY>57</terrainY>
+    <locationID>267638457</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>234</worldX>
+    <worldY>86</worldY>
+    <terrainX>4</terrainX>
+    <terrainY>18</terrainY>
+    <locationID>234048618</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>313</worldX>
+    <worldY>69</worldY>
+    <terrainX>87</terrainX>
+    <terrainY>41</terrainY>
+    <locationID>313876941</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>240</worldX>
+    <worldY>129</worldY>
+    <terrainX>44</terrainX>
+    <terrainY>6</terrainY>
+    <locationID>2404412906</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>297</worldX>
+    <worldY>104</worldY>
+    <terrainX>12</terrainX>
+    <terrainY>52</terrainY>
+    <locationID>2971210452</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>236</worldX>
+    <worldY>104</worldY>
+    <terrainX>31</terrainX>
+    <terrainY>58</terrainY>
+    <locationID>2363110458</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>307</worldX>
+    <worldY>56</worldY>
+    <terrainX>31</terrainX>
+    <terrainY>27</terrainY>
+    <locationID>307315627</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>319</worldX>
+    <worldY>68</worldY>
+    <terrainX>43</terrainX>
+    <terrainY>18</terrainY>
+    <locationID>319436818</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>340</worldX>
+    <worldY>89</worldY>
+    <terrainX>60</terrainX>
+    <terrainY>14</terrainY>
+    <locationID>340608914</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>281</worldX>
+    <worldY>70</worldY>
+    <terrainX>25</terrainX>
+    <terrainY>31</terrainY>
+    <locationID>281257031</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>232</worldX>
+    <worldY>70</worldY>
+    <terrainX>25</terrainX>
+    <terrainY>85</terrainY>
+    <locationID>232257085</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>341</worldX>
+    <worldY>89</worldY>
+    <terrainX>20</terrainX>
+    <terrainY>63</terrainY>
+    <locationID>341208963</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>279</worldX>
+    <worldY>89</worldY>
+    <terrainX>3</terrainX>
+    <terrainY>100</terrainY>
+    <locationID>2790389100</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>208</worldX>
+    <worldY>70</worldY>
+    <terrainX>61</terrainX>
+    <terrainY>66</terrainY>
+    <locationID>208617066</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>236</worldX>
+    <worldY>79</worldY>
+    <terrainX>95</terrainX>
+    <terrainY>76</terrainY>
+    <locationID>236957976</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>221</worldX>
+    <worldY>83</worldY>
+    <terrainX>75</terrainX>
+    <terrainY>28</terrainY>
+    <locationID>221758328</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>284</worldX>
+    <worldY>110</worldY>
+    <terrainX>51</terrainX>
+    <terrainY>36</terrainY>
+    <locationID>2845111036</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>255</worldX>
+    <worldY>125</worldY>
+    <terrainX>73</terrainX>
+    <terrainY>97</terrainY>
+    <locationID>2557312597</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>257</worldX>
+    <worldY>72</worldY>
+    <terrainX>27</terrainX>
+    <terrainY>9</terrainY>
+    <locationID>257277209</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>291</worldX>
+    <worldY>99</worldY>
+    <terrainX>1</terrainX>
+    <terrainY>44</terrainY>
+    <locationID>291019944</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>289</worldX>
+    <worldY>61</worldY>
+    <terrainX>65</terrainX>
+    <terrainY>51</terrainY>
+    <locationID>289656151</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>299</worldX>
+    <worldY>75</worldY>
+    <terrainX>92</terrainX>
+    <terrainY>80</terrainY>
+    <locationID>299927580</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>293</worldX>
+    <worldY>70</worldY>
+    <terrainX>88</terrainX>
+    <terrainY>39</terrainY>
+    <locationID>293887039</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>237</worldX>
+    <worldY>71</worldY>
+    <terrainX>11</terrainX>
+    <terrainY>69</terrainY>
+    <locationID>237117169</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>288</worldX>
+    <worldY>108</worldY>
+    <terrainX>8</terrainX>
+    <terrainY>74</terrainY>
+    <locationID>2880810874</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>224</worldX>
+    <worldY>84</worldY>
+    <terrainX>69</terrainX>
+    <terrainY>35</terrainY>
+    <locationID>224698435</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_02</prefab>
+    <worldX>343</worldX>
+    <worldY>79</worldY>
+    <terrainX>99</terrainX>
+    <terrainY>2</terrainY>
+    <locationID>343997902</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>291</worldX>
+    <worldY>94</worldY>
+    <terrainX>11</terrainX>
+    <terrainY>62</terrainY>
+    <locationID>291119462</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>254</worldX>
+    <worldY>98</worldY>
+    <terrainX>38</terrainX>
+    <terrainY>42</terrainY>
+    <locationID>254389842</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>343</worldX>
+    <worldY>79</worldY>
+    <terrainX>28</terrainX>
+    <terrainY>53</terrainY>
+    <locationID>343287953</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_05</prefab>
+    <worldX>252</worldX>
+    <worldY>114</worldY>
+    <terrainX>67</terrainX>
+    <terrainY>84</terrainY>
+    <locationID>2526711484</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_01</prefab>
+    <worldX>209</worldX>
+    <worldY>77</worldY>
+    <terrainX>94</terrainX>
+    <terrainY>95</terrainY>
+    <locationID>209947795</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>250</worldX>
+    <worldY>92</worldY>
+    <terrainX>57</terrainX>
+    <terrainY>12</terrainY>
+    <locationID>250579212</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>243</worldX>
+    <worldY>72</worldY>
+    <terrainX>76</terrainX>
+    <terrainY>62</terrainY>
+    <locationID>243767262</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>265</worldX>
+    <worldY>78</worldY>
+    <terrainX>78</terrainX>
+    <terrainY>8</terrainY>
+    <locationID>265787808</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>188</worldX>
+    <worldY>69</worldY>
+    <terrainX>92</terrainX>
+    <terrainY>29</terrainY>
+    <locationID>188926929</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>307</worldX>
+    <worldY>94</worldY>
+    <terrainX>75</terrainX>
+    <terrainY>9</terrainY>
+    <locationID>307759409</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_03</prefab>
+    <worldX>335</worldX>
+    <worldY>65</worldY>
+    <terrainX>29</terrainX>
+    <terrainY>13</terrainY>
+    <locationID>335296513</locationID>
+</locationInstance>
+</locations>

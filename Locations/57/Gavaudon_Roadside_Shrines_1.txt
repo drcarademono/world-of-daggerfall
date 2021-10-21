@@ -1,0 +1,42 @@
+<locations>
+<locationInstance>
+    <name>Shrine</name>
+    <type>2</type>
+    <prefab>WOD_Shrine_Dibella_01</prefab>
+    <worldX>972</worldX>
+    <worldY>203</worldY>
+    <terrainX>36</terrainX>
+    <terrainY>54</terrainY>
+    <locationID>9723620354</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Shrine</name>
+    <type>2</type>
+    <prefab>WOD_Shrine_Dibella_01</prefab>
+    <worldX>979</worldX>
+    <worldY>206</worldY>
+    <terrainX>20</terrainX>
+    <terrainY>66</terrainY>
+    <locationID>9792020666</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Shrine</name>
+    <type>2</type>
+    <prefab>WOD_Shrine_Dibella_01</prefab>
+    <worldX>986</worldX>
+    <worldY>249</worldY>
+    <terrainX>57</terrainX>
+    <terrainY>18</terrainY>
+    <locationID>9865724918</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Shrine</name>
+    <type>2</type>
+    <prefab>WOD_Shrine_Dibella_01</prefab>
+    <worldX>976</worldX>
+    <worldY>226</worldY>
+    <terrainX>76</terrainX>
+    <terrainY>11</terrainY>
+    <locationID>9767622611</locationID>
+</locationInstance>
+</locations>

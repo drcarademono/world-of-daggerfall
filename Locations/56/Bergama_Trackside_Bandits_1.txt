@@ -1,0 +1,82 @@
+<locations>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_02</prefab>
+    <worldX>429</worldX>
+    <worldY>451</worldY>
+    <terrainX>0</terrainX>
+    <terrainY>86</terrainY>
+    <locationID>4290045186</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_02</prefab>
+    <worldX>445</worldX>
+    <worldY>463</worldY>
+    <terrainX>47</terrainX>
+    <terrainY>2</terrainY>
+    <locationID>4454746302</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_08</prefab>
+    <worldX>432</worldX>
+    <worldY>451</worldY>
+    <terrainX>34</terrainX>
+    <terrainY>40</terrainY>
+    <locationID>4323445140</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditFort_01</prefab>
+    <worldX>435</worldX>
+    <worldY>454</worldY>
+    <terrainX>49</terrainX>
+    <terrainY>37</terrainY>
+    <locationID>4354945437</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_05</prefab>
+    <worldX>416</worldX>
+    <worldY>451</worldY>
+    <terrainX>12</terrainX>
+    <terrainY>68</terrainY>
+    <locationID>4161245168</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_08</prefab>
+    <worldX>434</worldX>
+    <worldY>461</worldY>
+    <terrainX>54</terrainX>
+    <terrainY>84</terrainY>
+    <locationID>4345446184</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_09</prefab>
+    <worldX>435</worldX>
+    <worldY>462</worldY>
+    <terrainX>19</terrainX>
+    <terrainY>8</terrainY>
+    <locationID>4351946208</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditFort_02</prefab>
+    <worldX>427</worldX>
+    <worldY>451</worldY>
+    <terrainX>43</terrainX>
+    <terrainY>51</terrainY>
+    <locationID>4274345151</locationID>
+</locationInstance>
+</locations>

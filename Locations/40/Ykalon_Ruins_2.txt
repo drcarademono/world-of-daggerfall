@@ -1,0 +1,22 @@
+<locations>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_04</prefab>
+    <worldX>417</worldX>
+    <worldY>25</worldY>
+    <terrainX>1</terrainX>
+    <terrainY>95</terrainY>
+    <locationID>417012595</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Ruins</name>
+    <type>2</type>
+    <prefab>WOD_Ruins_06</prefab>
+    <worldX>442</worldX>
+    <worldY>26</worldY>
+    <terrainX>68</terrainX>
+    <terrainY>69</terrainY>
+    <locationID>442682669</locationID>
+</locationInstance>
+</locations>

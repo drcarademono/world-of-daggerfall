@@ -1,0 +1,52 @@
+<locations>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_02</prefab>
+    <worldX>125</worldX>
+    <worldY>255</worldY>
+    <terrainX>83</terrainX>
+    <terrainY>85</terrainY>
+    <locationID>1258325585</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_01</prefab>
+    <worldX>133</worldX>
+    <worldY>259</worldY>
+    <terrainX>19</terrainX>
+    <terrainY>66</terrainY>
+    <locationID>1331925966</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_01</prefab>
+    <worldX>125</worldX>
+    <worldY>260</worldY>
+    <terrainX>55</terrainX>
+    <terrainY>43</terrainY>
+    <locationID>1255526043</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_06</prefab>
+    <worldX>123</worldX>
+    <worldY>263</worldY>
+    <terrainX>29</terrainX>
+    <terrainY>2</terrainY>
+    <locationID>1232926302</locationID>
+</locationInstance>
+<locationInstance>
+    <name>Bandits</name>
+    <type>2</type>
+    <prefab>WOD_BanditCamp_09</prefab>
+    <worldX>126</worldX>
+    <worldY>260</worldY>
+    <terrainX>24</terrainX>
+    <terrainY>44</terrainY>
+    <locationID>1262426044</locationID>
+</locationInstance>
+</locations>
