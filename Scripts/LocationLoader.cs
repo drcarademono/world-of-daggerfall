@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
+using System.Linq;
+using System.Text.RegularExpressions;
 using DaggerfallWorkshop.Game.Utility.ModSupport;
 using DaggerfallWorkshop.Game;
 
@@ -9,6 +11,9 @@ namespace DaggerfallWorkshop.Loc
     public class LocationLoader : MonoBehaviour
     {
         List<LocationInstance> locationInstance = new List<LocationInstance>();
+        Dictionary<int, Dictionary<string, Mod>> modRegionFiles = new Dictionary<int, Dictionary<string, Mod>>();
+
+        Dictionary<string, Mod> modLocationPrefabs = new Dictionary<string, Mod>();
 
         const float TERRAIN_SIZE = 128;
         const float TERRAIN_HEIGHT_MAX = 1923.75f;
@@ -20,27 +25,145 @@ namespace DaggerfallWorkshop.Loc
 
         void Awake()
         {
+            DaggerfallTerrain.OnPromoteTerrainData += AddLocation;
             PlayerGPS.OnRegionIndexChanged += OnRegionChanged;
             regionIndex = GameManager.Instance.PlayerGPS.CurrentRegionIndex;
         }
 
-        void OnRegionChanged(int regionIndex)
+        private void Start()
         {
+            CacheLocationPrefabs();
+        }
 
-            if (!Directory.Exists(Application.dataPath + LocationHelper.locationInstanceFolder))
+        void CacheLocationPrefabs()
+        {
+            foreach (Mod mod in ModManager.Instance.Mods)
             {
-                Debug.Log("LOCATION LOADER: Location folder not found");
-                return;
+                if (!mod.Enabled)
+                    continue;
+
+                if (mod.AssetBundle && mod.AssetBundle.GetAllAssetNames().Length > 0)
+                {
+                    string dummyFilePath = mod.AssetBundle.GetAllAssetNames()[0];
+                    string modFolderPrefix = dummyFilePath.Substring(17);
+                    modFolderPrefix = dummyFilePath.Substring(0, 17 + modFolderPrefix.IndexOf('/'));
+
+                    string regionFolder = modFolderPrefix + "/locations/locationprefab/";
+
+                    foreach (string filename in mod.AssetBundle.GetAllAssetNames()
+                        .Where(file => file.StartsWith(regionFolder, System.StringComparison.InvariantCultureIgnoreCase) && file.EndsWith(".txt", System.StringComparison.InvariantCultureIgnoreCase))
+                        .Select(file => Path.GetFileName(file)))
+                    {
+                        modLocationPrefabs[filename] = mod;
+                    }
+                }
+#if UNITY_EDITOR
+                else if (mod.IsVirtual && mod.ModInfo.Files.Count > 0)
+                {
+                    string dummyFilePath = mod.ModInfo.Files[0];
+                    string modFolderPrefix = dummyFilePath.Substring(17);
+                    modFolderPrefix = dummyFilePath.Substring(0, 17 + modFolderPrefix.IndexOf('/'));
+
+                    string regionFolder = modFolderPrefix + "/Locations/LocationPrefab/";
+
+                    foreach (string filename in mod.ModInfo.Files
+                        .Where(file => file.StartsWith(regionFolder, System.StringComparison.InvariantCultureIgnoreCase) && file.EndsWith(".txt", System.StringComparison.InvariantCultureIgnoreCase))
+                        .Select(file => Path.GetFileName(file)))
+                    {
+                        modLocationPrefabs[filename] = mod;
+                    }
+                }
+#endif                
             }
 
-            foreach (string file in Directory.GetFiles(Application.dataPath + LocationHelper.locationInstanceFolder + regionIndex + "/"))
+            string looseLocationFolder = Path.Combine(Application.dataPath, LocationHelper.locationInstanceFolder);
+            string looseLocationPrefabFolder = Path.Combine(looseLocationFolder, "LocationPrefab");
+            bool hasLooseFiles = Directory.Exists(looseLocationFolder) && Directory.Exists(looseLocationPrefabFolder);
+            if(hasLooseFiles)
             {
-                if (file.EndsWith(".txt"))
+                foreach(string filename in Directory.GetFiles(looseLocationFolder)
+                    .Where(file => file.EndsWith(".txt"))
+                    .Select(file => Path.GetFileName(file)))
                 {
-                    locationInstance.AddRange(LocationHelper.LoadLocationInstance(file));
+                    modLocationPrefabs[filename] = null;
                 }
             }
-            DaggerfallTerrain.OnPromoteTerrainData += AddLocation;
+        }
+
+        void OnRegionChanged(int regionIndex)
+        {
+            CacheRegionFileNames(regionIndex);
+
+            string looseLocationFolder = Path.Combine(Application.dataPath, LocationHelper.locationInstanceFolder);
+            string looseLocationRegionFolder = Path.Combine(looseLocationFolder, regionIndex.ToString());
+            bool hasLooseFiles = Directory.Exists(looseLocationFolder) && Directory.Exists(looseLocationRegionFolder);
+
+            Dictionary<string, Mod> regionFiles = modRegionFiles[regionIndex];
+            foreach(var kvp in regionFiles)
+            {
+                string filename = kvp.Key;
+                Mod mod = kvp.Value;
+
+                if(hasLooseFiles)
+                {
+                    string looseFileLocation = Path.Combine(looseLocationRegionFolder, filename);
+                    if(File.Exists(looseFileLocation))
+                    {
+                        locationInstance.AddRange(LocationHelper.LoadLocationInstance(looseFileLocation));
+                        continue;
+                    }
+                }
+
+                locationInstance.AddRange(LocationHelper.LoadLocationInstance(mod, filename));
+            }
+        }
+
+        void CacheRegionFileNames(int regionIndex)
+        {
+            if (!modRegionFiles.ContainsKey(regionIndex))
+            {
+                Dictionary<string, Mod> regionFiles = new Dictionary<string, Mod>();
+                modRegionFiles.Add(regionIndex, regionFiles);
+
+                foreach (Mod mod in ModManager.Instance.Mods)
+                {
+                    if (!mod.Enabled)
+                        continue;
+
+                    if (mod.AssetBundle && mod.AssetBundle.GetAllAssetNames().Length > 0)
+                    {
+                        string dummyFilePath = mod.AssetBundle.GetAllAssetNames()[0];
+                        string modFolderPrefix = dummyFilePath.Substring(17);
+                        modFolderPrefix = dummyFilePath.Substring(0, 17 + modFolderPrefix.IndexOf('/'));
+
+                        string regionFolder = modFolderPrefix + "/locations/" + regionIndex.ToString();
+
+                        foreach (string filename in mod.AssetBundle.GetAllAssetNames()
+                            .Where(file => file.StartsWith(regionFolder, System.StringComparison.InvariantCultureIgnoreCase) && file.EndsWith(".txt", System.StringComparison.InvariantCultureIgnoreCase))
+                            .Select(file => Path.GetFileName(file)))
+                        {
+                            regionFiles[filename] = mod;
+                        }
+                    }
+#if UNITY_EDITOR
+                    else if (mod.IsVirtual && mod.ModInfo.Files.Count > 0)
+                    {
+                        string dummyFilePath = mod.ModInfo.Files[0];
+                        string modFolderPrefix = dummyFilePath.Substring(17);
+                        modFolderPrefix = dummyFilePath.Substring(0, 17 + modFolderPrefix.IndexOf('/'));
+
+                        string regionFolder = modFolderPrefix + "/Locations/" + regionIndex.ToString();
+
+                        foreach (string filename in mod.ModInfo.Files
+                            .Where(file => file.StartsWith(regionFolder, System.StringComparison.InvariantCultureIgnoreCase) && file.EndsWith(".txt", System.StringComparison.InvariantCultureIgnoreCase))
+                            .Select(file => Path.GetFileName(file)))
+                        {
+                            regionFiles[filename] = mod;
+                        }
+                    }
+#endif                   
+                }
+            }
         }
 
         void AddLocation(DaggerfallTerrain daggerTerrain, TerrainData terrainData)
@@ -65,11 +188,21 @@ namespace DaggerfallWorkshop.Loc
                 }
 
                 //Now that we ensured that it is a valid location, then load the locationpreset
-                LocationPrefab locationPrefab = LocationHelper.LoadLocationPrefab(Application.dataPath + LocationHelper.locationPrefabFolder + loc.prefab + ".txt");
+                string assetName = loc.prefab + ".txt";
+
+                if(!modLocationPrefabs.TryGetValue(assetName, out Mod mod))
+                {
+                    Debug.LogWarning("Can't find location Preset: " + loc.prefab);
+                    continue;
+                }
+
+                LocationPrefab locationPrefab = mod != null
+                    ? LocationHelper.LoadLocationPrefab(mod, assetName)
+                    : LocationHelper.LoadLocationPrefab(Application.dataPath + LocationHelper.locationPrefabFolder + assetName);
 
                 if (locationPrefab == null)
                 {
-                    Debug.LogWarning("Can't find location Preset: " + loc.prefab);
+                    Debug.LogWarning($"Location Preset '{loc.prefab}' could not be parsed");
                     continue;
                 }
 

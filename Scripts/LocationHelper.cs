@@ -4,6 +4,7 @@ using System.IO;
 using System.Xml;
 using UnityEngine;
 using System.Collections;
+using DaggerfallWorkshop.Game.Utility.ModSupport;
 
 namespace DaggerfallWorkshop.Loc
 {
@@ -723,6 +724,25 @@ namespace DaggerfallWorkshop.Loc
             XmlDocument xmlDoc = new XmlDocument();
             xmlDoc.Load(path);
 
+            return LoadLocationInstance(xmlDoc);
+        }
+
+        public static List<LocationInstance> LoadLocationInstance(Mod mod, string assetName)
+        {
+            TextAsset asset = mod.GetAsset<TextAsset>(assetName);
+            if (asset == null)
+                return null;
+
+            TextReader reader = new StringReader(asset.text);
+
+            XmlDocument xmlDoc = new XmlDocument();
+            xmlDoc.Load(reader);
+
+            return LoadLocationInstance(xmlDoc);
+        }
+
+        public static List<LocationInstance> LoadLocationInstance(XmlDocument xmlDoc)
+        {
             if (xmlDoc.SelectSingleNode("//locations") == null)
             {
                 Debug.LogWarning("Wrong file format");
@@ -795,6 +815,25 @@ namespace DaggerfallWorkshop.Loc
             XmlDocument xmlDoc = new XmlDocument();
             xmlDoc.Load(path);
 
+            return LoadLocationPrefab(xmlDoc);
+        }
+
+        public static LocationPrefab LoadLocationPrefab(Mod mod, string assetName)
+        {
+            TextAsset asset = mod.GetAsset<TextAsset>(assetName);
+            if (asset == null)
+                return null;
+
+            TextReader reader = new StringReader(asset.text);
+
+            XmlDocument xmlDoc = new XmlDocument();
+            xmlDoc.Load(reader);
+
+            return LoadLocationPrefab(xmlDoc);
+        }
+
+        public static LocationPrefab LoadLocationPrefab(XmlDocument xmlDoc)
+        {
             if (xmlDoc.SelectSingleNode("//locationPrefab") == null)
             {
                 Debug.LogWarning("Wrong file format");
@@ -832,10 +871,10 @@ namespace DaggerfallWorkshop.Loc
         }
 
         /// <summary>
-        /// Save locationprefab to path
-        /// </summary>
-        /// <param name="locationPrefab"></param>
-        /// <param name="path"></param>
+         /// Save locationprefab to path
+         /// </summary>
+         /// <param name="locationPrefab"></param>
+         /// <param name="path"></param>
         public static void SaveLocationPrefab(LocationPrefab locationPrefab, string path)
         {
             //Write some text to the test.txt file
