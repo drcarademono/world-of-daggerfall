@@ -950,7 +950,7 @@ namespace DaggerfallWorkshop.Loc
                 int.TryParse(xmlDoc.GetElementsByTagName("terrainX")[i].InnerXml, out tmpInst.terrainX);
                 int.TryParse(xmlDoc.GetElementsByTagName("terrainY")[i].InnerXml, out tmpInst.terrainY);
 
-                if (tmpInst.terrainX <= 0 || tmpInst.terrainY <= 0 || (tmpInst.terrainX > 128 || tmpInst.terrainY > 128))
+                if (tmpInst.terrainX < 0 || tmpInst.terrainY < 0 || tmpInst.terrainX >= 128 || tmpInst.terrainY >= 128)
                 {
                     Debug.LogWarning($"Invalid location instance '{tmpInst.name}' ({contextString}): terrainX and terrainY must be higher than 0 and lower than 128");
                     continue;

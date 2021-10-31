@@ -288,8 +288,8 @@ namespace DaggerfallWorkshop.Loc
 
                     daggerTerrain.MapData.averageHeight = tmpAverageHeight /= count;
                     
-                    for (int x = 1; x <= 127; x++)
-                        for (int y = 1; y <= 127; y++)
+                    for (int x = 0; x < 128; x++)
+                        for (int y = 0; y < 128; y++)
                             daggerTerrain.MapData.heightmapSamples[y, x] = Mathf.Lerp(daggerTerrain.MapData.heightmapSamples[y, x], daggerTerrain.MapData.averageHeight, 1 / (GetDistanceFromRect(daggerTerrain.MapData.locationRect, new Vector2(x, y)) + 1));
                     
                     terrainData.SetHeights(0, 0, daggerTerrain.MapData.heightmapSamples);
