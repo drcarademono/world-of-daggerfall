@@ -10,24 +10,18 @@ namespace DaggerfallWorkshop.Loc
 {
     public class LocationLoader : MonoBehaviour
     {
-        List<LocationInstance> locationInstance = new List<LocationInstance>();
+        Dictionary<int, List<LocationInstance>> regionLocationInstances = new Dictionary<int, List<LocationInstance>>();
         Dictionary<int, Dictionary<string, Mod>> modRegionFiles = new Dictionary<int, Dictionary<string, Mod>>();
 
         Dictionary<string, Mod> modLocationPrefabs = new Dictionary<string, Mod>();
 
         const float TERRAIN_SIZE = 128;
-        const float TERRAIN_HEIGHT_MAX = 1923.75f;
         const float TERRAINPIXELSIZE = 819.2f;
-        const float OCEAN_SURFACE = 0.018f;
         const float TERRAIN_SIZE_MULTI = TERRAINPIXELSIZE / TERRAIN_SIZE;
-        const string locations = "/Locations/";
-        private int regionIndex;
 
         void Awake()
         {
             DaggerfallTerrain.OnPromoteTerrainData += AddLocation;
-            PlayerGPS.OnRegionIndexChanged += OnRegionChanged;
-            regionIndex = GameManager.Instance.PlayerGPS.CurrentRegionIndex;
         }
 
         private void Start()
@@ -90,13 +84,15 @@ namespace DaggerfallWorkshop.Loc
             }
         }
 
-        void OnRegionChanged(int regionIndex)
+        void CacheRegionInstances(int regionIndex)
         {
             CacheRegionFileNames(regionIndex);
 
-            string looseLocationFolder = Path.Combine(Application.dataPath, LocationHelper.locationInstanceFolder);
-            string looseLocationRegionFolder = Path.Combine(looseLocationFolder, regionIndex.ToString());
-            bool hasLooseFiles = Directory.Exists(looseLocationFolder) && Directory.Exists(looseLocationRegionFolder);
+            if (regionLocationInstances.ContainsKey(regionIndex))
+                return;
+
+            var locationInstance = new List<LocationInstance>();
+            regionLocationInstances.Add(regionIndex, locationInstance);
 
             Dictionary<string, Mod> regionFiles = modRegionFiles[regionIndex];
             foreach(var kvp in regionFiles)
@@ -104,17 +100,16 @@ namespace DaggerfallWorkshop.Loc
                 string filename = kvp.Key;
                 Mod mod = kvp.Value;
 
-                if(hasLooseFiles)
+                if (mod == null)
                 {
+                    string looseLocationRegionFolder = Path.Combine(Application.dataPath, LocationHelper.locationInstanceFolder, regionIndex.ToString());
                     string looseFileLocation = Path.Combine(looseLocationRegionFolder, filename);
-                    if(File.Exists(looseFileLocation))
-                    {
-                        locationInstance.AddRange(LocationHelper.LoadLocationInstance(looseFileLocation));
-                        continue;
-                    }
+                    locationInstance.AddRange(LocationHelper.LoadLocationInstance(looseFileLocation));
                 }
-
-                locationInstance.AddRange(LocationHelper.LoadLocationInstance(mod, filename));
+                else
+                {
+                    locationInstance.AddRange(LocationHelper.LoadLocationInstance(mod, filename));
+                }
             }
         }
 
@@ -163,11 +158,30 @@ namespace DaggerfallWorkshop.Loc
                     }
 #endif                   
                 }
+
+                string looseLocationFolder = Path.Combine(Application.dataPath, LocationHelper.locationInstanceFolder);
+                string looseLocationRegionFolder = Path.Combine(looseLocationFolder, regionIndex.ToString());
+                if(Directory.Exists(looseLocationFolder) && Directory.Exists(looseLocationRegionFolder))
+                {
+                    foreach(string filename in Directory.GetFiles(looseLocationFolder)
+                        .Where(file => file.EndsWith(".txt"))
+                        .Select(file => Path.GetFileName(file)))
+                    {
+                        regionFiles[filename] = null;
+                    }
+                }
             }
         }
 
         void AddLocation(DaggerfallTerrain daggerTerrain, TerrainData terrainData)
         {
+            var regionIndex = GetRegionIndex(daggerTerrain);
+            if(regionIndex == -1)
+            {
+                return;
+            }
+            CacheRegionInstances(regionIndex);
+
             //Destroy old locations by going through all the child objects, but 
             //don't delete the billboard batch (The surrounding vegettion)
             foreach (Transform child in daggerTerrain.gameObject.transform)
@@ -176,16 +190,51 @@ namespace DaggerfallWorkshop.Loc
                     Destroy(child.gameObject);
             }
 
+            var locationInstance = regionLocationInstances[regionIndex];
             foreach (LocationInstance loc in locationInstance)
             {
                 if (daggerTerrain.MapPixelX != loc.worldX || daggerTerrain.MapPixelY != loc.worldY)
-                   continue;
-
-                if (loc.terrainX <= 0 || loc.terrainY <= 0 || (loc.terrainX > 128 || loc.terrainY > 128))
-                {
-                    Debug.LogWarning("Invalid Location at " + daggerTerrain.MapPixelX + " : " + daggerTerrain.MapPixelY + " : The location pixelX + or/and pixelY must be higher than 0 and lower than 128");
                     continue;
+
+                if (daggerTerrain.MapData.hasLocation)
+                {
+                    if (loc.type == 0)
+                    {
+                        Debug.LogWarning("Location Already Present " + daggerTerrain.MapPixelX + " : " + daggerTerrain.MapPixelY);
+                        continue;
+                    }
+                    else if (loc.type == 2)
+                    {
+                        continue;
+                    }
                 }
+
+                if ((daggerTerrain.MapData.mapRegionIndex == 31 ||
+                    daggerTerrain.MapData.mapRegionIndex == 3 ||
+                    daggerTerrain.MapData.mapRegionIndex == 29 ||
+                    daggerTerrain.MapData.mapRegionIndex == 28 ||
+                    daggerTerrain.MapData.mapRegionIndex == 30) && daggerTerrain.MapData.worldHeight <= 2)
+                {
+                    if (loc.type == 0)
+                    {
+                        Debug.LogWarning("Location is in Ocean " + daggerTerrain.MapPixelX + " : " + daggerTerrain.MapPixelY);
+                        continue;
+                    }
+                    else if (loc.type == 2)
+                    {
+                        continue;
+                    }
+                }    
+
+                // Check if Basic Roads detects a road there
+                byte pathsDataPoint = 0;
+                Vector2Int coords = new Vector2Int(loc.worldX, loc.worldY);
+                ModManager.Instance.SendModMessage("BasicRoads", "getPathsPoint", coords,
+                    (string message, object data) => { pathsDataPoint = (byte)data; }
+                    );
+
+                if (pathsDataPoint != 0)
+                    continue;
 
                 //Now that we ensured that it is a valid location, then load the locationpreset
                 string assetName = loc.prefab + ".txt";
@@ -219,10 +268,10 @@ namespace DaggerfallWorkshop.Loc
                 }
 
                 //Smooth the terrain
-                if (loc.type == 0)
+                if (loc.type == 0 || loc.type == 2)
                 {
                     daggerTerrain.MapData.hasLocation = true;
-                    //daggerTerrain.MapData.locationName = loc.name;
+                    daggerTerrain.MapData.locationName = loc.name;
                     daggerTerrain.MapData.locationRect = new Rect(loc.terrainX, loc.terrainY, locationPrefab.width, locationPrefab.height);
 
                     int count = 0;
@@ -238,7 +287,6 @@ namespace DaggerfallWorkshop.Loc
                     }
 
                     daggerTerrain.MapData.averageHeight = tmpAverageHeight /= count;
-                    //TerrainHelper.BlendLocationTerrain(ref daggerTerrain.MapData); //orginal alternative
                     
                     for (int x = 1; x <= 127; x++)
                         for (int y = 1; y <= 127; y++)
@@ -252,8 +300,10 @@ namespace DaggerfallWorkshop.Loc
                     if (!LocationHelper.ValidateValue(obj.type, obj.name))
                         continue;
 
+                    float terrainHeightMax = DaggerfallUnity.Instance.TerrainSampler.MaxTerrainHeight * Game.GameManager.Instance.StreamingWorld.TerrainScale;
+
                     GameObject go = LocationHelper.LoadObject(obj.type, obj.name, daggerTerrain.gameObject.transform,
-                    new Vector3((loc.terrainX * TERRAIN_SIZE_MULTI) + obj.pos.x, (daggerTerrain.MapData.averageHeight * TERRAIN_HEIGHT_MAX) + obj.pos.y, (loc.terrainY * TERRAIN_SIZE_MULTI) + obj.pos.z),
+                    new Vector3((loc.terrainX * TERRAIN_SIZE_MULTI) + obj.pos.x, (daggerTerrain.MapData.averageHeight * terrainHeightMax) + obj.pos.y, (loc.terrainY * TERRAIN_SIZE_MULTI) + obj.pos.z),
                                  obj.rot,
                                  new Vector3(obj.scale.x, obj.scale.y, obj.scale.z), loc.locationID, obj.objectID
                         );
@@ -268,8 +318,6 @@ namespace DaggerfallWorkshop.Loc
                     if (!go.GetComponent<DaggerfallLoot>())
                         go.isStatic = true;
                 }
-
-                continue;
             }
         }
 
@@ -290,5 +338,21 @@ namespace DaggerfallWorkshop.Loc
             return Mathf.Sqrt(squared_dist);
         }
 
+        int GetRegionIndex(DaggerfallTerrain daggerfallTerrain)
+        {
+            if (daggerfallTerrain.MapData.mapRegionIndex != -1)
+                return daggerfallTerrain.MapData.mapRegionIndex;
+
+            int region = daggerfallTerrain.MapData.worldPolitic & 0x7F;
+            // Region 64 is an "all water" terrain tile, according to UESP
+            if(region < 0 || region >= DaggerfallUnity.Instance.ContentReader.MapFileReader.RegionCount || region == 64)
+            {
+                if(region != 64)
+                    Debug.LogWarning($"Invalid region found at map location [{daggerfallTerrain.MapPixelX}, {daggerfallTerrain.MapPixelY}]");
+                return -1;
+            }
+
+            return region;
+        }
     }
 }
