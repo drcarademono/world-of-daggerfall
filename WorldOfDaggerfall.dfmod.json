@@ -1,19 +1,12 @@
 {
     "ModTitle": "World of Daggerfall",
     "ModVersion": "0.1",
-    "ModAuthor": "Lysandus' Tomb",
-    "ContactInfo": "@kaboissonneault",
+    "ModAuthor": "Kamer, kaboissonneault, carademono",
+    "ContactInfo": "Lysandus' Tomb",
     "DFUnity_Version": "0.13.1",
-    "ModDescription": "Open collaboration to expand the world of Daggerfall",
+    "ModDescription": "Location files for World of Daggerfall",
     "GUID": "ed0c8c07-a6ce-4d7f-8072-f5a88916c830",
     "Files": [
-        "Assets/Game/Mods/world-of-daggerfall/Scripts/LocationHelper.cs",
-        "Assets/Game/Mods/world-of-daggerfall/Scripts/LocationLoader.cs",
-        "Assets/Game/Mods/world-of-daggerfall/Scripts/LocationData.cs",
-        "Assets/Game/Mods/world-of-daggerfall/Scripts/LocationModLoader.cs",
-        "Assets/Game/Mods/world-of-daggerfall/Scripts/Editor/LocationPrefabEditor.cs",
-        "Assets/Game/Mods/world-of-daggerfall/Scripts/Editor/LocationInstanceEditor.cs",
-        "Assets/Game/Mods/world-of-daggerfall/Scripts/Editor/LocationEditor.cs",
         "Assets/Game/Mods/world-of-daggerfall/Locations/0/AlikrDesert_Rocks_66.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/0/AlikrDesert_Rocks_68.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/0/AlikrDesert_Rocks_25.txt",
@@ -2473,6 +2466,7 @@
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Rocks_Large_05r1.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_BanditCamp_07.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_BanditCamp_05.txt",
-        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_BanditCamp_06.txt"
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_BanditCamp_06.txt",
+        "Assets/Game/Mods/world-of-daggerfall/WorldOfDaggerfall.dfmod.json"
     ]
 }
