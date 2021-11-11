@@ -3,111 +3,6 @@
 	<width>5</width>
 	<object>
 		<type>0</type>
-		<objectID>2</objectID>
-		<name>60610</name>
-		<posX>10.44053</posX>
-		<posY>13.68</posY>
-		<posZ>27.71233</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>27.14818</scaleY>
-		<scaleZ>13.0313</scaleZ>
-		<rotW>-0.1876062</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.9822444</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>3</objectID>
-		<name>60610</name>
-		<posX>14.12878</posX>
-		<posY>13.68</posY>
-		<posZ>30.9642</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>27.14818</scaleY>
-		<scaleZ>13.0313</scaleZ>
-		<rotW>-0.8936713</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.4487223</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>4</objectID>
-		<name>60610</name>
-		<posX>16.41365</posX>
-		<posY>-1.609997</posY>
-		<posZ>6.43347</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>17.55944</scaleY>
-		<scaleZ>9.643163</scaleZ>
-		<rotW>-0.9999206</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.01260921</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>5</objectID>
-		<name>60610</name>
-		<posX>12.76699</posX>
-		<posY>-1.609997</posY>
-		<posZ>6.24668</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>17.55944</scaleY>
-		<scaleZ>9.643163</scaleZ>
-		<rotW>-0.704165</rotW>
-		<rotX>0</rotX>
-		<rotY>0.7100365</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>6</objectID>
-		<name>60610</name>
-		<posX>-29.28572</posX>
-		<posY>-12.87</posY>
-		<posZ>15.12595</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>10.43031</scaleY>
-		<scaleZ>8.775278</scaleZ>
-		<rotW>-0.2563058</rotW>
-		<rotX>0</rotX>
-		<rotY>0.9665958</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>7</objectID>
-		<name>60610</name>
-		<posX>-4.692647</posX>
-		<posY>-12.27</posY>
-		<posZ>64.9292</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>10.43031</scaleY>
-		<scaleZ>8.775278</scaleZ>
-		<rotW>0.1371374</rotW>
-		<rotX>0</rotX>
-		<rotY>0.9905521</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>10</objectID>
-		<name>60610</name>
-		<posX>31.14809</posX>
-		<posY>-14.5</posY>
-		<posZ>-21.59517</posZ>
-		<scaleX>5.556202</scaleX>
-		<scaleY>4.28</scaleY>
-		<scaleZ>3.7177</scaleZ>
-		<rotW>-0.1876062</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.9822444</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
 		<objectID>8</objectID>
 		<name>60711</name>
 		<posX>1.112739</posX>
@@ -116,9 +11,9 @@
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
-		<rotW>0.3919135</rotW>
+		<rotW>0.3919134</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.9200022</rotY>
+		<rotY>-0.9200021</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
@@ -161,9 +56,9 @@
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>676.5477</scaleZ>
-		<rotW>0.3919135</rotW>
+		<rotW>0.3919134</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.9200022</rotY>
+		<rotY>-0.9200021</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
@@ -180,50 +75,5 @@
 		<rotX>0</rotX>
 		<rotY>-0.004463971</rotY>
 		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>16</objectID>
-		<name>60610</name>
-		<posX>-151.1</posX>
-		<posY>-88.925</posY>
-		<posZ>8.2973</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>30.17239</scaleY>
-		<scaleZ>18.69906</scaleZ>
-		<rotW>-0.9407519</rotW>
-		<rotX>-0.2069648</rotX>
-		<rotY>-0.01186317</rotY>
-		<rotZ>0.2683486</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>17</objectID>
-		<name>60610</name>
-		<posX>65.7</posX>
-		<posY>-95.58444</posY>
-		<posZ>93.5</posZ>
-		<scaleX>16.52332</scaleX>
-		<scaleY>30.17239</scaleY>
-		<scaleZ>18.69906</scaleZ>
-		<rotW>-0.6996647</rotW>
-		<rotX>0.5985405</rotX>
-		<rotY>0.2860648</rotY>
-		<rotZ>0.265303</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>18</objectID>
-		<name>60610</name>
-		<posX>98.998</posX>
-		<posY>-138.53</posY>
-		<posZ>-101.83</posZ>
-		<scaleX>40.54823</scaleX>
-		<scaleY>30.17239</scaleY>
-		<scaleZ>24.47145</scaleZ>
-		<rotW>-0.8946826</rotW>
-		<rotX>-0.2862564</rotX>
-		<rotY>0.265938</rotY>
-		<rotZ>-0.2165116</rotZ>
 	</object>
 </locationPrefab>
