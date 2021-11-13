@@ -1,17 +1,17 @@
 <locationPrefab>
-	<height>7</height>
-	<width>5</width>
+	<height>32</height>
+	<width>40</width>
 	<object>
 		<type>0</type>
 		<objectID>8</objectID>
 		<name>60711</name>
-		<posX>-6.878414</posX>
+		<posX>105.7</posX>
 		<posY>-67.17999</posY>
-		<posZ>43.28382</posZ>
+		<posZ>112.2</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
-		<rotW>0.8791356</rotW>
+		<rotW>0.8791357</rotW>
 		<rotX>0</rotX>
 		<rotY>0.4765716</rotY>
 		<rotZ>0</rotZ>
@@ -20,9 +20,9 @@
 		<type>0</type>
 		<objectID>0</objectID>
 		<name>60711</name>
-		<posX>28.70836</posX>
+		<posX>141.2868</posX>
 		<posY>-67.17999</posY>
-		<posZ>25.52376</posZ>
+		<posZ>94.43993</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -35,9 +35,9 @@
 		<type>0</type>
 		<objectID>12</objectID>
 		<name>60711</name>
-		<posX>66.37312</posX>
+		<posX>178.9515</posX>
 		<posY>-148.78</posY>
-		<posZ>-81.43886</posZ>
+		<posZ>-12.52268</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -50,13 +50,13 @@
 		<type>0</type>
 		<objectID>13</objectID>
 		<name>60711</name>
-		<posX>-49.92063</posX>
+		<posX>62.65778</posX>
 		<posY>-144.68</posY>
-		<posZ>68.13429</posZ>
+		<posZ>137.0505</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>676.5477</scaleZ>
-		<rotW>0.8791356</rotW>
+		<rotW>0.8791357</rotW>
 		<rotX>0</rotX>
 		<rotY>0.4765716</rotY>
 		<rotZ>0</rotZ>
@@ -65,9 +65,9 @@
 		<type>0</type>
 		<objectID>14</objectID>
 		<name>60711</name>
-		<posX>52.66459</posX>
+		<posX>165.243</posX>
 		<posY>-150.48</posY>
-		<posZ>65.61713</posZ>
+		<posZ>134.5333</posZ>
 		<scaleX>549.5283</scaleX>
 		<scaleY>218.1091</scaleY>
 		<scaleZ>572.3102</scaleZ>
@@ -80,9 +80,9 @@
 		<type>0</type>
 		<objectID>15</objectID>
 		<name>60712</name>
-		<posX>3.6</posX>
+		<posX>116.1784</posX>
 		<posY>-32.3</posY>
-		<posZ>40.5</posZ>
+		<posZ>109.4162</posZ>
 		<scaleX>145.21</scaleX>
 		<scaleY>363.0534</scaleY>
 		<scaleZ>173.0957</scaleZ>
