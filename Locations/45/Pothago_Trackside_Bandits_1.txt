@@ -1,7 +1,7 @@
 <locations>
 <locationInstance>
     <name>Bandits</name>
-    <type>2</type>
+    <type>0</type>
     <prefab>WOD_BanditCamp_03</prefab>
     <worldX>239</worldX>
     <worldY>412</worldY>
@@ -11,7 +11,7 @@
 </locationInstance>
 <locationInstance>
     <name>Bandits</name>
-    <type>2</type>
+    <type>0</type>
     <prefab>WOD_BanditFort_02</prefab>
     <worldX>256</worldX>
     <worldY>418</worldY>
@@ -21,7 +21,7 @@
 </locationInstance>
 <locationInstance>
     <name>Bandits</name>
-    <type>2</type>
+    <type>0</type>
     <prefab>WOD_BanditCamp_09</prefab>
     <worldX>266</worldX>
     <worldY>408</worldY>
