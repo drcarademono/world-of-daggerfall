@@ -1,13 +1,13 @@
 <locationPrefab>
-	<height>32</height>
-	<width>32</width>
+	<height>44</height>
+	<width>42</width>
 	<object>
 		<type>0</type>
 		<objectID>8</objectID>
 		<name>60711</name>
-		<posX>80.9</posX>
-		<posY>-67.17999</posY>
-		<posZ>104.5</posZ>
+		<posX>104</posX>
+		<posY>-24.1</posY>
+		<posZ>135.7</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -20,9 +20,9 @@
 		<type>0</type>
 		<objectID>0</objectID>
 		<name>60711</name>
-		<posX>116.4868</posX>
-		<posY>-67.17999</posY>
-		<posZ>86.73994</posZ>
+		<posX>139.5868</posX>
+		<posY>-24.1</posY>
+		<posZ>117.9399</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -35,9 +35,9 @@
 		<type>0</type>
 		<objectID>12</objectID>
 		<name>60711</name>
-		<posX>154.1515</posX>
-		<posY>-148.78</posY>
-		<posZ>-20.22268</posZ>
+		<posX>177.2515</posX>
+		<posY>-105.7</posY>
+		<posZ>10.97732</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -50,9 +50,9 @@
 		<type>0</type>
 		<objectID>13</objectID>
 		<name>60711</name>
-		<posX>37.85778</posX>
-		<posY>-144.68</posY>
-		<posZ>129.3505</posZ>
+		<posX>60.95778</posX>
+		<posY>-101.6</posY>
+		<posZ>160.5505</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>676.5477</scaleZ>
@@ -65,9 +65,9 @@
 		<type>0</type>
 		<objectID>14</objectID>
 		<name>60711</name>
-		<posX>140.443</posX>
-		<posY>-150.48</posY>
-		<posZ>126.8333</posZ>
+		<posX>163.543</posX>
+		<posY>-107.4</posY>
+		<posZ>158.0333</posZ>
 		<scaleX>549.5283</scaleX>
 		<scaleY>218.1091</scaleY>
 		<scaleZ>572.3102</scaleZ>
@@ -80,11 +80,11 @@
 		<type>0</type>
 		<objectID>15</objectID>
 		<name>60712</name>
-		<posX>105.2984</posX>
-		<posY>-59.3</posY>
-		<posZ>92.31618</posZ>
+		<posX>153.8</posX>
+		<posY>0.6</posY>
+		<posZ>69.6</posZ>
 		<scaleX>145.21</scaleX>
-		<scaleY>363.0534</scaleY>
+		<scaleY>246.4443</scaleY>
 		<scaleZ>173.0957</scaleZ>
 		<rotW>0.1939092</rotW>
 		<rotX>0</rotX>

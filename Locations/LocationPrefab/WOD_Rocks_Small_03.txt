@@ -1,13 +1,13 @@
 <locationPrefab>
-	<height>32</height>
-	<width>32</width>
+	<height>46</height>
+	<width>44</width>
 	<object>
 		<type>0</type>
 		<objectID>8</objectID>
 		<name>60711</name>
-		<posX>67.94221</posX>
-		<posY>-67.17999</posY>
-		<posZ>105.9495</posZ>
+		<posX>113.7484</posX>
+		<posY>-30.39999</posY>
+		<posZ>155.7227</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -20,9 +20,9 @@
 		<type>0</type>
 		<objectID>0</objectID>
 		<name>60711</name>
-		<posX>103.529</posX>
-		<posY>-67.17999</posY>
-		<posZ>88.18947</posZ>
+		<posX>149.3352</posX>
+		<posY>-30.39999</posY>
+		<posZ>137.9626</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -35,9 +35,9 @@
 		<type>0</type>
 		<objectID>12</objectID>
 		<name>60711</name>
-		<posX>141.1938</posX>
-		<posY>-148.78</posY>
-		<posZ>-18.77315</posZ>
+		<posX>187</posX>
+		<posY>-112</posY>
+		<posZ>31</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>406.7014</scaleZ>
@@ -50,9 +50,9 @@
 		<type>0</type>
 		<objectID>13</objectID>
 		<name>60711</name>
-		<posX>24.9</posX>
-		<posY>-144.68</posY>
-		<posZ>130.8</posZ>
+		<posX>70.7062</posX>
+		<posY>-107.9</posY>
+		<posZ>180.5732</posZ>
 		<scaleX>223.8246</scaleX>
 		<scaleY>221.6764</scaleY>
 		<scaleZ>676.5477</scaleZ>
@@ -65,9 +65,9 @@
 		<type>0</type>
 		<objectID>14</objectID>
 		<name>60711</name>
-		<posX>127.4852</posX>
-		<posY>-150.48</posY>
-		<posZ>128.2828</posZ>
+		<posX>173.2914</posX>
+		<posY>-113.7</posY>
+		<posZ>178.056</posZ>
 		<scaleX>549.5283</scaleX>
 		<scaleY>218.1091</scaleY>
 		<scaleZ>572.3102</scaleZ>
@@ -80,15 +80,15 @@
 		<type>0</type>
 		<objectID>15</objectID>
 		<name>60712</name>
-		<posX>92.34064</posX>
-		<posY>-46.1</posY>
-		<posZ>93.76571</posZ>
+		<posX>138.22</posX>
+		<posY>2</posY>
+		<posZ>139.0356</posZ>
 		<scaleX>145.21</scaleX>
-		<scaleY>363.0534</scaleY>
+		<scaleY>247.0869</scaleY>
 		<scaleZ>173.0957</scaleZ>
-		<rotW>1</rotW>
+		<rotW>0.9231988</rotW>
 		<rotX>0</rotX>
-		<rotY>0</rotY>
+		<rotY>-0.3843228</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
