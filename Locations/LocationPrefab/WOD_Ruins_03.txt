@@ -557,9 +557,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>29</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>17.87</posX>
 		<posY>1.07</posY>
 		<posZ>26.06</posZ>
@@ -602,9 +603,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>42</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>23.85</posX>
 		<posY>1.07</posY>
 		<posZ>11.94</posZ>
@@ -617,9 +619,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>43</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>5.08</posX>
 		<posY>1.46</posY>
 		<posZ>21.57</posZ>
@@ -632,9 +635,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>41</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>4.01</posX>
 		<posY>1.21</posY>
 		<posZ>16.44</posZ>
@@ -650,7 +654,7 @@
 		<type>2</type>
 		<objectID>45</objectID>
 		<name>199.16</name>
-		<dataID>138</dataID>
+		<extraData>138</extraData>
 		<posX>7.46</posX>
 		<posY>1.21</posY>
 		<posZ>5.85</posZ>
@@ -663,9 +667,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>46</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>2.25</posX>
 		<posY>1.03</posY>
 		<posZ>20.79</posZ>
@@ -681,7 +686,7 @@
 		<type>2</type>
 		<objectID>0</objectID>
 		<name>199.16</name>
-		<dataID>138</dataID>
+		<extraData>138</extraData>
 		<posX>0</posX>
 		<posY>0</posY>
 		<posZ>0</posZ>
@@ -694,9 +699,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>47</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>4.01</posX>
 		<posY>1.21</posY>
 		<posZ>16.44</posZ>
@@ -712,7 +718,7 @@
 		<type>2</type>
 		<objectID>48</objectID>
 		<name>199.16</name>
-		<dataID>138</dataID>
+		<extraData>138</extraData>
 		<posX>0</posX>
 		<posY>0</posY>
 		<posZ>0</posZ>
