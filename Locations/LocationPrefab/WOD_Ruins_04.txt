@@ -440,7 +440,7 @@
 		<type>2</type>
 		<objectID>25</objectID>
 		<name>199.16</name>
-		<dataID>138</dataID>
+		<extraData>138</extraData>
 		<posX>17.68</posX>
 		<posY>1.33</posY>
 		<posZ>10.67</posZ>
@@ -468,9 +468,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>29</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>11.95</posX>
 		<posY>0.97</posY>
 		<posZ>4.5</posZ>
@@ -486,7 +487,7 @@
 		<type>2</type>
 		<objectID>30</objectID>
 		<name>199.16</name>
-		<dataID>138</dataID>
+		<extraData>138</extraData>
 		<posX>11.95</posX>
 		<posY>0.97</posY>
 		<posZ>13.06</posZ>
@@ -514,9 +515,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>28</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>0</posX>
 		<posY>0</posY>
 		<posZ>0</posZ>
@@ -529,9 +531,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>34</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>11.95</posX>
 		<posY>0.97</posY>
 		<posZ>4.5</posZ>
@@ -547,7 +550,7 @@
 		<type>2</type>
 		<objectID>35</objectID>
 		<name>199.16</name>
-		<dataID>138</dataID>
+		<extraData>138</extraData>
 		<posX>11.95</posX>
 		<posY>0.97</posY>
 		<posZ>13.06</posZ>
@@ -560,9 +563,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>0</objectID>
-		<name>479.0</name>
+		<name>199.16</name>
+		<extraData>136</extraData>
 		<posX>11.95</posX>
 		<posY>0.97</posY>
 		<posZ>4.5</posZ>
