@@ -407,9 +407,9 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>27</objectID>
-		<name>216.0</name>
+		<name>199.19</name>
 		<posX>22.66</posX>
 		<posY>0</posY>
 		<posZ>32.57</posZ>
@@ -422,9 +422,9 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>28</objectID>
-		<name>216.0</name>
+		<name>199.19</name>
 		<posX>36.2</posX>
 		<posY>0</posY>
 		<posZ>11.2</posZ>
@@ -437,9 +437,9 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>29</objectID>
-		<name>216.0</name>
+		<name>199.19</name>
 		<posX>45.48</posX>
 		<posY>0</posY>
 		<posZ>38.56</posZ>
@@ -482,9 +482,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>32</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>24.64</posX>
 		<posY>0.88</posY>
 		<posZ>31.05</posZ>
@@ -497,9 +498,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>33</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>24.64</posX>
 		<posY>0.88</posY>
 		<posZ>12.11</posZ>
@@ -512,9 +514,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>34</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>43.94</posX>
 		<posY>0.88</posY>
 		<posZ>34.34</posZ>
@@ -527,9 +530,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>35</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>39.06</posX>
 		<posY>0.88</posY>
 		<posZ>6.07</posZ>
@@ -542,9 +546,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>36</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>7.81</posX>
 		<posY>0.88</posY>
 		<posZ>38.62</posZ>

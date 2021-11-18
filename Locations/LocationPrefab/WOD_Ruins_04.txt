@@ -437,9 +437,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>25</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>17.68</posX>
 		<posY>1.33</posY>
 		<posZ>10.67</posZ>
@@ -482,9 +483,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>30</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>11.95</posX>
 		<posY>0.97</posY>
 		<posZ>13.06</posZ>
@@ -542,9 +544,10 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>1</type>
+		<type>2</type>
 		<objectID>35</objectID>
-		<name>478.1</name>
+		<name>199.16</name>
+		<dataID>138</dataID>
 		<posX>11.95</posX>
 		<posY>0.97</posY>
 		<posZ>13.06</posZ>
