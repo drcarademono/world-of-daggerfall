@@ -1,7 +1,6 @@
 name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,rotYaxis,heightOffset
 Rocks,1,WOD_Rocks_Medium_11,430,341,43010034181,100,81,Cybiades,-8,-6
 Rocks,1,WOD_Rocks_Medium_12,433,343,4332034328,20,28,Cybiades,129,-15
-Rocks,1,WOD_Rocks_Large_01,439,344,43941344109,41,109,Cybiades,-38,-6
 Rocks,1,WOD_Rocks_Large_02,429,343,4290134377,1,77,Cybiades,-55,-27
 Rocks,1,WOD_Rocks_Large_03,433,341,4334934197,49,97,Cybiades,-24,-22
 Rocks,1,WOD_Rocks_Large_04,435,342,43510834290,108,90,Cybiades,167,0
@@ -48,7 +47,6 @@ Rocks,1,WOD_Rocks_Small_04,436,342,4365534223,55,23,Cybiades,94,0
 Rocks,1,WOD_Rocks_Small_05,434,341,43401341127,1,127,Cybiades,-167,0
 Rocks,1,WOD_Rocks_Small_06,435,344,4356834493,68,93,Cybiades,-166,0
 Rocks,1,WOD_Rocks_Small_07,435,342,4351934270,19,70,Cybiades,147,0
-Rocks,1,WOD_Rocks_Small_08,438,343,438116343125,116,125,Cybiades,-121,0
 Rocks,1,WOD_Rocks_Small_09,435,343,4354434327,44,27,Cybiades,107,0
 Rocks,1,WOD_Rocks_Small_10,433,342,43391342110,91,110,Cybiades,93,0
 Rocks,1,WOD_Rocks_Medium_01,434,344,4340434456,4,56,Cybiades,-147,-11
@@ -66,9 +64,7 @@ Rocks,1,WOD_Rocks_Medium_12,428,341,4285134117,51,17,Cybiades,138,-18
 Rocks,1,WOD_Rocks_Large_01,436,341,4367434120,74,20,Cybiades,-118,-14
 Rocks,1,WOD_Rocks_Large_02,427,342,42728342123,28,123,Cybiades,124,-29
 Rocks,1,WOD_Rocks_Large_03,429,340,42938340104,38,104,Cybiades,149,-16
-Rocks,1,WOD_Rocks_Large_04,439,343,4399934306,99,6,Cybiades,11,-27
 Rocks,1,WOD_Rocks_Large_05,428,344,4289934404,99,4,Cybiades,31,0
-Rocks,1,WOD_Rocks_Large_06,439,343,4390934372,9,72,Cybiades,89,-22
 Rocks,1,WOD_Rocks_Large_07,438,342,43811934241,119,41,Cybiades,-18,-19
 Rocks,1,WOD_Rocks_Large_08,430,345,43012534523,125,23,Cybiades,173,-18
 Rocks,1,WOD_Rocks_Large_09,432,342,4329234240,92,40,Cybiades,6,-20
@@ -84,7 +80,6 @@ Rocks,1,WOD_Rocks_Small_09,438,343,4384934346,49,46,Cybiades,138,0
 Rocks,1,WOD_Rocks_Small_10,434,343,43412734392,127,92,Cybiades,170,0
 Rocks,1,WOD_Rocks_Medium_01,435,342,43512534297,125,97,Cybiades,33,-18
 Rocks,1,WOD_Rocks_Medium_02,434,341,4349734191,97,91,Cybiades,37,-13
-Rocks,1,WOD_Rocks_Medium_03,438,343,438101343123,101,123,Cybiades,114,-20
 Rocks,1,WOD_Rocks_Medium_04,429,343,4295534372,55,72,Cybiades,17,-8
 Rocks,1,WOD_Rocks_Medium_05,432,342,4326834267,68,67,Cybiades,163,-23
 Rocks,1,WOD_Rocks_Medium_06,435,341,43512234127,122,27,Cybiades,-26,-17
@@ -116,7 +111,6 @@ Rocks,1,WOD_Rocks_Small_10,438,343,4384134336,41,36,Cybiades,153,0
 Rocks,1,WOD_Rocks_Medium_01,428,345,4288434595,84,95,Cybiades,39,-24
 Rocks,1,WOD_Rocks_Medium_02,433,341,43312334131,123,31,Cybiades,-87,-11
 Rocks,1,WOD_Rocks_Medium_03,428,344,42812234440,122,40,Cybiades,-65,-7
-Rocks,1,WOD_Rocks_Medium_04,438,343,43856343114,56,114,Cybiades,88,-23
 Rocks,1,WOD_Rocks_Medium_05,436,342,43610434288,104,88,Cybiades,-6,-5
 Rocks,1,WOD_Rocks_Medium_06,430,345,4300934578,9,78,Cybiades,116,-16
 Rocks,1,WOD_Rocks_Medium_07,430,340,43047340122,47,122,Cybiades,94,-10
@@ -126,7 +120,6 @@ Rocks,1,WOD_Rocks_Medium_10,429,341,4298734193,87,93,Cybiades,-120,-26
 Rocks,1,WOD_Rocks_Medium_11,437,342,4379734251,97,51,Cybiades,104,-18
 Rocks,1,WOD_Rocks_Medium_12,432,342,4329934290,99,90,Cybiades,70,-25
 Rocks,1,WOD_Rocks_Large_01,435,342,43550342106,50,106,Cybiades,36,-10
-Rocks,1,WOD_Rocks_Large_02,439,343,4390134345,1,45,Cybiades,-56,-19
 Rocks,1,WOD_Rocks_Large_03,433,341,4331434172,14,72,Cybiades,-99,-27
 Rocks,1,WOD_Rocks_Large_04,430,342,4307334249,73,49,Cybiades,-27,-6
 Rocks,1,WOD_Rocks_Large_05,433,340,4332034013,20,13,Cybiades,146,-26
@@ -327,7 +320,6 @@ Rocks,1,WOD_Rocks_Small_04,440,344,4402434487,24,87,Cybiades,9,0
 Rocks,1,WOD_Rocks_Small_05,430,344,4302334488,23,88,Cybiades,36,0
 Rocks,1,WOD_Rocks_Small_06,433,343,4331834354,18,54,Cybiades,46,0
 Rocks,1,WOD_Rocks_Small_07,429,344,4292634413,26,13,Cybiades,-90,0
-Rocks,1,WOD_Rocks_Small_08,439,344,4398134481,81,81,Cybiades,-45,0
 Rocks,1,WOD_Rocks_Small_09,430,343,4306034306,60,6,Cybiades,20,0
 Rocks,1,WOD_Rocks_Small_10,434,341,4342834155,28,55,Cybiades,-168,0
 Rocks,1,WOD_Rocks_Medium_01,434,341,4348834140,88,40,Cybiades,-98,-15
@@ -354,7 +346,6 @@ Rocks,1,WOD_Rocks_Large_09,426,342,4262634270,26,70,Cybiades,-115,-25
 Rocks,1,WOD_Rocks_Small_01,431,344,43147344119,47,119,Cybiades,139,0
 Rocks,1,WOD_Rocks_Small_02,432,342,43210234273,102,73,Cybiades,-82,0
 Rocks,1,WOD_Rocks_Small_03,430,342,43011534237,115,37,Cybiades,97,0
-Rocks,1,WOD_Rocks_Small_04,439,343,43912334351,123,51,Cybiades,133,0
 Rocks,1,WOD_Rocks_Small_05,431,345,43109345101,9,101,Cybiades,-89,0
 Rocks,1,WOD_Rocks_Small_06,435,341,4357334197,73,97,Cybiades,80,0
 Rocks,1,WOD_Rocks_Small_07,429,342,4290634217,6,17,Cybiades,-151,0
@@ -394,7 +385,6 @@ Rocks,1,WOD_Rocks_Small_09,435,340,4350934008,9,8,Cybiades,-39,0
 Rocks,1,WOD_Rocks_Small_10,426,343,42654343104,54,104,Cybiades,-8,0
 Rocks,1,WOD_Rocks_Medium_01,431,344,43111534427,115,27,Cybiades,-75,-4
 Rocks,1,WOD_Rocks_Medium_02,430,344,430109344127,109,127,Cybiades,-35,-6
-Rocks,1,WOD_Rocks_Medium_03,438,344,4386934492,69,92,Cybiades,24,-24
 Rocks,1,WOD_Rocks_Medium_04,439,342,4395034204,50,4,Cybiades,-164,-10
 Rocks,1,WOD_Rocks_Medium_05,433,341,43320341115,20,115,Cybiades,-127,-19
 Rocks,1,WOD_Rocks_Medium_06,439,345,439113345101,113,101,Cybiades,14,-20
@@ -420,7 +410,6 @@ Rocks,1,WOD_Rocks_Small_04,430,342,4305434274,54,74,Cybiades,-68,0
 Rocks,1,WOD_Rocks_Small_05,434,343,4346434372,64,72,Cybiades,-132,0
 Rocks,1,WOD_Rocks_Small_06,436,344,43612334442,123,42,Cybiades,126,0
 Rocks,1,WOD_Rocks_Small_07,431,342,4313734226,37,26,Cybiades,-100,0
-Rocks,1,WOD_Rocks_Small_08,439,343,4391734301,17,1,Cybiades,74,0
 Rocks,1,WOD_Rocks_Small_09,430,341,4307234165,72,65,Cybiades,-52,0
 Rocks,1,WOD_Rocks_Small_10,427,342,42755342108,55,108,Cybiades,83,0
 Rocks,1,WOD_Rocks_Medium_01,430,340,4307434055,74,55,Cybiades,141,-24
@@ -495,7 +484,6 @@ Rocks,1,WOD_Rocks_Medium_07,437,342,4379634270,96,70,Cybiades,124,-5
 Rocks,1,WOD_Rocks_Medium_08,437,342,437111342102,111,102,Cybiades,32,-19
 Rocks,1,WOD_Rocks_Medium_09,435,343,4355134359,51,59,Cybiades,105,-1
 Rocks,1,WOD_Rocks_Medium_10,437,341,43710434173,104,73,Cybiades,140,-12
-Rocks,1,WOD_Rocks_Medium_11,439,343,4397334310,73,10,Cybiades,12,-15
 Rocks,1,WOD_Rocks_Medium_12,440,343,4409534318,95,18,Cybiades,84,-5
 Rocks,1,WOD_Rocks_Large_01,429,340,4295434036,54,36,Cybiades,166,-4
 Rocks,1,WOD_Rocks_Large_02,435,342,4351834224,18,24,Cybiades,41,-3
@@ -581,7 +569,6 @@ Rocks,1,WOD_Rocks_Small_10,430,343,4309034350,90,50,Cybiades,-76,0
 Rocks,1,WOD_Rocks_Medium_01,430,342,4308134247,81,47,Cybiades,-11,-15
 Rocks,1,WOD_Rocks_Medium_02,428,345,428122345115,122,115,Cybiades,-37,-17
 Rocks,1,WOD_Rocks_Medium_03,435,345,4357334583,73,83,Cybiades,139,-18
-Rocks,1,WOD_Rocks_Medium_04,438,343,43811834317,118,17,Cybiades,-177,-28
 Rocks,1,WOD_Rocks_Medium_05,432,342,4328334212,83,12,Cybiades,155,-25
 Rocks,1,WOD_Rocks_Medium_06,434,345,4340134532,1,32,Cybiades,-77,-17
 Rocks,1,WOD_Rocks_Medium_07,434,345,434100345110,100,110,Cybiades,180,-29
@@ -597,4 +584,3 @@ Rocks,1,WOD_Rocks_Large_04,436,345,4361034567,10,67,Cybiades,45,-28
 Rocks,1,WOD_Rocks_Large_05,433,341,4335834142,58,42,Cybiades,-63,-29
 Rocks,1,WOD_Rocks_Large_06,428,343,4289034342,90,42,Cybiades,102,-7
 Rocks,1,WOD_Rocks_Large_07,428,344,4286534483,65,83,Cybiades,25,-15
-Rocks,1,WOD_Rocks_Large_08,438,343,4384434391,44,91,Cybiades,137,-11
