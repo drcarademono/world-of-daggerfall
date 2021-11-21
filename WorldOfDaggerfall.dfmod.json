@@ -250,5 +250,13 @@
         "Assets/Game/Mods/world-of-daggerfall/Locations/Alcaire/Alcaire_Bandits.csv",
         "Assets/Game/Mods/world-of-daggerfall/Locations/Mournoth/Mournoth_Ruins.csv",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Rocks_Large_02.txt"
+    ],
+    "Dependencies": [
+        {
+            "Name": "location loader",
+            "IsOptional": false,
+            "IsPeer": true,
+            "Version": "0.1.0"
+        }
     ]
 }
