@@ -1,10 +1,10 @@
 {
     "ModTitle": "World of Daggerfall",
     "ModVersion": "0.1",
-    "ModAuthor": "Kamer, kaboissonneault, carademono",
-    "ContactInfo": "Lysandus' Tomb",
+    "ModAuthor": "World of Daggerfall Team",
+    "ContactInfo": "@kaboissonneault, @carademono",
     "DFUnity_Version": "0.13.1",
-    "ModDescription": "Location files for World of Daggerfall",
+    "ModDescription": "Adds new outdoor locations and large-scale props to the world of Daggerfall",
     "GUID": "ed0c8c07-a6ce-4d7f-8072-f5a88916c830",
     "Files": [
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Rocks_Medium_09.txt",
