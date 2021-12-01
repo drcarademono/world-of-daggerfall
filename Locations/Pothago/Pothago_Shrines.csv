@@ -1,19 +1,11 @@
-name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,248,407,5,89,2480440788,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,232,417,102,9,23210141708,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,233,423,16,27,2331542326,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,259,413,73,119,25972413118,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,253,404,123,24,25312240423,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,228,416,27,78,2282641677,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,247,425,85,55,2478442554,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,244,411,30,30,2442941129,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,226,422,43,1,2264242200,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,224,419,14,89,2241341988,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,236,409,61,126,23660409125,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,248,408,62,34,2486140833,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,239,411,80,106,23979411105,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,249,427,85,41,2498442740,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,248,426,55,48,2485442647,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,256,417,30,105,25629417104,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,229,421,30,68,2292942167,Pothago
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,239,414,20,125,23919414124,Pothago
+name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,248,407,4,88,2480440788,Pothago,248.031,-407.3125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,232,417,101,8,23210141708,Pothago,232.789,-417.9375
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,233,423,15,26,2331542326,Pothago,233.117,-423.796875
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,259,413,72,118,25972413118,Pothago,259.563,-413.078125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,253,404,122,23,25312240423,Pothago,253.953,-404.8203125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,228,416,26,77,2282641677,Pothago,228.203,-416.3984375
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,247,425,84,54,2478442554,Pothago,247.656,-425.578125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,244,411,29,29,2442941129,Pothago,244.227,-411.7734375
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,226,422,42,0,2264242200,Pothago,226.328,-423
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,224,419,13,88,2241341988,Pothago,224.102,-419.3125

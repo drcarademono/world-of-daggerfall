@@ -1,16 +1,11 @@
-name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,654,442,115,18,65411444217,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,640,422,18,6,6401742205,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,641,425,56,80,6415542579,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,634,415,20,123,63419415122,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,661,433,73,114,66172433113,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,658,422,20,107,65819422106,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,646,413,109,33,64610841332,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,659,434,56,10,6595543409,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,636,424,102,60,63610142459,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,639,432,36,16,6393543215,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,644,418,48,52,6444741851,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,654,431,110,77,65410943176,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,663,439,120,6,66311943905,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,654,427,41,48,6544042747,Santaki
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,658,438,23,84,6582243883,Santaki
+name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Major_01,654,442,114,17,65411444217,Santaki,654.891,-442.8671875
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Major_02,640,422,17,5,6401742205,Santaki,640.133,-422.9609375
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Major_03,641,425,55,79,6415542579,Santaki,641.43,-425.3828125
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Major_04,634,415,19,122,63419415122,Santaki,634.148,-415.046875
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Major_05,661,433,72,113,66172433113,Santaki,661.563,-433.1171875
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Minor_01,658,422,19,106,65819422106,Santaki,658.148,-422.171875
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Minor_02,646,413,108,32,64610841332,Santaki,646.844,-413.75
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Minor_03,659,434,55,9,6595543409,Santaki,659.43,-434.9296875
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Minor_04,636,424,101,59,63610142459,Santaki,636.789,-424.5390625
+Shrine of Stendarr,0,WOD_Shrine_Stendarr_Minor_05,639,432,35,15,6393543215,Santaki,639.273,-432.8828125

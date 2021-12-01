@@ -1,21 +1,13 @@
-name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,468,427,83,16,4688242715,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,475,418,15,50,4751441849,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,457,444,93,9,4579244408,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,470,427,68,43,4706742742,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,477,427,111,125,477110427124,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,470,434,96,119,47095434118,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,476,447,10,20,4760944719,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,442,423,43,112,44242423111,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,464,436,41,106,46440436105,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,476,458,48,2,4764745801,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,478,438,52,1,47851439128,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,457,431,4,126,45703431125,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,486,451,56,123,48655451122,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,443,425,41,20,4434042519,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,475,446,66,42,4756544641,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,432,435,89,42,4328843541,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,450,429,124,114,450123429113,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,472,448,11,61,4721044860,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,442,423,74,80,4427342379,Antiphyllos
-Shrine of Dibella,0,WOD_Shrine_Dibella_01,491,445,50,73,4914944572,Antiphyllos
+name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,468,427,82,15,4688242715,Antiphyllos,468.641,-427.8828125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,475,418,14,49,4751441849,Antiphyllos,475.109,-418.6171875
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,457,444,92,8,4579244408,Antiphyllos,457.719,-444.9375
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,470,427,67,42,4706742742,Antiphyllos,470.523,-427.671875
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,477,427,110,124,477110427124,Antiphyllos,477.859,-427.03125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,470,434,95,118,47095434118,Antiphyllos,470.742,-434.078125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,476,447,9,19,4760944719,Antiphyllos,476.07,-447.8515625
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,442,423,42,111,44242423111,Antiphyllos,442.328,-423.1328125
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,464,436,40,105,46440436105,Antiphyllos,464.313,-436.1796875
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,476,458,47,1,4764745801,Antiphyllos,476.367,-458.9921875
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,457,431,3,125,45703431125,Antiphyllos,457.023,-431.0234375
+Shrine of Dibella,0,WOD_Shrine_Dibella_01,486,451,55,122,48655451122,Antiphyllos,486.43,-451.046875

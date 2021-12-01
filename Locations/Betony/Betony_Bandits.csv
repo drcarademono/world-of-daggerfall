@@ -1,8 +1,3 @@
-name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region
-Bandit Camp,0,WOD_BanditCamp_06,116,270,46,89,1164527088,Betony
-Bandit Camp,0,WOD_BanditCamp_05,112,271,19,103,11217271101,Betony
-Bandit Camp,0,WOD_BanditCamp_02,125,255,109,112,125106255109,Betony
-Bandit Camp,0,WOD_BanditCamp_03,133,259,27,88,1332425984,Betony
-Bandit Camp,0,WOD_BanditCamp_01,125,260,73,57,1257026055,Betony
-Bandit Fort,0,WOD_BanditFort_02,123,263,41,8,1233726303,Betony
-Bandit Camp,0,WOD_BanditCamp_06,126,260,32,57,1263126056,Betony
+name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
+Bandit Camp,0,WOD_BanditCamp_06,116,270,45,88,1164527088,Betony,116.3515625,-270.3125
+Bandit Camp,0,WOD_BanditCamp_05,112,271,17,101,11217271101,Betony,112.1328125,-271.2109375
