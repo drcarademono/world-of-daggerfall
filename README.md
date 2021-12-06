@@ -9,7 +9,7 @@ World of Daggerfall consists of two mods:
 
 ## Tools
 - **Prefab Editor**, by UncannyValley and KABoissonneault: an easy-to-use tool in Unity Editor for building individual locations.
-- **GIS Construction Kit**, by carademono: a project for QGIS that allows for the individual or mass placement of locations in the Daggerfall game world.
+- **GIS Construction Kit**, by carademono: a project for QGIS that allows for individual or mass placement of locations in the Daggerfall game world.
 
 ## Lead Developers
 - KABoissonneault 
