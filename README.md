@@ -34,7 +34,7 @@ World of Daggerfall consists of two mods:
 
 ![image](https://user-images.githubusercontent.com/73616371/144924061-4f8f9ab4-8d03-4d01-8ae6-218d89f44203.png)
 
-![image](https://user-images.githubusercontent.com/73616371/144923701-701b9894-c5f4-4ec1-aec5-9c25ee97b7fe.png)
+![image](https://user-images.githubusercontent.com/73616371/144924229-2ce64561-a28a-4d2b-b3ce-4fc5a8f1a7c5.png)
 
 ![image](https://user-images.githubusercontent.com/73616371/144923724-fd7865dc-015c-4fc6-9c5c-fe3dcfabc979.png)
 
