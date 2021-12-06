@@ -1,5 +1,5 @@
 # World of Daggerfall Project
-Open source location loader for Daggerfall Unity
+A project to transform Daggerfall's wilderness
 
 This project fills Daggerfall's vast wilderness with thousands upon thousands of rocks, mountains, bandit camps, forts, towers, ruins, and shrines. These new locations make traveling on highways more interesting and traveling on back roads more perilous. All provinces are included in the initial release. Moreover, World of Daggerfall is a continuing project in the vein of Morrowind's Tamriel Rebuilt. We aim to continually add more content, create new experiences and original locations for players to enjoy, and to make the Iliac Bay come to life. We will also release and maintain tools that allow any modder to add their own locations to the game.
 
