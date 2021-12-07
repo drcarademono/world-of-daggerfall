@@ -4,11 +4,11 @@ This project fills Daggerfall's vast wilderness with thousands upon thousands of
 
 ## Mods
 World of Daggerfall consists of two mods:
-- **Location Loader**, by KABoissonneault and UncannyValley, with major contributions by Kamer: a mod for loading new "locations" into the game.
+- **Location Loader**, by KABoissonneault (forked from UncannyValley, with major contributions by Kamer): a mod for loading new "locations" into the game.
 - **World of Daggerfall**, by Kamer, carademono, and KABoissonneault : a mod containing the prefabs and location files that add nearly 200,000 new locations to the game.
 
 ## Tools
-- **Prefab Editor**, by UncannyValley and KABoissonneault: an easy-to-use tool in Unity Editor for building individual locations.
+- **Prefab Editor**, by KABoissonneault (forked from UncannyValley): an easy-to-use tool in Unity Editor for building individual locations.
 - **GIS Construction Kit**, by carademono: a project for QGIS that allows for individual or mass placement of locations in the Daggerfall game world.
 
 ## Lead Developers
