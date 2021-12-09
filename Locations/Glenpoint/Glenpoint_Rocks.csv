@@ -2,7 +2,6 @@ name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,rotYaxis,heig
 Rocks,1,WOD_Rocks_Small_08,214,84,214638472,90,99,Glenpoint,45,0
 Rocks,1,WOD_Rocks_Small_09,160,107,16074107101,90,117,Glenpoint,-132,0
 Rocks,1,WOD_Rocks_Small_10,179,105,17947106127,65,17,Glenpoint,92,0
-Rocks,1,WOD_Rocks_Medium_02,162,132,1622913220,61,52,Glenpoint,-62,-20
 Rocks,1,WOD_Rocks_Medium_06,176,131,17511413127,21,58,Glenpoint,154,-12
 Rocks,1,WOD_Rocks_Medium_07,192,135,19290136114,123,19,Glenpoint,5,-5
 Rocks,1,WOD_Rocks_Medium_12,195,105,1950510505,22,22,Glenpoint,101,-30
@@ -78,7 +77,6 @@ Rocks,1,WOD_Rocks_Large_07,208,127,20882128108,126,24,Glenpoint,93,-14
 Rocks,1,WOD_Rocks_Small_03,153,92,15310193114,123,5,Glenpoint,19,0
 Rocks,1,WOD_Rocks_Small_07,170,81,1691168195,15,122,Glenpoint,35,0
 Rocks,1,WOD_Rocks_Small_08,165,137,16529138120,56,19,Glenpoint,94,0
-Rocks,1,WOD_Rocks_Medium_03,162,133,1626813395,101,128,Glenpoint,65,-20
 Rocks,1,WOD_Rocks_Medium_04,159,81,158978149,11,91,Glenpoint,52,-20
 Rocks,1,WOD_Rocks_Medium_07,149,98,149149881,47,114,Glenpoint,94,-10
 Rocks,1,WOD_Rocks_Medium_11,129,128,12947129108,76,9,Glenpoint,103,-9
@@ -123,7 +121,6 @@ Rocks,1,WOD_Rocks_Medium_05,198,138,1987913884,112,117,Glenpoint,-119,-12
 Rocks,1,WOD_Rocks_Large_01,179,136,1790113663,46,108,Glenpoint,97,-29
 Rocks,1,WOD_Rocks_Large_04,203,99,203769951,117,92,Glenpoint,-125,0
 Rocks,1,WOD_Rocks_Large_07,192,140,1926914042,113,86,Glenpoint,-96,-17
-Rocks,1,WOD_Rocks_Large_09,154,69,154126988,50,122,Glenpoint,-143,-8
 Rocks,1,WOD_Rocks_Small_03,208,83,208798360,101,79,Glenpoint,149,0
 Rocks,1,WOD_Rocks_Small_04,237,123,2378112374,105,98,Glenpoint,80,0
 Rocks,1,WOD_Rocks_Small_05,170,75,1706376116,86,11,Glenpoint,-19,0
@@ -135,7 +132,6 @@ Rocks,1,WOD_Rocks_Large_03,208,120,20888121115,127,26,Glenpoint,-136,-14
 Rocks,1,WOD_Rocks_Small_09,183,138,18211513818,3,34,Glenpoint,-152,0
 Rocks,1,WOD_Rocks_Medium_01,233,122,2331512267,40,92,Glenpoint,-13,-1
 Rocks,1,WOD_Rocks_Medium_03,178,84,1782385106,56,11,Glenpoint,-29,-7
-Rocks,1,WOD_Rocks_Medium_06,137,117,1375911712,94,43,Glenpoint,83,-7
 Rocks,1,WOD_Rocks_Medium_11,203,99,203889947,117,76,Glenpoint,163,-5
 Rocks,1,WOD_Rocks_Small_02,192,113,19260114119,86,17,Glenpoint,57,0
 Rocks,1,WOD_Rocks_Small_04,181,81,1810381100,27,124,Glenpoint,-101,0
@@ -218,11 +214,9 @@ Rocks,1,WOD_Rocks_Small_04,148,137,1480613709,30,33,Glenpoint,-29,0
 Rocks,1,WOD_Rocks_Small_10,135,141,13579142116,97,6,Glenpoint,-167,0
 Rocks,1,WOD_Rocks_Medium_03,178,116,1787211654,105,87,Glenpoint,85,-29
 Rocks,1,WOD_Rocks_Medium_09,209,104,20946105124,82,28,Glenpoint,-51,-17
-Rocks,1,WOD_Rocks_Large_02,163,69,163736976,110,113,Glenpoint,160,-24
 Rocks,1,WOD_Rocks_Large_08,220,139,2206813945,110,87,Glenpoint,-25,-22
 Rocks,1,WOD_Rocks_Large_09,132,143,13282144115,120,21,Glenpoint,-53,-3
 Rocks,1,WOD_Rocks_Small_03,194,105,1945410578,76,97,Glenpoint,-150,0
-Rocks,1,WOD_Rocks_Small_08,136,144,1368714499,114,126,Glenpoint,-53,0
 Rocks,1,WOD_Rocks_Small_09,167,136,1677813637,94,53,Glenpoint,-57,0
 Rocks,1,WOD_Rocks_Small_10,200,91,20010692115,124,5,Glenpoint,1,0
 Rocks,1,WOD_Rocks_Medium_02,157,93,157289373,60,105,Glenpoint,-144,-29
@@ -290,7 +284,6 @@ Rocks,1,WOD_Rocks_Small_07,164,117,1643311792,60,119,Glenpoint,176,0
 Rocks,1,WOD_Rocks_Small_09,203,116,2038811628,104,44,Glenpoint,84,0
 Rocks,1,WOD_Rocks_Small_10,171,136,17110513699,123,117,Glenpoint,-51,0
 Rocks,1,WOD_Rocks_Medium_01,157,74,1574475108,69,5,Glenpoint,176,-23
-Rocks,1,WOD_Rocks_Medium_04,216,94,2161995113,61,27,Glenpoint,-25,-3
 Rocks,1,WOD_Rocks_Medium_06,166,115,16631116110,66,13,Glenpoint,150,-19
 Rocks,1,WOD_Rocks_Medium_10,178,123,1787012322,112,64,Glenpoint,154,-25
 Rocks,1,WOD_Rocks_Medium_12,196,127,19674127111,91,128,Glenpoint,-134,-6
@@ -545,11 +538,9 @@ Rocks,1,WOD_Rocks_Small_06,207,150,2075815041,80,63,Glenpoint,127,0
 Rocks,1,WOD_Rocks_Small_07,177,72,177427277,69,104,Glenpoint,131,0
 Rocks,1,WOD_Rocks_Small_10,148,130,14810413087,122,105,Glenpoint,-28,0
 Rocks,1,WOD_Rocks_Medium_01,177,72,1771027251,127,76,Glenpoint,25,-10
-Rocks,1,WOD_Rocks_Medium_02,214,112,21406113124,38,28,Glenpoint,-6,-4
 Rocks,1,WOD_Rocks_Medium_03,137,111,1374911110,82,43,Glenpoint,9,-20
 Rocks,1,WOD_Rocks_Medium_04,205,138,20549139102,91,16,Glenpoint,73,-14
 Rocks,1,WOD_Rocks_Medium_06,186,126,1865812681,93,112,Glenpoint,126,-26
-Rocks,1,WOD_Rocks_Medium_07,155,142,1550914273,42,106,Glenpoint,-175,-15
 Rocks,1,WOD_Rocks_Medium_09,207,108,2073210833,68,65,Glenpoint,53,-18
 Rocks,1,WOD_Rocks_Medium_10,167,135,16611513533,29,75,Glenpoint,-61,-20
 Rocks,1,WOD_Rocks_Medium_11,136,116,1360311627,32,56,Glenpoint,-7,-18
@@ -611,7 +602,6 @@ Rocks,1,WOD_Rocks_Large_06,232,115,23110511691,16,2,Glenpoint,73,-29
 Rocks,1,WOD_Rocks_Large_07,200,110,2005511000,99,44,Glenpoint,-170,-24
 Rocks,1,WOD_Rocks_Large_08,150,143,1508214379,124,121,Glenpoint,173,0
 Rocks,1,WOD_Rocks_Large_09,186,138,185114139128,24,34,Glenpoint,-133,-17
-Rocks,1,WOD_Rocks_Small_01,212,93,2111059329,1,53,Glenpoint,-60,0
 Rocks,1,WOD_Rocks_Small_04,186,125,18512512587,21,111,Glenpoint,72,0
 Rocks,1,WOD_Rocks_Small_05,174,143,1740814392,31,115,Glenpoint,164,0
 Rocks,1,WOD_Rocks_Small_08,162,72,1626973106,96,5,Glenpoint,-63,0
@@ -627,7 +617,6 @@ Rocks,1,WOD_Rocks_Medium_09,180,78,180187831,54,63,Glenpoint,25,-27
 Rocks,1,WOD_Rocks_Medium_10,138,105,13831106113,73,27,Glenpoint,-60,0
 Rocks,1,WOD_Rocks_Medium_11,227,118,2276911863,98,92,Glenpoint,-160,-20
 Rocks,1,WOD_Rocks_Medium_12,155,75,155587522,75,39,Glenpoint,-51,-3
-Rocks,1,WOD_Rocks_Large_01,178,97,178379772,82,117,Glenpoint,16,-13
 Rocks,1,WOD_Rocks_Large_02,139,106,1393210622,69,59,Glenpoint,40,-14
 Rocks,1,WOD_Rocks_Large_04,206,149,2061014951,51,92,Glenpoint,20,-29
 Rocks,1,WOD_Rocks_Large_07,159,72,1581107208,26,52,Glenpoint,151,-28
@@ -676,7 +665,6 @@ Rocks,1,WOD_Rocks_Medium_07,145,143,1451814372,51,105,Glenpoint,-18,-18
 Rocks,1,WOD_Rocks_Medium_09,183,75,183687549,104,81,Glenpoint,94,-6
 Rocks,1,WOD_Rocks_Medium_10,229,114,2296311408,105,50,Glenpoint,-144,-28
 Rocks,1,WOD_Rocks_Medium_12,209,129,2092712929,44,46,Glenpoint,-59,-15
-Rocks,1,WOD_Rocks_Large_01,207,126,2071712679,62,124,Glenpoint,142,-19
 Rocks,1,WOD_Rocks_Large_02,149,116,1495611631,93,68,Glenpoint,61,-5
 Rocks,1,WOD_Rocks_Large_03,215,112,2158111287,120,126,Glenpoint,159,-27
 Rocks,1,WOD_Rocks_Large_05,224,109,22428110109,68,21,Glenpoint,-146,-4
@@ -866,9 +854,7 @@ Rocks,1,WOD_Rocks_Medium_10,162,87,162408728,82,70,Glenpoint,30,-9
 Rocks,1,WOD_Rocks_Medium_11,183,84,183248403,53,32,Glenpoint,96,-24
 Rocks,1,WOD_Rocks_Medium_12,193,136,1930413693,21,110,Glenpoint,-84,-20
 Rocks,1,WOD_Rocks_Large_02,194,92,1942693106,63,15,Glenpoint,-76,-23
-Rocks,1,WOD_Rocks_Large_03,150,68,150426842,81,81,Glenpoint,-34,-21
 Rocks,1,WOD_Rocks_Large_04,195,90,195699060,110,101,Glenpoint,134,-2
-Rocks,1,WOD_Rocks_Large_05,127,133,1274913386,89,126,Glenpoint,-135,-27
 Rocks,1,WOD_Rocks_Large_06,194,132,19310113391,12,2,Glenpoint,55,-17
 Rocks,1,WOD_Rocks_Large_07,167,77,167467781,90,125,Glenpoint,-87,-14
 Rocks,1,WOD_Rocks_Large_08,214,109,21312410908,38,50,Glenpoint,-43,-20
@@ -893,7 +879,6 @@ Rocks,1,WOD_Rocks_Medium_09,184,85,184278558,63,90,Glenpoint,-71,-27
 Rocks,1,WOD_Rocks_Medium_11,172,93,172529391,81,120,Glenpoint,171,-27
 Rocks,1,WOD_Rocks_Medium_12,192,89,192088938,25,55,Glenpoint,-158,-22
 Rocks,1,WOD_Rocks_Large_01,207,146,20611614659,33,104,Glenpoint,-97,-2
-Rocks,1,WOD_Rocks_Large_02,226,121,2261912186,56,123,Glenpoint,131,-22
 Rocks,1,WOD_Rocks_Large_04,137,146,13612314632,36,73,Glenpoint,30,-20
 Rocks,1,WOD_Rocks_Large_05,198,135,19712713517,39,57,Glenpoint,115,-6
 Rocks,1,WOD_Rocks_Large_06,168,108,16841109125,80,36,Glenpoint,-109,-5
@@ -942,7 +927,6 @@ Rocks,1,WOD_Rocks_Medium_11,221,142,2210114264,30,93,Glenpoint,20,-20
 Rocks,1,WOD_Rocks_Medium_12,189,122,18947122100,64,117,Glenpoint,-131,-16
 Rocks,1,WOD_Rocks_Large_01,198,144,1983114591,76,8,Glenpoint,-125,-14
 Rocks,1,WOD_Rocks_Large_02,191,96,191469637,83,74,Glenpoint,-4,-12
-Rocks,1,WOD_Rocks_Large_03,180,99,180839952,122,91,Glenpoint,20,-17
 Rocks,1,WOD_Rocks_Large_04,224,150,22311915024,32,65,Glenpoint,24,-4
 Rocks,1,WOD_Rocks_Large_06,129,147,12810014731,11,70,Glenpoint,67,-26
 Rocks,1,WOD_Rocks_Large_07,202,108,20218109101,62,17,Glenpoint,85,-5
@@ -973,7 +957,6 @@ Rocks,1,WOD_Rocks_Large_06,129,118,12812811808,39,47,Glenpoint,-93,-7
 Rocks,1,WOD_Rocks_Large_07,157,78,157747869,118,113,Glenpoint,-144,-30
 Rocks,1,WOD_Rocks_Large_08,194,104,1945410588,96,2,Glenpoint,-171,-23
 Rocks,1,WOD_Rocks_Large_09,137,122,13610512223,15,57,Glenpoint,78,-14
-Rocks,1,WOD_Rocks_Small_01,149,97,149329769,56,93,Glenpoint,-19,0
 Rocks,1,WOD_Rocks_Small_02,188,136,18711813609,16,35,Glenpoint,108,0
 Rocks,1,WOD_Rocks_Small_03,205,119,2051711961,39,80,Glenpoint,81,0
 Rocks,1,WOD_Rocks_Small_06,197,105,1975210538,74,60,Glenpoint,157,0
@@ -983,7 +966,6 @@ Rocks,1,WOD_Rocks_Small_10,150,120,15010812012,126,30,Glenpoint,35,0
 Rocks,1,WOD_Rocks_Medium_01,165,69,1641276972,24,97,Glenpoint,-153,-1
 Rocks,1,WOD_Rocks_Medium_02,169,87,169048783,36,115,Glenpoint,-23,-4
 Rocks,1,WOD_Rocks_Medium_03,145,130,1451013014,43,47,Glenpoint,149,-5
-Rocks,1,WOD_Rocks_Medium_04,189,106,1897910644,121,86,Glenpoint,-145,-5
 Rocks,1,WOD_Rocks_Medium_05,151,142,1513314277,66,110,Glenpoint,-34,-2
 Rocks,1,WOD_Rocks_Medium_07,175,74,175937406,126,39,Glenpoint,-148,-22
 Rocks,1,WOD_Rocks_Medium_08,215,89,215848945,123,84,Glenpoint,140,-13
@@ -1125,7 +1107,6 @@ Rocks,1,WOD_Rocks_Medium_10,214,144,21432145116,74,30,Glenpoint,-104,-12
 Rocks,1,WOD_Rocks_Medium_11,201,100,20108101100,37,1,Glenpoint,129,-19
 Rocks,1,WOD_Rocks_Large_01,196,87,1951058749,22,94,Glenpoint,-65,-26
 Rocks,1,WOD_Rocks_Large_02,202,126,20112512637,34,74,Glenpoint,-59,-15
-Rocks,1,WOD_Rocks_Large_03,170,82,1691118212,22,51,Glenpoint,-140,-3
 Rocks,1,WOD_Rocks_Large_04,172,119,1723311937,74,78,Glenpoint,57,-5
 Rocks,1,WOD_Rocks_Large_05,130,125,1301512529,55,69,Glenpoint,-154,-23
 Rocks,1,WOD_Rocks_Large_06,159,105,1595410551,93,90,Glenpoint,65,-18
@@ -1190,7 +1171,6 @@ Rocks,1,WOD_Rocks_Small_09,137,124,1374012464,56,80,Glenpoint,-52,0
 Rocks,1,WOD_Rocks_Small_10,171,126,1711812688,36,106,Glenpoint,-28,0
 Rocks,1,WOD_Rocks_Medium_01,192,95,192159512,40,37,Glenpoint,126,-21
 Rocks,1,WOD_Rocks_Medium_02,192,100,1923710049,69,81,Glenpoint,75,-22
-Rocks,1,WOD_Rocks_Medium_03,164,75,164527504,85,37,Glenpoint,97,-25
 Rocks,1,WOD_Rocks_Medium_04,128,145,12795146106,9,20,Glenpoint,62,-19
 Rocks,1,WOD_Rocks_Medium_05,172,144,17110114465,6,98,Glenpoint,161,0
 Rocks,1,WOD_Rocks_Medium_07,165,129,16506130123,39,28,Glenpoint,-35,-29
@@ -1322,7 +1302,6 @@ Rocks,1,WOD_Rocks_Medium_02,159,86,1581198686,23,118,Glenpoint,-90,-21
 Rocks,1,WOD_Rocks_Medium_03,192,113,1925111303,84,36,Glenpoint,113,-6
 Rocks,1,WOD_Rocks_Medium_04,161,70,1601067077,20,119,Glenpoint,140,-7
 Rocks,1,WOD_Rocks_Medium_06,128,136,1288813635,123,66,Glenpoint,-45,-20
-Rocks,1,WOD_Rocks_Medium_08,177,91,1773592127,74,38,Glenpoint,-27,-29
 Rocks,1,WOD_Rocks_Medium_09,145,98,145429831,78,63,Glenpoint,108,-8
 Rocks,1,WOD_Rocks_Medium_10,209,127,20812212705,36,47,Glenpoint,175,-1
 Rocks,1,WOD_Rocks_Medium_11,163,109,1637910914,108,43,Glenpoint,-153,-3
@@ -1427,7 +1406,6 @@ Rocks,1,WOD_Rocks_Large_05,198,98,198369820,76,60,Glenpoint,-48,-22
 Rocks,1,WOD_Rocks_Large_09,171,110,17010611079,16,113,Glenpoint,142,-4
 Rocks,1,WOD_Rocks_Small_02,195,146,1955214644,78,70,Glenpoint,-58,0
 Rocks,1,WOD_Rocks_Small_03,212,112,21272113113,94,4,Glenpoint,137,0
-Rocks,1,WOD_Rocks_Small_04,201,118,2015211879,76,103,Glenpoint,-44,0
 Rocks,1,WOD_Rocks_Small_05,133,131,13210613110,1,33,Glenpoint,-51,0
 Rocks,1,WOD_Rocks_Small_06,201,83,201738329,95,51,Glenpoint,178,0
 Rocks,1,WOD_Rocks_Small_08,199,112,1991711249,44,76,Glenpoint,-160,0
@@ -1534,7 +1512,6 @@ Rocks,1,WOD_Rocks_Large_02,138,150,1388315088,120,125,Glenpoint,-106,-24
 Rocks,1,WOD_Rocks_Large_05,174,115,1745911577,99,117,Glenpoint,-136,-15
 Rocks,1,WOD_Rocks_Large_06,202,120,20110412059,15,98,Glenpoint,163,-12
 Rocks,1,WOD_Rocks_Large_07,192,110,1924411186,88,2,Glenpoint,-123,-6
-Rocks,1,WOD_Rocks_Large_08,148,81,1487082127,112,41,Glenpoint,164,-8
 Rocks,1,WOD_Rocks_Small_02,171,87,171378773,63,99,Glenpoint,68,0
 Rocks,1,WOD_Rocks_Small_03,181,94,181979441,119,60,Glenpoint,-50,0
 Rocks,1,WOD_Rocks_Small_04,151,96,151139697,37,121,Glenpoint,38,0
@@ -1647,7 +1624,6 @@ Rocks,1,WOD_Rocks_Small_01,161,130,1616913022,93,46,Glenpoint,-116,0
 Rocks,1,WOD_Rocks_Small_03,127,122,1272912201,51,20,Glenpoint,112,0
 Rocks,1,WOD_Rocks_Small_04,167,102,1673810212,62,36,Glenpoint,38,0
 Rocks,1,WOD_Rocks_Small_05,145,145,14411414577,9,100,Glenpoint,-37,0
-Rocks,1,WOD_Rocks_Small_06,213,113,21310611393,128,115,Glenpoint,10,0
 Rocks,1,WOD_Rocks_Small_08,205,133,20544134111,71,10,Glenpoint,-140,0
 Rocks,1,WOD_Rocks_Small_09,154,115,1542211563,38,79,Glenpoint,109,0
 Rocks,1,WOD_Rocks_Medium_02,142,149,14219150119,51,23,Glenpoint,-68,-22
@@ -1840,7 +1816,6 @@ Rocks,1,WOD_Rocks_Large_04,171,80,1710681105,47,18,Glenpoint,-143,-3
 Rocks,1,WOD_Rocks_Large_05,140,141,14022142108,62,20,Glenpoint,-125,-19
 Rocks,1,WOD_Rocks_Large_06,151,130,15011113008,22,47,Glenpoint,-79,-13
 Rocks,1,WOD_Rocks_Large_07,154,90,154409029,84,73,Glenpoint,77,-18
-Rocks,1,WOD_Rocks_Large_09,156,76,156697795,107,1,Glenpoint,122,-19
 Rocks,1,WOD_Rocks_Small_01,148,98,148929870,116,94,Glenpoint,-45,0
 Rocks,1,WOD_Rocks_Small_02,168,141,1684414196,70,122,Glenpoint,-47,0
 Rocks,1,WOD_Rocks_Small_03,215,83,2157283109,94,128,Glenpoint,-127,0
@@ -1858,7 +1833,6 @@ Rocks,1,WOD_Rocks_Medium_07,202,85,201998526,4,59,Glenpoint,-131,-25
 Rocks,1,WOD_Rocks_Medium_08,201,112,20119113115,58,26,Glenpoint,43,-24
 Rocks,1,WOD_Rocks_Medium_09,200,91,200019115,37,47,Glenpoint,-102,-28
 Rocks,1,WOD_Rocks_Medium_12,159,110,159110110102,127,119,Glenpoint,-119,-26
-Rocks,1,WOD_Rocks_Large_01,165,142,1656514393,110,10,Glenpoint,150,-1
 Rocks,1,WOD_Rocks_Large_03,223,145,2232814696,67,7,Glenpoint,-66,-18
 Rocks,1,WOD_Rocks_Large_04,194,135,1943513540,76,81,Glenpoint,-13,-25
 Rocks,1,WOD_Rocks_Large_05,209,96,20810897110,20,22,Glenpoint,-141,-6
@@ -2224,7 +2198,6 @@ Rocks,1,WOD_Rocks_Large_05,141,119,14012411944,36,84,Glenpoint,68,-23
 Rocks,1,WOD_Rocks_Large_06,136,112,1367411238,113,77,Glenpoint,-177,-25
 Rocks,1,WOD_Rocks_Large_07,197,93,1972794106,71,22,Glenpoint,-78,-23
 Rocks,1,WOD_Rocks_Large_08,181,105,1814610506,88,48,Glenpoint,64,-2
-Rocks,1,WOD_Rocks_Large_09,191,122,19010612260,16,94,Glenpoint,177,-4
 Rocks,1,WOD_Rocks_Small_01,185,77,185047738,28,62,Glenpoint,-133,0
 Rocks,1,WOD_Rocks_Small_02,163,95,163979503,123,29,Glenpoint,-95,0
 Rocks,1,WOD_Rocks_Small_03,154,95,154939559,115,78,Glenpoint,-22,0
@@ -2275,7 +2248,6 @@ Rocks,1,WOD_Rocks_Small_01,236,125,2364012547,64,71,Glenpoint,61,0
 Rocks,1,WOD_Rocks_Small_02,221,149,220122150108,20,6,Glenpoint,63,0
 Rocks,1,WOD_Rocks_Small_03,147,99,147419979,63,98,Glenpoint,-121,0
 Rocks,1,WOD_Rocks_Small_05,154,66,1548367123,106,18,Glenpoint,-78,0
-Rocks,1,WOD_Rocks_Small_06,156,113,1566011346,82,68,Glenpoint,-134,0
 Rocks,1,WOD_Rocks_Small_07,173,85,1721238591,22,118,Glenpoint,117,0
 Rocks,1,WOD_Rocks_Small_09,193,139,1934113954,57,70,Glenpoint,57,0
 Rocks,1,WOD_Rocks_Small_10,145,142,1454514218,63,36,Glenpoint,100,0
@@ -2376,7 +2348,6 @@ Rocks,1,WOD_Rocks_Medium_02,221,140,22011514014,19,46,Glenpoint,-170,-22
 Rocks,1,WOD_Rocks_Medium_03,212,130,2127313013,106,46,Glenpoint,82,-17
 Rocks,1,WOD_Rocks_Medium_04,184,94,184099408,51,50,Glenpoint,-72,0
 Rocks,1,WOD_Rocks_Medium_05,163,88,163828890,115,123,Glenpoint,77,-15
-Rocks,1,WOD_Rocks_Medium_07,154,67,1531276795,32,128,Glenpoint,-152,-11
 Rocks,1,WOD_Rocks_Medium_09,165,131,1650113186,37,118,Glenpoint,49,-27
 Rocks,1,WOD_Rocks_Medium_10,186,70,186647193,106,7,Glenpoint,-72,-22
 Rocks,1,WOD_Rocks_Medium_11,211,130,21010913046,10,75,Glenpoint,-143,-21
@@ -2395,7 +2366,6 @@ Rocks,1,WOD_Rocks_Small_05,193,144,1933214413,55,36,Glenpoint,-28,0
 Rocks,1,WOD_Rocks_Small_07,181,75,181207514,47,41,Glenpoint,-79,0
 Rocks,1,WOD_Rocks_Small_09,188,134,18711413403,2,19,Glenpoint,-72,0
 Rocks,1,WOD_Rocks_Medium_01,185,141,1853114193,56,118,Glenpoint,108,-22
-Rocks,1,WOD_Rocks_Medium_02,202,109,20290110119,122,23,Glenpoint,-114,-26
 Rocks,1,WOD_Rocks_Medium_03,193,145,1936114573,94,106,Glenpoint,86,-29
 Rocks,1,WOD_Rocks_Medium_04,216,93,216769349,118,91,Glenpoint,-12,-13
 Rocks,1,WOD_Rocks_Medium_06,196,118,19511911873,26,104,Glenpoint,31,-1
@@ -2453,7 +2423,6 @@ Rocks,1,WOD_Rocks_Large_04,198,104,197125105123,38,36,Glenpoint,-75,-11
 Rocks,1,WOD_Rocks_Large_05,163,133,1633513342,75,82,Glenpoint,0,-23
 Rocks,1,WOD_Rocks_Large_06,205,150,2054515040,84,79,Glenpoint,7,-3
 Rocks,1,WOD_Rocks_Large_08,189,121,1896412109,106,51,Glenpoint,-137,-8
-Rocks,1,WOD_Rocks_Large_09,154,69,1539370106,3,12,Glenpoint,117,-6
 Rocks,1,WOD_Rocks_Small_02,199,135,1991313508,39,34,Glenpoint,-5,0
 Rocks,1,WOD_Rocks_Small_06,217,133,2178213361,104,83,Glenpoint,-141,0
 Rocks,1,WOD_Rocks_Small_09,171,74,171007482,16,98,Glenpoint,-135,0
@@ -2466,7 +2435,6 @@ Rocks,1,WOD_Rocks_Medium_06,207,80,2073581106,70,9,Glenpoint,-162,-13
 Rocks,1,WOD_Rocks_Medium_07,177,80,177588092,91,125,Glenpoint,-20,0
 Rocks,1,WOD_Rocks_Medium_08,218,147,2185414776,93,115,Glenpoint,-114,-20
 Rocks,1,WOD_Rocks_Medium_11,186,112,18640113115,69,16,Glenpoint,135,-14
-Rocks,1,WOD_Rocks_Medium_12,184,87,1831248796,13,113,Glenpoint,-22,-6
 Rocks,1,WOD_Rocks_Large_01,165,140,1656714081,112,126,Glenpoint,114,-14
 Rocks,1,WOD_Rocks_Large_02,199,146,19914147123,51,32,Glenpoint,-3,-15
 Rocks,1,WOD_Rocks_Large_05,150,104,1502210465,62,105,Glenpoint,-173,-7
@@ -2540,7 +2508,6 @@ Rocks,1,WOD_Rocks_Small_01,175,99,1751029958,126,82,Glenpoint,54,0
 Rocks,1,WOD_Rocks_Small_02,198,121,1980412133,30,59,Glenpoint,58,0
 Rocks,1,WOD_Rocks_Small_04,195,123,1953312320,57,44,Glenpoint,-147,0
 Rocks,1,WOD_Rocks_Small_05,209,92,209939247,116,70,Glenpoint,29,0
-Rocks,1,WOD_Rocks_Small_06,157,123,15769124110,91,4,Glenpoint,70,0
 Rocks,1,WOD_Rocks_Small_07,144,136,1440013644,27,71,Glenpoint,160,0
 Rocks,1,WOD_Rocks_Small_10,178,142,17810214279,120,97,Glenpoint,-1,0
 Rocks,1,WOD_Rocks_Medium_01,174,144,1748714456,112,81,Glenpoint,130,-17
@@ -2603,7 +2570,6 @@ Rocks,1,WOD_Rocks_Medium_05,171,131,17117132124,50,29,Glenpoint,27,-12
 Rocks,1,WOD_Rocks_Medium_06,187,128,1869712869,4,100,Glenpoint,37,-14
 Rocks,1,WOD_Rocks_Medium_08,223,138,22313139101,52,12,Glenpoint,-72,-7
 Rocks,1,WOD_Rocks_Medium_09,165,131,1656813183,104,115,Glenpoint,46,-2
-Rocks,1,WOD_Rocks_Medium_10,140,135,1408613568,128,110,Glenpoint,-139,-18
 Rocks,1,WOD_Rocks_Medium_11,224,147,2241514701,44,30,Glenpoint,4,-10
 Rocks,1,WOD_Rocks_Medium_12,212,95,2124995110,66,127,Glenpoint,97,-8
 Rocks,1,WOD_Rocks_Large_01,188,99,1871199973,36,118,Glenpoint,-74,-23
@@ -2627,7 +2593,6 @@ Rocks,1,WOD_Rocks_Medium_02,227,137,22611813701,22,33,Glenpoint,120,-27
 Rocks,1,WOD_Rocks_Medium_03,167,136,1677813619,111,52,Glenpoint,76,-13
 Rocks,1,WOD_Rocks_Medium_04,197,90,1961209024,34,66,Glenpoint,-134,-6
 Rocks,1,WOD_Rocks_Medium_05,144,99,144829951,115,84,Glenpoint,-140,-26
-Rocks,1,WOD_Rocks_Medium_06,153,71,1521117164,18,95,Glenpoint,117,-17
 Rocks,1,WOD_Rocks_Medium_07,196,142,19670143108,103,13,Glenpoint,98,-1
 Rocks,1,WOD_Rocks_Medium_09,222,138,2222913888,65,120,Glenpoint,135,-3
 Rocks,1,WOD_Rocks_Medium_11,225,128,2251312851,42,80,Glenpoint,86,-10
@@ -2635,7 +2600,6 @@ Rocks,1,WOD_Rocks_Medium_12,212,107,2124010705,57,22,Glenpoint,-77,-17
 Rocks,1,WOD_Rocks_Large_02,204,111,2040811104,45,41,Glenpoint,-127,-16
 Rocks,1,WOD_Rocks_Large_03,224,125,2247812514,117,53,Glenpoint,-31,-8
 Rocks,1,WOD_Rocks_Large_07,200,147,199104148113,20,29,Glenpoint,176,-15
-Rocks,1,WOD_Rocks_Large_08,206,90,206359073,77,115,Glenpoint,-118,-9
 Rocks,1,WOD_Rocks_Large_09,174,135,1746413532,102,66,Glenpoint,54,-13
 Rocks,1,WOD_Rocks_Small_01,202,88,202038819,27,43,Glenpoint,-67,0
 Rocks,1,WOD_Rocks_Small_02,174,99,1731139940,11,66,Glenpoint,-2,0
@@ -2783,7 +2747,6 @@ Rocks,1,WOD_Rocks_Large_02,150,85,150478579,84,116,Glenpoint,89,-13
 Rocks,1,WOD_Rocks_Large_05,225,138,22584139106,124,18,Glenpoint,-58,-21
 Rocks,1,WOD_Rocks_Large_07,174,119,1746812086,112,2,Glenpoint,89,-13
 Rocks,1,WOD_Rocks_Large_08,148,91,148319100,73,42,Glenpoint,-110,-4
-Rocks,1,WOD_Rocks_Small_01,192,145,1925514568,79,92,Glenpoint,156,0
 Rocks,1,WOD_Rocks_Small_02,146,144,14511514437,13,63,Glenpoint,-175,0
 Rocks,1,WOD_Rocks_Small_03,173,138,1730613895,28,114,Glenpoint,-16,0
 Rocks,1,WOD_Rocks_Small_04,222,135,2226113512,85,36,Glenpoint,-44,0
@@ -2926,7 +2889,6 @@ Rocks,1,WOD_Rocks_Large_03,198,139,19841140120,80,31,Glenpoint,-44,-27
 Rocks,1,WOD_Rocks_Large_04,202,132,2028613278,127,119,Glenpoint,-176,0
 Rocks,1,WOD_Rocks_Large_05,227,109,226101110119,13,31,Glenpoint,-78,-27
 Rocks,1,WOD_Rocks_Large_06,180,143,1806914349,108,88,Glenpoint,-37,-5
-Rocks,1,WOD_Rocks_Large_07,188,126,1885012603,94,47,Glenpoint,99,-22
 Rocks,1,WOD_Rocks_Large_09,219,105,21895106124,5,30,Glenpoint,1,-16
 Rocks,1,WOD_Rocks_Small_01,128,143,1285114304,75,28,Glenpoint,40,0
 Rocks,1,WOD_Rocks_Small_02,130,149,13013150118,39,16,Glenpoint,166,0
@@ -3031,7 +2993,6 @@ Rocks,1,WOD_Rocks_Small_10,190,130,1909513074,113,92,Glenpoint,-113,0
 Rocks,1,WOD_Rocks_Medium_03,146,141,1464614168,79,101,Glenpoint,-67,-25
 Rocks,1,WOD_Rocks_Medium_05,155,145,15579146101,112,6,Glenpoint,-171,-5
 Rocks,1,WOD_Rocks_Medium_07,203,144,2034714441,80,74,Glenpoint,-129,-30
-Rocks,1,WOD_Rocks_Medium_09,141,105,14010510540,13,72,Glenpoint,2,-28
 Rocks,1,WOD_Rocks_Medium_10,159,97,1581149899,28,13,Glenpoint,-103,-21
 Rocks,1,WOD_Rocks_Medium_11,139,134,1392713413,56,42,Glenpoint,-17,-18
 Rocks,1,WOD_Rocks_Large_01,202,91,202109284,55,1,Glenpoint,-166,-26
