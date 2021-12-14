@@ -1,2 +1,12 @@
-name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region
-Docks,2,WOD_Dock_Lighthouse_Large_01,754,278,65,80,7546527805,Lainlyn
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
+Penwall Derry Docks,2,WOD_Dock_Lighthouse_Large_01,90,847,243,100,68,84710024368,Wayrest,847.78125,-243.46875
+Tunmont Docks,2,WOD_Dock_Lighthouse_Large_01,180,975,274,40,56,9754027456,Wayrest,975.3125,-274.5625
+Antelibuton Docks,2,WOD_Dock_Lighthouse_Large_01,0,558,295,18,17,5581829517,Tigonus,558.140625,-295.8671875
+Westhead Moor Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,206,222,111,24,20611122224,,206.8671875,-222.8125
+Gothcroft Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,126,42,69,119,1266942119,Northmoor,126.5390625,-42.0703125
+Ripmore Docks,2,WOD_Dock_Lighthouse_Large_01,0,286,214,22,110,28622214110,Daggerfall,286.171875,-214.140625
+Daggerfall Docks,2,WOD_Dock_Medium_01,180,209,215,64,19,2096421519,Daggerfall,209.5,-215.8515625
+Daggerfall Docks,2,WOD_Dock_Large_01,180,210,215,73,17,2107321517,Daggerfall,210.5703125,-215.8671875
+Daggerfall Docks,2,WOD_Dock_Lighthouse_Large_01,180,211,215,104,51,21110421551,Daggerfall,211.8125,-215.6015625
+Aldwall Rock Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,400,183,23,118,40023183118,Anticlere,400.1796875,-183.078125
+Kalunnunu Docks,2,WOD_Dock_Lighthouse_Large_01,0,754,278,63,77,7546327877,Lainlyn,754.4921875,-278.3984375
