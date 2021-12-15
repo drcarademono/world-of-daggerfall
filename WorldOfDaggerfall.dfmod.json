@@ -480,7 +480,13 @@
         "Assets/Game/Mods/world-of-daggerfall/Locations/Dwynnen/Dwynnen_Bandits.csv",
         "Assets/Game/Mods/world-of-daggerfall/Locations/Abibon-Gora/Abibongora_Guardtowers_Roadside.csv",
         "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Rocks_Ocean.csv",
-        "Assets/Game/Mods/world-of-daggerfall/WorldOfDaggerfall.dfmod.json"
+        "Assets/Game/Mods/world-of-daggerfall/WorldOfDaggerfall.dfmod.json",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_HF_Dock_Lighthouse_Small_01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_HF_Dock_Small_01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_HF_Dock_Lighthouse_Large_01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_HF_Dock_Medium_01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_HF_Dock_Large_01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_HF_Dock_Lighthouse_Medium_01.txt"
     ],
     "Dependencies": [
         {
