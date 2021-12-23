@@ -1,6 +1,6 @@
 name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
-Penwall Derry Docks,"2",WOD_Dock_Lighthouse_Large_01,"90","847","243","13","68","8471324368",Wayrest,847.1015625,-243.46875
-Tunmont Docks,"2",WOD_Dock_Lighthouse_Large_01,"180","975","274","40","124","97540274124",Wayrest,975.3125,-274.03125
+Penwall Derry Docks,"2",WOD_Wayrest_Dock_Lighthouse_Large_01,"90","847","243","13","68","8471324368",Wayrest,847.1015625,-243.46875
+Tunmont Docks,"2",WOD_Wayrest_Dock_Lighthouse_Large_01,"180","975","274","40","124","97540274124",Wayrest,975.3125,-274.03125
 Docks,"2",WOD_Dock_Small_01,"-45","827","223","122","91","82712222391",Wayrest,827.953125,-223.2890625
 Docks,"2",WOD_Dock_Small_01,"180","840","226","64","124","84064226124",Wayrest,840.5,-226.03125
 Docks,"2",WOD_Dock_Small_01,"-135","847","230","119","119","847119230119",Wayrest,847.9296875,-230.0703125
@@ -8,12 +8,12 @@ Docks,"2",WOD_Dock_Lighthouse_Small_01,"-90","853","236","124","96","85312423696
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"0","841","239","31","10","8413123910",Wayrest,841.2421875,-239.921875
 Docks,"2",WOD_Dock_Small_01,"90","840","249","1","28","8400124928",Wayrest,840.0078125,-249.78125
 Docks,"2",WOD_Dock_Small_01,"180","836","248","74","123","83674248123",Wayrest,836.578125,-248.0390625
-Merwark Hollow Docks,"2",WOD_Dock_Lighthouse_Large_01,"-45","859","246","120","119","859120246119",Wayrest,859.9375,-246.0703125
-Wayrest Docks,"2",WOD_Dock_Lighthouse_Large_01,"180","858","246","83","123","85883246123",Wayrest,858.6484375,-246.0390625
+Merwark Hollow Docks,"2",WOD_Wayrest_Dock_Lighthouse_Large_01,"-45","859","246","120","119","859120246119",Wayrest,859.9375,-246.0703125
+Wayrest Docks,"2",WOD_Wayrest_Dock_Lighthouse_Large_01,"180","858","246","83","123","85883246123",Wayrest,858.6484375,-246.0390625
 Docks,"2",WOD_Dock_Small_01,"-90","874","250","122","52","87412225052",Wayrest,874.953125,-250.59375
 Docks,"2",WOD_Dock_Small_01,"-90","875","255","122","49","87512225549",Wayrest,875.953125,-255.6171875
-Eastwold Docks,"2",WOD_Dock_Lighthouse_Large_01,"-135","883","256","123","123","883123256123",Wayrest,883.9609375,-256.0390625
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"180","887","257","22","125","88722257125",Wayrest,887.171875,-257.0234375
+Eastwold Docks,"2",WOD_Wayrest_Dock_Lighthouse_Large_01,"-135","883","256","123","123","883123256123",Wayrest,883.9609375,-256.0390625
+Docks,"2",WOD_Wayrest_Dock_Lighthouse_Medium_01,"180","887","257","22","125","88722257125",Wayrest,887.171875,-257.0234375
 Docks,"2",WOD_Dock_Small_01,"-90","860","249","123","54","86012324954",Wayrest,860.9609375,-249.578125
 Docks,"2",WOD_Dock_Small_01,"135","864","251","6","124","86406251124",Wayrest,864.046875,-251.03125
 Docks,"2",WOD_Dock_Small_01,"180","866","250","65","124","86665250124",Wayrest,866.5078125,-250.03125
@@ -26,7 +26,7 @@ Docks,"2",WOD_Dock_Small_01,"-45","902","263","42","8","9024226308",Wayrest,902.
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"-45","899","265","63","59","8996326559",Wayrest,899.4921875,-265.5390625
 Docks,"2",WOD_Dock_Small_01,"180","923","262","27","120","92327262120",Wayrest,923.2109375,-262.0625
 Docks,"2",WOD_Dock_Small_01,"180","925","262","64","119","92564262119",Wayrest,925.5,-262.0703125
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"180","931","263","63","122","93163263122",Wayrest,931.4921875,-263.046875
+Docks,"2",WOD_Wayrest_Dock_Lighthouse_Medium_01,"180","931","263","63","122","93163263122",Wayrest,931.4921875,-263.046875
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","940","265","72","119","94072265119",Wayrest,940.5625,-265.0703125
 Docks,"2",WOD_Dock_Small_01,"180","942","265","76","123","94276265123",Wayrest,942.59375,-265.0390625
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","956","266","64","123","95664266123",Wayrest,956.5,-266.0390625
@@ -67,20 +67,20 @@ Docks,"2",WOD_Dock_Lighthouse_Small_01,"90","336","196","3","36","3360319636",Sh
 Docks,"2",WOD_Dock_Small_01,"180","338","194","84","127","33884194127",Shalgora,338.65625,-194.0078125
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"0","314","386","31","5","3143138605",Sentinel,314.2421875,-386.9609375
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"-45","320","381","120","5","32012038105",Sentinel,320.9375,-381.9609375
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","329","375","104","8","32910437508",Sentinel,329.8125,-375.9375
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"0","329","375","104","8","32910437508",Sentinel,329.8125,-375.9375
 Docks,"2",WOD_HF_Dock_Small_01,"-90","330","371","125","99","33012537199",Sentinel,330.9765625,-371.2265625
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","346","359","115","52","34611535952",Sentinel,346.8984375,-359.59375
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"0","346","359","115","52","34611535952",Sentinel,346.8984375,-359.59375
 Docks,"2",WOD_HF_Dock_Medium_01,"180","347","360","63","120","34763360120",Sentinel,347.4921875,-360.0625
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","347","356","24","3","3472435603",Sentinel,347.1875,-356.9765625
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","355","357","28","4","3552835704",Sentinel,355.21875,-357.96875
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"-90","369","350","120","111","369120350111",Sentinel,369.9375,-350.1328125
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"0","347","356","24","3","3472435603",Sentinel,347.1875,-356.9765625
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"0","355","357","28","4","3552835704",Sentinel,355.21875,-357.96875
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"-90","369","350","120","111","369120350111",Sentinel,369.9375,-350.1328125
 Docks,"2",WOD_HF_Dock_Small_01,"0","372","347","84","1","3728434701",Sentinel,372.65625,-347.9921875
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","375","346","29","4","3752934604",Sentinel,375.2265625,-346.96875
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"0","375","346","29","4","3752934604",Sentinel,375.2265625,-346.96875
 Docks,"2",WOD_HF_Dock_Small_01,"0","383","344","79","4","3837934404",Sentinel,383.6171875,-344.96875
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"0","387","343","27","4","3872734304",Sentinel,387.2109375,-343.96875
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"0","392","340","60","8","3926034008",Sentinel,392.46875,-340.9375
 Sentinel Docks,"2",WOD_HF_Dock_Medium_01,"45","397","341","35","15","3973534115",Sentinel,397.2734375,-341.8828125
-Sentinel Docks,"2",WOD_HF_Dock_Lighthouse_Large_01,"0","398","341","13","5","3981334105",Sentinel,398.1015625,-341.9609375
+Sentinel Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Large_01,"0","398","341","13","5","3981334105",Sentinel,398.1015625,-341.9609375
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"180","396","349","64","123","39664349123",Sentinel,396.5,-349.0390625
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"180","392","352","67","118","39267352118",Sentinel,392.5234375,-352.078125
 Docks,"2",WOD_HF_Dock_Small_01,"90","388","353","5","58","3880535358",Sentinel,388.0390625,-353.546875
@@ -89,15 +89,15 @@ Docks,"2",WOD_HF_Dock_Small_01,"135","380","366","6","124","38006366124",Sentine
 Docks,"2",WOD_HF_Dock_Small_01,"45","381","368","10","9","3811036809",Sentinel,381.078125,-368.9296875
 Docks,"2",WOD_HF_Dock_Small_01,"0","385","368","60","5","3856036805",Sentinel,385.46875,-368.9609375
 Docks,"2",WOD_HF_Dock_Small_01,"0","388","368","67","1","3886736801",Sentinel,388.5234375,-368.9921875
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","407","372","61","3","4076137203",Sentinel,407.4765625,-372.9765625
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","415","372","63","3","4156337203",Sentinel,415.4921875,-372.9765625
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"0","407","372","61","3","4076137203",Sentinel,407.4765625,-372.9765625
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"0","415","372","63","3","4156337203",Sentinel,415.4921875,-372.9765625
 Docks,"2",WOD_HF_Dock_Small_01,"0","419","373","79","1","4197937301",Sentinel,419.6171875,-373.9921875
 Docks,"2",WOD_HF_Dock_Small_01,"-45","421","373","124","81","42112437381",Sentinel,421.96875,-373.3671875
 Docks,"2",WOD_HF_Dock_Small_01,"0","425","372","29","9","4252937209",Sentinel,425.2265625,-372.9296875
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"0","427","372","65","3","4276537203",Sentinel,427.5078125,-372.9765625
 Docks,"2","135","0","438","372","122","84","43812237284",Sentinel,438.953125,-372.34375
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"0","441","369","59","4","4415936904",Sentinel,441.4609375,-369.96875
-Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"-135","403","328","123","124","403123328124",Sentinel,403.9609375,-328.03125
+Docks,"2",WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,"-135","403","328","123","124","403123328124",Sentinel,403.9609375,-328.03125
 Docks,"2",WOD_HF_Dock_Small_01,"180","409","329","67","124","40967329124",Sentinel,409.5234375,-329.03125
 Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"45","778","283","124","82","77812428382",Satakalaam,778.96875,-283.359375
 Docks,"2",WOD_HF_Dock_Small_01,"0","782","282","65","6","7826528206",Satakalaam,782.5078125,-282.953125
@@ -189,14 +189,14 @@ Docks,"2",WOD_Dock_Lighthouse_Small_01,"-90","665","127","124","70","66512412770
 Docks,"2",WOD_Dock_Small_01,"-135","671","125","124","123","671124125123",Koegria,671.96875,-125.0390625
 Docks,"2",WOD_HF_Dock_Lighthouse_Small_01,"0","202","434","93","14","2029343414",Kairou,202.7265625,-434.890625
 Docks,"2",WOD_Dock_Small_01,"-45","624","150","125","81","62412515081",Isle of Balfiera,624.9765625,-150.3671875
-Docks,"2",WOD_Dock_Lighthouse_Small_01,,"631","161","28","8","6312816108",Isle of Balfiera,631.21875,-161.9375
+Docks,"2",WOD_Balfiera_Dock_Lighthouse_Small_01,,"631","161","28","8","6312816108",Isle of Balfiera,631.21875,-161.9375
 Docks,"2",WOD_Dock_Small_01,"-135","628","165","127","106","628127165106",Isle of Balfiera,628.9921875,-165.171875
 Docks,"2",WOD_Dock_Small_01,,"640","168","73","12","6407316812",Isle of Balfiera,640.5703125,-168.90625
-Docks,"2",WOD_Dock_Lighthouse_Small_01,"-90","643","166","122","88","64312216688",Isle of Balfiera,643.953125,-166.3125
+Docks,"2",WOD_Balfiera_Dock_Lighthouse_Small_01,"-90","643","166","122","88","64312216688",Isle of Balfiera,643.953125,-166.3125
 Docks,"2",WOD_Dock_Small_01,"-180","654","171","73","122","65473171122",Isle of Balfiera,654.5703125,-171.046875
 Docks,"2",WOD_Dock_Small_01,"135","726","234","9","123","72609234123",Isle of Balfiera,726.0703125,-234.0390625
-Docks,"2",WOD_Dock_Lighthouse_Small_01,"-90","670","204","119","111","670119204111",Isle of Balfiera,670.9296875,-204.1328125
-Docks,"2",WOD_Dock_Lighthouse_Small_01,"90","659","194","13","46","6591319446",Isle of Balfiera,659.1015625,-194.640625
+Docks,"2",WOD_Balfiera_Dock_Lighthouse_Small_01,"-90","670","204","119","111","670119204111",Isle of Balfiera,670.9296875,-204.1328125
+Docks,"2",WOD_Balfiera_Dock_Lighthouse_Small_01,"90","659","194","13","46","6591319446",Isle of Balfiera,659.1015625,-194.640625
 Docks,"2",WOD_Dock_Small_01,"0","111","51","54","120","1115451120",Glenumbra Moors,111.421875,-51.0625
 Docks,"2",WOD_Dock_Small_01,"-45","101","53","55","73","101555373",Glenumbra Moors,101.4296875,-53.4296875
 Docks,"2",WOD_Dock_Medium_01,"0","79","72","59","32","79597232",Glenumbra Moors,79.4609375,-72.75
@@ -208,12 +208,12 @@ Docks,"2",WOD_Dock_Small_01,"-90","512","149","125","61","51212514961",Dwynnen,5
 Docks,"2",WOD_Dock_Small_01,"180","535","144","68","123","53568144123",Dwynnen,535.53125,-144.0390625
 Docks,"2",WOD_Dock_Small_01,"180","542","144","69","123","54269144123",Dwynnen,542.5390625,-144.0390625
 Docks,"2",WOD_Dock_Small_01,"90","548","139","4","68","5480413968",Dwynnen,548.03125,-139.46875
-Docks,"2",WOD_Dock_Lighthouse_Small_01,"45","546","138","3","4","5460313804",Dwynnen,546.0234375,-138.96875
+Docks,"2",WOD_Dwynnen_Dock_Lighthouse_Small_01,"45","546","138","3","4","5460313804",Dwynnen,546.0234375,-138.96875
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"0","597","284","32","12","5973228412",Dragontail Mountains,597.25,-284.90625
-Ripmore Docks,"2",WOD_Dock_Lighthouse_Large_01,"0","286","214","22","110","28622214110",Daggerfall,286.171875,-214.140625
+Ripmore Docks,"2",WOD_Daggerfall_Dock_Lighthouse_Large_01,"0","286","214","22","110","28622214110",Daggerfall,286.171875,-214.140625
 Daggerfall Docks,"2",WOD_Dock_Medium_01,"180","209","215","61","84","2096121584",Daggerfall,209.4765625,-215.34375
 Daggerfall Docks,"2",WOD_Dock_Large_01,"180","210","215","70","82","2107021582",Daggerfall,210.546875,-215.359375
-Daggerfall Docks,"2",WOD_Dock_Lighthouse_Large_01,"180","211","215","102","116","211102215116",Daggerfall,211.796875,-215.09375
+Daggerfall Docks,"2",WOD_Daggerfall_Dock_Lighthouse_Large_01,"180","211","215","102","116","211102215116",Daggerfall,211.796875,-215.09375
 Docks,"2",WOD_Dock_Small_01,"180","98","162","63","0","986316200",Daggerfall,98.4921875,-163
 Docks,"2",WOD_Dock_Small_01,"-90","88","174","127","59","8812717459",Daggerfall,88.9921875,-174.5390625
 Docks,"2",WOD_Dock_Small_01,"-90","96","189","127","59","9612718959",Daggerfall,96.9921875,-189.5390625
@@ -224,8 +224,8 @@ Docks,"2",WOD_Dock_Small_01,"180","143","214","63","127","14363214127",Daggerfal
 Docks,"2",WOD_Dock_Small_01,"180","151","216","73","127","15173216127",Daggerfall,151.5703125,-216.0078125
 Docks,"2",WOD_Dock_Small_01,"180","154","215","65","127","15465215127",Daggerfall,154.5078125,-215.0078125
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","171","212","114","127","171114212127",Daggerfall,171.890625,-212.0078125
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"0","172","220","123","0","17212322000",Daggerfall,172.9609375,-221
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"-90","159","221","127","101","159127221101",Daggerfall,159.9921875,-221.2109375
+Docks,"2",WOD_Daggerfall_Dock_Lighthouse_Medium_01,"0","172","220","123","0","17212322000",Daggerfall,172.9609375,-221
+Docks,"2",WOD_Daggerfall_Dock_Lighthouse_Medium_01,"-90","159","221","127","101","159127221101",Daggerfall,159.9921875,-221.2109375
 Docks,"2",WOD_Dock_Medium_01,"180","169","225","64","3","1696422503",Daggerfall,169.5,-225.9765625
 Docks,"2",WOD_Dock_Lighthouse_01,"180","171","225","64","124","17164225124",Daggerfall,171.5,-225.03125
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","173","225","65","125","17365225125",Daggerfall,173.5078125,-225.0234375
@@ -233,7 +233,7 @@ Docks,"2",WOD_Dock_Medium_01,"180","178","225","69","127","17869225127",Daggerfa
 Docks,"2",WOD_Dock_Small_01,"180","180","225","67","127","18067225127",Daggerfall,180.5234375,-225.0078125
 Docks,"2",WOD_Dock_Small_01,"180","191","225","50","125","19150225125",Daggerfall,191.390625,-225.0234375
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","193","225","70","127","19370225127",Daggerfall,193.546875,-225.0078125
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"90","199","217","4","67","1990421767",Daggerfall,199.03125,-217.4765625
+Docks,"2",WOD_Daggerfall_Dock_Lighthouse_Medium_01,"90","199","217","4","67","1990421767",Daggerfall,199.03125,-217.4765625
 Docks,"2",WOD_Dock_Small_01,"-90","204","226","123","49","20412322649",Daggerfall,204.9609375,-226.6171875
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","209","229","51","124","20951229124",Daggerfall,209.3984375,-229.03125
 Docks,"2",WOD_Dock_Small_01,"90","216","223","3","59","2160322359",Daggerfall,216.0234375,-223.5390625
@@ -246,12 +246,12 @@ Docks,"2",WOD_Dock_Lighthouse_Small_01,"45","275","213","8","118","27508213118",
 Docks,"2",WOD_Dock_Small_01,"180","279","214","65","124","27965214124",Daggerfall,279.5078125,-214.03125
 Docks,"2",WOD_Dock_Small_01,"180","284","216","74","124","28474216124",Daggerfall,284.578125,-216.03125
 Docks,"2",WOD_Dock_Medium_01,"-90","293","214","120","58","29312021458",Daggerfall,293.9375,-214.546875
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"90","298","214","3","63","2980321463",Daggerfall,298.0234375,-214.5078125
+Docks,"2",WOD_Daggerfall_Dock_Lighthouse_Medium_01,"90","298","214","3","63","2980321463",Daggerfall,298.0234375,-214.5078125
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"45","306","213","5","123","30605213123",Daggerfall,306.0390625,-213.0390625
 Docks,"2",WOD_Dock_Small_01,"180","207","215","40","123","20740215123",Daggerfall,207.3125,-215.0390625
 Docks,"2",WOD_Dock_Small_01,"180","140","242","67","125","14067242125",Daggerfall,140.5234375,-242.0234375
 Docks,"2",WOD_Dock_Small_01,"180","146","240","82","125","14682240125",Daggerfall,146.640625,-240.0234375
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"180","144","240","68","124","14468240124",Daggerfall,144.53125,-240.03125
+Docks,"2",WOD_Daggerfall_Dock_Lighthouse_Medium_01,"180","144","240","68","124","14468240124",Daggerfall,144.53125,-240.03125
 Docks,"2",WOD_Dock_Medium_01,"0","143","235","58","5","1435823505",Daggerfall,143.453125,-235.9609375
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"0","146","234","67","3","1466723403",Daggerfall,146.5234375,-234.9765625
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","558","138","63","125","55863138125",Bhoriane,558.4921875,-138.0234375
@@ -275,20 +275,20 @@ Docks,"2",WOD_Dock_Small_01,"135","132","261","3","124","13203261124",Betony,132
 Docks,"2",WOD_Dock_Small_01,"-135","110","273","127","127","110127273127",Betony,110.9921875,-273.0078125
 Docks,"2",WOD_Dock_Small_01,"-90","110","267","127","99","11012726799",Betony,110.9921875,-267.2265625
 Docks,"2",WOD_HF_Dock_Lighthouse_Medium_01,"0","449","363","106","4","44910636304",Ayasofya,449.828125,-363.96875
-Aldwall Rock Docks,"2",WOD_Dock_Lighthouse_Medium_01,"-90","400","183","125","104","400125183104",Anticlere,400.9765625,-183.1875
+Aldwall Rock Docks,"2",WOD_Anticlere_Dock_Lighthouse_Medium_01,"-90","400","183","125","104","400125183104",Anticlere,400.9765625,-183.1875
 Docks,"2",WOD_Dock_Small_01,"90","352","184","4","58","3520418458",Anticlere,352.03125,-184.546875
 Docks,"2",WOD_Dock_Small_01,"180","369","173","76","123","36976173123",Anticlere,369.59375,-173.0390625
 Docks,"2",WOD_Dock_Small_01,"180","373","173","79","120","37379173120",Anticlere,373.6171875,-173.0625
 Docks,"2",WOD_Dock_Small_01,"180","377","172","67","124","37767172124",Anticlere,377.5234375,-172.03125
 Docks,"2",WOD_Dock_Small_01,"180","381","172","70","123","38170172123",Anticlere,381.546875,-172.0390625
 Docks,"2",WOD_Dock_Medium_01,"180","401","176","8","125","40108176125",Anticlere,401.0625,-176.0234375
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"180","406","188","68","125","40668188125",Anticlere,406.53125,-188.0234375
+Docks,"2",WOD_Anticlere_Dock_Lighthouse_Medium_01,"180","406","188","68","125","40668188125",Anticlere,406.53125,-188.0234375
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"180","416","183","68","127","41668183127",Anticlere,416.53125,-183.0078125
-Docks,"2",WOD_Dock_Lighthouse_Large_01,"0","353","194","68","6","3536819406",Anticlere,353.53125,-194.953125
+Docks,"2",WOD_Anticlere_Dock_Lighthouse_Large_01,"0","353","194","68","6","3536819406",Anticlere,353.53125,-194.953125
 Docks,"2",WOD_Dock_Small_01,"180","356","201","74","122","35674201122",Anticlere,356.578125,-201.046875
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"0","358","192","58","1","3585819201",Anticlere,358.453125,-192.9921875
+Docks,"2",WOD_Anticlere_Dock_Lighthouse_Medium_01,"0","358","192","58","1","3585819201",Anticlere,358.453125,-192.9921875
 Docks,"2",WOD_Dock_Lighthouse_Small_01,"0","361","191","68","1","3616819101",Anticlere,361.53125,-191.9921875
-Docks,"2",WOD_Dock_Lighthouse_Medium_01,"180","366","198","70","125","36670198125",Anticlere,366.546875,-198.0234375
+Docks,"2",WOD_Anticlere_Dock_Lighthouse_Medium_01,"180","366","198","70","125","36670198125",Anticlere,366.546875,-198.0234375
 Docks,"2",WOD_Dock_Small_01,"135","420","182","4","125","42004182125",Anticlere,420.03125,-182.0234375
 Docks,"2",WOD_Dock_Small_01,"135","422","181","4","124","42204181124",Anticlere,422.03125,-181.03125
 Docks,"2",WOD_Dock_Small_01,"180","430","176","73","123","43073176123",Anticlere,430.5703125,-176.0390625
