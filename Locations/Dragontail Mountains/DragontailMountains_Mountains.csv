@@ -2,10 +2,8 @@ name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,rotYaxis,heig
 Mountain,1,WOD_Mountain_01,588,311,58,37,5885831137,Dragontail Mountains,-65,-26
 Mountain,1,WOD_Mountain_02,592,312,22,27,5922231227,Dragontail Mountains,-165,-44
 Mountain,1,WOD_Mountain_03,590,312,67,55,5906731255,Dragontail Mountains,-23,-2
-Mountain,1,WOD_Mountain_04,590,307,18,47,5901830747,Dragontail Mountains,177,0
 Mountain,1,WOD_Mountain_05,594,310,96,101,59496310101,Dragontail Mountains,108,-41
 Mountain,1,WOD_Mountain_06,594,304,105,90,59410530490,Dragontail Mountains,17,-82
-Mountain,1,WOD_Mountain_07,597,302,19,65,5971930265,Dragontail Mountains,96,-69
 Mountain,1,WOD_Mountain_08,599,304,63,101,59963304101,Dragontail Mountains,67,-11
 Mountain,1,WOD_Mountain_09,600,298,13,9,6001329809,Dragontail Mountains,23,-54
 Mountain,1,WOD_Mountain_01,592,298,78,104,59278298104,Dragontail Mountains,-5,-60
@@ -13,7 +11,6 @@ Mountain,1,WOD_Mountain_02,592,295,91,119,59291295119,Dragontail Mountains,47,-8
 Mountain,1,WOD_Mountain_03,601,294,1,1,6010129401,Dragontail Mountains,151,-38
 Mountain,1,WOD_Mountain_04,602,297,10,55,6021029755,Dragontail Mountains,16,-58
 Mountain,1,WOD_Mountain_05,599,288,28,108,59928288108,Dragontail Mountains,172,-99
-Mountain,1,WOD_Mountain_06,602,285,119,127,602119285127,Dragontail Mountains,119,-83
 Mountain,1,WOD_Mountain_07,607,287,68,23,6076828723,Dragontail Mountains,10,-70
 Mountain,1,WOD_Mountain_08,608,291,32,119,60832291119,Dragontail Mountains,13,-52
 Mountain,1,WOD_Mountain_09,604,290,76,95,6047629095,Dragontail Mountains,142,-5
@@ -59,7 +56,6 @@ Mountain,1,WOD_Mountain_03,632,300,68,55,6326830055,Dragontail Mountains,-103,-2
 Mountain,1,WOD_Mountain_04,628,301,40,32,6284030132,Dragontail Mountains,-108,-99
 Mountain,1,WOD_Mountain_05,626,302,83,67,6268330267,Dragontail Mountains,-4,0
 Mountain,1,WOD_Mountain_06,622,301,8,5,6220830105,Dragontail Mountains,-94,-77
-Mountain,1,WOD_Mountain_07,621,300,44,47,6214430047,Dragontail Mountains,-180,-84
 Mountain,1,WOD_Mountain_08,620,303,105,10,62010530310,Dragontail Mountains,112,-1
 Mountain,1,WOD_Mountain_09,619,305,40,83,6194030583,Dragontail Mountains,-53,-98
 Mountain,1,WOD_Mountain_01,622,304,69,29,6226930429,Dragontail Mountains,16,-39
@@ -104,7 +100,6 @@ Mountain,1,WOD_Mountain_03,673,325,88,110,67388325110,Dragontail Mountains,73,-4
 Mountain,1,WOD_Mountain_04,669,326,88,40,6698832640,Dragontail Mountains,35,-88
 Mountain,1,WOD_Mountain_05,661,320,91,73,6619132073,Dragontail Mountains,-64,-63
 Mountain,1,WOD_Mountain_06,661,319,73,17,6617331917,Dragontail Mountains,-154,-10
-Mountain,1,WOD_Mountain_07,644,309,73,55,6447330955,Dragontail Mountains,-83,-68
 Mountain,1,WOD_Mountain_08,647,313,86,56,6478631356,Dragontail Mountains,-16,-23
 Mountain,1,WOD_Mountain_09,641,314,93,118,64193314118,Dragontail Mountains,146,-39
 Mountain,1,WOD_Mountain_01,636,314,19,105,63619314105,Dragontail Mountains,132,-29
@@ -112,7 +107,6 @@ Mountain,1,WOD_Mountain_02,633,313,93,104,63393313104,Dragontail Mountains,136,-
 Mountain,1,WOD_Mountain_03,629,315,120,111,629120315111,Dragontail Mountains,68,-10
 Mountain,1,WOD_Mountain_04,627,316,91,17,6279131617,Dragontail Mountains,-72,-89
 Mountain,1,WOD_Mountain_05,628,315,3,69,6280331569,Dragontail Mountains,-119,-12
-Mountain,1,WOD_Mountain_06,625,316,79,78,6257931678,Dragontail Mountains,173,-95
 Mountain,1,WOD_Mountain_07,615,314,38,86,6153831486,Dragontail Mountains,97,-7
 Mountain,1,WOD_Mountain_08,613,318,32,72,6133231872,Dragontail Mountains,88,-10
 Mountain,1,WOD_Mountain_09,613,319,83,101,61383319101,Dragontail Mountains,-60,-46
@@ -135,12 +129,10 @@ Mountain,1,WOD_Mountain_07,594,318,90,61,5949031861,Dragontail Mountains,109,-30
 Mountain,1,WOD_Mountain_08,588,317,122,113,588122317113,Dragontail Mountains,174,-51
 Mountain,1,WOD_Mountain_09,590,325,9,69,5900932569,Dragontail Mountains,149,-12
 Mountain,1,WOD_Mountain_01,592,324,59,52,5925932452,Dragontail Mountains,53,-45
-Mountain,1,WOD_Mountain_02,596,327,19,78,5961932778,Dragontail Mountains,80,-38
 Mountain,1,WOD_Mountain_03,599,324,100,40,59910032440,Dragontail Mountains,-19,-54
 Mountain,1,WOD_Mountain_04,592,328,63,24,5926332824,Dragontail Mountains,89,-29
 Mountain,1,WOD_Mountain_05,593,334,1,90,5930133490,Dragontail Mountains,-130,-64
 Mountain,1,WOD_Mountain_06,591,333,19,20,5911933320,Dragontail Mountains,-17,-34
-Mountain,1,WOD_Mountain_07,598,331,17,19,5981733119,Dragontail Mountains,-33,-75
 Mountain,1,WOD_Mountain_08,601,331,78,74,6017833174,Dragontail Mountains,-178,-8
 Mountain,1,WOD_Mountain_09,603,328,72,8,6037232808,Dragontail Mountains,93,-94
 Mountain,1,WOD_Mountain_01,604,334,15,113,60415334113,Dragontail Mountains,-130,-89
@@ -149,7 +141,6 @@ Mountain,1,WOD_Mountain_03,619,331,26,55,6192633155,Dragontail Mountains,-150,-8
 Mountain,1,WOD_Mountain_04,627,329,50,100,62750329100,Dragontail Mountains,54,-56
 Mountain,1,WOD_Mountain_05,633,330,68,82,6336833082,Dragontail Mountains,54,-97
 Mountain,1,WOD_Mountain_06,631,324,110,111,631110324111,Dragontail Mountains,112,-39
-Mountain,1,WOD_Mountain_07,636,327,54,87,6365432787,Dragontail Mountains,84,-93
 Mountain,1,WOD_Mountain_08,637,330,45,18,6374533018,Dragontail Mountains,-58,-9
 Mountain,1,WOD_Mountain_09,636,335,124,97,63612433597,Dragontail Mountains,31,-31
 Mountain,1,WOD_Mountain_01,636,332,109,19,63610933219,Dragontail Mountains,-77,-92
@@ -164,14 +155,12 @@ Mountain,1,WOD_Mountain_09,625,334,28,65,6252833465,Dragontail Mountains,116,-32
 Mountain,1,WOD_Mountain_01,622,339,35,118,62235339118,Dragontail Mountains,76,-16
 Mountain,1,WOD_Mountain_02,618,334,6,9,6180633409,Dragontail Mountains,75,-70
 Mountain,1,WOD_Mountain_03,618,333,82,45,6188233345,Dragontail Mountains,-67,-48
-Mountain,1,WOD_Mountain_04,616,339,60,74,6166033974,Dragontail Mountains,-57,-38
 Mountain,1,WOD_Mountain_05,613,338,83,56,6138333856,Dragontail Mountains,-134,-74
 Mountain,1,WOD_Mountain_06,614,335,78,18,6147833518,Dragontail Mountains,45,-62
 Mountain,1,WOD_Mountain_07,609,339,70,58,6097033958,Dragontail Mountains,-31,-19
 Mountain,1,WOD_Mountain_08,610,343,113,58,61011334358,Dragontail Mountains,109,-47
 Mountain,1,WOD_Mountain_09,618,344,125,15,61812534415,Dragontail Mountains,104,-28
 Mountain,1,WOD_Mountain_01,638,342,125,82,63812534282,Dragontail Mountains,-172,-75
-Mountain,1,WOD_Mountain_02,644,339,8,36,6440833936,Dragontail Mountains,-74,-66
 Mountain,1,WOD_Mountain_03,643,328,92,90,6439232890,Dragontail Mountains,59,0
 Mountain,1,WOD_Mountain_04,640,323,115,29,64011532329,Dragontail Mountains,3,-60
 Mountain,1,WOD_Mountain_05,646,328,110,73,64611032873,Dragontail Mountains,79,-81
@@ -215,9 +204,7 @@ Mountain,1,WOD_Mountain_06,648,341,116,22,64811634122,Dragontail Mountains,-162,
 Mountain,1,WOD_Mountain_07,655,345,86,28,6558634528,Dragontail Mountains,-128,-1
 Mountain,1,WOD_Mountain_08,659,347,90,105,65990347105,Dragontail Mountains,112,-53
 Mountain,1,WOD_Mountain_09,665,349,65,88,6656534988,Dragontail Mountains,45,-39
-Mountain,1,WOD_Mountain_01,646,346,56,38,6465634638,Dragontail Mountains,28,-51
 Mountain,1,WOD_Mountain_02,655,350,19,12,6551935012,Dragontail Mountains,146,-61
-Mountain,1,WOD_Mountain_03,658,353,109,118,658109353118,Dragontail Mountains,-1,-9
 Mountain,1,WOD_Mountain_04,598,338,20,47,5982033847,Dragontail Mountains,42,-80
 Mountain,1,WOD_Mountain_05,602,340,50,97,6025034097,Dragontail Mountains,-127,-21
 Mountain,1,WOD_Mountain_06,604,342,19,4,6041934204,Dragontail Mountains,-99,-45
@@ -242,8 +229,6 @@ Mountain,1,WOD_Mountain_06,616,365,32,123,61632365123,Dragontail Mountains,-8,-7
 Mountain,1,WOD_Mountain_07,619,362,29,84,6192936284,Dragontail Mountains,-105,-17
 Mountain,1,WOD_Mountain_08,623,358,26,13,6232635813,Dragontail Mountains,18,-64
 Mountain,1,WOD_Mountain_09,633,344,63,50,6336334450,Dragontail Mountains,132,-90
-Mountain,1,WOD_Mountain_01,633,350,116,51,63311635051,Dragontail Mountains,26,-80
-Mountain,1,WOD_Mountain_02,639,347,19,15,6391934715,Dragontail Mountains,-34,-45
 Mountain,1,WOD_Mountain_03,639,349,45,125,63945349125,Dragontail Mountains,-99,-45
 Mountain,1,WOD_Mountain_04,637,353,127,40,63712735340,Dragontail Mountains,8,-85
 Mountain,1,WOD_Mountain_05,642,355,56,22,6425635522,Dragontail Mountains,55,-94
@@ -262,7 +247,6 @@ Mountain,1,WOD_Mountain_08,654,359,3,3,6540335903,Dragontail Mountains,81,-77
 Mountain,1,WOD_Mountain_09,660,357,113,128,660113357128,Dragontail Mountains,-96,-44
 Mountain,1,WOD_Mountain_01,666,359,44,95,6664435995,Dragontail Mountains,136,-2
 Mountain,1,WOD_Mountain_02,660,361,82,101,66082361101,Dragontail Mountains,-90,-23
-Mountain,1,WOD_Mountain_03,662,354,123,0,66212335400,Dragontail Mountains,50,-11
 Mountain,1,WOD_Mountain_04,668,349,86,12,6688634912,Dragontail Mountains,145,-32
 Mountain,1,WOD_Mountain_05,672,352,73,128,67273352128,Dragontail Mountains,147,-93
 Mountain,1,WOD_Mountain_06,667,357,33,24,6673335724,Dragontail Mountains,-157,-56
@@ -288,7 +272,6 @@ Mountain,1,WOD_Mountain_07,669,334,99,3,6699933403,Dragontail Mountains,156,-76
 Mountain,1,WOD_Mountain_08,667,338,95,127,66795338127,Dragontail Mountains,-77,-54
 Mountain,1,WOD_Mountain_09,689,341,101,46,68910134146,Dragontail Mountains,150,-10
 Mountain,1,WOD_Mountain_01,688,343,55,42,6885534342,Dragontail Mountains,-11,-65
-Mountain,1,WOD_Mountain_02,694,341,69,109,69469341109,Dragontail Mountains,27,-33
 Mountain,1,WOD_Mountain_03,679,347,84,40,6798434740,Dragontail Mountains,31,-86
 Mountain,1,WOD_Mountain_04,678,346,122,28,67812234628,Dragontail Mountains,107,-35
 Mountain,1,WOD_Mountain_05,682,346,9,72,6820934672,Dragontail Mountains,46,-13
@@ -326,7 +309,6 @@ Mountain,1,WOD_Mountain_09,636,370,88,17,6368837017,Dragontail Mountains,145,-62
 Mountain,1,WOD_Mountain_01,635,375,41,10,6354137510,Dragontail Mountains,-124,-63
 Mountain,1,WOD_Mountain_02,632,370,3,73,6320337073,Dragontail Mountains,-7,-25
 Mountain,1,WOD_Mountain_03,628,368,104,24,62810436824,Dragontail Mountains,-118,-22
-Mountain,1,WOD_Mountain_04,623,364,31,38,6233136438,Dragontail Mountains,-101,-26
 Mountain,1,WOD_Mountain_05,620,369,22,114,62022369114,Dragontail Mountains,134,-84
 Mountain,1,WOD_Mountain_06,623,373,13,93,6231337393,Dragontail Mountains,-101,-7
 Mountain,1,WOD_Mountain_07,664,365,120,120,664120365120,Dragontail Mountains,-124,-69
@@ -334,7 +316,6 @@ Mountain,1,WOD_Mountain_08,663,366,26,123,66326366123,Dragontail Mountains,-45,-
 Mountain,1,WOD_Mountain_09,666,364,90,114,66690364114,Dragontail Mountains,32,-48
 Mountain,1,WOD_Mountain_01,671,369,31,58,6713136958,Dragontail Mountains,-162,-8
 Mountain,1,WOD_Mountain_02,670,363,29,5,6702936305,Dragontail Mountains,175,-97
-Mountain,1,WOD_Mountain_03,669,359,51,45,6695135945,Dragontail Mountains,-67,-47
 Mountain,1,WOD_Mountain_04,673,353,13,5,6731335305,Dragontail Mountains,149,-26
 Mountain,1,WOD_Mountain_05,676,366,109,119,676109366119,Dragontail Mountains,-61,-84
 Mountain,1,WOD_Mountain_06,677,367,63,37,6776336737,Dragontail Mountains,-56,-81
@@ -359,16 +340,13 @@ Mountain,1,WOD_Mountain_06,644,382,41,123,64441382123,Dragontail Mountains,-6,-2
 Mountain,1,WOD_Mountain_07,639,376,120,5,63912037605,Dragontail Mountains,169,-17
 Mountain,1,WOD_Mountain_08,680,359,28,114,68028359114,Dragontail Mountains,52,-87
 Mountain,1,WOD_Mountain_09,685,360,61,82,6856136082,Dragontail Mountains,-140,-24
-Mountain,1,WOD_Mountain_01,660,378,61,70,6606137870,Dragontail Mountains,-22,-62
 Mountain,1,WOD_Mountain_02,659,383,119,56,65911938356,Dragontail Mountains,32,-96
 Mountain,1,WOD_Mountain_03,670,383,28,90,6702838390,Dragontail Mountains,42,0
 Mountain,1,WOD_Mountain_04,671,382,1,56,6710138256,Dragontail Mountains,-81,-6
 Mountain,1,WOD_Mountain_05,675,381,104,72,67510438172,Dragontail Mountains,175,-42
 Mountain,1,WOD_Mountain_06,678,381,99,104,67899381104,Dragontail Mountains,-153,-83
-Mountain,1,WOD_Mountain_07,680,376,76,55,6807637655,Dragontail Mountains,-14,-37
 Mountain,1,WOD_Mountain_08,684,377,29,37,6842937737,Dragontail Mountains,-86,-77
 Mountain,1,WOD_Mountain_09,682,382,5,127,68205382127,Dragontail Mountains,150,-9
-Mountain,1,WOD_Mountain_01,685,374,81,86,6858137486,Dragontail Mountains,96,-24
 Mountain,1,WOD_Mountain_02,685,375,92,12,6859237512,Dragontail Mountains,-169,-75
 Mountain,1,WOD_Mountain_03,688,375,90,35,6889037535,Dragontail Mountains,-106,-10
 Mountain,1,WOD_Mountain_04,689,366,1,50,6890136650,Dragontail Mountains,-154,-50
@@ -379,7 +357,6 @@ Mountain,1,WOD_Mountain_08,694,366,20,50,6942036650,Dragontail Mountains,-114,-2
 Mountain,1,WOD_Mountain_09,695,359,125,93,69512535993,Dragontail Mountains,79,-88
 Mountain,1,WOD_Mountain_01,700,360,56,76,7005636076,Dragontail Mountains,132,-31
 Mountain,1,WOD_Mountain_02,702,361,92,114,70292361114,Dragontail Mountains,169,-77
-Mountain,1,WOD_Mountain_03,686,372,42,29,6864237229,Dragontail Mountains,-113,-19
 Mountain,1,WOD_Mountain_04,693,371,118,47,69311837147,Dragontail Mountains,153,-22
 Mountain,1,WOD_Mountain_05,687,379,111,41,68711137941,Dragontail Mountains,137,-51
 Mountain,1,WOD_Mountain_06,690,379,42,122,69042379122,Dragontail Mountains,-81,-20
@@ -404,7 +381,6 @@ Mountain,1,WOD_Mountain_06,673,391,101,19,67310139119,Dragontail Mountains,-61,-
 Mountain,1,WOD_Mountain_07,670,389,51,111,67051389111,Dragontail Mountains,133,-18
 Mountain,1,WOD_Mountain_08,673,387,115,105,673115387105,Dragontail Mountains,-10,-1
 Mountain,1,WOD_Mountain_09,666,388,124,67,66612438867,Dragontail Mountains,85,0
-Mountain,1,WOD_Mountain_01,668,389,18,69,6681838969,Dragontail Mountains,108,-34
 Mountain,1,WOD_Mountain_02,667,387,76,84,6677638784,Dragontail Mountains,19,-6
 Mountain,1,WOD_Mountain_03,692,387,19,26,6921938726,Dragontail Mountains,-155,-71
 Mountain,1,WOD_Mountain_04,692,383,17,69,6921738369,Dragontail Mountains,167,-62
@@ -414,7 +390,6 @@ Mountain,1,WOD_Mountain_07,698,385,100,111,698100385111,Dragontail Mountains,155
 Mountain,1,WOD_Mountain_08,702,384,122,42,70212238442,Dragontail Mountains,18,-93
 Mountain,1,WOD_Mountain_09,700,387,60,29,7006038729,Dragontail Mountains,123,-11
 Mountain,1,WOD_Mountain_01,704,386,108,19,70410838619,Dragontail Mountains,-121,-34
-Mountain,1,WOD_Mountain_02,709,383,4,119,70904383119,Dragontail Mountains,80,-51
 Mountain,1,WOD_Mountain_03,711,384,116,118,711116384118,Dragontail Mountains,15,-14
 Mountain,1,WOD_Mountain_04,714,382,84,120,71484382120,Dragontail Mountains,156,-35
 Mountain,1,WOD_Mountain_05,715,384,28,12,7152838412,Dragontail Mountains,110,-76
@@ -443,7 +418,6 @@ Mountain,1,WOD_Mountain_09,692,394,40,1,6924039401,Dragontail Mountains,-18,-67
 Mountain,1,WOD_Mountain_01,696,392,105,24,69610539224,Dragontail Mountains,15,-76
 Mountain,1,WOD_Mountain_02,707,395,15,81,7071539581,Dragontail Mountains,116,-47
 Mountain,1,WOD_Mountain_03,707,400,78,15,7077840015,Dragontail Mountains,-166,-87
-Mountain,1,WOD_Mountain_04,705,402,73,42,7057340242,Dragontail Mountains,70,-18
 Mountain,1,WOD_Mountain_05,709,400,19,68,7091940068,Dragontail Mountains,65,-30
 Mountain,1,WOD_Mountain_06,710,404,3,111,71003404111,Dragontail Mountains,-176,-96
 Mountain,1,WOD_Mountain_07,698,401,118,111,698118401111,Dragontail Mountains,97,-72
@@ -468,7 +442,6 @@ Mountain,1,WOD_Mountain_07,708,409,45,50,7084540950,Dragontail Mountains,-79,-80
 Mountain,1,WOD_Mountain_08,709,411,1,68,7090141168,Dragontail Mountains,177,-64
 Mountain,1,WOD_Mountain_09,713,408,83,35,7138340835,Dragontail Mountains,170,-26
 Mountain,1,WOD_Mountain_01,715,411,49,51,7154941151,Dragontail Mountains,-152,-21
-Mountain,1,WOD_Mountain_02,714,414,114,8,71411441408,Dragontail Mountains,121,-18
 Mountain,1,WOD_Mountain_03,710,416,128,84,71012841684,Dragontail Mountains,14,-91
 Mountain,1,WOD_Mountain_04,718,411,20,84,7182041184,Dragontail Mountains,-46,-81
 Mountain,1,WOD_Mountain_05,716,413,70,127,71670413127,Dragontail Mountains,67,-31
@@ -478,7 +451,6 @@ Mountain,1,WOD_Mountain_08,723,404,96,20,7239640420,Dragontail Mountains,1,-81
 Mountain,1,WOD_Mountain_09,716,398,92,110,71692398110,Dragontail Mountains,-56,-29
 Mountain,1,WOD_Mountain_01,717,399,73,4,7177339904,Dragontail Mountains,144,-18
 Mountain,1,WOD_Mountain_02,723,415,41,78,7234141578,Dragontail Mountains,49,-3
-Mountain,1,WOD_Mountain_03,727,415,102,123,727102415123,Dragontail Mountains,-124,-61
 Mountain,1,WOD_Mountain_04,726,416,26,51,7262641651,Dragontail Mountains,-41,-14
 Mountain,1,WOD_Mountain_05,725,420,99,115,72599420115,Dragontail Mountains,-66,-65
 Mountain,1,WOD_Mountain_06,722,420,127,77,72212742077,Dragontail Mountains,16,-93
@@ -569,13 +541,11 @@ Mountain,1,WOD_Mountain_09,750,427,114,61,75011442761,Dragontail Mountains,100,-
 Mountain,1,WOD_Mountain_01,756,429,18,81,7561842981,Dragontail Mountains,-67,-15
 Mountain,1,WOD_Mountain_02,759,429,116,36,75911642936,Dragontail Mountains,-57,-19
 Mountain,1,WOD_Mountain_03,758,422,74,8,7587442208,Dragontail Mountains,96,-15
-Mountain,1,WOD_Mountain_04,759,427,52,95,7595242795,Dragontail Mountains,-120,-89
 Mountain,1,WOD_Mountain_05,758,417,15,97,7581541797,Dragontail Mountains,158,-23
 Mountain,1,WOD_Mountain_06,758,419,13,100,75813419100,Dragontail Mountains,-8,-16
 Mountain,1,WOD_Mountain_07,758,413,13,58,7581341358,Dragontail Mountains,126,-86
 Mountain,1,WOD_Mountain_08,759,412,74,77,7597441277,Dragontail Mountains,159,-8
 Mountain,1,WOD_Mountain_09,760,417,116,125,760116417125,Dragontail Mountains,-115,-86
-Mountain,1,WOD_Mountain_01,761,419,81,78,7618141978,Dragontail Mountains,-40,-14
 Mountain,1,WOD_Mountain_02,765,414,113,23,76511341423,Dragontail Mountains,-99,-47
 Mountain,1,WOD_Mountain_03,770,418,61,125,77061418125,Dragontail Mountains,132,-72
 Mountain,1,WOD_Mountain_04,771,415,12,87,7711241587,Dragontail Mountains,-77,-52
@@ -620,7 +590,6 @@ Mountain,1,WOD_Mountain_06,760,432,3,37,7600343237,Dragontail Mountains,-50,-60
 Mountain,1,WOD_Mountain_07,761,432,17,119,76117432119,Dragontail Mountains,-124,-24
 Mountain,1,WOD_Mountain_08,755,433,40,29,7554043329,Dragontail Mountains,46,-37
 Mountain,1,WOD_Mountain_09,752,437,95,120,75295437120,Dragontail Mountains,-107,-66
-Mountain,1,WOD_Mountain_01,774,438,51,64,7745143864,Dragontail Mountains,-93,-89
 Mountain,1,WOD_Mountain_02,777,436,22,118,77722436118,Dragontail Mountains,28,-25
 Mountain,1,WOD_Mountain_03,778,439,64,72,7786443972,Dragontail Mountains,51,-53
 Mountain,1,WOD_Mountain_04,781,432,56,32,7815643232,Dragontail Mountains,147,-30
@@ -643,13 +612,11 @@ Mountain,1,WOD_Mountain_02,785,431,127,24,78512743124,Dragontail Mountains,141,-
 Mountain,1,WOD_Mountain_03,784,432,20,10,7842043210,Dragontail Mountains,64,-92
 Mountain,1,WOD_Mountain_04,799,429,125,64,79912542964,Dragontail Mountains,-70,-55
 Mountain,1,WOD_Mountain_05,803,422,105,29,80310542229,Dragontail Mountains,45,-29
-Mountain,1,WOD_Mountain_06,804,417,82,31,8048241731,Dragontail Mountains,154,-100
 Mountain,1,WOD_Mountain_07,802,419,56,119,80256419119,Dragontail Mountains,10,-42
 Mountain,1,WOD_Mountain_08,802,420,93,81,8029342081,Dragontail Mountains,154,-71
 Mountain,1,WOD_Mountain_09,809,419,59,8,8095941908,Dragontail Mountains,-180,-61
 Mountain,1,WOD_Mountain_01,812,419,42,8,8124241908,Dragontail Mountains,125,-98
 Mountain,1,WOD_Mountain_02,809,427,33,40,8093342740,Dragontail Mountains,3,-15
-Mountain,1,WOD_Mountain_03,798,423,19,78,7981942378,Dragontail Mountains,41,-69
 Mountain,1,WOD_Mountain_04,801,413,51,114,80151413114,Dragontail Mountains,157,-13
 Mountain,1,WOD_Mountain_05,798,409,23,67,7982340967,Dragontail Mountains,60,-74
 Mountain,1,WOD_Mountain_06,794,409,51,86,7945140986,Dragontail Mountains,-139,-79
@@ -662,7 +629,6 @@ Mountain,1,WOD_Mountain_03,789,449,122,23,78912244923,Dragontail Mountains,-3,-6
 Mountain,1,WOD_Mountain_04,781,446,45,52,7814544652,Dragontail Mountains,129,-32
 Mountain,1,WOD_Mountain_05,778,446,56,95,7785644695,Dragontail Mountains,-31,-97
 Mountain,1,WOD_Mountain_06,771,445,38,91,7713844591,Dragontail Mountains,-125,-49
-Mountain,1,WOD_Mountain_07,776,445,108,125,776108445125,Dragontail Mountains,139,-80
 Mountain,1,WOD_Mountain_08,770,449,92,77,7709244977,Dragontail Mountains,168,-30
 Mountain,1,WOD_Mountain_09,767,449,88,74,7678844974,Dragontail Mountains,-170,-37
 Mountain,1,WOD_Mountain_01,765,449,122,18,76512244918,Dragontail Mountains,119,-99
@@ -704,7 +670,6 @@ Mountain,1,WOD_Mountain_09,807,434,1,47,8070143447,Dragontail Mountains,96,-20
 Mountain,1,WOD_Mountain_01,810,433,123,58,81012343358,Dragontail Mountains,154,-41
 Mountain,1,WOD_Mountain_02,809,434,122,104,809122434104,Dragontail Mountains,-175,-7
 Mountain,1,WOD_Mountain_03,812,431,91,73,8129143173,Dragontail Mountains,-39,-34
-Mountain,1,WOD_Mountain_04,805,430,69,58,8056943058,Dragontail Mountains,-27,-50
 Mountain,1,WOD_Mountain_05,815,427,104,123,815104427123,Dragontail Mountains,124,-73
 Mountain,1,WOD_Mountain_06,822,427,120,106,822120427106,Dragontail Mountains,-71,-49
 Mountain,1,WOD_Mountain_07,824,425,63,92,8246342592,Dragontail Mountains,-41,-97
@@ -738,7 +703,6 @@ Mountain,1,WOD_Mountain_07,795,469,12,106,79512469106,Dragontail Mountains,-59,-
 Mountain,1,WOD_Mountain_08,793,467,42,72,7934246772,Dragontail Mountains,-128,-45
 Mountain,1,WOD_Mountain_09,791,462,110,40,79111046240,Dragontail Mountains,7,-92
 Mountain,1,WOD_Mountain_01,810,462,6,122,81006462122,Dragontail Mountains,87,-2
-Mountain,1,WOD_Mountain_02,811,468,10,118,81110468118,Dragontail Mountains,9,-96
 Mountain,1,WOD_Mountain_03,813,466,116,109,813116466109,Dragontail Mountains,-164,-57
 Mountain,1,WOD_Mountain_04,812,468,79,101,81279468101,Dragontail Mountains,73,-49
 Mountain,1,WOD_Mountain_05,807,475,76,14,8077647514,Dragontail Mountains,-78,-48
@@ -749,7 +713,6 @@ Mountain,1,WOD_Mountain_09,729,406,91,82,7299140682,Dragontail Mountains,109,-64
 Mountain,1,WOD_Mountain_01,733,402,99,13,7339940213,Dragontail Mountains,13,-60
 Mountain,1,WOD_Mountain_02,760,444,3,19,7600344419,Dragontail Mountains,64,-72
 Mountain,1,WOD_Mountain_03,830,423,113,22,83011342322,Dragontail Mountains,-119,-31
-Mountain,1,WOD_Mountain_04,835,424,83,72,8358342472,Dragontail Mountains,-51,-95
 Mountain,1,WOD_Mountain_05,881,419,111,45,88111141945,Dragontail Mountains,-7,-24
 Mountain,1,WOD_Mountain_06,885,420,72,36,8857242036,Dragontail Mountains,-24,-55
 Mountain,1,WOD_Mountain_07,880,415,77,49,8807741549,Dragontail Mountains,-137,-75
@@ -765,7 +728,6 @@ Mountain,1,WOD_Mountain_07,897,411,105,17,89710541117,Dragontail Mountains,157,-
 Mountain,1,WOD_Mountain_08,901,416,108,0,90110841600,Dragontail Mountains,38,-5
 Mountain,1,WOD_Mountain_09,906,413,23,4,9062341304,Dragontail Mountains,-44,-28
 Mountain,1,WOD_Mountain_01,909,414,10,40,9091041440,Dragontail Mountains,53,-97
-Mountain,1,WOD_Mountain_02,914,412,52,119,91452412119,Dragontail Mountains,33,-54
 Mountain,1,WOD_Mountain_03,916,407,17,8,9161740708,Dragontail Mountains,138,-96
 Mountain,1,WOD_Mountain_04,837,407,106,13,83710640713,Dragontail Mountains,-99,-58
 Mountain,1,WOD_Mountain_05,821,419,56,77,8215641977,Dragontail Mountains,29,-45
@@ -806,7 +768,6 @@ Mountain,1,WOD_Mountain_03,953,419,88,14,9538841914,Dragontail Mountains,167,-42
 Mountain,1,WOD_Mountain_04,956,418,37,90,9563741890,Dragontail Mountains,-95,-23
 Mountain,1,WOD_Mountain_05,957,423,90,41,9579042341,Dragontail Mountains,8,-25
 Mountain,1,WOD_Mountain_06,956,421,18,86,9561842186,Dragontail Mountains,62,-37
-Mountain,1,WOD_Mountain_07,962,419,60,77,9626041977,Dragontail Mountains,122,-16
 Mountain,1,WOD_Mountain_08,964,423,79,9,9647942309,Dragontail Mountains,-155,-53
 Mountain,1,WOD_Mountain_09,968,419,92,77,9689241977,Dragontail Mountains,11,-25
 Mountain,1,WOD_Mountain_01,963,411,109,60,96310941160,Dragontail Mountains,137,-90
@@ -890,10 +851,8 @@ Mountain,1,WOD_Mountain_06,952,442,83,110,95283442110,Dragontail Mountains,-124,
 Mountain,1,WOD_Mountain_07,964,453,76,125,96476453125,Dragontail Mountains,66,-1
 Mountain,1,WOD_Mountain_08,970,450,70,3,9707045003,Dragontail Mountains,116,-59
 Mountain,1,WOD_Mountain_09,978,439,81,102,97881439102,Dragontail Mountains,-77,-78
-Mountain,1,WOD_Mountain_01,982,442,95,61,9829544261,Dragontail Mountains,-68,-11
 Mountain,1,WOD_Mountain_02,983,444,5,84,9830544484,Dragontail Mountains,150,-30
 Mountain,1,WOD_Mountain_03,984,448,58,49,9845844849,Dragontail Mountains,104,-94
-Mountain,1,WOD_Mountain_04,986,438,36,44,9863643844,Dragontail Mountains,154,-63
 Mountain,1,WOD_Mountain_05,984,443,110,74,98411044374,Dragontail Mountains,-10,-70
 Mountain,1,WOD_Mountain_06,993,435,88,29,9938843529,Dragontail Mountains,59,-13
 Mountain,1,WOD_Mountain_07,991,435,127,59,99112743559,Dragontail Mountains,5,-44
@@ -956,7 +915,6 @@ Mountain,1,WOD_Mountain_09,929,459,96,55,9299645955,Dragontail Mountains,172,-97
 Mountain,1,WOD_Mountain_01,926,457,104,87,92610445787,Dragontail Mountains,58,-26
 Mountain,1,WOD_Mountain_02,928,469,84,0,9288446900,Dragontail Mountains,141,-26
 Mountain,1,WOD_Mountain_03,924,470,88,40,9248847040,Dragontail Mountains,-34,-55
-Mountain,1,WOD_Mountain_04,926,474,35,60,9263547460,Dragontail Mountains,175,-47
 Mountain,1,WOD_Mountain_05,921,470,61,5,9216147005,Dragontail Mountains,-79,-65
 Mountain,1,WOD_Mountain_06,916,476,68,120,91668476120,Dragontail Mountains,-13,-60
 Mountain,1,WOD_Mountain_07,912,474,77,74,9127747474,Dragontail Mountains,35,-99
@@ -993,7 +951,6 @@ Mountain,1,WOD_Mountain_01,960,458,79,118,96079458118,Dragontail Mountains,-85,-
 Mountain,1,WOD_Mountain_02,973,463,45,73,9734546373,Dragontail Mountains,-97,-4
 Mountain,1,WOD_Mountain_03,964,478,67,64,9646747864,Dragontail Mountains,-112,-61
 Mountain,1,WOD_Mountain_04,966,475,99,69,9669947569,Dragontail Mountains,-70,-87
-Mountain,1,WOD_Mountain_05,963,473,125,59,96312547359,Dragontail Mountains,105,-8
 Mountain,1,WOD_Mountain_06,967,478,17,82,9671747882,Dragontail Mountains,31,-10
 Mountain,1,WOD_Mountain_07,992,454,12,1,9921245401,Dragontail Mountains,-94,-77
 Mountain,1,WOD_Mountain_08,991,451,91,32,9919145132,Dragontail Mountains,-101,-8
@@ -1009,7 +966,6 @@ Mountain,1,WOD_Mountain_08,994,474,6,78,9940647478,Dragontail Mountains,84,-92
 Mountain,1,WOD_Mountain_09,991,472,97,20,9919747220,Dragontail Mountains,119,-100
 Mountain,1,WOD_Mountain_01,990,475,45,127,99045475127,Dragontail Mountains,91,0
 Mountain,1,WOD_Mountain_02,997,477,72,27,9977247727,Dragontail Mountains,-25,-15
-Mountain,1,WOD_Mountain_03,987,464,24,4,9872446404,Dragontail Mountains,-136,-58
 Mountain,1,WOD_Mountain_04,989,480,61,4,9896148004,Dragontail Mountains,-55,-65
 Mountain,1,WOD_Mountain_05,993,483,26,70,9932648370,Dragontail Mountains,-148,-20
 Mountain,1,WOD_Mountain_06,996,481,64,24,9966448124,Dragontail Mountains,19,-38
@@ -1037,7 +993,6 @@ Mountain,1,WOD_Mountain_09,990,478,54,106,99054478106,Dragontail Mountains,-39,-
 Mountain,1,WOD_Mountain_01,989,472,14,69,9891447269,Dragontail Mountains,34,-21
 Mountain,1,WOD_Mountain_02,984,479,90,84,9849047984,Dragontail Mountains,146,-61
 Mountain,1,WOD_Mountain_03,973,482,119,124,973119482124,Dragontail Mountains,167,-8
-Mountain,1,WOD_Mountain_04,976,483,79,81,9767948381,Dragontail Mountains,-145,-48
 Mountain,1,WOD_Mountain_05,969,489,56,79,9695648979,Dragontail Mountains,-108,-66
 Mountain,1,WOD_Mountain_06,966,487,54,92,9665448792,Dragontail Mountains,-23,-36
 Mountain,1,WOD_Mountain_07,963,482,110,76,96311048276,Dragontail Mountains,-139,-34
@@ -1051,8 +1006,6 @@ Mountain,1,WOD_Mountain_05,971,497,93,93,9719349793,Dragontail Mountains,15,-79
 Mountain,1,WOD_Mountain_06,974,496,1,105,97401496105,Dragontail Mountains,91,-8
 Mountain,1,WOD_Mountain_07,975,494,120,37,97512049437,Dragontail Mountains,29,-60
 Mountain,1,WOD_Mountain_08,980,498,17,110,98017498110,Dragontail Mountains,-157,-64
-Mountain,1,WOD_Mountain_09,988,499,10,127,98810499127,Dragontail Mountains,104,-90
-Mountain,1,WOD_Mountain_01,998,499,115,68,99811549968,Dragontail Mountains,-88,-68
 Mountain,1,WOD_Mountain_02,969,497,105,14,96910549714,Dragontail Mountains,-113,-16
 Mountain,1,WOD_Mountain_03,963,498,31,128,96331498128,Dragontail Mountains,51,-43
 Mountain,1,WOD_Mountain_04,955,487,51,12,9555148712,Dragontail Mountains,-160,-24
@@ -1061,7 +1014,6 @@ Mountain,1,WOD_Mountain_06,946,482,27,44,9462748244,Dragontail Mountains,-120,-2
 Mountain,1,WOD_Mountain_07,948,487,60,60,9486048760,Dragontail Mountains,111,-28
 Mountain,1,WOD_Mountain_08,972,489,79,17,9727948917,Dragontail Mountains,-91,-45
 Mountain,1,WOD_Mountain_09,950,492,78,8,9507849208,Dragontail Mountains,-155,-29
-Mountain,1,WOD_Mountain_01,952,499,10,116,95210499116,Dragontail Mountains,-25,-21
 Mountain,1,WOD_Mountain_02,946,498,124,128,946124498128,Dragontail Mountains,-160,-90
 Mountain,1,WOD_Mountain_03,947,494,45,124,94745494124,Dragontail Mountains,-162,-64
 Mountain,1,WOD_Mountain_04,945,491,44,113,94544491113,Dragontail Mountains,125,-39
@@ -1070,13 +1022,11 @@ Mountain,1,WOD_Mountain_06,942,485,58,90,9425848590,Dragontail Mountains,8,-9
 Mountain,1,WOD_Mountain_07,944,489,22,27,9442248927,Dragontail Mountains,92,-59
 Mountain,1,WOD_Mountain_08,936,486,22,61,9362248661,Dragontail Mountains,-67,-45
 Mountain,1,WOD_Mountain_09,938,485,86,122,93886485122,Dragontail Mountains,-63,-79
-Mountain,1,WOD_Mountain_01,939,479,108,54,93910847954,Dragontail Mountains,-65,-38
 Mountain,1,WOD_Mountain_02,933,484,110,109,933110484109,Dragontail Mountains,67,-70
 Mountain,1,WOD_Mountain_03,939,490,31,86,9393149086,Dragontail Mountains,-161,-69
 Mountain,1,WOD_Mountain_04,944,494,12,110,94412494110,Dragontail Mountains,178,-51
 Mountain,1,WOD_Mountain_05,935,491,49,58,9354949158,Dragontail Mountains,-62,-78
 Mountain,1,WOD_Mountain_06,930,483,61,106,93061483106,Dragontail Mountains,-57,-55
-Mountain,1,WOD_Mountain_07,921,476,54,101,92154476101,Dragontail Mountains,-64,-50
 Mountain,1,WOD_Mountain_08,926,482,37,47,9263748247,Dragontail Mountains,-18,-75
 Mountain,1,WOD_Mountain_09,924,481,8,61,9240848161,Dragontail Mountains,22,-2
 Mountain,1,WOD_Mountain_01,920,481,5,93,9200548193,Dragontail Mountains,-118,-21
@@ -1085,7 +1035,6 @@ Mountain,1,WOD_Mountain_03,911,480,91,46,9119148046,Dragontail Mountains,-7,-96
 Mountain,1,WOD_Mountain_04,914,476,73,97,9147347697,Dragontail Mountains,88,-41
 Mountain,1,WOD_Mountain_05,909,473,110,17,90911047317,Dragontail Mountains,52,-85
 Mountain,1,WOD_Mountain_06,901,473,110,45,90111047345,Dragontail Mountains,73,-92
-Mountain,1,WOD_Mountain_07,897,473,20,47,8972047347,Dragontail Mountains,-81,-86
 Mountain,1,WOD_Mountain_08,908,487,12,92,9081248792,Dragontail Mountains,-160,-49
 Mountain,1,WOD_Mountain_09,913,487,86,106,91386487106,Dragontail Mountains,27,-98
 Mountain,1,WOD_Mountain_01,916,488,92,84,9169248884,Dragontail Mountains,34,-24
@@ -1139,7 +1088,6 @@ Mountain,1,WOD_Mountain_03,780,381,55,10,7805538110,Dragontail Mountains,95,-23
 Mountain,1,WOD_Mountain_04,775,390,119,76,77511939076,Dragontail Mountains,83,-79
 Mountain,1,WOD_Mountain_05,776,384,93,5,7769338405,Dragontail Mountains,-138,-66
 Mountain,1,WOD_Mountain_06,770,378,72,31,7707237831,Dragontail Mountains,-142,-38
-Mountain,1,WOD_Mountain_07,774,394,33,77,7743339477,Dragontail Mountains,133,-75
 Mountain,1,WOD_Mountain_08,792,378,14,35,7921437835,Dragontail Mountains,-67,-83
 Mountain,1,WOD_Mountain_09,799,388,116,67,79911638867,Dragontail Mountains,-100,-30
 Mountain,1,WOD_Mountain_01,798,394,12,124,79812394124,Dragontail Mountains,-101,-79
@@ -1220,7 +1168,6 @@ Mountain,1,WOD_Mountain_03,854,495,83,3,8548349503,Dragontail Mountains,-154,-70
 Mountain,1,WOD_Mountain_04,860,497,82,84,8608249784,Dragontail Mountains,10,-84
 Mountain,1,WOD_Mountain_05,869,497,17,52,8691749752,Dragontail Mountains,-99,-27
 Mountain,1,WOD_Mountain_06,866,492,56,95,8665649295,Dragontail Mountains,-47,-40
-Mountain,1,WOD_Mountain_07,864,494,99,35,8649949435,Dragontail Mountains,128,-96
 Mountain,1,WOD_Mountain_08,875,498,0,96,8750049896,Dragontail Mountains,104,-35
 Mountain,1,WOD_Mountain_09,881,494,77,40,8817749440,Dragontail Mountains,-131,-42
 Mountain,1,WOD_Mountain_01,888,494,31,40,8883149440,Dragontail Mountains,57,-75
@@ -1269,11 +1216,9 @@ Mountain,1,WOD_Mountain_07,698,420,101,73,69810142073,Dragontail Mountains,165,-
 Mountain,1,WOD_Mountain_08,695,408,37,51,6953740851,Dragontail Mountains,106,-73
 Mountain,1,WOD_Mountain_09,690,418,29,40,6902941840,Dragontail Mountains,59,-35
 Mountain,1,WOD_Mountain_01,679,416,69,6,6796941606,Dragontail Mountains,106,-77
-Mountain,1,WOD_Mountain_02,688,409,108,77,68810840977,Dragontail Mountains,154,-44
 Mountain,1,WOD_Mountain_03,688,422,63,33,6886342233,Dragontail Mountains,170,-47
 Mountain,1,WOD_Mountain_04,694,423,72,28,6947242328,Dragontail Mountains,85,-55
 Mountain,1,WOD_Mountain_05,684,419,83,127,68483419127,Dragontail Mountains,-12,-91
-Mountain,1,WOD_Mountain_06,687,410,65,24,6876541024,Dragontail Mountains,-161,-76
 Mountain,1,WOD_Mountain_07,689,391,77,82,6897739182,Dragontail Mountains,-66,-24
 Mountain,1,WOD_Mountain_08,669,395,81,69,6698139569,Dragontail Mountains,-94,-85
 Mountain,1,WOD_Mountain_09,673,397,122,61,67312239761,Dragontail Mountains,59,-90
@@ -1313,7 +1258,6 @@ Mountain,1,WOD_Mountain_06,719,451,35,97,7193545197,Dragontail Mountains,-103,-2
 Mountain,1,WOD_Mountain_07,726,450,33,31,7263345031,Dragontail Mountains,-141,-24
 Mountain,1,WOD_Mountain_08,743,458,78,86,7437845886,Dragontail Mountains,-101,-5
 Mountain,1,WOD_Mountain_09,743,469,111,106,743111469106,Dragontail Mountains,-93,-48
-Mountain,1,WOD_Mountain_01,736,464,78,69,7367846469,Dragontail Mountains,-148,-88
 Mountain,1,WOD_Mountain_02,738,462,99,60,7389946260,Dragontail Mountains,-75,-11
 Mountain,1,WOD_Mountain_03,752,453,8,106,75208453106,Dragontail Mountains,-5,-38
 Mountain,1,WOD_Mountain_04,792,484,29,96,7922948496,Dragontail Mountains,-13,-62
@@ -1346,7 +1290,6 @@ Mountain,1,WOD_Mountain_03,738,473,12,41,7381247341,Dragontail Mountains,121,-67
 Mountain,1,WOD_Mountain_04,718,458,51,120,71851458120,Dragontail Mountains,-172,-8
 Mountain,1,WOD_Mountain_05,721,462,88,69,7218846269,Dragontail Mountains,-64,-87
 Mountain,1,WOD_Mountain_06,726,474,18,113,72618474113,Dragontail Mountains,-45,-19
-Mountain,1,WOD_Mountain_07,696,440,51,51,6965144051,Dragontail Mountains,-146,-47
 Mountain,1,WOD_Mountain_08,687,438,95,49,6879543849,Dragontail Mountains,157,-43
 Mountain,1,WOD_Mountain_09,690,429,70,99,6907042999,Dragontail Mountains,152,-98
 Mountain,1,WOD_Mountain_01,695,431,61,56,6956143156,Dragontail Mountains,142,-86
@@ -1369,7 +1312,6 @@ Mountain,1,WOD_Mountain_08,888,485,81,124,88881485124,Dragontail Mountains,-134,
 Mountain,1,WOD_Mountain_09,900,493,83,99,9008349399,Dragontail Mountains,103,-21
 Mountain,1,WOD_Mountain_01,841,417,8,49,8410841749,Dragontail Mountains,72,-6
 Mountain,1,WOD_Mountain_02,845,415,125,4,84512541504,Dragontail Mountains,146,-89
-Mountain,1,WOD_Mountain_03,859,418,1,79,8590141879,Dragontail Mountains,-141,-80
 Mountain,1,WOD_Mountain_04,863,410,3,78,8630341078,Dragontail Mountains,-43,-78
 Mountain,1,WOD_Mountain_05,864,413,54,95,8645441395,Dragontail Mountains,116,-39
 Mountain,1,WOD_Mountain_06,863,414,45,4,8634541404,Dragontail Mountains,122,-94
