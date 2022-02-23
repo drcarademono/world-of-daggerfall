@@ -18,6 +18,7 @@ World of Daggerfall consists of two mods:
 
 ## Contributors
 - Cliffworms
+- imsobadatnicknames
 
 ## Screenshots
 
