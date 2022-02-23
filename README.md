@@ -12,12 +12,12 @@ World of Daggerfall consists of two mods:
 - **GIS Construction Kit**, by carademono: a project for QGIS that allows for individual or mass placement of locations in the Daggerfall game world.
 
 ## Lead Developers
-- KABoissonneault 
+- KABoissonneault
+- Cliffworms
 - Kamer
 - carademono
 
 ## Contributors
-- Cliffworms
 - imsobadatnicknames
 
 ## Screenshots
