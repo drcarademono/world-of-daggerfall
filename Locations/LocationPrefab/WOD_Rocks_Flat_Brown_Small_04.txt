@@ -1,0 +1,34 @@
+<locationPrefab>
+	<height>48</height>
+	<width>48</width>
+	<object>
+		<type>4</type>
+		<objectID>6</objectID>
+		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_Brown/Rock_Flat_Brown_s_08.prefab</name>
+		<posX>-3.2</posX>
+		<posY>-5.6</posY>
+		<posZ>9.1</posZ>
+		<scaleX>388.1681</scaleX>
+		<scaleY>388.1681</scaleY>
+		<scaleZ>388.1681</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>32</objectID>
+		<name>wod_rocks_flat_brown_base</name>
+		<posX>-24.5</posX>
+		<posY>1.4</posY>
+		<posZ>32.8</posZ>
+		<scaleX>0.587719</scaleX>
+		<scaleY>0.587719</scaleY>
+		<scaleZ>0.587719</scaleZ>
+		<rotW>0.9909565</rotW>
+		<rotX>0</rotX>
+		<rotY>0.1341833</rotY>
+		<rotZ>0</rotZ>
+	</object>
+</locationPrefab>
