@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>22</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Mountains/Mountain_07.prefab</name>
+		<name>Mountain_07</name>
 		<posX>-246</posX>
 		<posY>-6.679932</posY>
 		<posZ>-41</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>26</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Mountains/Mountain_02.prefab</name>
+		<name>Mountain_02</name>
 		<posX>162.69</posX>
 		<posY>-471</posY>
 		<posZ>-201.074</posZ>
@@ -29,6 +29,21 @@
 		<rotW>0.9125447</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.408977</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>3</objectID>
+		<name>WOD_Mountain_Base</name>
+		<posX>-260.19</posX>
+		<posY>-18</posY>
+		<posZ>229.48</posZ>
+		<scaleX>2.173073</scaleX>
+		<scaleY>2.173073</scaleY>
+		<scaleZ>2.173073</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
