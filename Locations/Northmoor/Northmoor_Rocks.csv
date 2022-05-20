@@ -2,7 +2,6 @@ name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY,rot
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_10,264,10,2649110119,91,119,Northmoor,264.7109375,-10.0703125,-140,-15
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_12,251,47,251964703,96,3,Northmoor,251.75,-47.9765625,56,-27
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_01,203,30,203283008,28,8,Northmoor,203.21875,-30.9375,98,-29
-Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_05,243,65,2431665107,16,107,Northmoor,243.125,-65.1640625,168,-10
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_07,161,46,16111746125,117,125,Northmoor,161.9140625,-46.0234375,8,-5
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,144,47,1441284722,128,22,Northmoor,145,-47.828125,24,-23
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,175,59,175285992,28,92,Northmoor,175.21875,-59.28125,164,0
@@ -69,7 +68,6 @@ Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_01,184,44,1848544112,85,112,Northm
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_02,258,44,2581114414,111,14,Northmoor,258.8671875,-44.890625,-106,-12
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,154,47,1541024746,102,46,Northmoor,154.796875,-47.640625,173,0
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_06,249,58,2491035890,103,90,Northmoor,249.8046875,-58.296875,-168,0
-Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_07,148,67,14812867122,128,122,Northmoor,149,-67.046875,132,0
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_10,283,6,2836806106,68,106,Northmoor,283.53125,-6.171875,-86,0
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_01,259,28,259672803,67,3,Northmoor,259.5234375,-28.9765625,32,-12
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_07,245,38,2457438111,74,111,Northmoor,245.578125,-38.1328125,35,-14
@@ -146,7 +144,6 @@ Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_03,153,51,153425184,42,84,Northmoo
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_04,236,31,236053199,5,99,Northmoor,236.0390625,-31.2265625,-163,-3
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_05,241,58,2415058128,50,128,Northmoor,241.390625,-58,-11,-15
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_07,230,10,2301231027,123,27,Northmoor,230.9609375,-10.7890625,111,-13
-Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_09,286,6,286790634,79,34,Northmoor,286.6171875,-6.734375,-1,-2
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,259,38,2591233850,123,50,Northmoor,259.9609375,-38.609375,-47,0
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_09,180,57,180025797,2,97,Northmoor,180.015625,-57.2421875,-128,0
 Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,171,47,1710747114,7,114,Northmoor,171.0546875,-47.109375,129,-10
