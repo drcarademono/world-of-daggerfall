@@ -1,4 +1,5 @@
 fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate
+1008,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,-116,630,405,60,31,6306040531,Alik'r Desert,630.46875,-405.7578125,4
 1,Orc Camp,0,WOD_OrcCamp_Small_01,131,526,411,64,47,5266441147,Alik'r Desert,526.5,-411.6328125,8
 2,Orc Camp,0,WOD_OrcCamp_Small_02,35,525,413,76,72,5257641372,Alik'r Desert,525.59375,-413.4375,8
 3,Orc Camp,0,WOD_OrcCamp_Small_03,1,526,412,73,0,5267341200,Alik'r Desert,526.5703125,-413,8
@@ -11,7 +12,6 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 13,Orc Camp,0,WOD_OrcCamp_Medium_03,47,370,488,72,67,3707248867,Alik'r Desert,370.5625,-488.4765625,8
 14,Orc Camp,0,WOD_OrcCamp_Large_01,166,372,488,8,69,3720848869,Alik'r Desert,372.0625,-488.4609375,8
 15,Orc Camp,0,WOD_OrcCamp_Small_01,2,371,488,31,68,3713148868,Alik'r Desert,371.2421875,-488.46875,8
-1008,Orc Camp,0,WOD_OrcCamp_Large_01,-116,630,405,60,31,6306040531,Alik'r Desert,630.46875,-405.7578125,4
 1476,Orc Camp,0,WOD_OrcCamp_Medium_03,178,452,485,20,73,4522048573,Alik'r Desert,452.15625,-485.4296875,8
 1478,Orc Camp,0,WOD_OrcCamp_Small_01,-127,226,478,58,41,2265847841,Alik'r Desert,226.453125,-478.6796875,8
 1479,Orc Camp,0,WOD_OrcCamp_Small_02,56,491,423,78,69,4917842369,Alik'r Desert,491.609375,-423.4609375,8

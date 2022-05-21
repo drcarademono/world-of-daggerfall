@@ -1,7 +1,5 @@
 fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate
 331,Orc Camp,0,WOD_OrcCamp_Small_02,157,589,44,106,87,5891064487,Dwynnen,589.828125,-44.3203125,1
-1103,Orc Camp,0,WOD_OrcCamp_Medium_01,-69,487,24,124,67,4871242467,Dwynnen,487.96875,-24.4765625,2
-1153,Orc Camp,0,WOD_OrcCamp_Medium_02,72,496,24,119,26,4961192426,Dwynnen,496.9296875,-24.796875,2
 1215,Orc Camp,0,WOD_OrcCamp_Medium_01,111,490,86,125,125,49012586125,Dwynnen,490.9765625,-86.0234375,1
 1216,Orc Camp,0,WOD_OrcCamp_Medium_02,77,505,71,104,32,5051047132,Dwynnen,505.8125,-71.75,1
 1220,Orc Camp,0,WOD_OrcCamp_Small_02,72,536,122,5,31,5360512231,Dwynnen,536.0390625,-122.7578125,1
@@ -25,3 +23,5 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 1377,Orc Camp,0,WOD_OrcCamp_Medium_02,-143,506,94,78,116,5067894116,Dwynnen,506.609375,-94.09375,1
 1380,Orc Camp,0,WOD_OrcCamp_Small_01,102,504,19,69,82,504691982,Dwynnen,504.5390625,-19.359375,1
 1386,Orc Camp,0,WOD_OrcCamp_Large_01,-94,509,105,13,54,5091310554,Dwynnen,509.1015625,-105.578125,1
+1103,Orc Camp,0,WOD_OrcCamp_Medium_01,-69,487,24,124,67,4871242467,Dwynnen,487.96875,-24.4765625,2
+1153,Orc Camp,0,WOD_OrcCamp_Medium_02,72,496,24,119,26,4961192426,Dwynnen,496.9296875,-24.796875,2
