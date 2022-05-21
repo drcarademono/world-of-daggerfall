@@ -1,7 +1,2 @@
 name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
-Bergama Border Tower,0,WOD_Border_Tower_Desert_01,270,413,482,122,6,41312248206,Bergama,"413,953125","-482,953125"
-Bergama Border Tower,0,WOD_Border_Tower_Desert_01,180,445,483,109,125,445109483125,Bergama,"445,8515625","-483,0234375"
-Bergama Border Tower,0,WOD_Border_Tower_Desert_01,,444,464,125,124,444125464124,Bergama,"444,9765625","-464,03125"
-Bergama Border Tower,0,WOD_Scout_Tower_05,90,432,449,111,123,432111449123,Bergama,"432,8671875","-449,0390625"
-Bergama Border Tower,0,WOD_Border_Tower_Desert_01,90,404,450,35,122,40435450122,Bergama,"404,2734375","-450,046875"
-Bergama Border Tower,0,WOD_Scout_Tower_05,,399,464,9,56,3990946456,Bergama,"399,0703125","-464,5625"
+Bergama Border Tower,0,WOD_Bergama_ScoutTower_01,90,432,449,111,123,432111449123,Bergama,432.8671875,-449.0390625

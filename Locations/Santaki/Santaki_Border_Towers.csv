@@ -1,8 +1,4 @@
 name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
-Santaki Border Tower,0,WOD_Scout_Tower_05,90,649,409,28,113,64928409113,Santaki,"649,21875","-409,1171875"
-Santaki Border Tower,0,WOD_Border_Tower_04,180,667,433,118,95,66711843395,Santaki,"667,921875","-433,2578125"
-Santaki Border Tower,0,WOD_Scout_Tower_05,180,657,415,120,42,65712041542,Santaki,"657,9375","-415,671875"
-Santaki Border Tower,0,WOD_Scout_Tower_05,270,665,441,1,24,6650144124,Santaki,"665,0078125","-441,8125"
-Santaki Border Tower,0,WOD_Border_Tower_Desert_01,,649,445,26,27,6492644527,Santaki,"649,203125","-445,7890625"
-Santaki Border Tower,0,WOD_Border_Tower_Desert_01,,635,414,27,79,6352741479,Santaki,"635,2109375","-414,3828125"
-Santaki Border Tower,0,WOD_Scout_Tower_05,,633,427,32,14,6333242714,Santaki,"633,25","-427,890625"
+Santaki Border Tower,0,WOD_Santaki_BorderTower_02,180,667,433,118,95,66711843395,Santaki,667.921875,-433.2578125
+Santaki Border Tower,0,WOD_Santaki_BorderTower_01,,649,445,26,27,6492644527,Santaki,649.203125,-445.7890625
+Santaki Border Tower,0,WOD_Santaki_ScoutTower_01,270,665,441,1,24,6650144124,Santaki,665.0078125,-441.8125

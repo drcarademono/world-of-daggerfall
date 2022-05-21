@@ -1,20 +1,8 @@
 name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
-Alcaire Border Tower,0,WOD_Scout_Tower_01,,688,122,20,101,68820122101,Alcaire,"688,15625","-122,2109375"
-Alcaire Border Tower,0,WOD_Border_Tower_06,,688,113,14,99,6881411399,Alcaire,"688,109375","-113,2265625"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,,686,108,9,100,68609108100,Alcaire,"686,0703125","-108,21875"
-Alcaire Border Tower,0,WOD_Border_Tower_06,,688,100,37,95,6883710095,Alcaire,"688,2890625","-100,2578125"
-Alcaire Border Tower,0,WOD_Border_Tower_06,270,692,99,102,108,69210299108,Alcaire,"692,796875","-99,15625"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,270,701,99,27,122,7012799122,Alcaire,"701,2109375","-99,046875"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,,705,95,17,49,705179549,Alcaire,"705,1328125","-95,6171875"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,270,707,89,28,109,7072889109,Alcaire,"707,21875","-89,1484375"
-Alcaire Border Tower,0,WOD_Border_Tower_06,270,711,89,32,118,7113289118,Alcaire,"711,25","-89,078125"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,270,726,94,26,111,7262694111,Alcaire,"726,203125","-94,1328125"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,180,728,98,102,38,7281029838,Alcaire,"728,796875","-98,703125"
-Alcaire Border Tower,0,WOD_Border_Tower_06,180,732,112,118,51,73211811251,Alcaire,"732,921875","-112,6015625"
-Alcaire Border Tower,0,WOD_Border_Tower_06,180,742,123,116,51,74211612351,Alcaire,"742,90625","-123,6015625"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,270,758,132,81,123,75881132123,Alcaire,"758,6328125","-132,0390625"
-Alcaire Border Tower,0,WOD_Scout_Tower_01,270,764,133,74,120,76474133120,Alcaire,"764,578125","-133,0625"
-Alcaire Border Tower,0,WOD_Border_Tower_06,90,790,152,27,8,7902715208,Alcaire,"790,2109375","-152,9375"
-Alcaire Border Tower,0,WOD_Border_Tower_06,270,744,138,64,20,7446413820,Alcaire,"744,5","-138,84375"
-Alcaire Border Tower,0,WOD_Border_Tower_06,270,718,133,6,10,7180613310,Alcaire,"718,046875","-133,921875"
-Alcaire Border Tower,0,WOD_Border_Tower_06,,690,124,76,15,6907612415,Alcaire,"690,59375","-124,8828125"
+Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,270,744,138,64,20,7446413820,Alcaire,744.5,-138.84375
+Alcaire Border Tower,0,WOD_Alcaire_ScoutTower_01,270,758,132,81,123,75881132123,Alcaire,758.6328125,-132.0390625
+Alcaire Border Tower,0,WOD_Alcaire_ScoutTower_01,180,728,98,102,38,7281029838,Alcaire,728.796875,-98.703125
+Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,180,742,123,116,51,74211612351,Alcaire,742.90625,-123.6015625
+Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,270,692,99,102,108,69210299108,Alcaire,692.796875,-99.15625
+Alcaire Border Tower,0,WOD_Alcaire_ScoutTower_01,270,701,99,27,122,7012799122,Alcaire,701.2109375,-99.046875
+Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,,688,113,14,99,6881411399,Alcaire,688.109375,-113.2265625
