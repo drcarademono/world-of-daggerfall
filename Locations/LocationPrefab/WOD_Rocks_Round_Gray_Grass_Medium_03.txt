@@ -4,10 +4,10 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rocks_Round_Gray_Grass_m_2C_01.prefab</name>
-		<posX>109.8498</posX>
+		<name>Rocks_Round_Gray_Grass_m_2C_01</name>
+		<posX>62.8</posX>
 		<posY>-7.8</posY>
-		<posZ>52.06447</posZ>
+		<posZ>37.7</posZ>
 		<scaleX>136.4712</scaleX>
 		<scaleY>136.4712</scaleY>
 		<scaleZ>136.4712</scaleZ>
@@ -19,22 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>8</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_s_2C_08.prefab</name>
-		<posX>-22.8</posX>
-		<posY>-7.8</posY>
-		<posZ>-82.8</posZ>
-		<scaleX>455.9193</scaleX>
-		<scaleY>455.9193</scaleY>
-		<scaleZ>455.9193</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>3</type>
-		<objectID>19</objectID>
-		<name>wod_rocks_round_gray_grass_base</name>
+		<name>Rock_Round_Gray_Grass_s_2C_08</name>
 		<posX>15.98833</posX>
 		<posY>3.599999</posY>
 		<posZ>25.46313</posZ>
@@ -46,4 +31,35 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<object>
+		<type>3</type>
+		<objectID>19</objectID>
+		<name>wod_rocks_round_gray_grass_base</name>
+		<posX>-104.1</posX>
+		<posY>1.4</posY>
+		<posZ>26.6</posZ>
+		<scaleX>107.482</scaleX>
+		<scaleY>107.482</scaleY>
+		<scaleZ>107.482</scaleZ>
+		<rotW>0.9844361</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.1757432</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>21</objectID>
+		<name>Rocks_Round_Gray_Grass_m_2C_01</name>
+		<posX>56.46237</posX>
+		<posY>-162.9732</posY>
+		<posZ>19.05781</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<winterPrefab>WOD_Rocks_Round_Gray_Snow_Medium_03</winterPrefab>
 </locationPrefab>

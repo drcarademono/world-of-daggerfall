@@ -4,13 +4,13 @@
 	<object>
 		<type>4</type>
 		<objectID>10</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_s_2C_07.prefab</name>
-		<posX>-112</posX>
-		<posY>-19</posY>
-		<posZ>-3</posZ>
-		<scaleX>406.1927</scaleX>
-		<scaleY>406.1927</scaleY>
-		<scaleZ>406.1927</scaleZ>
+		<name>Rock_Round_Gray_Grass_s_2C_07</name>
+		<posX>-79.19421</posX>
+		<posY>-168.2631</posY>
+		<posZ>-92.69511</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -19,13 +19,13 @@
 	<object>
 		<type>4</type>
 		<objectID>11</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_s_2C_09.prefab</name>
-		<posX>30.45</posX>
-		<posY>-19</posY>
-		<posZ>46.025</posZ>
-		<scaleX>355.8166</scaleX>
-		<scaleY>355.8166</scaleY>
-		<scaleZ>355.8166</scaleZ>
+		<name>Rock_Round_Gray_Grass_s_2C_09</name>
+		<posX>23.514</posX>
+		<posY>-26.144</posY>
+		<posZ>119.26</posZ>
+		<scaleX>179.0431</scaleX>
+		<scaleY>179.0431</scaleY>
+		<scaleZ>179.0431</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -34,22 +34,22 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_s_2C_09.prefab</name>
-		<posX>-38.99</posX>
-		<posY>-19</posY>
-		<posZ>-116.49</posZ>
-		<scaleX>355.8166</scaleX>
-		<scaleY>355.8166</scaleY>
-		<scaleZ>355.8166</scaleZ>
-		<rotW>0.9240994</rotW>
+		<name>Rock_Round_Gray_Grass_s_2C_09</name>
+		<posX>-53.5</posX>
+		<posY>-174.4</posY>
+		<posZ>-100.4</posZ>
+		<scaleX>275.417</scaleX>
+		<scaleY>275.417</scaleY>
+		<scaleZ>275.417</scaleZ>
+		<rotW>0.916572</rotW>
 		<rotX>0</rotX>
-		<rotY>0.3821521</rotY>
+		<rotY>0.3998697</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
 		<type>4</type>
 		<objectID>8</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_s_2C_09.prefab</name>
+		<name>Rock_Round_Gray_Grass_s_2C_09</name>
 		<posX>-109.08</posX>
 		<posY>-45.8955</posY>
 		<posZ>177.08</posZ>
@@ -76,4 +76,95 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<object>
+		<type>4</type>
+		<objectID>22</objectID>
+		<name>Rocks_Round_Gray_Grass_m_2C_05</name>
+		<posX>51.64937</posX>
+		<posY>100.3371</posY>
+		<posZ>-534.4811</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>23</objectID>
+		<name>Rock_Round_Gray_Grass_s_2C_09</name>
+		<posX>33.5</posX>
+		<posY>-24</posY>
+		<posZ>18.3</posZ>
+		<scaleX>151.2061</scaleX>
+		<scaleY>151.2061</scaleY>
+		<scaleZ>151.2061</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>24</objectID>
+		<name>Rock_Round_Gray_Grass_s_2C_09</name>
+		<posX>33.5</posX>
+		<posY>-24</posY>
+		<posZ>18.3</posZ>
+		<scaleX>151.2061</scaleX>
+		<scaleY>151.2061</scaleY>
+		<scaleZ>151.2061</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>25</objectID>
+		<name>Rock_Round_Gray_Grass_s_2C_09</name>
+		<posX>33.5</posX>
+		<posY>-24</posY>
+		<posZ>18.3</posZ>
+		<scaleX>151.2061</scaleX>
+		<scaleY>151.2061</scaleY>
+		<scaleZ>151.2061</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>26</objectID>
+		<name>Rock_Round_Gray_Grass_s_2C_09</name>
+		<posX>33.5</posX>
+		<posY>-24</posY>
+		<posZ>18.3</posZ>
+		<scaleX>151.2061</scaleX>
+		<scaleY>151.2061</scaleY>
+		<scaleZ>151.2061</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>27</objectID>
+		<name>Rocks_Round_Gray_Grass_m_2C_05</name>
+		<posX>190.4756</posX>
+		<posY>-411.6346</posY>
+		<posZ>-400.5189</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<winterPrefab>WOD_Rocks_Round_Gray_Snow_Medium_04</winterPrefab>
 </locationPrefab>
