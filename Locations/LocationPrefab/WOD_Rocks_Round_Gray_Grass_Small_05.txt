@@ -4,13 +4,13 @@
 	<object>
 		<type>4</type>
 		<objectID>1</objectID>
-		<name>Rock_Round_Gray_Grass_m_2C_03</name>
-		<posX>40.21856</posX>
-		<posY>-17.4</posY>
-		<posZ>6.547616</posZ>
-		<scaleX>143.5638</scaleX>
-		<scaleY>143.5638</scaleY>
-		<scaleZ>143.5638</scaleZ>
+		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_m_2C_03.prefab</name>
+		<posX>-57.2</posX>
+		<posY>-5.4</posY>
+		<posZ>-10.3</posZ>
+		<scaleX>165.3828</scaleX>
+		<scaleY>165.3828</scaleY>
+		<scaleZ>165.3828</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -19,7 +19,22 @@
 	<object>
 		<type>4</type>
 		<objectID>2</objectID>
-		<name>Rock_Round_Gray_Grass_s_2C_07</name>
+		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_s_2C_07.prefab</name>
+		<posX>25</posX>
+		<posY>-5.4</posY>
+		<posZ>22.1</posZ>
+		<scaleX>208.2198</scaleX>
+		<scaleY>208.2198</scaleY>
+		<scaleZ>208.2198</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>3</objectID>
+		<name>wod_rocks_round_gray_grass_base</name>
 		<posX>-37</posX>
 		<posY>5.1</posY>
 		<posZ>7.5</posZ>
@@ -31,35 +46,4 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<object>
-		<type>3</type>
-		<objectID>3</objectID>
-		<name>wod_rocks_round_gray_grass_base</name>
-		<posX>-75.7</posX>
-		<posY>-8.399999</posY>
-		<posZ>12.9</posZ>
-		<scaleX>65.21078</scaleX>
-		<scaleY>65.21078</scaleY>
-		<scaleZ>65.21078</scaleZ>
-		<rotW>0.6213416</rotW>
-		<rotX>0</rotX>
-		<rotY>0.7835399</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>35</objectID>
-		<name>Rocks_Round_Gray_Grass_m_2C_03</name>
-		<posX>71.01495</posX>
-		<posY>81.48145</posY>
-		<posZ>107.2512</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<winterPrefab>WOD_Rocks_Round_Gray_Snow_Small_05</winterPrefab>
 </locationPrefab>

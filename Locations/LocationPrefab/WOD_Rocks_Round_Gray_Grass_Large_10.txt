@@ -5,9 +5,9 @@
 		<type>4</type>
 		<objectID>3</objectID>
 		<name>Rock_Round_Gray_Grass_m_2C_02</name>
-		<posX>-177.9</posX>
-		<posY>-6.6</posY>
-		<posZ>4.499999</posZ>
+		<posX>-126.6</posX>
+		<posY>-28.308</posY>
+		<posZ>-21.7</posZ>
 		<scaleX>185.0363</scaleX>
 		<scaleY>185.0363</scaleY>
 		<scaleZ>185.0363</scaleZ>
@@ -20,9 +20,9 @@
 		<type>4</type>
 		<objectID>10</objectID>
 		<name>Rocks_Round_Gray_Grass_m_2C_01</name>
-		<posX>103.7</posX>
-		<posY>1.4</posY>
-		<posZ>-19.2</posZ>
+		<posX>153.4963</posX>
+		<posY>-21.7</posY>
+		<posZ>40.07747</posZ>
 		<scaleX>171.6488</scaleX>
 		<scaleY>171.6488</scaleY>
 		<scaleZ>171.6488</scaleZ>
@@ -46,5 +46,4 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<winterPrefab>WOD_Rocks_Round_Gray_Snow_Large_10</winterPrefab>
 </locationPrefab>

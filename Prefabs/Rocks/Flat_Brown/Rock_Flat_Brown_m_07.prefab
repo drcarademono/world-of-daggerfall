@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2352536}
   - component: {fileID: 6430156}
   m_Layer: 0
-  m_Name: Rock_Flat_Brown_m_07
+  m_Name: Rock_Flat_m_07
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0e671a685cbdcc44b9b3d2f8365b50c0, type: 2}
+  - {fileID: 2100000, guid: b3c19238c9fb75db7842f49cca623ba1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

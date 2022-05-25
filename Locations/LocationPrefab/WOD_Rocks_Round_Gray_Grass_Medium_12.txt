@@ -4,7 +4,22 @@
 	<object>
 		<type>4</type>
 		<objectID>7</objectID>
-		<name>Rock_Round_Gray_Grass_crk_s_2C_04</name>
+		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_crk_s_2C_04.prefab</name>
+		<posX>-3.2</posX>
+		<posY>-4.84259</posY>
+		<posZ>-16.1</posZ>
+		<scaleX>247.378</scaleX>
+		<scaleY>247.378</scaleY>
+		<scaleZ>247.378</scaleZ>
+		<rotW>0.8671151</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.4981079</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>28</objectID>
+		<name>wod_rocks_round_gray_grass_base</name>
 		<posX>28.172</posX>
 		<posY>6.4</posY>
 		<posZ>-10.117</posZ>
@@ -16,65 +31,4 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<object>
-		<type>3</type>
-		<objectID>28</objectID>
-		<name>wod_rocks_round_gray_grass_base</name>
-		<posX>21</posX>
-		<posY>1.6</posY>
-		<posZ>60.4</posZ>
-		<scaleX>33.70026</scaleX>
-		<scaleY>33.70026</scaleY>
-		<scaleZ>33.70026</scaleZ>
-		<rotW>0.8187916</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.574091</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>3</type>
-		<objectID>5</objectID>
-		<name>wod_rocks_round_gray_grass_base</name>
-		<posX>47.9</posX>
-		<posY>4.875001</posY>
-		<posZ>-45.7</posZ>
-		<scaleX>32.12744</scaleX>
-		<scaleY>32.12744</scaleY>
-		<scaleZ>32.12744</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>3</type>
-		<objectID>19</objectID>
-		<name>wod_rocks_round_gray_grass_base</name>
-		<posX>-64.9</posX>
-		<posY>0.88059</posY>
-		<posZ>-15.3</posZ>
-		<scaleX>37.18988</scaleX>
-		<scaleY>37.18988</scaleY>
-		<scaleZ>37.18988</scaleZ>
-		<rotW>0.7309918</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.6823863</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>18</objectID>
-		<name>Rocks_Round_Gray_Grass_l_2C_02</name>
-		<posX>-68.02502</posX>
-		<posY>-463.0216</posY>
-		<posZ>-515.8506</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<winterPrefab>WOD_Rocks_Round_Gray_Snow_Medium_12</winterPrefab>
 </locationPrefab>
