@@ -4,9 +4,9 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray/Rock_Flat_LightGray_l_06.prefab</name>
+		<name>Rock_Flat_LightGray_l_06</name>
 		<posX>56.62175</posX>
-		<posY>-396.6682</posY>
+		<posY>-400</posY>
 		<posZ>-10.27694</posZ>
 		<scaleX>217.5157</scaleX>
 		<scaleY>217.5157</scaleY>
@@ -16,4 +16,5 @@
 		<rotY>-0.003415084</rotY>
 		<rotZ>-0.01832199</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Round_LightGray_Snow_Base</winterPrefab>
 </locationPrefab>

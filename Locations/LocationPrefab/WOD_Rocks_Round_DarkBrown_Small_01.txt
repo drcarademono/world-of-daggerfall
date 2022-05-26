@@ -2,33 +2,64 @@
 	<height>48</height>
 	<width>48</width>
 	<object>
-		<type>4</type>
-		<objectID>1</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_DarkBrown/Rock_Round_DarkBrown_s_10.prefab</name>
-		<posX>-43.506</posX>
-		<posY>-6.2</posY>
-		<posZ>10.958</posZ>
-		<scaleX>425.6228</scaleX>
-		<scaleY>425.6228</scaleY>
-		<scaleZ>425.6228</scaleZ>
+		<type>3</type>
+		<objectID>17</objectID>
+		<name>wod_rocks_round_darkbrown_base</name>
+		<posX>-16.67163</posX>
+		<posY>0.5</posY>
+		<posZ>-15.4487</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>3</type>
-		<objectID>29</objectID>
-		<name>wod_rocks_round_brown_base</name>
-		<posX>-66.4</posX>
-		<posY>2.6</posY>
-		<posZ>5</posZ>
-		<scaleX>0.71187</scaleX>
-		<scaleY>0.71187</scaleY>
-		<scaleZ>0.71187</scaleZ>
-		<rotW>0.9578328</rotW>
+		<type>4</type>
+		<objectID>0</objectID>
+		<name>Rock_Round_DarkBrown_m_03</name>
+		<posX>-15.5</posX>
+		<posY>-15.7</posY>
+		<posZ>-26.8</posZ>
+		<scaleX>116.1696</scaleX>
+		<scaleY>116.1696</scaleY>
+		<scaleZ>116.1696</scaleZ>
+		<rotW>0.9842835</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.2873264</rotY>
+		<rotY>0.1765955</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<object>
+		<type>4</type>
+		<objectID>4</objectID>
+		<name>Rock_Round_DarkBrown_s_02</name>
+		<posX>-88.1</posX>
+		<posY>-4.1</posY>
+		<posZ>104.6</posZ>
+		<scaleX>188.8482</scaleX>
+		<scaleY>188.8482</scaleY>
+		<scaleZ>188.8482</scaleZ>
+		<rotW>0.7604081</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.6494456</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>6</objectID>
+		<name>Rock_Round_DarkBrown_m_03</name>
+		<posX>25.3</posX>
+		<posY>-15.7</posY>
+		<posZ>79.7</posZ>
+		<scaleX>116.1696</scaleX>
+		<scaleY>116.1696</scaleY>
+		<scaleZ>116.1696</scaleZ>
+		<rotW>-0.1440946</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.9895639</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<winterPrefab>WOD_Rocks_Round_DarkBrown_Snow_Small_01</winterPrefab>
 </locationPrefab>

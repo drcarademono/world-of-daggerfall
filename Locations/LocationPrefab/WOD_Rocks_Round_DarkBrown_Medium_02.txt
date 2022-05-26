@@ -2,48 +2,49 @@
 	<height>64</height>
 	<width>64</width>
 	<object>
-		<type>4</type>
-		<objectID>9</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_DarkBrown/Rock_Round_DarkBrown_crk_s_03.prefab</name>
-		<posX>-43.3</posX>
-		<posY>-15.9</posY>
-		<posZ>-67.8</posZ>
-		<scaleX>441.1687</scaleX>
-		<scaleY>441.1687</scaleY>
-		<scaleZ>441.1687</scaleZ>
-		<rotW>1</rotW>
+		<type>3</type>
+		<objectID>23</objectID>
+		<name>wod_rocks_round_darkbrown_base</name>
+		<posX>-38.3</posX>
+		<posY>2.6</posY>
+		<posZ>-20.7</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>0.7699106</rotW>
 		<rotX>0</rotX>
-		<rotY>0</rotY>
+		<rotY>-0.6381518</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_DarkBrown/Rock_Round_DarkBrown_m_09.prefab</name>
-		<posX>100</posX>
-		<posY>-15.9</posY>
-		<posZ>123.7</posZ>
-		<scaleX>137.5166</scaleX>
-		<scaleY>137.5166</scaleY>
-		<scaleZ>137.5166</scaleZ>
+		<name>Rock_Round_DarkBrown_crk_m_03</name>
+		<posX>-7</posX>
+		<posY>-20.7</posY>
+		<posZ>-48</posZ>
+		<scaleX>176.7918</scaleX>
+		<scaleY>176.7918</scaleY>
+		<scaleZ>176.7918</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>3</type>
-		<objectID>18</objectID>
-		<name>wod_rocks_round_brown_base</name>
-		<posX>-46.607</posX>
-		<posY>0.9</posY>
-		<posZ>-48.014</posZ>
-		<scaleX>0.822327</scaleX>
-		<scaleY>0.822327</scaleY>
-		<scaleZ>0.822327</scaleZ>
-		<rotW>0.8743532</rotW>
+		<type>4</type>
+		<objectID>2</objectID>
+		<name>Rock_Round_DarkBrown_m_01</name>
+		<posX>36.5</posX>
+		<posY>-25.9</posY>
+		<posZ>98</posZ>
+		<scaleX>138.0265</scaleX>
+		<scaleY>138.0265</scaleY>
+		<scaleZ>138.0265</scaleZ>
+		<rotW>1</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.4852901</rotY>
+		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Round_DarkBrown_Snow_Medium_02</winterPrefab>
 </locationPrefab>

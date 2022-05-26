@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>9</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_Gray_Grass/Rock_Flat_Gray_Grass_crk_s_2C_03.prefab</name>
+		<name>Rock_Flat_Gray_Grass_crk_s_2C_03.prefab</name>
 		<posX>-43.3</posX>
 		<posY>-15.9</posY>
 		<posZ>-67.8</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_Gray_Grass/Rock_Flat_Gray_Grass_m_2C_09.prefab</name>
+		<name>Rock_Flat_Gray_Grass_m_2C_09.prefab</name>
 		<posX>100</posX>
 		<posY>-15.9</posY>
 		<posZ>123.7</posZ>
@@ -46,4 +46,5 @@
 		<rotY>-0.4852901</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Flat_Gray_Snow_Medium_02</winterPrefab>
 </locationPrefab>

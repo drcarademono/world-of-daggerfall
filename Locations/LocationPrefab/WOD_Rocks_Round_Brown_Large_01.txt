@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>15</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Brown/Rock_Round_Brown_m_11.prefab</name>
+		<name>Rock_Round_Brown_m_11</name>
 		<posX>-0.7412529</posX>
 		<posY>-26.01399</posY>
 		<posZ>37.22056</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Brown/Rock_Round_Brown_m_01.prefab</name>
+		<name>Rock_Round_Brown_m_01</name>
 		<posX>-1.825912</posX>
 		<posY>-59.11791</posY>
 		<posZ>-133.6663</posZ>
@@ -34,7 +34,7 @@
 	<object>
 		<type>4</type>
 		<objectID>1</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Brown/Rocks_Round_Brown_m_03.prefab</name>
+		<name>Rocks_Round_Brown_m_03</name>
 		<posX>-162.1122</posX>
 		<posY>-16.1104</posY>
 		<posZ>113.5197</posZ>
@@ -45,21 +45,6 @@
 		<rotX>-0.0002634609</rotX>
 		<rotY>-0.510748</rotY>
 		<rotZ>0.001069659</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>2</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Brown/Rock_Round_Brown_s_07.prefab</name>
-		<posX>-4.914024</posX>
-		<posY>66.62492</posY>
-		<posZ>39.97787</posZ>
-		<scaleX>165.6541</scaleX>
-		<scaleY>165.6541</scaleY>
-		<scaleZ>165.6541</scaleZ>
-		<rotW>0.9735639</rotW>
-		<rotX>-0.0005730853</rotX>
-		<rotY>-0.2284121</rotY>
-		<rotZ>0.000940827</rotZ>
 	</object>
 	<object>
 		<type>3</type>
@@ -76,4 +61,5 @@
 		<rotY>0.3773267</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Round_Brown_Snow_Large_01</winterPrefab>
 </locationPrefab>

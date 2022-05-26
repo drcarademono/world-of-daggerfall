@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>10</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_DarkBrown/Rock_Flat_DarkBrown_s_07.prefab</name>
+		<name>Rock_Flat_DarkBrown_s_07.prefab</name>
 		<posX>-112</posX>
 		<posY>-19</posY>
 		<posZ>-3</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>11</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_DarkBrown/Rock_Flat_DarkBrown_s_09.prefab</name>
+		<name>Rock_Flat_DarkBrown_s_09.prefab</name>
 		<posX>30.45</posX>
 		<posY>-19</posY>
 		<posZ>46.025</posZ>
@@ -34,7 +34,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_DarkBrown/Rock_Flat_DarkBrown_s_09.prefab</name>
+		<name>Rock_Flat_DarkBrown_s_09.prefab</name>
 		<posX>-38.99</posX>
 		<posY>-19</posY>
 		<posZ>-116.49</posZ>
@@ -49,7 +49,7 @@
 	<object>
 		<type>4</type>
 		<objectID>8</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_DarkBrown/Rock_Flat_DarkBrown_s_09.prefab</name>
+		<name>Rock_Flat_DarkBrown_s_09.prefab</name>
 		<posX>-109.08</posX>
 		<posY>-45.8955</posY>
 		<posZ>177.08</posZ>
@@ -64,7 +64,7 @@
 	<object>
 		<type>3</type>
 		<objectID>20</objectID>
-		<name>wod_rocks_flat_brown_base</name>
+		<name>wod_rocks_flat_darkbrown_base</name>
 		<posX>-79.19421</posX>
 		<posY>-168.2631</posY>
 		<posZ>-92.69511</posZ>
@@ -76,4 +76,5 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Flat_DarkBrown_Snow_Medium_04</winterPrefab>
 </locationPrefab>

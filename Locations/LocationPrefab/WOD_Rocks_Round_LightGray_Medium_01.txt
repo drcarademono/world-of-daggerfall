@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray/Rock_Round_LightGray_m_10.prefab</name>
+		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray_/Rock_Round_LightGray_m_10.prefab</name>
 		<posX>5.019036</posX>
 		<posY>-8.1</posY>
 		<posZ>-71.25536</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>7</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray/Rocks_Round_LightGray_m_01.prefab</name>
+		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray_/Rocks_Round_LightGray_m_01.prefab</name>
 		<posX>-57.60001</posX>
 		<posY>-8.1</posY>
 		<posZ>52.3</posZ>
@@ -34,7 +34,7 @@
 	<object>
 		<type>4</type>
 		<objectID>8</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray/Rock_Round_LightGray_m_01.prefab</name>
+		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray_/Rock_Round_LightGray_m_01.prefab</name>
 		<posX>88.7</posX>
 		<posY>-12.6</posY>
 		<posZ>81.6</posZ>
@@ -61,4 +61,5 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Round_LightGray_Snow_Medium_01</winterPrefab>
 </locationPrefab>

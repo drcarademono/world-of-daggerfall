@@ -5,9 +5,9 @@
 		<type>4</type>
 		<objectID>3</objectID>
 		<name>Rock_Round_DarkBrown_m_02</name>
-		<posX>-126.6</posX>
-		<posY>-28.308</posY>
-		<posZ>-21.7</posZ>
+		<posX>-177.9</posX>
+		<posY>-6.6</posY>
+		<posZ>4.499999</posZ>
 		<scaleX>185.0363</scaleX>
 		<scaleY>185.0363</scaleY>
 		<scaleZ>185.0363</scaleZ>
@@ -20,9 +20,9 @@
 		<type>4</type>
 		<objectID>10</objectID>
 		<name>Rocks_Round_DarkBrown_m_01</name>
-		<posX>153.4963</posX>
-		<posY>-21.7</posY>
-		<posZ>40.07747</posZ>
+		<posX>103.7</posX>
+		<posY>1.4</posY>
+		<posZ>-19.2</posZ>
 		<scaleX>171.6488</scaleX>
 		<scaleY>171.6488</scaleY>
 		<scaleZ>171.6488</scaleZ>
@@ -34,7 +34,7 @@
 	<object>
 		<type>3</type>
 		<objectID>7</objectID>
-		<name>wod_rocks_round_brown_base</name>
+		<name>wod_rocks_round_darkbrown_base</name>
 		<posX>13</posX>
 		<posY>4.2</posY>
 		<posZ>50.7</posZ>
@@ -46,4 +46,5 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Round_DarkBrown_Snow_Large_10</winterPrefab>
 </locationPrefab>

@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_Gray/Rock_Flat_Gray_l_06.prefab</name>
+		<name>Rock_Flat_Gray_l_06.prefab</name>
 		<posX>56.62175</posX>
 		<posY>-396.6682</posY>
 		<posZ>-10.27694</posZ>
@@ -16,4 +16,5 @@
 		<rotY>-0.003415084</rotY>
 		<rotZ>-0.01832199</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Flat_Gray_Snow_Base</winterPrefab>
 </locationPrefab>

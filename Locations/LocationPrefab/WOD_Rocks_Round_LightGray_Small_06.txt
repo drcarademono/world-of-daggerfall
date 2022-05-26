@@ -2,15 +2,30 @@
 	<height>44</height>
 	<width>44</width>
 	<object>
+		<type>3</type>
+		<objectID>17</objectID>
+		<name>wod_rocks_round_lightgray_base</name>
+		<posX>-16.67163</posX>
+		<posY>0.5</posY>
+		<posZ>-15.4487</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
 		<type>4</type>
-		<objectID>3</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray/Rock_Round_LightGray_s_09.prefab</name>
-		<posX>-46.429</posX>
-		<posY>-7.8</posY>
-		<posZ>-80.675</posZ>
-		<scaleX>186.9072</scaleX>
-		<scaleY>186.9072</scaleY>
-		<scaleZ>186.9072</scaleZ>
+		<objectID>0</objectID>
+		<name>Rocks_Round_LightGray_m_03</name>
+		<posX>17.6</posX>
+		<posY>-3.6</posY>
+		<posZ>-47.8</posZ>
+		<scaleX>91.79017</scaleX>
+		<scaleY>91.79017</scaleY>
+		<scaleZ>91.79017</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -19,46 +34,17 @@
 	<object>
 		<type>4</type>
 		<objectID>4</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray/Rock_Round_LightGray_l_05.prefab</name>
-		<posX>-21.153</posX>
-		<posY>-7.8</posY>
-		<posZ>-30.737</posZ>
-		<scaleX>59.81638</scaleX>
-		<scaleY>59.81638</scaleY>
-		<scaleZ>59.81638</scaleZ>
-		<rotW>0.7650689</rotW>
+		<name>Rocks_Round_LightGray_m_01</name>
+		<posX>-2.6</posX>
+		<posY>0.4</posY>
+		<posZ>63.6</posZ>
+		<scaleX>79.46049</scaleX>
+		<scaleY>79.46049</scaleY>
+		<scaleZ>79.46049</scaleZ>
+		<rotW>1</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.6439485</rotY>
+		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<object>
-		<type>4</type>
-		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray/Rock_Round_LightGray_crk_m_01.prefab</name>
-		<posX>61.871</posX>
-		<posY>-7.8</posY>
-		<posZ>63.258</posZ>
-		<scaleX>84.04692</scaleX>
-		<scaleY>84.04692</scaleY>
-		<scaleZ>84.04692</scaleZ>
-		<rotW>-0.07107843</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.9974708</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>3</type>
-		<objectID>34</objectID>
-		<name>wod_rocks_round_lightgray_base</name>
-		<posX>-17.2</posX>
-		<posY>1.7</posY>
-		<posZ>-1.3</posZ>
-		<scaleX>0.60279</scaleX>
-		<scaleY>0.60279</scaleY>
-		<scaleZ>0.60279</scaleZ>
-		<rotW>0.9858052</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.1678933</rotY>
-		<rotZ>0</rotZ>
-	</object>
+	<winterPrefab>WOD_Rocks_Round_LightGray_Snow_Small_06</winterPrefab>
 </locationPrefab>

@@ -1,64 +1,35 @@
 <locationPrefab>
-	<height>75</height>
-	<width>75</width>
+	<height>90</height>
+	<width>90</width>
 	<object>
-		<type>4</type>
-		<objectID>4</objectID>
-		<name>Rock_Round_LightGray_Grass_s_2C_09</name>
-		<posX>10</posX>
-		<posY>-112.4</posY>
-		<posZ>12</posZ>
-		<scaleX>328.0012</scaleX>
-		<scaleY>328.0012</scaleY>
-		<scaleZ>328.0012</scaleZ>
-		<rotW>0.8832399</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.4689215</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>12</objectID>
-		<name>Rock_Round_LightGray_Grass_m_2C_08</name>
-		<posX>4.520477</posX>
-		<posY>0.1</posY>
-		<posZ>16.94904</posZ>
+		<type>3</type>
+		<objectID>16</objectID>
+		<name>wod_rocks_round_lightgray_grass_base</name>
+		<posX>-68.1</posX>
+		<posY>3.100006</posY>
+		<posZ>39.1</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<rotW>1</rotW>
+		<rotW>0.9260802</rotW>
 		<rotX>0</rotX>
-		<rotY>0</rotY>
+		<rotY>0.3773267</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Rock_Round_LightGray_Grass_s_2C_09</name>
-		<posX>-5.7</posX>
-		<posY>28.5</posY>
-		<posZ>3.9</posZ>
-		<scaleX>282.5736</scaleX>
-		<scaleY>282.5736</scaleY>
-		<scaleZ>282.5736</scaleZ>
-		<rotW>0.8020571</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.5972474</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>3</type>
-		<objectID>2</objectID>
-		<name>wod_rocks_round_lightgray_grass_base</name>
-		<posX>4.520477</posX>
-		<posY>0.1</posY>
-		<posZ>16.94904</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
+		<name>Rocks_Round_LightGray_Grass_l_2C_02</name>
+		<posX>-27.6</posX>
+		<posY>8</posY>
+		<posZ>43.9</posZ>
+		<scaleX>150.0119</scaleX>
+		<scaleY>150.0119</scaleY>
+		<scaleZ>150.0119</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Round_LightGray_Snow_Large_02</winterPrefab>
 </locationPrefab>

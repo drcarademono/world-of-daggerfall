@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>14</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_LightGray/Rock_Flat_LightGray_crk_m_01.prefab</name>
+		<name>Rock_Flat_LightGray_crk_m_01.prefab</name>
 		<posX>-17.8</posX>
 		<posY>-0.9</posY>
 		<posZ>-15.8</posZ>
@@ -31,4 +31,5 @@
 		<rotY>0.3289884</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Flat_LightGray_Snow_Medium_05</winterPrefab>
 </locationPrefab>

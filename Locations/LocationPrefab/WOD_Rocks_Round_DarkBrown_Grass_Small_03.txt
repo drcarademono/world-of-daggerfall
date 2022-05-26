@@ -49,7 +49,7 @@
 	<object>
 		<type>3</type>
 		<objectID>31</objectID>
-		<name>wod_rocks_round_brown_grass_base</name>
+		<name>wod_rocks_round_darkbrown_grass_base</name>
 		<posX>-1.5</posX>
 		<posY>-0.6000004</posY>
 		<posZ>-4.8</posZ>
@@ -61,4 +61,5 @@
 		<rotY>-0.2514548</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<winterPrefab>WOD_Rocks_Round_DarkBrown_Snow_Small_03</winterPrefab>
 </locationPrefab>

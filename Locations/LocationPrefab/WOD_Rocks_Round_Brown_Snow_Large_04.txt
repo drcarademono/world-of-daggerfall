@@ -1,0 +1,34 @@
+<locationPrefab>
+	<height>82</height>
+	<width>82</width>
+	<object>
+		<type>4</type>
+		<objectID>9</objectID>
+		<name>Rocks_Round_Brown_Snow_m_2C_03</name>
+		<posX>4.6</posX>
+		<posY>-13</posY>
+		<posZ>-46.6</posZ>
+		<scaleX>224.693</scaleX>
+		<scaleY>224.693</scaleY>
+		<scaleZ>224.693</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>5</objectID>
+		<name>wod_rocks_round_brown_snow_base</name>
+		<posX>-30.57018</posX>
+		<posY>3</posY>
+		<posZ>-15.69962</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+</locationPrefab>

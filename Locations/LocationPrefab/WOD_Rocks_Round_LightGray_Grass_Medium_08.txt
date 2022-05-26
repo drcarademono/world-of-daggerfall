@@ -3,29 +3,14 @@
 	<width>78</width>
 	<object>
 		<type>4</type>
-		<objectID>20</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray_Grass/Rock_Round_LightGray_Grass_l_2C_05.prefab</name>
-		<posX>76.2</posX>
-		<posY>-7.5</posY>
-		<posZ>14.9</posZ>
-		<scaleX>133.1409</scaleX>
-		<scaleY>133.1409</scaleY>
-		<scaleZ>133.1409</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>4</type>
 		<objectID>21</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_LightGray_Grass/Rock_Round_LightGray_Grass_m_2C_04.prefab</name>
-		<posX>-1.000003</posX>
-		<posY>-7.5</posY>
-		<posZ>-38.3</posZ>
-		<scaleX>323.8344</scaleX>
-		<scaleY>323.8344</scaleY>
-		<scaleZ>323.8344</scaleZ>
+		<name>Rock_Round_LightGray_Grass_m_2C_04</name>
+		<posX>39.149</posX>
+		<posY>-31</posY>
+		<posZ>-74.272</posZ>
+		<scaleX>261.0462</scaleX>
+		<scaleY>261.0462</scaleY>
+		<scaleZ>261.0462</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -41,9 +26,25 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<rotW>0.7920941</rotW>
+		<rotW>0.792094</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.6103991</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<object>
+		<type>4</type>
+		<objectID>17</objectID>
+		<name>Rocks_Round_LightGray_Grass_l_2C_02</name>
+		<posX>-81.87025</posX>
+		<posY>-63</posY>
+		<posZ>29.90609</posZ>
+		<scaleX>107.9756</scaleX>
+		<scaleY>107.9756</scaleY>
+		<scaleZ>107.9756</scaleZ>
+		<rotW>0.7270938</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.6865382</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<winterPrefab>WOD_Rocks_Round_LightGray_Snow_Medium_08</winterPrefab>
 </locationPrefab>

@@ -2,33 +2,34 @@
 	<height>34</height>
 	<width>34</width>
 	<object>
-		<type>4</type>
-		<objectID>7</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Round_Gray_Grass/Rock_Round_Gray_Grass_crk_s_2C_04.prefab</name>
-		<posX>-3.2</posX>
-		<posY>-4.84259</posY>
-		<posZ>-16.1</posZ>
-		<scaleX>247.378</scaleX>
-		<scaleY>247.378</scaleY>
-		<scaleZ>247.378</scaleZ>
-		<rotW>0.8671151</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.4981079</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
 		<type>3</type>
-		<objectID>28</objectID>
+		<objectID>17</objectID>
 		<name>wod_rocks_round_gray_grass_base</name>
-		<posX>28.172</posX>
-		<posY>6.4</posY>
-		<posZ>-10.117</posZ>
-		<scaleX>0.5765</scaleX>
-		<scaleY>0.5765</scaleY>
-		<scaleZ>0.5765</scaleZ>
+		<posX>-16.67163</posX>
+		<posY>0.5</posY>
+		<posZ>-15.4487</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<object>
+		<type>4</type>
+		<objectID>0</objectID>
+		<name>Rocks_Round_Gray_Grass_m_2C_01</name>
+		<posX>6</posX>
+		<posY>-1.1</posY>
+		<posZ>-12</posZ>
+		<scaleX>91.79491</scaleX>
+		<scaleY>91.79491</scaleY>
+		<scaleZ>91.79491</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<winterPrefab>WOD_Rocks_Round_Gray_Snow_Medium_12</winterPrefab>
 </locationPrefab>
