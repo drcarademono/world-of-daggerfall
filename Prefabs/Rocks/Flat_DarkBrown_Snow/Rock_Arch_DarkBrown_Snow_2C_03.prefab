@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3384328}
   - component: {fileID: 2393560}
   - component: {fileID: 6404298}
+  - component: {fileID: -7834174115782414300}
   m_Layer: 0
   m_Name: Rock_Arch_DarkBrown_Snow_2C_03
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 175498}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 0b201363fe4983a4ab1a116f7ae2d9ec, type: 3}
+--- !u!64 &-7834174115782414300
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 175498}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 1e2026b2e6b29dc4481f685a8e1244ab, type: 3}

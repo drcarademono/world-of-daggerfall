@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3354648}
   - component: {fileID: 2352382}
   - component: {fileID: 6491422}
+  - component: {fileID: 2765725728146872778}
   m_Layer: 0
   m_Name: Rock_Round_Gray_m_07
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 161122}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 1ec59e22338a92548b814c8bc0e93486, type: 3}
+--- !u!64 &2765725728146872778
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 161122}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 4a613d3b905904b41963380fdadf2525, type: 3}

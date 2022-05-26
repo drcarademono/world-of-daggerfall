@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3345846}
   - component: {fileID: 2329846}
   - component: {fileID: 6479706}
+  - component: {fileID: 5372531763502013353}
   m_Layer: 0
   m_Name: Rock_Round_DarkBrown_Snow_l_2C_05
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 163344}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 25f9f7a8af6d37b4e963623dcd683ac6, type: 3}
+--- !u!64 &5372531763502013353
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 163344}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: f9921adce26727345ab918acb155f06a, type: 3}

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3330884}
   - component: {fileID: 2344696}
   - component: {fileID: 6463042}
+  - component: {fileID: -1080444807775711162}
   m_Layer: 0
   m_Name: Rock_Flat_LightGray_Snow_crk_s_2C_04
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 176610}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2f13b6d7d3d1ab24789222d560c0846e, type: 3}
+--- !u!64 &-1080444807775711162
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 176610}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 20474c167f28e5f4894e603a08839a42, type: 3}

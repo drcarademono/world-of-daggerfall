@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 479964}
   - component: {fileID: 3384604}
   - component: {fileID: 2326302}
+  - component: {fileID: 3296863444376491473}
   m_Layer: 0
   m_Name: Rocks_Flat_DarkBrown_s_02
   m_TagString: Untagged
@@ -79,3 +80,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &3296863444376491473
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102084}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 461003dafb47a5e41a759aaa55f01fd1, type: 3}

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3324670}
   - component: {fileID: 2387962}
   - component: {fileID: 6484024}
+  - component: {fileID: -5013478685420005345}
   m_Layer: 0
   m_Name: Rock_Arch_DarkBrown_Grass_2C_01
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 168744}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 49f9159069487be41b8417b1f55c3b26, type: 3}
+--- !u!64 &-5013478685420005345
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168744}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 85212ccbfb2c0c74fb3cbab11d7817ea, type: 3}

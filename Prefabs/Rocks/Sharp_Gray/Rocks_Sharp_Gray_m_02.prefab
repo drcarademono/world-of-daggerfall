@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3326536}
   - component: {fileID: 2312942}
   - component: {fileID: 6475076}
+  - component: {fileID: 1900523462604365226}
   m_Layer: 0
   m_Name: Rocks_Sharp_Gray_m_02
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 117304}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 5cb6403c9a3b09d4082019f3ac9c0300, type: 3}
+--- !u!64 &1900523462604365226
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117304}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 2d0b9dc7e35d43d4fa1bbc313220fde0, type: 3}

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3349318}
   - component: {fileID: 2342610}
   - component: {fileID: 6458832}
+  - component: {fileID: 1690647999574315792}
   m_Layer: 0
   m_Name: Rock_Flat_Gray_Grass_s_2C_03
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 134634}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 5d3a3db4fe39e3b4a99e120273351908, type: 3}
+--- !u!64 &1690647999574315792
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 134634}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: c3a092dd8eac89f49819d0759c09efe2, type: 3}

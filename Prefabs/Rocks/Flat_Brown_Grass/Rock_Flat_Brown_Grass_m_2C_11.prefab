@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 3354652}
   - component: {fileID: 2358258}
   - component: {fileID: 6471586}
+  - component: {fileID: -8511813252149679256}
   m_Layer: 0
-  m_Name: Rock_Flat_m_2C_11
+  m_Name: Rock_Flat_Brown_Grass_m_2C_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 132182}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 29929f1f05e56fa4b95d875ca0edc82c, type: 3}
+--- !u!64 &-8511813252149679256
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 132182}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 2c96c7d786ec3a243b4c00d79af237b9, type: 3}

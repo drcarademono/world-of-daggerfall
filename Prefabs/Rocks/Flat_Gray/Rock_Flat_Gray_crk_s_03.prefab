@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3324412}
   - component: {fileID: 2331826}
   - component: {fileID: 6471362}
+  - component: {fileID: 409534793290822666}
   m_Layer: 0
   m_Name: Rock_Flat_Gray_crk_s_03
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 123274}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 021b70c54a0908249860cf4ef945da97, type: 3}
+--- !u!64 &409534793290822666
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123274}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: fbc78de381b369d429e4b50f0a2f5a64, type: 3}

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3318950}
   - component: {fileID: 2326926}
   - component: {fileID: 6459600}
+  - component: {fileID: -7345352215226691692}
   m_Layer: 0
   m_Name: Rocks_Round_LightGray_Grass_m_2C_05
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 182350}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 89e1ba6ad75f93f42b631908feb1b47f, type: 3}
+--- !u!64 &-7345352215226691692
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 182350}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: b63ff9d0428db494fa574fdfb44b9eba, type: 3}

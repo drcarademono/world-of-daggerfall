@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3389604}
   - component: {fileID: 2397844}
   - component: {fileID: 6494870}
+  - component: {fileID: 1535582531338340676}
   m_Layer: 0
   m_Name: Rock_Flat_Brown_Snow_m_2C_14
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 115882}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 6c34cbcd5bc3cd44a95f466ecf7f9708, type: 3}
+--- !u!64 &1535582531338340676
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115882}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 41a928a9527fd344382f1cae6f71a638, type: 3}

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 449370}
   - component: {fileID: 3380112}
   - component: {fileID: 2311712}
+  - component: {fileID: -5938110074424389541}
   m_Layer: 0
   m_Name: Rocks_Round_DarkBrown_s_05
   m_TagString: Untagged
@@ -79,3 +80,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &-5938110074424389541
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 153964}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: f5c5acffe64b4144da9afe81cb6f34c6, type: 3}

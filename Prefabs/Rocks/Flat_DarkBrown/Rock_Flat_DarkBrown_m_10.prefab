@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3367946}
   - component: {fileID: 2398964}
   - component: {fileID: 6488588}
+  - component: {fileID: 448619038505940645}
   m_Layer: 0
   m_Name: Rock_Flat_DarkBrown_m_10
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 174610}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2ede32b8028b5684f85bcdee5dbb84d6, type: 3}
+--- !u!64 &448619038505940645
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174610}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: bf8330a847fbef848ace4dbcd2abc5a8, type: 3}

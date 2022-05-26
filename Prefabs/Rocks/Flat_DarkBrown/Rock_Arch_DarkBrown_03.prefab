@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3372760}
   - component: {fileID: 2399246}
   - component: {fileID: 6451482}
+  - component: {fileID: -819045414235336041}
   m_Layer: 0
   m_Name: Rock_Arch_DarkBrown_03
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 140728}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 0b201363fe4983a4ab1a116f7ae2d9ec, type: 3}
+--- !u!64 &-819045414235336041
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 140728}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 8c710fb2c3fc7f749838fcd719188d7c, type: 3}

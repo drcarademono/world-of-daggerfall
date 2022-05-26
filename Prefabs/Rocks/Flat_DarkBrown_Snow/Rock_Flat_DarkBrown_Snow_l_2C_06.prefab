@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3319480}
   - component: {fileID: 2391584}
   - component: {fileID: 6447262}
+  - component: {fileID: 167095714820093046}
   m_Layer: 0
   m_Name: Rock_Flat_DarkBrown_Snow_l_2C_06
   m_TagString: Untagged
@@ -89,8 +90,22 @@ MeshCollider:
   m_GameObject: {fileID: 102372}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 1c614294a1586b340b804747b8fc5034, type: 3}
+--- !u!64 &167095714820093046
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102372}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: c9373a4fe4f04ec419abb498ff847207, type: 3}
