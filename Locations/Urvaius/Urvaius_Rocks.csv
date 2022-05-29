@@ -421,7 +421,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 121234,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_10,443,58,4439058117,90,117,Urvaius,443.703125,-58.0859375,126,0,Temperate Woodlands,LightGray
 121235,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_01,453,101,45311610181,116,81,Urvaius,453.90625,-101.3671875,50,-5,Temperate Woodlands,LightGray
 121236,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_03,478,47,4781154702,115,2,Urvaius,478.8984375,-47.984375,-149,-22,Temperate Woodlands,LightGray
-121237,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_04,465,89,465298961,29,61,Urvaius,465.2265625,-89.5234375,-89,-8,Temperate Woodlands,LightGray
 121238,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_05,414,110,4148311023,83,23,Urvaius,414.6484375,-110.8203125,146,-28,Temperate Woodlands,LightGray
 121239,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_06,504,122,50458122100,58,100,Urvaius,504.453125,-122.21875,178,-23,Temperate Woodlands,LightGray
 121240,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_07,441,117,4414811736,48,36,Urvaius,441.375,-117.71875,61,-11,Temperate Woodlands,LightGray
@@ -749,7 +748,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 121562,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_06,428,45,428914505,91,5,Urvaius,428.7109375,-45.9609375,-37,-4,Temperate Woodlands,LightGray
 121563,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_08,427,117,4272011768,20,68,Urvaius,427.15625,-117.46875,115,-4,Temperate Woodlands,LightGray
 121564,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_12,422,85,4229385101,93,101,Urvaius,422.7265625,-85.2109375,-8,-30,Temperate Woodlands,LightGray
-121565,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_03,459,47,45910347123,103,123,Urvaius,459.8046875,-47.0390625,-171,-22,Temperate Woodlands,LightGray
 121566,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_05,465,108,4650410808,4,8,Urvaius,465.03125,-108.9375,-74,-5,Temperate Woodlands,LightGray
 121567,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_06,473,70,473217010,21,10,Urvaius,473.1640625,-70.921875,-169,-11,Temperate Woodlands,LightGray
 121568,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_07,509,122,5093912250,39,50,Urvaius,509.3046875,-122.609375,67,-23,Temperate Woodlands,LightGray
@@ -1128,7 +1126,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 121941,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_06,427,46,427044631,4,31,Urvaius,427.03125,-46.7578125,101,-12,Temperate Woodlands,LightGray
 121942,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_07,479,48,479434841,43,41,Urvaius,479.3359375,-48.6796875,-76,-15,Temperate Woodlands,LightGray
 121943,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_08,428,115,42890115123,90,123,Urvaius,428.703125,-115.0390625,-93,0,Temperate Woodlands,LightGray
-121944,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_10,463,71,4637971123,79,123,Urvaius,463.6171875,-71.0390625,-175,-1,Temperate Woodlands,LightGray
 121945,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_11,478,111,4785811149,58,49,Urvaius,478.453125,-111.6171875,-56,-14,Temperate Woodlands,LightGray
 121946,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_12,461,89,461818961,81,61,Urvaius,461.6328125,-89.5234375,-88,-19,Temperate Woodlands,LightGray
 121947,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_01,489,123,4896412380,64,80,Urvaius,489.5,-123.375,43,-12,Temperate Woodlands,LightGray
@@ -1147,12 +1144,10 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 121960,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_03,462,42,4627142115,71,115,Urvaius,462.5546875,-42.1015625,-42,-6,Temperate Woodlands,LightGray
 121961,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_04,456,131,45610131125,10,125,Urvaius,456.078125,-131.0234375,1,-8,Temperate Woodlands,LightGray
 121962,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_05,462,96,462559615,55,15,Urvaius,462.4296875,-96.8828125,71,-26,Temperate Woodlands,LightGray
-121963,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_06,454,94,4549194118,91,118,Urvaius,454.7109375,-94.078125,-115,-13,Temperate Woodlands,LightGray
 121964,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_07,430,107,43047107125,47,125,Urvaius,430.3671875,-107.0234375,-4,-28,Temperate Woodlands,LightGray
 121965,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_08,482,114,4821911401,19,1,Urvaius,482.1484375,-114.9921875,-89,-7,Temperate Woodlands,LightGray
 121966,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_09,463,120,46386120127,86,127,Urvaius,463.671875,-120.0078125,-84,-1,Temperate Woodlands,LightGray
 121967,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_10,486,100,4863610014,36,14,Urvaius,486.28125,-100.890625,100,-23,Temperate Woodlands,LightGray
-121968,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_11,440,61,440306171,30,71,Urvaius,440.234375,-61.4453125,37,-29,Temperate Woodlands,LightGray
 121969,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_12,444,106,44426106109,26,109,Urvaius,444.203125,-106.1484375,83,-27,Temperate Woodlands,LightGray
 121970,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_01,442,84,4426784104,67,104,Urvaius,442.5234375,-84.1875,-173,-17,Temperate Woodlands,LightGray
 121971,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_02,488,62,488016243,1,43,Urvaius,488.0078125,-62.6640625,-75,-13,Temperate Woodlands,LightGray

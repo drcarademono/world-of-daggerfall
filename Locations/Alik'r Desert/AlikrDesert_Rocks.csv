@@ -320,7 +320,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129944,Rocks,1,WOD_Rocks_Flat_Brown_Large_09,517,430,517101430126,101,126,Alik'r Desert,517.7890625,-430.015625,-155,-27,Desert,Brown
 129945,Rocks,1,WOD_Rocks_Flat_Brown_Small_03,228,483,2283448324,34,24,Alik'r Desert,228.265625,-483.8125,-73,0,Desert,Brown
 129946,Rocks,1,WOD_Rocks_Flat_Brown_Small_04,563,434,56318434101,18,101,Alik'r Desert,563.140625,-434.2109375,-97,0,Desert,Brown
-129947,Rocks,1,WOD_Rocks_Flat_Brown_Small_06,617,411,61799411101,99,101,Alik'r Desert,617.7734375,-411.2109375,-36,0,Desert,Brown
 129948,Rocks,1,WOD_Rocks_Flat_Brown_Small_10,424,495,424106495102,106,102,Alik'r Desert,424.828125,-495.203125,-134,0,Desert,Brown
 129949,Rocks,1,WOD_Rocks_Flat_Brown_Medium_02,551,417,551104417111,104,111,Alik'r Desert,551.8125,-417.1328125,180,-11,Desert,Brown
 129950,Rocks,1,WOD_Rocks_Flat_Brown_Medium_03,226,481,2267148161,71,61,Alik'r Desert,226.5546875,-481.5234375,118,-7,Desert,Brown
@@ -1107,7 +1106,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 130743,Rocks,1,WOD_Rocks_Flat_Brown_Large_02,252,472,2527247279,72,79,Alik'r Desert,252.5625,-472.3828125,121,-8,Desert,Brown
 130744,Rocks,1,WOD_Rocks_Flat_Brown_Large_03,371,410,3719441054,94,54,Alik'r Desert,371.734375,-410.578125,55,-18,Desert,Brown
 130745,Rocks,1,WOD_Rocks_Flat_Brown_Large_04,380,465,38012746546,127,46,Alik'r Desert,380.9921875,-465.640625,-127,-6,Desert,Brown
-130746,Rocks,1,WOD_Rocks_Flat_Brown_Large_05,446,452,44611845231,118,31,Alik'r Desert,446.921875,-452.7578125,-71,-9,Desert,Brown
 130747,Rocks,1,WOD_Rocks_Flat_Brown_Large_06,291,458,2911045840,10,40,Alik'r Desert,291.078125,-458.6875,-119,-11,Desert,Brown
 130748,Rocks,1,WOD_Rocks_Flat_Brown_Large_08,452,471,45212047198,120,98,Alik'r Desert,452.9375,-471.234375,-132,-3,Desert,Brown
 130749,Rocks,1,WOD_Rocks_Flat_Brown_Large_09,557,384,55710338488,103,88,Alik'r Desert,557.8046875,-384.3125,-82,-17,Desert,Brown
@@ -2868,7 +2866,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 132528,Rocks,1,WOD_Rocks_Flat_Brown_Large_04,437,448,4370344879,3,79,Alik'r Desert,437.0234375,-448.3828125,64,-1,Desert,Brown
 132529,Rocks,1,WOD_Rocks_Flat_Brown_Large_05,448,458,4486845849,68,49,Alik'r Desert,448.53125,-458.6171875,-54,-22,Desert,Brown
 132530,Rocks,1,WOD_Rocks_Flat_Brown_Large_06,363,427,3639842747,98,47,Alik'r Desert,363.765625,-427.6328125,-23,-30,Desert,Brown
-132531,Rocks,1,WOD_Rocks_Flat_Brown_Large_07,546,405,5464840561,48,61,Alik'r Desert,546.375,-405.5234375,40,-18,Desert,Brown
 132532,Rocks,1,WOD_Rocks_Flat_Brown_Large_08,388,450,38812045015,120,15,Alik'r Desert,388.9375,-450.8828125,135,-19,Desert,Brown
 132533,Rocks,1,WOD_Rocks_Flat_Brown_Large_09,332,431,3321643174,16,74,Alik'r Desert,332.125,-431.421875,-94,-11,Desert,Brown
 132534,Rocks,1,WOD_Rocks_Flat_Brown_Small_01,239,462,2395246255,52,55,Alik'r Desert,239.40625,-462.5703125,-143,0,Desert,Brown
@@ -3849,7 +3846,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 133520,Rocks,1,WOD_Rocks_Flat_Brown_Medium_03,221,495,2219249579,92,79,Alik'r Desert,221.71875,-495.3828125,-129,-14,Desert,Brown
 133521,Rocks,1,WOD_Rocks_Flat_Brown_Medium_04,399,465,3991446519,14,19,Alik'r Desert,399.109375,-465.8515625,149,-4,Desert,Brown
 133522,Rocks,1,WOD_Rocks_Flat_Brown_Medium_05,592,389,5929838977,98,77,Alik'r Desert,592.765625,-389.3984375,47,-5,Desert,Brown
-133523,Rocks,1,WOD_Rocks_Flat_Brown_Medium_06,527,442,527107442119,107,119,Alik'r Desert,527.8359375,-442.0703125,162,-22,Desert,Brown
 133524,Rocks,1,WOD_Rocks_Flat_Brown_Medium_07,539,415,53911441528,114,28,Alik'r Desert,539.890625,-415.78125,81,-24,Desert,Brown
 133525,Rocks,1,WOD_Rocks_Flat_Brown_Medium_08,328,444,32810444484,104,84,Alik'r Desert,328.8125,-444.34375,-14,-18,Desert,Brown
 133526,Rocks,1,WOD_Rocks_Flat_Brown_Medium_09,376,454,3760745464,7,64,Alik'r Desert,376.0546875,-454.5,14,-5,Desert,Brown
@@ -5727,7 +5723,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 135424,Rocks,1,WOD_Rocks_Flat_Brown_Large_04,576,403,576117403128,117,128,Alik'r Desert,576.9140625,-403,-1,-12,Desert,Brown
 135425,Rocks,1,WOD_Rocks_Flat_Brown_Large_05,274,469,2742646986,26,86,Alik'r Desert,274.203125,-469.328125,35,-8,Desert,Brown
 135426,Rocks,1,WOD_Rocks_Flat_Brown_Large_06,378,480,37811648019,116,19,Alik'r Desert,378.90625,-480.8515625,-3,-10,Desert,Brown
-135427,Rocks,1,WOD_Rocks_Flat_Brown_Large_07,328,482,3285348244,53,44,Alik'r Desert,328.4140625,-482.65625,131,-4,Desert,Brown
 135428,Rocks,1,WOD_Rocks_Flat_Brown_Large_08,627,429,6277942933,79,33,Alik'r Desert,627.6171875,-429.7421875,-48,-24,Desert,Brown
 135429,Rocks,1,WOD_Rocks_Flat_Brown_Large_09,591,420,5918542071,85,71,Alik'r Desert,591.6640625,-420.4453125,94,-21,Desert,Brown
 135430,Rocks,1,WOD_Rocks_Flat_Brown_Small_02,560,428,56080428119,80,119,Alik'r Desert,560.625,-428.0703125,-137,0,Desert,Brown
@@ -5752,7 +5747,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 135449,Rocks,1,WOD_Rocks_Flat_Brown_Large_01,405,431,40519431122,19,122,Alik'r Desert,405.1484375,-431.046875,134,-19,Desert,Brown
 135450,Rocks,1,WOD_Rocks_Flat_Brown_Large_02,271,497,27111849728,118,28,Alik'r Desert,271.921875,-497.78125,174,-29,Desert,Brown
 135451,Rocks,1,WOD_Rocks_Flat_Brown_Large_03,359,416,3593541658,35,58,Alik'r Desert,359.2734375,-416.546875,-136,-4,Desert,Brown
-135452,Rocks,1,WOD_Rocks_Flat_Brown_Large_04,400,417,4009141710,91,10,Alik'r Desert,400.7109375,-417.921875,92,-30,Desert,Brown
 135453,Rocks,1,WOD_Rocks_Flat_Brown_Large_05,403,476,40310747691,107,91,Alik'r Desert,403.8359375,-476.2890625,-77,0,Desert,Brown
 135454,Rocks,1,WOD_Rocks_Flat_Brown_Large_06,552,409,5521640949,16,49,Alik'r Desert,552.125,-409.6171875,33,0,Desert,Brown
 135455,Rocks,1,WOD_Rocks_Flat_Brown_Large_08,616,399,61677399116,77,116,Alik'r Desert,616.6015625,-399.09375,73,-7,Desert,Brown
@@ -6041,7 +6035,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 135742,Rocks,1,WOD_Rocks_Flat_Brown_Medium_02,450,478,45018478124,18,124,Alik'r Desert,450.140625,-478.03125,-180,-16,Desert,Brown
 135743,Rocks,1,WOD_Rocks_Flat_Brown_Medium_03,366,441,3669844187,98,87,Alik'r Desert,366.765625,-441.3203125,-11,-20,Desert,Brown
 135744,Rocks,1,WOD_Rocks_Flat_Brown_Medium_04,540,435,54011143539,111,39,Alik'r Desert,540.8671875,-435.6953125,-91,-28,Desert,Brown
-135745,Rocks,1,WOD_Rocks_Flat_Brown_Medium_05,547,405,5470440580,4,80,Alik'r Desert,547.03125,-405.375,-102,-14,Desert,Brown
 135746,Rocks,1,WOD_Rocks_Flat_Brown_Medium_06,528,425,5280442549,4,49,Alik'r Desert,528.03125,-425.6171875,127,-22,Desert,Brown
 135747,Rocks,1,WOD_Rocks_Flat_Brown_Medium_07,305,460,30511460124,11,124,Alik'r Desert,305.0859375,-460.03125,-70,-15,Desert,Brown
 135748,Rocks,1,WOD_Rocks_Flat_Brown_Medium_08,356,482,3569548213,95,13,Alik'r Desert,356.7421875,-482.8984375,-7,-7,Desert,Brown
@@ -7139,7 +7132,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 136853,Rocks,1,WOD_Rocks_Flat_Brown_Medium_07,499,404,4993240479,32,79,Alik'r Desert,499.25,-404.3828125,-3,-3,Desert,Brown
 136854,Rocks,1,WOD_Rocks_Flat_Brown_Medium_08,516,447,51611344790,113,90,Alik'r Desert,516.8828125,-447.296875,22,-2,Desert,Brown
 136855,Rocks,1,WOD_Rocks_Flat_Brown_Medium_09,538,441,5381444193,14,93,Alik'r Desert,538.109375,-441.2734375,123,-19,Desert,Brown
-136856,Rocks,1,WOD_Rocks_Flat_Brown_Medium_10,477,473,47710547316,105,16,Alik'r Desert,477.8203125,-473.875,94,-7,Desert,Brown
 136857,Rocks,1,WOD_Rocks_Flat_Brown_Medium_11,605,412,60511641216,116,16,Alik'r Desert,605.90625,-412.875,-141,-15,Desert,Brown
 136858,Rocks,1,WOD_Rocks_Flat_Brown_Medium_12,330,487,3305048773,50,73,Alik'r Desert,330.390625,-487.4296875,-85,-23,Desert,Brown
 136859,Rocks,1,WOD_Rocks_Flat_Brown_Large_01,221,498,22111249874,112,74,Alik'r Desert,221.875,-498.421875,-180,-5,Desert,Brown

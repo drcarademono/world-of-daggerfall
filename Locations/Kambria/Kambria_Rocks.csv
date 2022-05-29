@@ -4,7 +4,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 141902,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_05,632,50,6321035005,103,5,Kambria,632.8046875,-50.9609375,55,-7,Mountains,Gray
 141903,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_06,635,44,635894413,89,13,Kambria,635.6953125,-44.8984375,-88,0,Mountains,Gray
 141919,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_10,629,50,6297850123,78,123,Kambria,629.609375,-50.0390625,-123,0,Mountains,Gray
-141926,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_04,652,60,6520460106,4,106,Kambria,652.03125,-60.171875,-18,0,Mountains,Gray
 141934,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_02,644,45,6446545104,65,104,Kambria,644.5078125,-45.1875,58,-13,Mountains,Gray
 141935,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_08,635,45,6350745111,7,111,Kambria,635.0546875,-45.1328125,-99,-17,Mountains,Gray
 141946,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_08,638,44,6381024402,102,2,Kambria,638.796875,-44.984375,-146,-27,Mountains,Gray
@@ -18,14 +17,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 141978,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_12,651,60,6513060103,30,103,Kambria,651.234375,-60.1953125,162,-5,Mountains,Gray
 141986,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_02,625,45,6251084529,108,29,Kambria,625.84375,-45.7734375,158,-24,Mountains,Gray
 141993,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_06,655,52,655385221,38,21,Kambria,655.296875,-52.8359375,174,-13,Mountains,Gray
-141994,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_08,655,61,6552361112,23,112,Kambria,655.1796875,-61.125,-165,-16,Mountains,Gray
 141998,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_08,650,60,6508260111,82,111,Kambria,650.640625,-60.1328125,120,0,Mountains,Gray
 142004,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_06,632,51,63210151104,101,104,Kambria,632.7890625,-51.1875,-55,0,Mountains,Gray
 142008,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_07,650,52,650095273,9,73,Kambria,650.0703125,-52.4296875,111,-16,Mountains,Gray
 142026,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_04,627,47,627294777,29,77,Kambria,627.2265625,-47.3984375,122,-22,Mountains,Gray
 142027,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_07,650,59,650455982,45,82,Kambria,650.3515625,-59.359375,62,-14,Mountains,Gray
 142061,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_06,638,45,6381154596,115,96,Kambria,638.8984375,-45.25,-178,0,Mountains,Gray
-142065,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_02,651,59,65112059109,120,109,Kambria,651.9375,-59.1484375,-157,-1,Mountains,Gray
 142068,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_11,640,41,640654166,65,66,Kambria,640.5078125,-41.484375,-83,-25,Mountains,Gray
 142071,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_07,649,48,649964827,96,27,Kambria,649.75,-48.7890625,120,-20,Mountains,Gray
 142072,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_06,648,47,648814705,81,5,Kambria,648.6328125,-47.9609375,-22,0,Mountains,Gray
@@ -33,7 +30,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 142083,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_02,629,44,629454459,45,59,Kambria,629.3515625,-44.5390625,45,-8,Mountains,Gray
 142090,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_08,652,53,65211853115,118,115,Kambria,652.921875,-53.1015625,176,-25,Mountains,Gray
 142093,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_09,644,54,6443154118,31,118,Kambria,644.2421875,-54.078125,-72,0,Mountains,Gray
-142094,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_10,652,60,6524160120,41,120,Kambria,652.3203125,-60.0625,45,0,Mountains,Gray
 142097,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_01,648,47,6485047104,50,104,Kambria,648.390625,-47.1875,63,-19,Mountains,Gray
 142110,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_10,647,46,647324683,32,83,Kambria,647.25,-46.3515625,7,-30,Mountains,Gray
 142113,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_06,626,46,626484628,48,28,Kambria,626.375,-46.78125,-36,0,Mountains,Gray
@@ -167,7 +163,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 142977,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_05,637,49,6376149111,61,111,Kambria,637.4765625,-49.1328125,-42,0,Mountains,Gray
 142979,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_07,647,53,6471015363,101,63,Kambria,647.7890625,-53.5078125,80,0,Mountains,Gray
 142981,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_01,623,44,623174480,17,80,Kambria,623.1328125,-44.375,-11,-6,Mountains,Gray
-143007,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_09,643,40,643364074,36,74,Kambria,643.28125,-40.421875,39,0,Mountains,Gray
 143010,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_05,630,50,630295043,29,43,Kambria,630.2265625,-50.6640625,85,-1,Mountains,Gray
 143012,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_10,652,52,65211652118,116,118,Kambria,652.90625,-52.078125,-128,-7,Mountains,Gray
 143024,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_05,657,43,657684326,68,26,Kambria,657.53125,-43.796875,-105,0,Mountains,Gray
@@ -240,7 +235,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 143445,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_09,645,55,645845585,84,85,Kambria,645.65625,-55.3359375,-123,0,Mountains,Gray
 143446,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_10,658,44,658064436,6,36,Kambria,658.046875,-44.71875,135,0,Mountains,Gray
 143461,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_04,637,43,6371254391,125,91,Kambria,637.9765625,-43.2890625,178,-26,Mountains,Gray
-143464,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Large_09,650,42,6505242111,52,111,Kambria,650.40625,-42.1328125,-54,-23,Mountains,Gray
 143478,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_09,641,56,6416056123,60,123,Kambria,641.46875,-56.0390625,-37,-2,Mountains,Gray
 143493,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Small_09,645,48,645934810,93,10,Kambria,645.7265625,-48.921875,113,0,Mountains,Gray
 143497,Rocks,1,WOD_Rocks_Flat_Gray_Grass_Medium_05,637,52,637985233,98,33,Kambria,637.765625,-52.7421875,71,-28,Mountains,Gray
@@ -963,7 +957,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 142644,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_05,610,59,610415958,41,58,Kambria,610.3203125,-59.546875,-50,-16,Temperate Woodlands,LightGray
 142645,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_06,581,90,5812990106,29,106,Kambria,581.2265625,-90.171875,-58,-8,Temperate Woodlands,LightGray
 142647,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_08,631,72,631237294,23,94,Kambria,631.1796875,-72.265625,-1,-5,Temperate Woodlands,LightGray
-142648,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_09,574,72,574927242,92,42,Kambria,574.71875,-72.671875,53,-7,Temperate Woodlands,LightGray
 142649,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_02,606,75,6061167580,116,80,Kambria,606.90625,-75.375,142,0,Temperate Woodlands,LightGray
 142650,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_03,638,61,638766118,76,18,Kambria,638.59375,-61.859375,-57,0,Temperate Woodlands,LightGray
 142651,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_04,600,43,600294385,29,85,Kambria,600.2265625,-43.3359375,88,0,Temperate Woodlands,LightGray
@@ -979,7 +972,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 142662,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_10,642,61,6421006114,100,14,Kambria,642.78125,-61.890625,20,-28,Temperate Woodlands,LightGray
 142663,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_11,616,66,6163466117,34,117,Kambria,616.265625,-66.0859375,-53,-29,Temperate Woodlands,LightGray
 142664,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_12,644,65,6441365127,13,127,Kambria,644.1015625,-65.0078125,74,-16,Temperate Woodlands,LightGray
-142666,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_02,574,70,574287079,28,79,Kambria,574.21875,-70.3828125,8,-13,Temperate Woodlands,LightGray
 142667,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_03,637,71,637907170,90,70,Kambria,637.703125,-71.453125,-59,-19,Temperate Woodlands,LightGray
 142668,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_04,630,76,630977647,97,47,Kambria,630.7578125,-76.6328125,69,-27,Temperate Woodlands,LightGray
 142670,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_06,601,42,601534254,53,54,Kambria,601.4140625,-42.578125,48,-14,Temperate Woodlands,LightGray
@@ -1056,7 +1048,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 142751,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_01,595,66,595126692,12,92,Kambria,595.09375,-66.28125,-84,-15,Temperate Woodlands,LightGray
 142752,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_02,644,65,6441006502,100,2,Kambria,644.78125,-65.984375,40,-3,Temperate Woodlands,LightGray
 142753,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_03,572,64,5721176481,117,81,Kambria,572.9140625,-64.3671875,50,-23,Temperate Woodlands,LightGray
-142754,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_07,607,84,6074884128,48,128,Kambria,607.375,-84,-109,-13,Temperate Woodlands,LightGray
 142755,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_08,635,71,635257173,25,73,Kambria,635.1953125,-71.4296875,107,-14,Temperate Woodlands,LightGray
 142756,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_09,639,66,639066678,6,78,Kambria,639.046875,-66.390625,6,-11,Temperate Woodlands,LightGray
 142757,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_01,636,85,636488511,48,11,Kambria,636.375,-85.9140625,27,0,Temperate Woodlands,LightGray
@@ -1331,7 +1322,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 143079,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_01,566,80,566218076,21,76,Kambria,566.1640625,-80.40625,-11,-22,Temperate Woodlands,LightGray
 143080,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_02,602,82,602598249,59,49,Kambria,602.4609375,-82.6171875,-42,0,Temperate Woodlands,LightGray
 143081,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_03,607,54,6071245485,124,85,Kambria,607.96875,-54.3359375,-27,-13,Temperate Woodlands,LightGray
-143082,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_06,597,76,5977976107,79,107,Kambria,597.6171875,-76.1640625,-105,-24,Temperate Woodlands,LightGray
 143084,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_09,598,52,598455241,45,41,Kambria,598.3515625,-52.6796875,-135,-19,Temperate Woodlands,LightGray
 143085,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_11,631,67,6311967107,19,107,Kambria,631.1484375,-67.1640625,77,-20,Temperate Woodlands,LightGray
 143086,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_02,650,76,6505576118,55,118,Kambria,650.4296875,-76.078125,47,-23,Temperate Woodlands,LightGray

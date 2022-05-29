@@ -86,7 +86,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 113501,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_06,960,205,9607320521,73,21,Gavaudon,960.5703125,-205.8359375,18,-14,Mountains,Gray
 113504,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,966,212,96694212100,94,100,Gavaudon,966.734375,-212.21875,163,-26,Mountains,Gray
 113507,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,988,213,98892213124,92,124,Gavaudon,988.71875,-213.03125,12,-19,Mountains,Gray
-113508,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,984,213,984109213109,109,109,Gavaudon,984.8515625,-213.1484375,-116,-1,Mountains,Gray
 113510,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,991,213,9913221393,32,93,Gavaudon,991.25,-213.2734375,-118,-27,Mountains,Gray
 113512,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_06,980,214,98015214115,15,115,Gavaudon,980.1171875,-214.1015625,-149,-9,Mountains,Gray
 113513,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_07,959,207,95911720754,117,54,Gavaudon,959.9140625,-207.578125,176,-5,Mountains,Gray
@@ -477,7 +476,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 114809,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,959,208,959103208111,103,111,Gavaudon,959.8046875,-208.1328125,145,0,Mountains,Gray
 114810,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,981,214,98111321470,113,70,Gavaudon,981.8828125,-214.453125,-99,-24,Mountains,Gray
 114811,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_02,961,207,9619320749,93,49,Gavaudon,961.7265625,-207.6171875,-87,-30,Mountains,Gray
-114822,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,965,203,9651020342,10,42,Gavaudon,965.078125,-203.671875,31,-1,Mountains,Gray
 114823,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,980,219,9807421938,74,38,Gavaudon,980.578125,-219.703125,160,-3,Mountains,Gray
 114826,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_07,983,207,98312020740,120,40,Gavaudon,983.9375,-207.6875,171,-12,Mountains,Gray
 114835,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,967,202,9676320294,63,94,Gavaudon,967.4921875,-202.265625,-129,0,Mountains,Gray
@@ -533,7 +531,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 114998,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,962,211,96254211115,54,115,Gavaudon,962.421875,-211.1015625,-25,-20,Mountains,Gray
 115003,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,989,208,9896320815,63,15,Gavaudon,989.4921875,-208.8828125,50,-18,Mountains,Gray
 115006,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,968,203,9687820335,78,35,Gavaudon,968.609375,-203.7265625,-5,-17,Mountains,Gray
-115012,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_07,974,205,9744120552,41,52,Gavaudon,974.3203125,-205.59375,-155,-14,Mountains,Gray
 115013,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_08,982,207,98275207124,75,124,Gavaudon,982.5859375,-207.03125,-3,-5,Mountains,Gray
 115015,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,973,209,97312820907,128,7,Gavaudon,974,-209.9453125,-16,0,Mountains,Gray
 115020,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,977,205,97785205118,85,118,Gavaudon,977.6640625,-205.078125,-178,0,Mountains,Gray
@@ -852,7 +849,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 113368,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_05,995,250,9955025016,50,16,Gavaudon,995.390625,-250.875,40,0,Temperate Woodlands,LightGray
 113369,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,993,234,9935823452,58,52,Gavaudon,993.453125,-234.59375,8,-8,Temperate Woodlands,LightGray
 113374,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_08,996,250,9967025003,70,3,Gavaudon,996.546875,-250.9765625,106,-10,Temperate Woodlands,LightGray
-113375,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_02,996,251,99638251107,38,107,Gavaudon,996.296875,-251.1640625,-77,-4,Temperate Woodlands,LightGray
 113382,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,987,260,9872126038,21,38,Gavaudon,987.1640625,-260.703125,-156,0,Temperate Woodlands,LightGray
 113383,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,985,253,9855025350,50,50,Gavaudon,985.390625,-253.609375,53,0,Temperate Woodlands,LightGray
 113386,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_07,997,244,9970524495,5,95,Gavaudon,997.0390625,-244.2578125,84,0,Temperate Woodlands,LightGray
@@ -1895,7 +1891,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 113228,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,966,230,96646230120,46,120,Gavaudon,966.359375,-230.0625,-171,0,Woodland Hills,Gray
 113229,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,967,215,9679521542,95,42,Gavaudon,967.7421875,-215.671875,-7,0,Woodland Hills,Gray
 113231,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,972,226,972121226107,121,107,Gavaudon,972.9453125,-226.1640625,15,0,Woodland Hills,Gray
-113238,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,969,225,96998225109,98,109,Gavaudon,969.765625,-225.1484375,-127,-26,Woodland Hills,Gray
 113239,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,964,229,9648322921,83,21,Gavaudon,964.6484375,-229.8359375,100,-21,Woodland Hills,Gray
 113242,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_08,966,219,96611421904,114,4,Gavaudon,966.890625,-219.96875,23,-30,Woodland Hills,Gray
 113249,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,975,221,975104221117,104,117,Gavaudon,975.8125,-221.0859375,-34,-23,Woodland Hills,Gray
@@ -1943,7 +1938,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 113362,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_02,961,216,96110621699,106,99,Gavaudon,961.828125,-216.2265625,-70,0,Woodland Hills,Gray
 113364,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,973,217,97311921759,119,59,Gavaudon,973.9296875,-217.5390625,-154,-8,Woodland Hills,Gray
 113365,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,973,231,9737423120,74,20,Gavaudon,973.578125,-231.84375,-45,-28,Woodland Hills,Gray
-113367,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,967,222,9673422247,34,47,Gavaudon,967.265625,-222.6328125,44,-17,Woodland Hills,Gray
 113370,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,973,217,97310421780,104,80,Gavaudon,973.8125,-217.375,3,0,Woodland Hills,Gray
 113371,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_02,987,227,98778227122,78,122,Gavaudon,987.609375,-227.046875,-60,-1,Woodland Hills,Gray
 113373,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_06,988,227,9885422722,54,22,Gavaudon,988.421875,-227.828125,-3,-6,Woodland Hills,Gray
@@ -2627,7 +2621,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 115590,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,967,229,9679822989,98,89,Gavaudon,967.765625,-229.3046875,-146,-2,Woodland Hills,Gray
 115596,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,995,226,99511722657,117,57,Gavaudon,995.9140625,-226.5546875,-49,-17,Woodland Hills,Gray
 115598,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,995,222,9951822267,18,67,Gavaudon,995.140625,-222.4765625,122,-6,Woodland Hills,Gray
-115599,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,961,214,9613221441,32,41,Gavaudon,961.25,-214.6796875,-142,-28,Woodland Hills,Gray
 115601,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,975,217,9755521714,55,14,Gavaudon,975.4296875,-217.890625,113,-5,Woodland Hills,Gray
 115604,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_07,994,228,9945622803,56,3,Gavaudon,994.4375,-228.9765625,-47,-11,Woodland Hills,Gray
 115610,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,979,221,97964221109,64,109,Gavaudon,979.5,-221.1484375,101,0,Woodland Hills,Gray

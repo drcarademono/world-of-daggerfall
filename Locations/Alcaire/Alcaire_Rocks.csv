@@ -188,8 +188,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 56414,Rocks,1,WOD_Rocks_Flat_DarkBrown_Grass_Large_09,737,120,7377112071,71,71,Alcaire,737.5546875,-120.4453125,37,-8,Mountains,Gray
 55620,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_07,723,113,72367113126,67,126,Alcaire,723.5234375,-113.015625,15,0,Temperate Woodlands,LightGray
 55621,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_10,707,110,7077411014,74,14,Alcaire,707.578125,-110.890625,104,0,Temperate Woodlands,LightGray
-55622,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_01,694,121,6945312103,53,3,Alcaire,694.4140625,-121.9765625,-110,-13,Temperate Woodlands,LightGray
-55624,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_07,694,122,69462122120,62,120,Alcaire,694.484375,-122.0625,36,-17,Temperate Woodlands,LightGray
 55625,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_08,701,123,7012112390,21,90,Alcaire,701.1640625,-123.296875,-54,-1,Temperate Woodlands,LightGray
 55626,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_12,720,116,7203211664,32,64,Alcaire,720.25,-116.5,148,-29,Temperate Woodlands,LightGray
 55627,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_02,730,125,7303112522,31,22,Alcaire,730.2421875,-125.828125,129,-5,Temperate Woodlands,LightGray
@@ -281,7 +279,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55728,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_07,718,126,71812612670,126,70,Alcaire,718.984375,-126.453125,89,-9,Temperate Woodlands,LightGray
 55730,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_09,723,100,7230110084,1,84,Alcaire,723.0078125,-100.34375,-50,-27,Temperate Woodlands,LightGray
 55731,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_10,719,130,7193413055,34,55,Alcaire,719.265625,-130.5703125,120,-10,Temperate Woodlands,LightGray
-55732,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_11,706,128,7061212853,12,53,Alcaire,706.09375,-128.5859375,155,-2,Temperate Woodlands,LightGray
 55735,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_04,709,108,7094010870,40,70,Alcaire,709.3125,-108.453125,176,-2,Temperate Woodlands,LightGray
 55736,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_05,707,120,70712212045,122,45,Alcaire,707.953125,-120.6484375,101,-18,Temperate Woodlands,LightGray
 55738,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Large_07,689,104,6891610407,16,7,Alcaire,689.125,-104.9453125,-158,-6,Temperate Woodlands,LightGray
@@ -348,7 +345,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55826,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_07,704,97,7041039735,103,35,Alcaire,704.8046875,-97.7265625,-62,0,Temperate Woodlands,LightGray
 55827,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_08,750,131,75012813142,128,42,Alcaire,751,-131.671875,159,0,Temperate Woodlands,LightGray
 55829,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Small_10,689,106,6897410656,74,56,Alcaire,689.578125,-106.5625,-49,0,Temperate Woodlands,LightGray
-55830,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_01,690,109,6900610993,6,93,Alcaire,690.046875,-109.2734375,167,-3,Temperate Woodlands,LightGray
 55831,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_02,724,112,7244011299,40,99,Alcaire,724.3125,-112.2265625,-4,-21,Temperate Woodlands,LightGray
 55832,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_03,688,115,68837115114,37,114,Alcaire,688.2890625,-115.109375,63,-22,Temperate Woodlands,LightGray
 55833,Rocks,1,WOD_Rocks_Flat_LightGray_Grass_Medium_04,690,102,69016102100,16,100,Alcaire,690.125,-102.21875,-15,-17,Temperate Woodlands,LightGray
