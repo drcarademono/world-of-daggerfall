@@ -1,5 +1,5 @@
-name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,rotYaxis,scale
-Small Mountain,3,WOD_Mountain_Brown_08,648,279,78,120,64878279120,Lainlyn,648.609375,-279.0625,-88,0.55
-Small Mountain,3,WOD_Mountain_Brown_08,650,278,10,73,6501027873,Lainlyn,650.078125,-278.4296875,85,0.57
-Small Mountain,3,WOD_Mountain_Brown_06,665,290,3,4,6650329004,Lainlyn,665.0234375,-290.96875,-20,0.55
-Small Mountain,3,WOD_Mountain_Brown_08,651,289,122,83,65112228983,Lainlyn,651.953125,-289.3515625,76,0.75
+name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,rotYaxis,scale,sink
+Small Mountain,1,WOD_Mountain_Brown_08,648,279,78,120,64878279120,Lainlyn,648.609375,-279.0625,-88,0.55,1
+Small Mountain,1,WOD_Mountain_Brown_08,650,278,10,73,6501027873,Lainlyn,650.078125,-278.4296875,85,0.57,1
+Small Mountain,1,WOD_Mountain_Brown_06,665,290,3,4,6650329004,Lainlyn,665.0234375,-290.96875,-20,0.55,1
+Small Mountain,1,WOD_Mountain_Brown_08,651,289,122,83,65112228983,Lainlyn,651.953125,-289.3515625,76,0.75,1

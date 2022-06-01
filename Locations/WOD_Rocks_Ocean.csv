@@ -48,7 +48,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 134,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,518,154,5189915438,99,38,Dwynnen,518.7734375,-154.703125,62,-16
 135,Rocks,1,WOD_Rocks_Round_Gray_Small_07,519,154,5199615450,96,50,Dwynnen,519.75,-154.609375,-149,0
 136,Rocks,1,WOD_Rocks_Round_Gray_Large_04,524,153,5248615306,86,6,Dwynnen,524.671875,-153.953125,118,0
-200,Rocks,1,WOD_Rocks_Round_Gray_Large_09,1000,304,10001030483,10,83,Mournoth,1000.078125,-304.3515625,-11,-22
 278,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,188,26,188112644,11,44,Northmoor,188.0859375,-26.65625,126,-6
 279,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,227,4,2270104125,1,125,Northmoor,227.0078125,-4.0234375,50,-8
 280,Rocks,1,WOD_Rocks_Round_Gray_Medium_01,122,44,122774419,77,19,Northmoor,122.6015625,-44.8515625,157,0
@@ -90,7 +89,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 523,Rocks,1,WOD_Rocks_Round_Gray_Large_08,318,210,31851210101,51,101,Shalgora,318.3984375,-210.2109375,77,-29
 524,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,323,207,3238020792,80,92,Shalgora,323.625,-207.28125,-49,-28
 563,Rocks,1,WOD_Rocks_Round_Gray_Large_02,470,120,47012412059,124,59,Urvaius,470.96875,-120.5390625,-61,-1
-564,Rocks,1,WOD_Rocks_Round_Gray_Large_03,857,195,8571119588,11,88,Wayrest,857.0859375,-195.3125,135,-2
 565,Rocks,1,WOD_Rocks_Round_Gray_Small_03,847,246,8475324688,53,88,Wayrest,847.4140625,-246.3125,-122,0
 566,Rocks,1,WOD_Rocks_Round_Gray_Medium_03,978,272,9787927228,79,28,Wayrest,978.6171875,-272.78125,-84,-2
 567,Rocks,1,WOD_Rocks_Round_Gray_Medium_07,878,256,87851256111,51,111,Wayrest,878.3984375,-256.1328125,-133,-11
@@ -136,42 +134,20 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 607,Rocks,1,WOD_Rocks_Round_Gray_Medium_12,975,274,9758127445,81,45,Wayrest,975.6328125,-274.6484375,37,-3
 608,Rocks,1,WOD_Rocks_Round_Gray_Small_05,898,265,8986826529,68,29,Wayrest,898.53125,-265.7734375,-50,0
 609,Rocks,1,WOD_Rocks_Round_Gray_Small_10,829,226,8296722664,67,64,Wayrest,829.5234375,-226.5,62,0
-610,Rocks,1,WOD_Rocks_Round_Gray_Large_06,1000,21,1000032107,3,7,Wrothgarian Mountains,1000.023438,-21.9453125,87,0
-611,Rocks,1,WOD_Rocks_Round_Gray_Large_04,1000,3,1000040304,4,4,Wrothgarian Mountains,1000.03125,-3.96875,-15,-22
 612,Rocks,1,WOD_Rocks_Round_Gray_Large_08,918,82,918078247,7,47,Wrothgarian Mountains,918.0546875,-82.6328125,-53,-2
-613,Rocks,1,WOD_Rocks_Round_Gray_Small_04,1000,28,1000052833,5,33,Wrothgarian Mountains,1000.039063,-28.7421875,7,0
-614,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,1000,203,100005203122,5,122,Wrothgarian Mountains,1000.039063,-203.046875,-74,-28
-615,Rocks,1,WOD_Rocks_Round_Gray_Large_04,1000,75,1000227582,22,82,Wrothgarian Mountains,1000.171875,-75.359375,-40,-8
-616,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,1000,179,10002517907,25,7,Wrothgarian Mountains,1000.195313,-179.9453125,55,-23
 617,Rocks,1,WOD_Rocks_Round_Gray_Small_08,917,85,9171178583,117,83,Wrothgarian Mountains,917.9140625,-85.3515625,-60,0
-618,Rocks,1,WOD_Rocks_Round_Gray_Large_05,1000,199,10002219980,22,80,Wrothgarian Mountains,1000.171875,-199.375,-39,-29
 619,Rocks,1,WOD_Rocks_Round_Gray_Small_08,918,82,9183682124,36,124,Wrothgarian Mountains,918.28125,-82.03125,52,0
 620,Rocks,1,WOD_Rocks_Round_Gray_Medium_05,918,84,918798445,79,45,Wrothgarian Mountains,918.6171875,-84.6484375,-82,-19
-621,Rocks,1,WOD_Rocks_Round_Gray_Medium_07,1000,81,10000781117,7,117,Wrothgarian Mountains,1000.054688,-81.0859375,115,-15
 622,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,918,83,918148397,14,97,Wrothgarian Mountains,918.109375,-83.2421875,-60,-26
-623,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,1000,185,10000418511,4,11,Wrothgarian Mountains,1000.03125,-185.9140625,1,-23
-624,Rocks,1,WOD_Rocks_Round_Gray_Large_09,1000,83,10000783104,7,104,Wrothgarian Mountains,1000.054688,-83.1875,64,-15
-625,Rocks,1,WOD_Rocks_Round_Gray_Large_07,1000,125,100006125122,6,122,Wrothgarian Mountains,1000.046875,-125.046875,-144,-6
 626,Rocks,1,WOD_Rocks_Round_Gray_Medium_02,917,86,917498696,49,96,Wrothgarian Mountains,917.3828125,-86.25,-140,-7
 627,Rocks,1,WOD_Rocks_Round_Gray_Large_04,918,84,918698488,69,88,Wrothgarian Mountains,918.5390625,-84.3125,-145,0
-628,Rocks,1,WOD_Rocks_Round_Gray_Small_01,1000,72,1000107241,10,41,Wrothgarian Mountains,1000.078125,-72.6796875,111,0
 629,Rocks,1,WOD_Rocks_Round_Gray_Small_01,917,85,917388543,38,43,Wrothgarian Mountains,917.296875,-85.6640625,-160,0
-630,Rocks,1,WOD_Rocks_Round_Gray_Small_02,1000,152,10000415213,4,13,Wrothgarian Mountains,1000.03125,-152.8984375,167,0
 631,Rocks,1,WOD_Rocks_Round_Gray_Large_08,917,84,9171058428,105,28,Wrothgarian Mountains,917.8203125,-84.78125,-144,-27
 632,Rocks,1,WOD_Rocks_Round_Gray_Medium_05,917,83,9177883128,78,128,Wrothgarian Mountains,917.609375,-83,69,-4
 633,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,918,82,9181168229,116,29,Wrothgarian Mountains,918.90625,-82.7734375,110,-20
-634,Rocks,1,WOD_Rocks_Round_Gray_Large_04,1000,44,1000154449,15,49,Wrothgarian Mountains,1000.117188,-44.6171875,44,-23
-635,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,1000,23,1000232379,23,79,Wrothgarian Mountains,1000.179688,-23.3828125,-172,-1
-636,Rocks,1,WOD_Rocks_Round_Gray_Small_01,1000,94,1000099479,9,79,Wrothgarian Mountains,1000.070313,-94.3828125,-30,0
 637,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,916,86,9161258675,125,75,Wrothgarian Mountains,916.9765625,-86.4140625,28,-20
 638,Rocks,1,WOD_Rocks_Round_Gray_Medium_03,919,82,919458284,45,84,Wrothgarian Mountains,919.3515625,-82.34375,-179,-6
-639,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,1000,24,1000172468,17,68,Wrothgarian Mountains,1000.132813,-24.46875,-151,-15
-640,Rocks,1,WOD_Rocks_Round_Gray_Large_02,1000,102,10002310219,23,19,Wrothgarian Mountains,1000.179688,-102.8515625,-178,-4
-641,Rocks,1,WOD_Rocks_Round_Gray_Large_06,1000,164,10000216421,2,21,Wrothgarian Mountains,1000.015625,-164.8359375,-41,-11
-642,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,1000,25,1000232598,23,98,Wrothgarian Mountains,1000.179688,-25.234375,-31,-8
-643,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,1000,165,10001416526,14,26,Wrothgarian Mountains,1000.109375,-165.796875,180,-27
 644,Rocks,1,WOD_Rocks_Round_Gray_Medium_12,918,83,918738359,73,59,Wrothgarian Mountains,918.5703125,-83.5390625,3,-26
-645,Rocks,1,WOD_Rocks_Round_Gray_Large_01,1000,2,1000160287,16,87,Wrothgarian Mountains,1000.125,-2.3203125,-68,-7
 646,Rocks,1,WOD_Rocks_Round_Gray_Large_04,361,39,3619539100,95,100,Ykalon,361.7421875,-39.21875,164,-21
 647,Rocks,1,WOD_Rocks_Round_Gray_Small_01,246,192,24685192128,85,128,Daggerfall,246.6640625,-192,147,0
 648,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,197,220,1971022066,10,66,Daggerfall,197.078125,-220.484375,128,-21
@@ -414,7 +390,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1091,Rocks,1,WOD_Rocks_Round_Gray_Small_03,799,181,799103181102,103,102,Menevia,799.8046875,-181.203125,-82,0
 1092,Rocks,1,WOD_Rocks_Round_Gray_Large_01,799,215,7998621562,86,62,Menevia,799.671875,-215.515625,-135,-29
 1093,Rocks,1,WOD_Rocks_Round_Gray_Large_07,794,201,7944320108,43,8,Menevia,794.3359375,-201.9375,-48,-16
-1094,Rocks,1,WOD_Rocks_Round_Gray_Small_07,786,215,78635215110,35,110,Menevia,786.2734375,-215.140625,-178,0
 1095,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,793,215,7938121579,81,79,Menevia,793.6328125,-215.3828125,90,-15
 1096,Rocks,1,WOD_Rocks_Round_Gray_Large_08,793,194,7934319425,43,25,Menevia,793.3359375,-194.8046875,68,-2
 1097,Rocks,1,WOD_Rocks_Round_Gray_Small_04,826,222,82612322273,123,73,Menevia,826.9609375,-222.4296875,25,0
@@ -429,9 +404,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1106,Rocks,1,WOD_Rocks_Round_Gray_Large_07,785,213,78512621390,126,90,Menevia,785.984375,-213.296875,-99,0
 1107,Rocks,1,WOD_Rocks_Round_Gray_Large_03,822,218,8226321835,63,35,Menevia,822.4921875,-218.7265625,170,-6
 1108,Rocks,1,WOD_Rocks_Round_Gray_Large_05,800,175,8003517585,35,85,Menevia,800.2734375,-175.3359375,-168,-19
-1109,Rocks,1,WOD_Rocks_Round_Gray_Small_06,787,215,78781215127,81,127,Menevia,787.6328125,-215.0078125,141,0
 1110,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,793,205,79311720584,117,84,Menevia,793.9140625,-205.34375,149,-11
-1111,Rocks,1,WOD_Rocks_Round_Gray_Large_09,791,206,7914320611,43,11,Menevia,791.3359375,-206.9140625,118,-5
 1112,Rocks,1,WOD_Rocks_Round_Gray_Large_07,786,208,78666208126,66,126,Menevia,786.515625,-208.015625,-78,-9
 1113,Rocks,1,WOD_Rocks_Round_Gray_Medium_04,800,179,800112179111,112,111,Menevia,800.875,-179.1328125,90,-13
 1114,Rocks,1,WOD_Rocks_Round_Gray_Medium_01,796,187,7963418737,34,37,Menevia,796.265625,-187.7109375,78,-9
@@ -497,41 +470,26 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1486,Rocks,1,WOD_Rocks_Round_Gray_Medium_04,63,147,639814713,98,13,Tulune,63.765625,-147.8984375,-117,-1
 1487,Rocks,1,WOD_Rocks_Round_Gray_Large_06,68,163,680616377,6,77,Tulune,68.046875,-163.3984375,-74,-4
 1488,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,73,148,7310514861,105,61,Tulune,73.8203125,-148.5234375,28,-1
-1489,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,1000,253,10000125349,1,49,Gavaudon,1000.007813,-253.6171875,-11,-15
-1490,Rocks,1,WOD_Rocks_Round_Gray_Large_02,1000,242,10001524202,15,2,Gavaudon,1000.117188,-242.984375,-9,-21
 1491,Rocks,1,WOD_Rocks_Round_Gray_Medium_12,992,274,9922627457,26,57,Gavaudon,992.203125,-274.5546875,85,-3
 1492,Rocks,1,WOD_Rocks_Round_Gray_Large_03,999,273,99934273100,34,100,Gavaudon,999.265625,-273.21875,-11,-14
 1493,Rocks,1,WOD_Rocks_Round_Gray_Large_02,988,273,98856273119,56,119,Gavaudon,988.4375,-273.0703125,85,-23
 1494,Rocks,1,WOD_Rocks_Round_Gray_Large_07,992,274,99212727496,127,96,Gavaudon,992.9921875,-274.25,0,-27
-1495,Rocks,1,WOD_Rocks_Round_Gray_Large_09,1000,265,10002026556,20,56,Gavaudon,1000.15625,-265.5625,28,-2
 1496,Rocks,1,WOD_Rocks_Round_Gray_Medium_04,993,274,9932227492,22,92,Gavaudon,993.171875,-274.28125,-4,-25
 1497,Rocks,1,WOD_Rocks_Round_Gray_Medium_12,984,273,9842527364,25,64,Gavaudon,984.1953125,-273.5,-71,-21
 1498,Rocks,1,WOD_Rocks_Round_Gray_Large_01,985,274,985123274108,123,108,Gavaudon,985.9609375,-274.15625,71,-29
-1499,Rocks,1,WOD_Rocks_Round_Gray_Large_07,1000,251,10000325116,3,16,Gavaudon,1000.023438,-251.875,90,-28
 1500,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,994,274,9943927477,39,77,Gavaudon,994.3046875,-274.3984375,-70,-20
 1501,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,999,273,9994327373,43,73,Gavaudon,999.3359375,-273.4296875,-98,-23
-1502,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,1000,260,100021260102,21,102,Gavaudon,1000.164063,-260.203125,-93,-21
-1503,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,1000,219,10001021986,10,86,Gavaudon,1000.078125,-219.328125,177,-22
 1504,Rocks,1,WOD_Rocks_Round_Gray_Small_10,993,274,9930427473,4,73,Gavaudon,993.03125,-274.4296875,25,0
-1505,Rocks,1,WOD_Rocks_Round_Gray_Medium_07,1000,220,100010220102,10,102,Gavaudon,1000.078125,-220.203125,-77,-13
-1506,Rocks,1,WOD_Rocks_Round_Gray_Large_05,1000,270,10000927067,9,67,Gavaudon,1000.070313,-270.4765625,166,-5
 1507,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,995,273,9957327372,73,72,Gavaudon,995.5703125,-273.4375,-52,-9
-1508,Rocks,1,WOD_Rocks_Round_Gray_Small_02,1000,249,10000824966,8,66,Gavaudon,1000.0625,-249.484375,-157,0
-1509,Rocks,1,WOD_Rocks_Round_Gray_Small_06,1000,247,10000824744,8,44,Gavaudon,1000.0625,-247.65625,-153,0
 1510,Rocks,1,WOD_Rocks_Round_Gray_Large_01,987,274,98711927474,119,74,Gavaudon,987.9296875,-274.421875,29,-5
-1511,Rocks,1,WOD_Rocks_Round_Gray_Large_09,1000,238,100020238106,20,106,Gavaudon,1000.15625,-238.171875,133,-20
-1512,Rocks,1,WOD_Rocks_Round_Gray_Large_08,1000,263,10000626380,6,80,Gavaudon,1000.046875,-263.375,-15,-11
 1513,Rocks,1,WOD_Rocks_Round_Gray_Medium_04,989,273,9892727392,27,92,Gavaudon,989.2109375,-273.28125,-94,-17
 1514,Rocks,1,WOD_Rocks_Round_Gray_Small_04,998,273,9984727397,47,97,Gavaudon,998.3671875,-273.2421875,-69,0
 1515,Rocks,1,WOD_Rocks_Round_Gray_Medium_07,984,273,984117273117,117,117,Gavaudon,984.9140625,-273.0859375,99,-4
 1516,Rocks,1,WOD_Rocks_Round_Gray_Medium_03,998,273,9988227352,82,52,Gavaudon,998.640625,-273.59375,-30,-19
 1517,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,993,274,9938727454,87,54,Gavaudon,993.6796875,-274.578125,-149,-17
-1518,Rocks,1,WOD_Rocks_Round_Gray_Medium_03,1000,240,10000524047,5,47,Gavaudon,1000.039063,-240.6328125,148,-26
 1519,Rocks,1,WOD_Rocks_Round_Gray_Medium_05,995,273,9951827302,18,2,Gavaudon,995.140625,-273.984375,82,-23
 1520,Rocks,1,WOD_Rocks_Round_Gray_Small_02,986,274,98644274107,44,107,Gavaudon,986.34375,-274.1640625,-86,0
-1521,Rocks,1,WOD_Rocks_Round_Gray_Medium_01,1000,238,10000223857,2,57,Gavaudon,1000.015625,-238.5546875,11,-9
 1522,Rocks,1,WOD_Rocks_Round_Gray_Small_04,982,272,9823727268,37,68,Gavaudon,982.2890625,-272.46875,-18,0
-1523,Rocks,1,WOD_Rocks_Round_Gray_Medium_03,1000,208,10000120843,1,43,Gavaudon,1000.007813,-208.6640625,108,-17
 1524,Rocks,1,WOD_Rocks_Round_Gray_Small_09,998,273,998117273104,117,104,Gavaudon,998.9140625,-273.1875,176,0
 1525,Rocks,1,WOD_Rocks_Round_Gray_Large_05,988,273,9880327352,3,52,Gavaudon,988.0234375,-273.59375,10,0
 1526,Rocks,1,WOD_Rocks_Round_Gray_Medium_01,994,274,9947527492,75,92,Gavaudon,994.5859375,-274.28125,152,-19
@@ -600,7 +558,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1589,Rocks,1,WOD_Rocks_Round_Gray_Small_10,648,188,64845188126,45,126,Isle of Balfiera,648.3515625,-188.015625,62,0
 1590,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,671,200,6710220077,2,77,Isle of Balfiera,671.015625,-200.3984375,-29,-10
 1591,Rocks,1,WOD_Rocks_Round_Gray_Large_06,633,153,63311315345,113,45,Isle of Balfiera,633.8828125,-153.6484375,-113,-26
-1592,Rocks,1,WOD_Rocks_Round_Gray_Large_08,642,171,642102171101,102,101,Isle of Balfiera,642.796875,-171.2109375,-142,-1
 1593,Rocks,1,WOD_Rocks_Round_Gray_Small_01,656,182,656105182111,105,111,Isle of Balfiera,656.8203125,-182.1328125,142,0
 1594,Rocks,1,WOD_Rocks_Round_Gray_Medium_12,648,162,6486916227,69,27,Isle of Balfiera,648.5390625,-162.7890625,41,-28
 1595,Rocks,1,WOD_Rocks_Round_Gray_Small_07,683,174,6839217422,92,22,Isle of Balfiera,683.71875,-174.828125,-42,0
@@ -755,7 +712,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1744,Rocks,1,WOD_Rocks_Round_Gray_Small_03,642,206,6429120688,91,88,Isle of Balfiera,642.7109375,-206.3125,170,0
 1745,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,738,229,73819229109,19,109,Isle of Balfiera,738.1484375,-229.1484375,-144,-5
 1746,Rocks,1,WOD_Rocks_Round_Gray_Small_09,657,185,6572118568,21,68,Isle of Balfiera,657.1640625,-185.46875,-90,0
-1747,Rocks,1,WOD_Rocks_Round_Gray_Medium_04,683,190,68386190115,86,115,Isle of Balfiera,683.671875,-190.1015625,-129,-25
 1748,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,633,157,6330515744,5,44,Isle of Balfiera,633.0390625,-157.65625,-74,-2
 1749,Rocks,1,WOD_Rocks_Round_Gray_Large_06,640,174,6405917461,59,61,Isle of Balfiera,640.4609375,-174.5234375,-179,-14
 1750,Rocks,1,WOD_Rocks_Round_Gray_Small_03,659,193,65911519316,115,16,Isle of Balfiera,659.8984375,-193.875,-180,0
@@ -933,7 +889,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1922,Rocks,1,WOD_Rocks_Round_Gray_Small_06,710,135,7108113535,81,35,Alcaire,710.6328125,-135.7265625,60,0
 1923,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,743,139,7431213993,12,93,Alcaire,743.09375,-139.2734375,114,-6
 1924,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,691,124,69111312473,113,73,Alcaire,691.8828125,-124.4296875,44,-21
-1925,Rocks,1,WOD_Rocks_Round_Gray_Large_02,719,133,719116133120,116,120,Alcaire,719.90625,-133.0625,40,-29
 1926,Rocks,1,WOD_Rocks_Round_Gray_Small_06,742,139,74207139115,7,115,Alcaire,742.0546875,-139.1015625,162,0
 1927,Rocks,1,WOD_Rocks_Round_Gray_Medium_05,709,135,70996135114,96,114,Alcaire,709.75,-135.109375,-175,0
 1928,Rocks,1,WOD_Rocks_Round_Gray_Small_06,703,134,70322134100,22,100,Alcaire,703.171875,-134.21875,-180,0
@@ -945,7 +900,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 3,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_04,136,499,13668499115,68,115,Abibon-gora,136.53125,-499.1015625,-29,0
 4,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_02,152,484,1521448438,14,38,Abibon-gora,152.109375,-484.703125,-91,-2
 5,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_02,163,493,163109493104,109,104,Abibon-gora,163.8515625,-493.1875,-130,0
-6,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_10,176,459,17611245956,112,56,Abibon-gora,176.875,-459.5625,-130,-13
 7,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_06,182,450,1822645035,26,35,Abibon-gora,182.203125,-450.7265625,-163,0
 8,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_08,157,479,1573947931,39,31,Abibon-gora,157.3046875,-479.7578125,104,0
 9,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_10,171,465,17127465114,27,114,Abibon-gora,171.2109375,-465.109375,-128,0
@@ -1028,42 +982,29 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_05,177,449,1777744921,77,21,Abibon-gora,177.6015625,-449.8359375,-179,-28
 87,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_08,165,475,1659247513,92,13,Abibon-gora,165.71875,-475.8984375,-113,-27
 137,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_05,612,279,612123279111,123,111,Dragontail Mountains,612.9609375,-279.1328125,-146,-8
-138,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_08,1000,473,100007473106,7,106,Dragontail Mountains,1000.054688,-473.171875,-128,-3
-139,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_02,1000,495,10002449570,24,70,Dragontail Mountains,1000.1875,-495.453125,-7,-11
 140,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_08,608,282,60810428268,104,68,Dragontail Mountains,608.8125,-282.46875,160,-11
-141,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_08,1000,452,100007452106,7,106,Dragontail Mountains,1000.054688,-452.171875,-139,-19
 142,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_09,595,284,59579284109,79,109,Dragontail Mountains,595.6171875,-284.1484375,93,0
 143,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_09,599,283,5994928385,49,85,Dragontail Mountains,599.3828125,-283.3359375,74,0
-144,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_08,1000,465,10002446541,24,41,Dragontail Mountains,1000.1875,-465.6796875,-112,-25
 145,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_01,599,282,5991528202,15,2,Dragontail Mountains,599.1171875,-282.984375,50,-5
 146,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_01,629,280,6291228089,12,89,Dragontail Mountains,629.09375,-280.3046875,-133,-27
 147,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_02,624,280,624101280118,101,118,Dragontail Mountains,624.7890625,-280.078125,-162,-4
-148,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_03,1000,451,10001645153,16,53,Dragontail Mountains,1000.125,-451.5859375,10,-1
 149,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_02,601,283,6016828393,68,93,Dragontail Mountains,601.53125,-283.2734375,149,0
 150,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_08,597,284,59711028431,110,31,Dragontail Mountains,597.859375,-284.7578125,-48,0
 151,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_06,604,283,60421283112,21,112,Dragontail Mountains,604.1640625,-283.125,-32,0
 152,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_04,635,279,63510027982,100,82,Dragontail Mountains,635.78125,-279.359375,-143,-29
 153,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_08,599,282,5996728224,67,24,Dragontail Mountains,599.5234375,-282.8125,79,0
-154,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_07,1000,491,10002049127,20,27,Dragontail Mountains,1000.15625,-491.7890625,42,-19
-155,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_02,1000,457,10000345704,3,4,Dragontail Mountains,1000.023438,-457.96875,21,0
 156,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_04,609,282,60904282111,4,111,Dragontail Mountains,609.03125,-282.1328125,-92,0
-157,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_09,1000,456,10000245695,2,95,Dragontail Mountains,1000.015625,-456.2578125,42,0
 158,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_04,638,279,6381527950,15,50,Dragontail Mountains,638.1171875,-279.609375,-166,-26
-159,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_07,1000,477,100024477128,24,128,Dragontail Mountains,1000.1875,-477,-146,-7
 160,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_09,633,280,6338228058,82,58,Dragontail Mountains,633.640625,-280.546875,69,-28
 161,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_10,615,279,6153027908,30,8,Dragontail Mountains,615.234375,-279.9375,174,0
 162,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_03,620,279,6209427902,94,2,Dragontail Mountains,620.734375,-279.984375,-175,-30
-163,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_08,1000,487,10002048725,20,25,Dragontail Mountains,1000.15625,-487.8046875,-114,0
 164,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_04,630,280,63011128037,111,37,Dragontail Mountains,630.8671875,-280.7109375,104,-28
 165,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_04,613,279,61357279103,57,103,Dragontail Mountains,613.4453125,-279.1953125,-77,0
-166,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_09,1000,374,100018374101,18,101,Dragontail Mountains,1000.140625,-374.2109375,-78,-16
-167,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_03,1000,479,10000747946,7,46,Dragontail Mountains,1000.054688,-479.640625,64,-3
 168,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_07,622,280,62211828039,118,39,Dragontail Mountains,622.921875,-280.6953125,73,-11
 169,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_06,624,280,6243828002,38,2,Dragontail Mountains,624.296875,-280.984375,-124,-30
 170,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_05,634,280,63414280100,14,100,Dragontail Mountains,634.109375,-280.21875,-54,0
 171,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_04,637,279,637123279128,123,128,Dragontail Mountains,637.9609375,-279,47,-11
 172,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_04,603,282,6030228224,2,24,Dragontail Mountains,603.015625,-282.8125,100,-28
-173,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_08,1000,390,10001939035,19,35,Dragontail Mountains,1000.148438,-390.7265625,-119,-6
 174,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_10,623,280,62325280107,25,107,Dragontail Mountains,623.1953125,-280.1640625,29,-27
 175,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_10,637,279,63710827992,108,92,Dragontail Mountains,637.84375,-279.28125,37,0
 176,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_03,603,282,6030728279,7,79,Dragontail Mountains,603.0546875,-282.3828125,47,-19
@@ -1167,9 +1108,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 275,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_12,294,397,2941339745,13,45,Myrkwasa,294.1015625,-397.6484375,2,-8
 276,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_01,302,391,3022339128,23,28,Myrkwasa,302.1796875,-391.78125,-160,0
 277,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_07,294,397,29412739744,127,44,Myrkwasa,294.9921875,-397.65625,52,-9
-298,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_09,848,281,8484428154,44,54,Satakalaam,848.34375,-281.578125,-132,-26
 299,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_04,844,293,8444829325,48,25,Satakalaam,844.375,-293.8046875,-6,-17
-300,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_09,822,277,8221627710,16,10,Satakalaam,822.125,-277.921875,-47,-23
 301,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_06,848,281,84805281103,5,103,Satakalaam,848.0390625,-281.1953125,-102,0
 302,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_07,783,282,7837228209,72,9,Satakalaam,783.5625,-282.9296875,-152,-22
 303,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_08,851,282,85111428204,114,4,Satakalaam,851.890625,-282.96875,57,-17
@@ -1564,7 +1503,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1007,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_07,660,280,6601528002,15,2,Lainlyn,660.1171875,-280.984375,133,-18
 1008,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_09,742,280,7424428019,44,19,Lainlyn,742.34375,-280.8515625,160,-25
 1009,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_02,644,278,64412527878,125,78,Lainlyn,644.9765625,-278.390625,129,-6
-1010,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_06,691,280,69110428091,104,91,Lainlyn,691.8125,-280.2890625,-22,-10
 1011,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_03,681,283,6816828322,68,22,Lainlyn,681.53125,-283.828125,-95,0
 1012,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_04,700,280,7009428088,94,88,Lainlyn,700.734375,-280.3125,0,0
 1013,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_01,722,280,72212728030,127,30,Lainlyn,722.9921875,-280.765625,-4,-4
@@ -1847,7 +1785,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 1365,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_02,403,330,40310433086,104,86,Sentinel,403.8125,-330.328125,178,-4
 1366,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_03,413,371,4138837138,88,38,Sentinel,413.6875,-371.703125,33,-13
 1367,Rocks,1,WOD_Rocks_Round_DarkBrown_Medium_09,358,356,3584835601,48,1,Sentinel,358.375,-356.9921875,-43,-4
-1368,Rocks,1,WOD_Rocks_Round_DarkBrown_Large_05,397,348,3977734894,77,94,Sentinel,397.6015625,-348.265625,-44,-29
 1369,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_09,339,366,339127366108,127,108,Sentinel,339.9921875,-366.15625,-84,0
 1370,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_05,346,357,3463235733,32,33,Sentinel,346.25,-357.7421875,-110,0
 1371,Rocks,1,WOD_Rocks_Round_DarkBrown_Small_01,337,366,337103366120,103,120,Sentinel,337.8046875,-366.0625,49,0

@@ -1,3 +1,3 @@
-name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,rotYaxis,heightOffset,gisX,gisY
-Mountain,3,WOD_Mountain_07,653,44,81,72,653814472,Kambria,12,-58,653.6328125,-44.4375
-Mountain,3,WOD_Mountain_08,658,46,36,97,658364697,Kambria,-177,-40,658.28125,-46.2421875
+name,type,prefab,worldX,worldY,terrainX,terrainY,locationID,region,rotYaxis,scale,gisX,gisY,sink
+Mountain,1,WOD_Mountain_07,653,44,81,72,653814472,Kambria,12,0.9,653.6328125,-44.4375,1
+Mountain,1,WOD_Mountain_08,658,46,36,97,658364697,Kambria,-177,0.96,658.28125,-46.2421875,1

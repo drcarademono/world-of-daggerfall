@@ -32,7 +32,7 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 134,Orc Camp,0,WOD_OrcCamp_Small_Mountains_01,-176,900,161,20,68,9002016168,Orsinium Area,900.15625,-161.46875,3
 135,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,-58,899,159,56,79,8995615979,Orsinium Area,899.4375,-159.3828125,3
 238,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,139,879,178,106,65,87911017865,Orsinium Area,879.859375,-178.4921875,3
-325,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,-79,852,161,40,8,8524016100,Orsinium Area,852.3125,-162,3
+325,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,-79,852,161,40,8,8524016100,Orsinium Area,852.3125,-162.0,3
 327,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,23,850,161,27,8,8502716105,Orsinium Area,850.2109375,-161.9609375,3
 387,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,18,867,146,78,10,8677814610,Orsinium Area,867.609375,-146.921875,3
 389,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_01,-162,891,146,12,88,8910814688,Orsinium Area,891.0625,-146.3125,3
@@ -141,7 +141,6 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 1599,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,70,876,155,108,119,876108155120,Orsinium Area,876.84375,-155.0625,3
 1600,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_01,-105,853,166,38,33,8533816633,Orsinium Area,853.296875,-166.7421875,3
 1601,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,126,871,168,18,78,8711816878,Orsinium Area,871.140625,-168.390625,3
-1603,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,-133,881,148,87,42,8818714842,Orsinium Area,881.6796875,-148.671875,3
 1604,Orc Camp,0,WOD_OrcCamp_Small_Mountains_01,66,852,145,93,49,8529314549,Orsinium Area,852.7265625,-145.6171875,3
 1605,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,91,852,165,115,26,85211516526,Orsinium Area,852.8984375,-165.796875,3
 1606,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,82,878,147,115,110,878115147110,Orsinium Area,878.8984375,-147.140625,3
@@ -207,7 +206,6 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 170,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,-113,863,139,111,37,86311113937,Orsinium Area,863.8671875,-139.7109375,4
 222,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,-92,872,136,110,15,87211013615,Orsinium Area,872.859375,-136.8828125,4
 293,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_03,-3,851,142,35,63,8511014263,Orsinium Area,851.078125,-142.5078125,4
-382,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_01,34,880,143,38,115,88038143125,Orsinium Area,880.296875,-143.0234375,4
 384,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_03,10,881,142,90,56,88111914256,Orsinium Area,881.9296875,-142.5625,4
 1507,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,64,874,143,78,76,8747814376,Orsinium Area,874.609375,-143.40625,4
 1515,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,158,855,142,35,44,8553514244,Orsinium Area,855.2734375,-142.65625,4

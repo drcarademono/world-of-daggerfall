@@ -56,7 +56,7 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 767,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_01,-7,931,399,90,38,9319039938,Dragontail Mountains,931.703125,-399.703125,4
 768,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,12,715,414,32,23,7153241423,Dragontail Mountains,715.25,-414.8203125,4
 770,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,131,854,392,22,106,85403392110,Dragontail Mountains,854.0234375,-392.140625,4
-776,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_03,139,726,362,83,44,72612836238,Dragontail Mountains,727,-362.703125,4
+776,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_03,139,726,362,83,44,72612836238,Dragontail Mountains,727.0,-362.703125,4
 780,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,-30,858,410,32,117,85832410125,Dragontail Mountains,858.25,-410.0234375,4
 782,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,122,992,427,36,113,99236427113,Dragontail Mountains,992.28125,-427.1171875,4
 785,Orc Camp,0,WOD_OrcCamp_Small_Mountains_01,158,657,307,36,6,6573630704,Dragontail Mountains,657.28125,-307.96875,4
@@ -65,14 +65,14 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 792,Orc Camp,0,WOD_OrcCamp_Small_Mountains_01,-43,721,393,114,19,72111439319,Dragontail Mountains,721.890625,-393.8515625,4
 793,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,-77,917,480,44,93,9174448093,Dragontail Mountains,917.34375,-480.2734375,4
 795,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_01,73,741,444,63,95,7416344495,Dragontail Mountains,741.4921875,-444.2578125,4
-796,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,153,789,457,64,120,78964457128,Dragontail Mountains,789.5,-457,4
+796,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,153,789,457,64,120,78964457128,Dragontail Mountains,789.5,-457.0,4
 799,Orc Camp,0,WOD_OrcCamp_Small_Mountains_01,-154,699,412,122,122,699123412125,Dragontail Mountains,699.9609375,-412.0234375,4
 801,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,170,708,454,10,31,7081045431,Dragontail Mountains,708.078125,-454.7578125,4
 807,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,108,611,302,10,68,6111030268,Dragontail Mountains,611.078125,-302.46875,4
 808,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,94,963,460,65,59,9636546059,Dragontail Mountains,963.5078125,-460.5390625,4
 810,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,127,701,432,8,81,7010143281,Dragontail Mountains,701.0078125,-432.3671875,4
 811,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_03,-24,730,438,65,87,73065438119,Dragontail Mountains,730.5078125,-438.0703125,4
-812,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,-31,836,404,22,21,8360040420,Dragontail Mountains,836,-404.84375,4
+812,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,-31,836,404,22,21,8360040420,Dragontail Mountains,836.0,-404.84375,4
 817,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,100,718,357,51,92,7185135792,Dragontail Mountains,718.3984375,-357.28125,4
 818,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_03,-165,986,480,60,38,9866048012,Dragontail Mountains,986.46875,-480.90625,4
 819,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,154,970,393,106,96,97010939396,Dragontail Mountains,970.8515625,-393.25,4
@@ -165,7 +165,7 @@ fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,
 1065,Orc Camp,0,WOD_OrcCamp_Small_Mountains_01,79,714,394,32,33,7143239433,Dragontail Mountains,714.25,-394.7421875,4
 1066,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,-171,706,393,78,60,7067839360,Dragontail Mountains,706.609375,-393.53125,4
 1073,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,-106,600,345,46,64,6004634564,Dragontail Mountains,600.359375,-345.5,4
-1074,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,168,746,432,9,36,7460043236,Dragontail Mountains,746,-432.71875,4
+1074,Orc Camp,0,WOD_OrcCamp_Small_Mountains_03,168,746,432,9,36,7460043236,Dragontail Mountains,746.0,-432.71875,4
 1076,Orc Camp,0,WOD_OrcCamp_Medium_Mountains_02,42,948,447,120,61,94812044761,Dragontail Mountains,948.9375,-447.5234375,4
 1080,Orc Camp,0,WOD_OrcCamp_Small_Mountains_02,33,710,404,10,122,71010404127,Dragontail Mountains,710.078125,-404.0078125,4
 1085,Orc Camp,0,WOD_OrcCamp_Large_Mountains_01,-150,650,340,70,38,6507034038,Dragontail Mountains,650.546875,-340.703125,4
