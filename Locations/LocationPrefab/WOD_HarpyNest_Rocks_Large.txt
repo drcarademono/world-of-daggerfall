@@ -98,9 +98,9 @@
 		<type>2</type>
 		<objectID>9</objectID>
 		<name>199.19</name>
-		<posX>11.81</posX>
-		<posY>0.44</posY>
-		<posZ>-8.38</posZ>
+		<posX>23.17</posX>
+		<posY>0.74</posY>
+		<posZ>-14.67</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -396,5 +396,28 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
+	</object>
+	<object>
+		<type>2</type>
+		<objectID>30</objectID>
+		<name>199.19</name>
+		<posX>16.62</posX>
+		<posY>0.74</posY>
+		<posZ>-23.05</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+	</object>
+	<object>
+		<type>1</type>
+		<objectID>31</objectID>
+		<name>206.14</name>
+		<posX>16.68</posX>
+		<posY>0.28</posY>
+		<posZ>-12.99</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<extraData>{"EnemyId":13}</extraData>
 	</object>
 </locationPrefab>
