@@ -1,6 +1,6 @@
 <locationPrefab>
-	<height>8</height>
-	<width>8</width>
+	<height>3</height>
+	<width>3</width>
 	<object>
 		<type>0</type>
 		<objectID>81</objectID>
@@ -157,12 +157,12 @@
 		<type>2</type>
 		<objectID>6</objectID>
 		<name>199.16</name>
-		<posX>-2.91</posX>
-		<posY>3.83</posY>
+		<posX>5.99</posX>
+		<posY>0.42</posY>
 		<posZ>-4.16</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":139}</extraData>
+		<extraData>{"EnemyId":139,"TeamOverride":0}</extraData>
 	</object>
 </locationPrefab>

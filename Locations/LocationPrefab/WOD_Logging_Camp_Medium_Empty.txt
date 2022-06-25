@@ -1,6 +1,6 @@
 <locationPrefab>
-	<height>8</height>
-	<width>8</width>
+	<height>18</height>
+	<width>22</width>
 	<object>
 		<type>0</type>
 		<objectID>63</objectID>
@@ -876,7 +876,7 @@
 		<scaleY>1.851</scaleY>
 		<scaleZ>1.851</scaleZ>
 		<extraData>{"EnemyId":2}</extraData>
-		<rotW>0.9762961</rotW>
+		<rotW>0.976296</rotW>
 		<rotX>0</rotX>
 		<rotY>0.2164396</rotY>
 		<rotZ>0</rotZ>
