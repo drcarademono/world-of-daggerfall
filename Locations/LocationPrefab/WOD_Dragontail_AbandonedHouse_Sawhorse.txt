@@ -85,17 +85,32 @@
 	</object>
 	<object>
 		<type>0</type>
-		<objectID>26</objectID>
-		<name>41402</name>
-		<posX>1.29</posX>
-		<posY>0.77</posY>
-		<posZ>-5.39</posZ>
-		<scaleX>0.5</scaleX>
-		<scaleY>0.5</scaleY>
-		<scaleZ>0.5</scaleZ>
-		<rotW>0.7010574</rotW>
-		<rotX>-0.09229599</rotX>
-		<rotY>-0.7010574</rotY>
-		<rotZ>-0.09229599</rotZ>
+		<objectID>2</objectID>
+		<name>51109</name>
+		<posX>1.43</posX>
+		<posY>1.530002</posY>
+		<posZ>-5.339986</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>0.5684645</rotW>
+		<rotX>0.4205332</rotX>
+		<rotY>0.4205332</rotY>
+		<rotZ>-0.5684645</rotZ>
+	</object>
+	<object>
+		<type>0</type>
+		<objectID>3</objectID>
+		<name>51109</name>
+		<posX>1.43</posX>
+		<posY>0.7499992</posY>
+		<posZ>-5.21</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>0.5538679</rotW>
+		<rotX>0.4395798</rotX>
+		<rotY>0.4395798</rotY>
+		<rotZ>-0.5538679</rotZ>
 	</object>
 </locationPrefab>
