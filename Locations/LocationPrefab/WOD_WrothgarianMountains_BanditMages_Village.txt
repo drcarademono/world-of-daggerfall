@@ -1,5 +1,5 @@
 <locationPrefab>
-	<height>25</height>
+	<height>8</height>
 	<width>9</width>
 	<object>
 		<type>0</type>
@@ -551,9 +551,9 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<rotW>-0.009202377</rotW>
-		<rotX>0.009202376</rotX>
-		<rotY>0.707047</rotY>
+		<rotW>-0.009202376</rotW>
+		<rotX>0.009202375</rotX>
+		<rotY>0.7070469</rotY>
 		<rotZ>-0.7070469</rotZ>
 	</object>
 	<object>
@@ -568,7 +568,7 @@
 		<scaleZ>1</scaleZ>
 		<rotW>-0.01130619</rotW>
 		<rotX>0.01130619</rotX>
-		<rotY>0.7070164</rotY>
+		<rotY>0.7070165</rotY>
 		<rotZ>-0.7070163</rotZ>
 	</object>
 </locationPrefab>
