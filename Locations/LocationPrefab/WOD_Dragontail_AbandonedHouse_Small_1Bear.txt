@@ -244,4 +244,30 @@
 		<scaleZ>1</scaleZ>
 		<extraData>{"EnemyId":4}</extraData>
 	</object>
+	<object>
+		<type>0</type>
+		<objectID>35</objectID>
+		<name>41214</name>
+		<posX>4.46</posX>
+		<posY>0.7</posY>
+		<posZ>-8.32</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>0.7001809</rotW>
+		<rotX>0.09872524</rotX>
+		<rotY>0.7001809</rotY>
+		<rotZ>-0.09872524</rotZ>
+	</object>
+	<object>
+		<type>1</type>
+		<objectID>36</objectID>
+		<name>206.35</name>
+		<posX>7.39</posX>
+		<posY>-0.07499999</posY>
+		<posZ>-8.35</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+	</object>
 </locationPrefab>
