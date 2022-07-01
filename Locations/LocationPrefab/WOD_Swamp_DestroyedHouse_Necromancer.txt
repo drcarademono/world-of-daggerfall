@@ -314,4 +314,19 @@
 		<scaleZ>1</scaleZ>
 		<extraData>{"EnemyId":15,"TeamOverride":13}</extraData>
 	</object>
+	<object>
+		<type>0</type>
+		<objectID>122</objectID>
+		<name>62314</name>
+		<posX>-18</posX>
+		<posY>6</posY>
+		<posZ>-5.23</posZ>
+		<scaleX>3</scaleX>
+		<scaleY>4</scaleY>
+		<scaleZ>3</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
 </locationPrefab>

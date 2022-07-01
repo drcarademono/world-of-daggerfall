@@ -1,11 +1,11 @@
 <locationPrefab>
 	<height>2</height>
-	<width>8</width>
+	<width>7</width>
 	<object>
 		<type>0</type>
 		<objectID>0</objectID>
 		<name>446</name>
-		<posX>0</posX>
+		<posX>3.55</posX>
 		<posY>-0.05</posY>
 		<posZ>0</posZ>
 		<scaleX>1</scaleX>
@@ -20,7 +20,7 @@
 		<type>0</type>
 		<objectID>3</objectID>
 		<name>725</name>
-		<posX>-15.77</posX>
+		<posX>-12.22</posX>
 		<posY>-0.12</posY>
 		<posZ>-0.06</posZ>
 		<scaleX>0.75</scaleX>
@@ -35,7 +35,7 @@
 		<type>0</type>
 		<objectID>1</objectID>
 		<name>725</name>
-		<posX>9.23</posX>
+		<posX>12.78</posX>
 		<posY>-0.08</posY>
 		<posZ>-0.11</posZ>
 		<scaleX>0.75</scaleX>
@@ -50,7 +50,7 @@
 		<type>2</type>
 		<objectID>2</objectID>
 		<name>199.16</name>
-		<posX>-6.41</posX>
+		<posX>-2.86</posX>
 		<posY>0.39</posY>
 		<posZ>-4.793993</posZ>
 		<scaleX>1</scaleX>
@@ -62,7 +62,7 @@
 		<type>2</type>
 		<objectID>4</objectID>
 		<name>199.16</name>
-		<posX>0.35</posX>
+		<posX>3.9</posX>
 		<posY>0.39</posY>
 		<posZ>-4.793993</posZ>
 		<scaleX>1</scaleX>

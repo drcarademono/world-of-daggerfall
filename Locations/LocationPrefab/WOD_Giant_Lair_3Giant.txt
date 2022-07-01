@@ -1,16 +1,16 @@
 <locationPrefab>
-	<height>8</height>
-	<width>7</width>
+	<height>7</height>
+	<width>6</width>
 	<object>
 		<type>0</type>
 		<objectID>33</objectID>
 		<name>42001</name>
 		<posX>0</posX>
-		<posY>2.21</posY>
-		<posZ>-2.39</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
+		<posY>4.1</posY>
+		<posZ>1.089999</posZ>
+		<scaleX>2</scaleX>
+		<scaleY>2</scaleY>
+		<scaleZ>2</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -20,13 +20,13 @@
 		<type>2</type>
 		<objectID>37</objectID>
 		<name>199.16</name>
-		<posX>2.116854</posX>
+		<posX>-5.6</posX>
 		<posY>1.17</posY>
-		<posZ>7.52</posZ>
+		<posZ>11</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
+		<extraData>{"EnemyId":16,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -34,34 +34,34 @@
 		<name>199.16</name>
 		<posX>-7.12</posX>
 		<posY>1.07</posY>
-		<posZ>2.91796</posZ>
+		<posZ>14.18</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
+		<extraData>{"EnemyId":16,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
 		<objectID>39</objectID>
 		<name>199.16</name>
-		<posX>-7.39</posX>
+		<posX>-12.8</posX>
 		<posY>1.12</posY>
-		<posZ>-5.24</posZ>
+		<posZ>14.88</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
+		<extraData>{"EnemyId":16,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>1</type>
 		<objectID>40</objectID>
 		<name>210.1</name>
 		<posX>0.03</posX>
-		<posY>10.18</posY>
-		<posZ>-2.82</posZ>
-		<scaleX>4</scaleX>
-		<scaleY>4</scaleY>
-		<scaleZ>4</scaleZ>
+		<posY>22.325</posY>
+		<posZ>0.6599996</posZ>
+		<scaleX>6</scaleX>
+		<scaleY>6</scaleY>
+		<scaleZ>6</scaleZ>
 		<extraData>{"EnemyId":16}</extraData>
 	</object>
 	<object>
@@ -70,7 +70,7 @@
 		<name>212.16</name>
 		<posX>4.52182</posX>
 		<posY>0.1550002</posY>
-		<posZ>13.9</posZ>
+		<posZ>17.38</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -82,7 +82,7 @@
 		<name>212.1</name>
 		<posX>4.52182</posX>
 		<posY>-0.3750001</posY>
-		<posZ>-20.3</posZ>
+		<posZ>-16.82</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -94,7 +94,7 @@
 		<name>211.15</name>
 		<posX>14.2</posX>
 		<posY>0.3749999</posY>
-		<posZ>-8.7</posZ>
+		<posZ>-5.22</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -106,7 +106,7 @@
 		<name>206.29</name>
 		<posX>4.52182</posX>
 		<posY>0.45</posY>
-		<posZ>-13.1</posZ>
+		<posZ>-9.620001</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -118,7 +118,7 @@
 		<name>212.1</name>
 		<posX>-15.1</posX>
 		<posY>-0.1750001</posY>
-		<posZ>-9.5</posZ>
+		<posZ>-6.02</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -130,7 +130,7 @@
 		<name>206.30</name>
 		<posX>9.8</posX>
 		<posY>0.455</posY>
-		<posZ>2.98</posZ>
+		<posZ>6.46</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -142,7 +142,7 @@
 		<name>206.31</name>
 		<posX>-1.12</posX>
 		<posY>0.3699998</posY>
-		<posZ>4.39</posZ>
+		<posZ>13.68</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -154,7 +154,7 @@
 		<name>210.6</name>
 		<posX>-1.29</posX>
 		<posY>0.4399998</posY>
-		<posZ>-15.06</posZ>
+		<posZ>-11.58</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -166,7 +166,7 @@
 		<name>210.6</name>
 		<posX>-0.53</posX>
 		<posY>0.4399998</posY>
-		<posZ>16.62</posZ>
+		<posZ>20.1</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -178,7 +178,7 @@
 		<name>510.18</name>
 		<posX>4.4</posX>
 		<posY>-0.1750001</posY>
-		<posZ>-24.1</posZ>
+		<posZ>-20.62</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -190,7 +190,7 @@
 		<name>212.1</name>
 		<posX>-15.9</posX>
 		<posY>-0.07500005</posY>
-		<posZ>7.9</posZ>
+		<posZ>11.38</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -202,7 +202,7 @@
 		<name>510.17</name>
 		<posX>-14.8</posX>
 		<posY>-0.175</posY>
-		<posZ>-12.6</posZ>
+		<posZ>-9.120001</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -214,7 +214,7 @@
 		<name>510.14</name>
 		<posX>-16.1</posX>
 		<posY>-0.175</posY>
-		<posZ>4.2</posZ>
+		<posZ>7.679999</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -224,9 +224,9 @@
 		<type>2</type>
 		<objectID>57</objectID>
 		<name>199.19</name>
-		<posX>2.1</posX>
+		<posX>10.4</posX>
 		<posY>0.5</posY>
-		<posZ>-7.8</posZ>
+		<posZ>-4.320001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -236,9 +236,9 @@
 		<type>2</type>
 		<objectID>58</objectID>
 		<name>199.19</name>
-		<posX>-4.9</posX>
+		<posX>-15.3</posX>
 		<posY>0.5</posY>
-		<posZ>-5.7</posZ>
+		<posZ>-2.22</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -248,9 +248,9 @@
 		<type>2</type>
 		<objectID>59</objectID>
 		<name>199.19</name>
-		<posX>5.8</posX>
+		<posX>12.3</posX>
 		<posY>0.5</posY>
-		<posZ>-0.5</posZ>
+		<posZ>2.98</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -262,7 +262,7 @@
 		<name>401.0</name>
 		<posX>-8.03</posX>
 		<posY>-0.01500002</posY>
-		<posZ>-12.82</posZ>
+		<posZ>-9.34</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -274,7 +274,7 @@
 		<name>401.1</name>
 		<posX>7.62</posX>
 		<posY>-0.065</posY>
-		<posZ>-12.17</posZ>
+		<posZ>-8.690001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -286,7 +286,7 @@
 		<name>380.1</name>
 		<posX>-5.52</posX>
 		<posY>-0.04000002</posY>
-		<posZ>-22.87</posZ>
+		<posZ>-19.39</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
