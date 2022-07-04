@@ -191,4 +191,26 @@
 		<scaleZ>1</scaleZ>
 		<extraData>{"EnemyId":1,"TeamOverride":17}</extraData>
 	</object>
+	<object>
+		<type>2</type>
+		<objectID>16</objectID>
+		<name>199.19</name>
+		<posX>0</posX>
+		<posY>4</posY>
+		<posZ>0.34</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+	</object>
+	<object>
+		<type>2</type>
+		<objectID>17</objectID>
+		<name>199.19</name>
+		<posX>0</posX>
+		<posY>4</posY>
+		<posZ>-0.65</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+	</object>
 </locationPrefab>
