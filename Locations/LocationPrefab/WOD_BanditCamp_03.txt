@@ -21,7 +21,7 @@
 		<objectID>2</objectID>
 		<name>210.1</name>
 		<posX>2.300001</posX>
-		<posY>-0.01</posY>
+		<posY>0.02749997</posY>
 		<posZ>0.5999985</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -52,9 +52,9 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<rotW>0.8647765</rotW>
+		<rotW>0.8647766</rotW>
 		<rotX>0</rotX>
-		<rotY>0.5021569</rotY>
+		<rotY>0.502157</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
@@ -121,9 +121,9 @@
 		<type>1</type>
 		<objectID>11</objectID>
 		<name>208.3</name>
-		<posX>3.790001</posX>
-		<posY>0.58</posY>
-		<posZ>-6.280001</posZ>
+		<posX>3.856</posX>
+		<posY>0.57</posY>
+		<posZ>-6.235</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -133,7 +133,7 @@
 		<objectID>12</objectID>
 		<name>205.3</name>
 		<posX>3.290001</posX>
-		<posY>0.59</posY>
+		<posY>0.5668749</posY>
 		<posZ>-5.380001</posZ>
 		<scaleX>0.3700001</scaleX>
 		<scaleY>0.3700002</scaleY>
@@ -144,7 +144,7 @@
 		<objectID>13</objectID>
 		<name>212.11</name>
 		<posX>6.200001</posX>
-		<posY>-0.01</posY>
+		<posY>-0.00999999</posY>
 		<posZ>7.799997</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -154,9 +154,9 @@
 		<type>0</type>
 		<objectID>14</objectID>
 		<name>41735</name>
-		<posX>9.4</posX>
-		<posY>-0.27</posY>
-		<posZ>5.4</posZ>
+		<posX>9.429999</posX>
+		<posY>-0.15</posY>
+		<posZ>5.420001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -169,9 +169,9 @@
 		<type>0</type>
 		<objectID>15</objectID>
 		<name>74225</name>
-		<posX>8.6</posX>
-		<posY>0.52</posY>
-		<posZ>6.699999</posZ>
+		<posX>8.63</posX>
+		<posY>0.64</posY>
+		<posZ>6.72</posZ>
 		<scaleX>0.5517157</scaleX>
 		<scaleY>0.5517157</scaleY>
 		<scaleZ>0.5517157</scaleZ>
@@ -185,7 +185,7 @@
 		<objectID>16</objectID>
 		<name>212.11</name>
 		<posX>4.4</posX>
-		<posY>-0.01</posY>
+		<posY>-0.00999999</posY>
 		<posZ>8.1</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -241,7 +241,7 @@
 		<objectID>20</objectID>
 		<name>205.3</name>
 		<posX>3.290001</posX>
-		<posY>0.59</posY>
+		<posY>0.5668749</posY>
 		<posZ>-5.080002</posZ>
 		<scaleX>0.3700001</scaleX>
 		<scaleY>0.3700002</scaleY>
@@ -252,7 +252,7 @@
 		<objectID>22</objectID>
 		<name>199.19</name>
 		<posX>2.5</posX>
-		<posY>-0.01</posY>
+		<posY>0.146</posY>
 		<posZ>-5.700001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -293,7 +293,7 @@
 		<objectID>25</objectID>
 		<name>199.19</name>
 		<posX>1.33</posX>
-		<posY>-0.01</posY>
+		<posY>0.146</posY>
 		<posZ>-5.700001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -324,7 +324,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -336,7 +336,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -348,7 +348,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -360,7 +360,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -372,7 +372,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -384,14 +384,14 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>1</type>
 		<objectID>29</objectID>
 		<name>216.34</name>
 		<posX>7.700001</posX>
-		<posY>0.302</posY>
+		<posY>-0.00849998</posY>
 		<posZ>6.49</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -402,7 +402,7 @@
 		<objectID>30</objectID>
 		<name>216.34</name>
 		<posX>-3.959999</posX>
-		<posY>0.302</posY>
+		<posY>-0.003499985</posY>
 		<posZ>-4.790001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
