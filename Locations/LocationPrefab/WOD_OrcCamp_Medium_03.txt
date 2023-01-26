@@ -133,21 +133,6 @@
 		<scaleZ>1.5</scaleZ>
 	</object>
 	<object>
-		<type>3</type>
-		<objectID>0</objectID>
-		<name>wod_prop_fishrack</name>
-		<posX>15.86</posX>
-		<posY>-0.16</posY>
-		<posZ>-2.75</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
 		<type>1</type>
 		<objectID>2</objectID>
 		<name>212.11</name>
@@ -411,7 +396,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>7</extraData>
+		<extraData>{"EnemyId":7,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -423,7 +408,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>7</extraData>
+		<extraData>{"EnemyId":7,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -435,7 +420,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>7</extraData>
+		<extraData>{"EnemyId":7,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -447,7 +432,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>7</extraData>
+		<extraData>{"EnemyId":7,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -459,7 +444,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>7</extraData>
+		<extraData>{"EnemyId":7,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -471,7 +456,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>12</extraData>
+		<extraData>{"EnemyId":12,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>1</type>

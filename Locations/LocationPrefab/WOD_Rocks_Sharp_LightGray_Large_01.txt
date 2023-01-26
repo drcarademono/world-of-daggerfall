@@ -2,66 +2,6 @@
 	<height>90</height>
 	<width>90</width>
 	<object>
-		<type>4</type>
-		<objectID>15</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_LightGray/Rock_Sharp_LightGray_m_11.prefab</name>
-		<posX>-0.7412529</posX>
-		<posY>-26.01399</posY>
-		<posZ>37.22056</posZ>
-		<scaleX>255.9403</scaleX>
-		<scaleY>255.9403</scaleY>
-		<scaleZ>255.9403</scaleZ>
-		<rotW>0.9735639</rotW>
-		<rotX>-0.0005730853</rotX>
-		<rotY>-0.2284121</rotY>
-		<rotZ>0.000940827</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_LightGray/Rock_Sharp_LightGray_m_01.prefab</name>
-		<posX>-1.825912</posX>
-		<posY>-59.11791</posY>
-		<posZ>-133.6663</posZ>
-		<scaleX>280.0395</scaleX>
-		<scaleY>280.0395</scaleY>
-		<scaleZ>280.0395</scaleZ>
-		<rotW>0.9735639</rotW>
-		<rotX>-0.0005730853</rotX>
-		<rotY>-0.2284121</rotY>
-		<rotZ>0.000940827</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>1</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_LightGray/Rocks_Sharp_LightGray_m_03.prefab</name>
-		<posX>-162.1122</posX>
-		<posY>-16.1104</posY>
-		<posZ>113.5197</posZ>
-		<scaleX>111.8956</scaleX>
-		<scaleY>111.8956</scaleY>
-		<scaleZ>111.8956</scaleZ>
-		<rotW>0.8597298</rotW>
-		<rotX>-0.0002634609</rotX>
-		<rotY>-0.510748</rotY>
-		<rotZ>0.001069659</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>2</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_LightGray/Rock_Sharp_LightGray_s_07.prefab</name>
-		<posX>-4.914024</posX>
-		<posY>66.62492</posY>
-		<posZ>39.97787</posZ>
-		<scaleX>165.6541</scaleX>
-		<scaleY>165.6541</scaleY>
-		<scaleZ>165.6541</scaleZ>
-		<rotW>0.9735639</rotW>
-		<rotX>-0.0005730853</rotX>
-		<rotY>-0.2284121</rotY>
-		<rotZ>0.000940827</rotZ>
-	</object>
-	<object>
 		<type>3</type>
 		<objectID>16</objectID>
 		<name>wod_rocks_sharp_lightgray_base</name>
