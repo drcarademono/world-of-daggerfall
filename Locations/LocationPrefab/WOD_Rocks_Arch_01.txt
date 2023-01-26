@@ -1,34 +1,4 @@
 <locationPrefab>
 	<height>66</height>
 	<width>66</width>
-	<object>
-		<type>4</type>
-		<objectID>10</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_Brown/Rock_Arch_02.prefab</name>
-		<posX>-31.4</posX>
-		<posY>9.1</posY>
-		<posZ>-86.9</posZ>
-		<scaleX>29.7802</scaleX>
-		<scaleY>29.7802</scaleY>
-		<scaleZ>29.7802</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Flat_Brown/Rocks_Flat_m_01.prefab</name>
-		<posX>42.9</posX>
-		<posY>0</posY>
-		<posZ>37.2</posZ>
-		<scaleX>96.38248</scaleX>
-		<scaleY>96.38248</scaleY>
-		<scaleZ>96.38248</scaleZ>
-		<rotW>0.8386279</rotW>
-		<rotX>0</rotX>
-		<rotY>0.5447047</rotY>
-		<rotZ>0</rotZ>
-	</object>
 </locationPrefab>
