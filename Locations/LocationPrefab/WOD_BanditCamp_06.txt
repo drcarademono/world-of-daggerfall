@@ -81,7 +81,7 @@
 		<objectID>5</objectID>
 		<name>210.1</name>
 		<posX>-1.55</posX>
-		<posY>0.049</posY>
+		<posY>0.04900002</posY>
 		<posZ>0.8999996</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -177,7 +177,7 @@
 		<objectID>13</objectID>
 		<name>216.33</name>
 		<posX>-1.370001</posX>
-		<posY>0.33</posY>
+		<posY>-0.009499997</posY>
 		<posZ>-7.37</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -188,7 +188,7 @@
 		<objectID>14</objectID>
 		<name>216.40</name>
 		<posX>6.27</posX>
-		<posY>0.51</posY>
+		<posY>-0.004500031</posY>
 		<posZ>0.2699995</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -240,7 +240,7 @@
 		<objectID>37</objectID>
 		<name>199.16</name>
 		<posX>-2.64</posX>
-		<posY>0.94</posY>
+		<posY>0.9400001</posY>
 		<posZ>0.2199993</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -256,14 +256,14 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>1</type>
 		<objectID>0</objectID>
 		<name>199.16</name>
 		<posX>-2.150001</posX>
-		<posY>0.94</posY>
+		<posY>0.9400001</posY>
 		<posZ>2.46</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -279,30 +279,30 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
 		<objectID>21</objectID>
 		<name>199.16</name>
 		<posX>-9.6</posX>
-		<posY>0</posY>
+		<posY>0.9</posY>
 		<posZ>-9.6</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
 		<objectID>22</objectID>
 		<name>199.16</name>
-		<posX>-9.6</posX>
-		<posY>0</posY>
-		<posZ>-9.6</posZ>
+		<posX>-8.25</posX>
+		<posY>0.64</posY>
+		<posZ>-9.97</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 </locationPrefab>
