@@ -16,20 +16,5 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<object>
-		<type>3</type>
-		<objectID>32</objectID>
-		<name>wod_rocks_flat_gray_grass_base</name>
-		<posX>-24.5</posX>
-		<posY>1.4</posY>
-		<posZ>32.8</posZ>
-		<scaleX>0.587719</scaleX>
-		<scaleY>0.587719</scaleY>
-		<scaleZ>0.587719</scaleZ>
-		<rotW>0.9909565</rotW>
-		<rotX>0</rotX>
-		<rotY>0.1341833</rotY>
-		<rotZ>0</rotZ>
-	</object>
 	<winterPrefab>WOD_Rocks_Flat_Gray_Snow_Small_04</winterPrefab>
 </locationPrefab>

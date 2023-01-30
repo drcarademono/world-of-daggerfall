@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>10</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_Gray/Rock_Sharp_Gray_s_07.prefab</name>
+		<name>Rock_Sharp_Gray_s_07</name>
 		<posX>-112</posX>
 		<posY>-19</posY>
 		<posZ>-3</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>11</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_Gray/Rock_Sharp_Gray_s_09.prefab</name>
+		<name>Rock_Sharp_Gray_s_09</name>
 		<posX>30.45</posX>
 		<posY>-19</posY>
 		<posZ>46.025</posZ>
@@ -34,7 +34,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_Gray/Rock_Sharp_Gray_s_09.prefab</name>
+		<name>Rock_Sharp_Gray_s_09</name>
 		<posX>-38.99</posX>
 		<posY>-19</posY>
 		<posZ>-116.49</posZ>
@@ -49,7 +49,7 @@
 	<object>
 		<type>4</type>
 		<objectID>8</objectID>
-		<name>Assets/Game/Mods/world-of-daggerfall/Prefabs/Rocks/Sharp_Gray/Rock_Sharp_Gray_s_09.prefab</name>
+		<name>Rock_Sharp_Gray_s_09</name>
 		<posX>-109.08</posX>
 		<posY>-45.8955</posY>
 		<posZ>177.08</posZ>
@@ -59,21 +59,6 @@
 		<rotW>0.9799927</rotW>
 		<rotX>0</rotX>
 		<rotY>0.1990334</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>3</type>
-		<objectID>20</objectID>
-		<name>wod_rocks_sharp_gray_base</name>
-		<posX>-79.19421</posX>
-		<posY>-168.2631</posY>
-		<posZ>-92.69511</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
