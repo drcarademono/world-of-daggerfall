@@ -3,6 +3,37 @@
 	<width>64</width>
 	<object>
 		<type>4</type>
+		<objectID>0</objectID>
+		<name>Rock_Flat_DarkBrown_m_09.prefab</name>
+		<posX>100</posX>
+		<posY>-15.9</posY>
+		<posZ>123.7</posZ>
+		<scaleX>137.5166</scaleX>
+		<scaleY>137.5166</scaleY>
+		<scaleZ>137.5166</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>1</objectID>
+		<name>Rock_Flat_DarkBrown_m_13</name>
+		<posX>-43.3</posX>
+		<posY>-15.9</posY>
+		<posZ>-67.8</posZ>
+		<scaleX>-441.1687</scaleX>
+		<scaleY>-441.1687</scaleY>
+		<scaleZ>-441.1687</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 9 } }</extraData>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
 		<objectID>9</objectID>
 		<name>Rock_Flat_DarkBrown_crk_s_03.prefab</name>
 		<posX>-43.3</posX>
@@ -18,14 +49,15 @@
 	</object>
 	<object>
 		<type>4</type>
-		<objectID>0</objectID>
-		<name>Rock_Flat_DarkBrown_m_09.prefab</name>
+		<objectID>2</objectID>
+		<name>Rock_Flat_DarkBrown_m_13</name>
 		<posX>100</posX>
 		<posY>-15.9</posY>
 		<posZ>123.7</posZ>
-		<scaleX>137.5166</scaleX>
-		<scaleY>137.5166</scaleY>
-		<scaleZ>137.5166</scaleZ>
+		<scaleX>-137.5166</scaleX>
+		<scaleY>-137.5166</scaleY>
+		<scaleZ>-137.5166</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 0 } }</extraData>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>

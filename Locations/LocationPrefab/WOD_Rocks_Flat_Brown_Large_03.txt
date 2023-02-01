@@ -3,6 +3,37 @@
 	<width>78</width>
 	<object>
 		<type>4</type>
+		<objectID>0</objectID>
+		<name>Rock_Flat_Brown_m_14.prefab</name>
+		<posX>-58.07405</posX>
+		<posY>-58.2</posY>
+		<posZ>65.04492</posZ>
+		<scaleX>362.6171</scaleX>
+		<scaleY>362.6171</scaleY>
+		<scaleZ>362.6171</scaleZ>
+		<rotW>0.9987254</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.05047333</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>1</objectID>
+		<name>Rock_Flat_Brown_m_13</name>
+		<posX>37</posX>
+		<posY>-24.481</posY>
+		<posZ>-39</posZ>
+		<scaleX>-267.6512</scaleX>
+		<scaleY>-267.6512</scaleY>
+		<scaleZ>-267.6512</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 11 } }</extraData>
+		<rotW>0.9987254</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.05047333</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
 		<objectID>11</objectID>
 		<name>Rocks_Flat_Brown_m_02.prefab</name>
 		<posX>37</posX>
@@ -18,14 +49,15 @@
 	</object>
 	<object>
 		<type>4</type>
-		<objectID>0</objectID>
-		<name>Rock_Flat_Brown_m_14.prefab</name>
+		<objectID>2</objectID>
+		<name>Rock_Flat_Brown_m_13</name>
 		<posX>-58.07405</posX>
 		<posY>-58.2</posY>
 		<posZ>65.04492</posZ>
-		<scaleX>362.6171</scaleX>
-		<scaleY>362.6171</scaleY>
-		<scaleZ>362.6171</scaleZ>
+		<scaleX>-362.6171</scaleX>
+		<scaleY>-362.6171</scaleY>
+		<scaleZ>-362.6171</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 0 } }</extraData>
 		<rotW>0.9987254</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.05047333</rotY>

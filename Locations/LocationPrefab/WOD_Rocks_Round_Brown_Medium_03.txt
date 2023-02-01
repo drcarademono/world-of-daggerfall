@@ -16,5 +16,21 @@
 		<rotY>0.590984</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<object>
+		<type>4</type>
+		<objectID>1</objectID>
+		<name>Rock_Flat_Brown_m_13</name>
+		<posX>109.8498</posX>
+		<posY>-7.8</posY>
+		<posZ>52.06447</posZ>
+		<scaleX>-136.4712</scaleX>
+		<scaleY>-136.4712</scaleY>
+		<scaleZ>-136.4712</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 0 } }</extraData>
+		<rotW>0.8066833</rotW>
+		<rotX>0</rotX>
+		<rotY>0.590984</rotY>
+		<rotZ>0</rotZ>
+	</object>
 	<winterPrefab>WOD_Rocks_Round_Brown_Snow_Medium_03</winterPrefab>
 </locationPrefab>

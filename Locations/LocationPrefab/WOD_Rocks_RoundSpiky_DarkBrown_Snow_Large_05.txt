@@ -3,6 +3,38 @@
 	<width>80</width>
 	<object>
 		<type>4</type>
+		<objectID>0</objectID>
+		<name>Rock_Flat_DarkBrown_Snow_m_2C_13</name>
+		<posX>-21</posX>
+		<posY>-26</posY>
+		<posZ>-22</posZ>
+		<scaleX>-266.8921</scaleX>
+		<scaleY>-266.8921</scaleY>
+		<scaleZ>-266.8921</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 3 } }</extraData>
+		<rotW>0.9466851</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.3221605</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>1</objectID>
+		<name>Rock_Flat_DarkBrown_Snow_m_2C_13</name>
+		<posX>31.1</posX>
+		<posY>52</posY>
+		<posZ>133.9</posZ>
+		<scaleX>-111.7131</scaleX>
+		<scaleY>-111.7131</scaleY>
+		<scaleZ>-111.7131</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 7 } }</extraData>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
 		<objectID>3</objectID>
 		<name>Rocks_Round_DarkBrown_Snow_m_2C_01</name>
 		<posX>-21</posX>
@@ -41,6 +73,22 @@
 		<scaleX>111.5926</scaleX>
 		<scaleY>111.5926</scaleY>
 		<scaleZ>111.5926</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>2</objectID>
+		<name>Rock_Flat_DarkBrown_Snow_m_2C_13</name>
+		<posX>29.4</posX>
+		<posY>166.5</posY>
+		<posZ>-69.8</posZ>
+		<scaleX>-111.5926</scaleX>
+		<scaleY>-111.5926</scaleY>
+		<scaleZ>-111.5926</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 8 } }</extraData>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>

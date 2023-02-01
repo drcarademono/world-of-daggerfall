@@ -18,6 +18,54 @@
 	</object>
 	<object>
 		<type>4</type>
+		<objectID>1</objectID>
+		<name>Rock_Flat_DarkBrown_Grass_m_2C_13</name>
+		<posX>5.019036</posX>
+		<posY>-24.3</posY>
+		<posZ>-71.25536</posZ>
+		<scaleX>-121.1464</scaleX>
+		<scaleY>-121.1464</scaleY>
+		<scaleZ>-121.1464</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 0 } }</extraData>
+		<rotW>0.9803659</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.1971872</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>2</objectID>
+		<name>Rock_Flat_DarkBrown_Grass_m_2C_13</name>
+		<posX>-57.60001</posX>
+		<posY>-8.1</posY>
+		<posZ>52.3</posZ>
+		<scaleX>-84.44218</scaleX>
+		<scaleY>-84.44218</scaleY>
+		<scaleZ>-84.44218</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 7 } }</extraData>
+		<rotW>0.966118</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.258101</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>3</objectID>
+		<name>Rock_Flat_DarkBrown_Grass_m_2C_13</name>
+		<posX>88.7</posX>
+		<posY>-12.6</posY>
+		<posZ>81.6</posZ>
+		<scaleX>-101.5016</scaleX>
+		<scaleY>-101.5016</scaleY>
+		<scaleZ>-101.5016</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 8 } }</extraData>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
 		<objectID>7</objectID>
 		<name>Rocks_Round_DarkBrown_Grass_m_2C_01</name>
 		<posX>-57.60001</posX>
@@ -56,6 +104,22 @@
 		<scaleX>62.25284</scaleX>
 		<scaleY>62.25284</scaleY>
 		<scaleZ>62.25284</scaleZ>
+		<rotW>-0.3536738</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.9353689</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>4</objectID>
+		<name>Rock_Flat_DarkBrown_Grass_m_2C_13</name>
+		<posX>90.1</posX>
+		<posY>13.7</posY>
+		<posZ>-95.1</posZ>
+		<scaleX>-62.25284</scaleX>
+		<scaleY>-62.25284</scaleY>
+		<scaleZ>-62.25284</scaleZ>
+		<extraData>{ "meta": { "type": "iceberg", "target": 24 } }</extraData>
 		<rotW>-0.3536738</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.9353689</rotY>
