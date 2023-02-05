@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2357574}
   - component: {fileID: 6439908}
   m_Layer: 0
-  m_Name: Mountain_Brown_06 (copy)
+  m_Name: Mountain_Brown_Snow_06
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 23f9dc52929261fa4b58e5d20fdc241b, type: 2}
+  - {fileID: 2100000, guid: 428a0cbdb254c4df9a6df4077810f46b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
