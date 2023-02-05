@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mountain_Gray_Snow_03
+  m_Name: Mountain_Gray_Snow_04
   m_Shader: {fileID: 4800000, guid: e996686a8ad15f2428c38844916bc506, type: 3}
   m_ShaderKeywords: _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
   m_LightmapFlags: 4
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a55a7e85ef955dbb1b1ff07b2f59ca66, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4949ecfd805f6950a863486f22cd1fa1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
