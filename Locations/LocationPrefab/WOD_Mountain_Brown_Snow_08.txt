@@ -1,13 +1,13 @@
 <locationPrefab>
-	<height>300</height>
-	<width>300</width>
+	<height>580</height>
+	<width>580</width>
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>Mountain_Brown_Snow_01</name>
-		<posX>-316</posX>
-		<posY>-5</posY>
-		<posZ>150</posZ>
+		<posX>10</posX>
+		<posY>-111.5381</posY>
+		<posZ>305</posZ>
 		<scaleX>21.49736</scaleX>
 		<scaleY>21.49736</scaleY>
 		<scaleZ>21.49736</scaleZ>
@@ -20,12 +20,12 @@
 		<type>3</type>
 		<objectID>10</objectID>
 		<name>WOD_Mountain_DarkBrown_Snow_Base</name>
-		<posX>-167</posX>
+		<posX>143.3245</posX>
 		<posY>-116</posY>
-		<posZ>412</posZ>
-		<scaleX>1.687979</scaleX>
-		<scaleY>1.687979</scaleY>
-		<scaleZ>1.687979</scaleZ>
+		<posZ>90.88525</posZ>
+		<scaleX>1.4</scaleX>
+		<scaleY>1.4</scaleY>
+		<scaleZ>1.4</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
