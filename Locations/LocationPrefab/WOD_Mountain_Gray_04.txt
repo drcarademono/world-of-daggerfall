@@ -1,13 +1,13 @@
 <locationPrefab>
-	<height>420</height>
-	<width>420</width>
+	<height>680</height>
+	<width>680</width>
 	<object>
 		<type>4</type>
 		<objectID>34</objectID>
 		<name>Mountain_Gray_01</name>
-		<posX>-289.2223</posX>
+		<posX>-118</posX>
 		<posY>-13.12</posY>
-		<posZ>-127.1923</posZ>
+		<posZ>266</posZ>
 		<scaleX>26.56692</scaleX>
 		<scaleY>26.56692</scaleY>
 		<scaleZ>26.56692</scaleZ>
@@ -20,9 +20,9 @@
 		<type>4</type>
 		<objectID>35</objectID>
 		<name>Mountain_Gray_01</name>
-		<posX>-246</posX>
+		<posX>-74.77771</posX>
 		<posY>-372</posY>
-		<posZ>-303</posZ>
+		<posZ>90.19229</posZ>
 		<scaleX>26.56692</scaleX>
 		<scaleY>26.56692</scaleY>
 		<scaleZ>26.56692</scaleZ>
@@ -35,9 +35,9 @@
 		<type>3</type>
 		<objectID>4</objectID>
 		<name>WOD_Mountain_Gray_Base</name>
-		<posX>31</posX>
+		<posX>202.2223</posX>
 		<posY>-34</posY>
-		<posZ>-378</posZ>
+		<posZ>15.19229</posZ>
 		<scaleX>1.6319</scaleX>
 		<scaleY>1.6319</scaleY>
 		<scaleZ>1.6319</scaleZ>
