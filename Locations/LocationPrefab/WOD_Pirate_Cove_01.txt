@@ -1,5 +1,5 @@
 <locationPrefab>
-	<height>8</height>
+	<height>16</height>
 	<width>8</width>
 	<object>
 		<type>0</type>
@@ -850,7 +850,7 @@
 		<posZ>35.08</posZ>
 		<scaleX>10.06406</scaleX>
 		<scaleY>46.06142</scaleY>
-		<scaleZ>35.35852</scaleZ>
+		<scaleZ>20.01469</scaleZ>
 		<rotW>0.6652329</rotW>
 		<rotX>0</rotX>
 		<rotY>0.746636</rotY>
@@ -2143,7 +2143,7 @@
 		<rotW>0.1231682</rotW>
 		<rotX>-0.9923438</rotX>
 		<rotY>0.0006211558</rotY>
-		<rotZ>-0.009111887</rotZ>
+		<rotZ>-0.009111888</rotZ>
 	</object>
 	<object>
 		<type>0</type>
@@ -2288,5 +2288,50 @@
 		<rotX>0.111062</rotX>
 		<rotY>-0.006448526</rotY>
 		<rotZ>0.9907553</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>167</objectID>
+		<name>WOD_Rocks_Round_LightGray_Medium_08</name>
+		<posX>-140</posX>
+		<posY>13</posY>
+		<posZ>61.3</posZ>
+		<scaleX>0.2146615</scaleX>
+		<scaleY>0.2146615</scaleY>
+		<scaleZ>0.2146615</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>168</objectID>
+		<name>WOD_Rocks_Round_LightGray_Medium_04</name>
+		<posX>62.6</posX>
+		<posY>7.8</posY>
+		<posZ>32.2</posZ>
+		<scaleX>0.16768</scaleX>
+		<scaleY>0.16768</scaleY>
+		<scaleZ>0.16768</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>169</objectID>
+		<name>WOD_Rocks_Round_LightGray_Medium_09</name>
+		<posX>-12</posX>
+		<posY>7.8</posY>
+		<posZ>157.3</posZ>
+		<scaleX>0.4799221</scaleX>
+		<scaleY>0.4799221</scaleY>
+		<scaleZ>0.4799221</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
