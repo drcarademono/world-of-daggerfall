@@ -289,10 +289,10 @@
 	<object>
 		<type>3</type>
 		<objectID>20</objectID>
-		<name>WOD_small dock north no lighthouse</name>
-		<posX>-117.5</posX>
+		<name>WOD_Dock_Small_02</name>
+		<posX>-63.52</posX>
 		<posY>0.07</posY>
-		<posZ>-123.9</posZ>
+		<posZ>-61.12</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -884,7 +884,7 @@
 		<rotW>0.01735546</rotW>
 		<rotX>0.6378708</rotX>
 		<rotY>0.7699476</rotY>
-		<rotZ>0.0005404119</rotZ>
+		<rotZ>0.000540412</rotZ>
 	</object>
 	<object>
 		<type>4</type>
@@ -973,7 +973,7 @@
 		<scaleZ>37.34071</scaleZ>
 		<rotW>-0.2305949</rotW>
 		<rotX>0</rotX>
-		<rotY>0.9730498</rotY>
+		<rotY>0.9730499</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
@@ -986,10 +986,10 @@
 		<scaleX>10.06406</scaleX>
 		<scaleY>17.1871</scaleY>
 		<scaleZ>15.41675</scaleZ>
-		<rotW>0.4352062</rotW>
+		<rotW>0.4352061</rotW>
 		<rotX>-0.1004033</rotX>
 		<rotY>0.8933771</rotY>
-		<rotZ>0.04891119</rotZ>
+		<rotZ>0.04891118</rotZ>
 	</object>
 	<object>
 		<type>4</type>
@@ -1071,7 +1071,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<rotW>0.7928473</rotW>
+		<rotW>0.7928475</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.6094202</rotY>
 		<rotZ>0</rotZ>
@@ -1358,7 +1358,7 @@
 		<scaleZ>1</scaleZ>
 		<rotW>-0.2148058</rotW>
 		<rotX>0</rotX>
-		<rotY>0.9766569</rotY>
+		<rotY>0.9766568</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
@@ -1416,9 +1416,9 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<rotW>0.4832044</rotW>
+		<rotW>0.4832045</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.8755075</rotY>
+		<rotY>-0.8755076</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
@@ -2110,7 +2110,7 @@
 		<objectID>153</objectID>
 		<name>210.6</name>
 		<posX>0.42</posX>
-		<posY>7.514999</posY>
+		<posY>7.514997</posY>
 		<posZ>-28.866</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -2142,8 +2142,8 @@
 		<extraData>{"EnemyId":3}</extraData>
 		<rotW>0.1231682</rotW>
 		<rotX>-0.9923438</rotX>
-		<rotY>0.0006211556</rotY>
-		<rotZ>-0.009111885</rotZ>
+		<rotY>0.0006211558</rotY>
+		<rotZ>-0.009111887</rotZ>
 	</object>
 	<object>
 		<type>0</type>
@@ -2175,7 +2175,7 @@
 		<rotW>0.05896832</rotW>
 		<rotX>-0.369051</rotX>
 		<rotY>-0.007334474</rotY>
-		<rotZ>0.9275075</rotZ>
+		<rotZ>0.9275076</rotZ>
 	</object>
 	<object>
 		<type>0</type>
@@ -2204,7 +2204,7 @@
 		<scaleY>16.81306</scaleY>
 		<scaleZ>2.6374</scaleZ>
 		<extraData>{"EnemyId":3}</extraData>
-		<rotW>0.05736349</rotW>
+		<rotW>0.0573635</rotW>
 		<rotX>-0.9207262</rotX>
 		<rotY>0.03788305</rotY>
 		<rotZ>0.3841061</rotZ>
@@ -2220,7 +2220,7 @@
 		<scaleY>16.81306</scaleY>
 		<scaleZ>2.6374</scaleZ>
 		<extraData>{"EnemyId":3}</extraData>
-		<rotW>0.05736349</rotW>
+		<rotW>0.0573635</rotW>
 		<rotX>-0.9207262</rotX>
 		<rotY>0.03788305</rotY>
 		<rotZ>0.3841061</rotZ>
