@@ -412,21 +412,6 @@
 		<type>4</type>
 		<objectID>31</objectID>
 		<name>Smoke02</name>
-		<posX>-9.275001</posX>
-		<posY>-2.9</posY>
-		<posZ>-10.875</posZ>
-		<scaleX>13.09531</scaleX>
-		<scaleY>13.01772</scaleY>
-		<scaleZ>11.98444</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>32</objectID>
-		<name>60719</name>
 		<posX>9.74</posX>
 		<posY>-2.45</posY>
 		<posZ>10.67</posZ>
@@ -440,8 +425,8 @@
 	</object>
 	<object>
 		<type>0</type>
-		<objectID>51</objectID>
-		<name>60711</name>
+		<objectID>32</objectID>
+		<name>60719</name>
 		<posX>-9.275001</posX>
 		<posY>-2.9</posY>
 		<posZ>-10.875</posZ>
@@ -457,26 +442,41 @@
 		<type>0</type>
 		<objectID>52</objectID>
 		<name>60719</name>
-		<posX>-0.8</posX>
-		<posY>0.8</posY>
-		<posZ>1.12</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>0.488171</rotW>
-		<rotX>0</rotX>
-		<rotY>0.872748</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>54</objectID>
-		<name>199.19</name>
 		<posX>-1.339126</posX>
 		<posY>-0.1200089</posY>
 		<posZ>1.703196</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
+		<rotW>0.6908018</rotW>
+		<rotX>0</rotX>
+		<rotY>0.7230442</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>2</type>
+		<objectID>54</objectID>
+		<name>199.19</name>
+		<posX>1.92</posX>
+		<posY>1.230495</posY>
+		<posZ>-3.52</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>37</objectID>
+		<name>FX_Smoke</name>
+		<posX>2.662555</posX>
+		<posY>1.230495</posY>
+		<posZ>-3.194234</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
