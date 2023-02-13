@@ -1,6 +1,6 @@
 <locationPrefab>
 	<height>4</height>
-	<width>4</width>
+	<width>3</width>
 	<object>
 		<type>1</type>
 		<objectID>0</objectID>
@@ -195,9 +195,9 @@
 		<type>0</type>
 		<objectID>14</objectID>
 		<name>60610</name>
-		<posX>-13.6</posX>
+		<posX>-6.88</posX>
 		<posY>-4.3</posY>
-		<posZ>-13</posZ>
+		<posZ>-15.84</posZ>
 		<scaleX>3.842</scaleX>
 		<scaleY>3.905</scaleY>
 		<scaleZ>3.552</scaleZ>
@@ -210,9 +210,9 @@
 		<type>0</type>
 		<objectID>15</objectID>
 		<name>60610</name>
-		<posX>13.3</posX>
+		<posX>13.12</posX>
 		<posY>-2.4</posY>
-		<posZ>-15.95</posZ>
+		<posZ>-12</posZ>
 		<scaleX>3.842</scaleX>
 		<scaleY>3.905</scaleY>
 		<scaleZ>3.552</scaleZ>
@@ -225,9 +225,9 @@
 		<type>0</type>
 		<objectID>16</objectID>
 		<name>60610</name>
-		<posX>1.5</posX>
+		<posX>11.36</posX>
 		<posY>0.66</posY>
-		<posZ>16.13</posZ>
+		<posZ>14.24</posZ>
 		<scaleX>3.842</scaleX>
 		<scaleY>3.905</scaleY>
 		<scaleZ>3.552</scaleZ>
@@ -246,7 +246,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>136</extraData>
+		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -258,7 +258,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>136</extraData>
+		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -270,6 +270,36 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>136</extraData>
+		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>44</objectID>
+		<name>FX_Smoke</name>
+		<posX>-3.68</posX>
+		<posY>1.12</posY>
+		<posZ>-2.08</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>0</type>
+		<objectID>45</objectID>
+		<name>60610</name>
+		<posX>-5.6</posX>
+		<posY>-4.3</posY>
+		<posZ>10.4</posZ>
+		<scaleX>3.842</scaleX>
+		<scaleY>3.905</scaleY>
+		<scaleZ>3.552</scaleZ>
+		<rotW>0.7886331</rotW>
+		<rotX>-0.3727671</rotX>
+		<rotY>-0.4850806</rotY>
+		<rotZ>-0.06163942</rotZ>
 	</object>
 </locationPrefab>

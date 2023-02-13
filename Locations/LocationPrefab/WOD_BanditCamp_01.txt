@@ -6,8 +6,8 @@
 		<objectID>0</objectID>
 		<name>41130</name>
 		<posX>-1.140001</posX>
-		<posY>0.598</posY>
-		<posZ>0.7800007</posZ>
+		<posY>0.5460001</posY>
+		<posZ>0.7799982</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -20,8 +20,8 @@
 		<type>0</type>
 		<objectID>1</objectID>
 		<name>41106</name>
-		<posX>3.849998</posX>
-		<posY>0.36</posY>
+		<posX>3.849993</posX>
+		<posY>0.3638985</posY>
 		<posZ>-4.83</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -36,8 +36,8 @@
 		<objectID>2</objectID>
 		<name>41100</name>
 		<posX>-0.6900005</posX>
-		<posY>0.399</posY>
-		<posZ>0.4400005</posZ>
+		<posY>0.3870547</posY>
+		<posZ>0.4399988</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -50,9 +50,9 @@
 		<type>1</type>
 		<objectID>3</objectID>
 		<name>210.1</name>
-		<posX>1.99</posX>
+		<posX>1.92</posX>
 		<posY>-0.00850004</posY>
-		<posZ>-3.53</posZ>
+		<posZ>-3.52</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -61,8 +61,8 @@
 		<type>0</type>
 		<objectID>4</objectID>
 		<name>41106</name>
-		<posX>2.98</posX>
-		<posY>0.36</posY>
+		<posX>2.979998</posX>
+		<posY>0.3638985</posY>
 		<posZ>-1.68</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -76,8 +76,8 @@
 		<type>0</type>
 		<objectID>5</objectID>
 		<name>41106</name>
-		<posX>0.02999878</posX>
-		<posY>0.36</posY>
+		<posX>0.02999306</posX>
+		<posY>0.3638985</posY>
 		<posZ>-3.81</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -92,7 +92,7 @@
 		<objectID>6</objectID>
 		<name>216.1</name>
 		<posX>-0.8000011</posX>
-		<posY>0.69</posY>
+		<posY>0.625</posY>
 		<posZ>0.9869995</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -113,9 +113,9 @@
 		<type>1</type>
 		<objectID>10</objectID>
 		<name>205.3</name>
-		<posX>0.05999947</posX>
-		<posY>-0.005500019</posY>
-		<posZ>-5.124</posZ>
+		<posX>0.06000042</posX>
+		<posY>0.01449999</posY>
+		<posZ>-5.124001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -215,7 +215,7 @@
 		<objectID>17</objectID>
 		<name>41832</name>
 		<posX>-2.09</posX>
-		<posY>0.71</posY>
+		<posY>0.676</posY>
 		<posZ>-5.73</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -418,5 +418,35 @@
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
 		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>31</objectID>
+		<name>Smoke02</name>
+		<posX>1.76</posX>
+		<posY>0.96</posY>
+		<posZ>-3.52</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>32</objectID>
+		<name>FX_Smoke</name>
+		<posX>1.469219</posX>
+		<posY>0.5266409</posY>
+		<posZ>-3.640799</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>

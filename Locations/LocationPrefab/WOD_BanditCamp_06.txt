@@ -91,9 +91,9 @@
 		<type>0</type>
 		<objectID>6</objectID>
 		<name>60716</name>
-		<posX>-9.6</posX>
+		<posX>-7.84</posX>
 		<posY>-6.8</posY>
-		<posZ>5.83</posZ>
+		<posZ>7.36</posZ>
 		<scaleX>12.49331</scaleX>
 		<scaleY>12.97078</scaleY>
 		<scaleZ>37.09735</scaleZ>
@@ -304,5 +304,20 @@
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
 		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>46</objectID>
+		<name>FX_Smoke</name>
+		<posX>-1.6</posX>
+		<posY>1.28</posY>
+		<posZ>0.96</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
