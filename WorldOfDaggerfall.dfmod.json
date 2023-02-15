@@ -3392,7 +3392,8 @@
         "Assets/Game/Mods/world-of-daggerfall/Textures/Rocks_Texture_Atlas.png",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Dock_Small_02.txt",
         "Assets/Game/Mods/world-of-daggerfall/Prefabs/FX/FX_Smoke.prefab",
-        "Assets/Game/Mods/world-of-daggerfall/Textures/Smoke.png"
+        "Assets/Game/Mods/world-of-daggerfall/Textures/Smoke.png",
+        "Assets/Game/Mods/world-of-daggerfall/Materials/Smoke.mat"
     ],
     "Dependencies": [
         {
