@@ -1,6 +1,6 @@
 <locationPrefab>
-	<height>8</height>
-	<width>8</width>
+	<height>6</height>
+	<width>6</width>
 	<object>
 		<type>0</type>
 		<objectID>0</objectID>
@@ -95,7 +95,7 @@
 		<type>0</type>
 		<objectID>6</objectID>
 		<name>43025</name>
-		<posX>12.83</posX>
+		<posX>10.88</posX>
 		<posY>0.44</posY>
 		<posZ>-15.85</posZ>
 		<scaleX>1</scaleX>
@@ -110,7 +110,7 @@
 		<type>0</type>
 		<objectID>7</objectID>
 		<name>43025</name>
-		<posX>16.55385</posX>
+		<posX>14.60385</posX>
 		<posY>0.4368412</posY>
 		<posZ>-15.85854</posZ>
 		<scaleX>1</scaleX>
@@ -125,7 +125,7 @@
 		<type>0</type>
 		<objectID>8</objectID>
 		<name>43025</name>
-		<posX>19.79201</posX>
+		<posX>17.84201</posX>
 		<posY>0.4401371</posY>
 		<posZ>-15.87148</posZ>
 		<scaleX>1</scaleX>
@@ -318,17 +318,6 @@
 	</object>
 	<object>
 		<type>1</type>
-		<objectID>21</objectID>
-		<name>216.1</name>
-		<posX>-6.280001</posX>
-		<posY>1.15</posY>
-		<posZ>-1.620001</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-	</object>
-	<object>
-		<type>1</type>
 		<objectID>22</objectID>
 		<name>210.0</name>
 		<posX>-10.01</posX>
@@ -477,7 +466,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -489,7 +478,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -501,7 +490,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -513,7 +502,7 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -525,19 +514,19 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
 		<objectID>39</objectID>
 		<name>199.16</name>
-		<posX>16.9</posX>
+		<posX>0.16</posX>
 		<posY>1.14</posY>
-		<posZ>21.8</posZ>
+		<posZ>16.64</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>
@@ -549,6 +538,47 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-		<extraData>138</extraData>
+		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
+	</object>
+	<object>
+		<type>2</type>
+		<objectID>167</objectID>
+		<name>199.19</name>
+		<posX>-6.4</posX>
+		<posY>1.44</posY>
+		<posZ>-1.6</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>21</objectID>
+		<name>FX_Smoke</name>
+		<posX>-10</posX>
+		<posY>1.12</posY>
+		<posZ>-0.8099995</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>168</objectID>
+		<name>FX_Smoke</name>
+		<posX>-2.74</posX>
+		<posY>1.12</posY>
+		<posZ>-0.8099995</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>

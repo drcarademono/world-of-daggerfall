@@ -712,4 +712,49 @@
 		<rotY>-0.04124595</rotY>
 		<rotZ>0</rotZ>
 	</object>
+	<object>
+		<type>4</type>
+		<objectID>154</objectID>
+		<name>FX_Smoke</name>
+		<posX>0</posX>
+		<posY>1.12</posY>
+		<posZ>0</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>0</type>
+		<objectID>155</objectID>
+		<name>41714</name>
+		<posX>-22.87</posX>
+		<posY>-2.27</posY>
+		<posZ>22.9</posZ>
+		<scaleX>0.51644</scaleX>
+		<scaleY>1.421243</scaleY>
+		<scaleZ>0.51644</scaleZ>
+		<rotW>0.835803</rotW>
+		<rotX>0</rotX>
+		<rotY>0.5490295</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>0</type>
+		<objectID>156</objectID>
+		<name>41714</name>
+		<posX>24.85</posX>
+		<posY>-3.06</posY>
+		<posZ>20.65</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>0.53715</scaleZ>
+		<rotW>0.8220528</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.5694114</rotY>
+		<rotZ>0</rotZ>
+	</object>
 </locationPrefab>
