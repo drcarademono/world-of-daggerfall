@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 3310732}
   - component: {fileID: 2306184}
   - component: {fileID: 6433266}
+  - component: {fileID: -2164623328612966416}
   m_Layer: 0
-  m_Name: Mountain_NoSnow_01
+  m_Name: Mountain_Gray_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 851e7b79c40bbefbe87be2ff99b6e5b5, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -94,3 +95,22 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: aa5727992701a1348ac0e26d8f961f60, type: 3}
+--- !u!114 &-2164623328612966416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 198858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a6e6870983c00144809e2c44cdd0bc6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hasAppliedMaterials: 0
+  Materials:
+  - Index: 0
+    Archive: 2000
+    Record: 1
+    ApplyClimate: 0
+  UseDungeonTextureTable: 0

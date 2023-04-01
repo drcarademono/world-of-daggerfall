@@ -1,0 +1,34 @@
+<locationPrefab>
+	<height>8</height>
+	<width>8</width>
+	<object>
+		<type>3</type>
+		<objectID>0</objectID>
+		<name>WOD_WoodenBridge_01</name>
+		<posX>0</posX>
+		<posY>0</posY>
+		<posZ>102.308</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>3</type>
+		<objectID>1</objectID>
+		<name>WOD_WoodenBridge_01</name>
+		<posX>0</posX>
+		<posY>0</posY>
+		<posZ>-102.308</posZ>
+		<scaleX>1</scaleX>
+		<scaleY>1</scaleY>
+		<scaleZ>1</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+</locationPrefab>
