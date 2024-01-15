@@ -28,22 +28,48 @@ def calculate_coordinates(rotYaxis):
 
     return terrainX, terrainY
 
-# Assuming the CSV file is named 'data.csv'
+# Read data from the original CSV, calculate new coordinates, and store them
+updated_data = []
 with open('WOD_Docks.csv', mode='r') as file:
     reader = csv.reader(file)
-    headers = next(reader)  # Read the header row
-
-    # Find the index of 'rotYaxis' in the header
+    headers = next(reader)
     rotYaxis_index = headers.index('rotYaxis')
+
+    # If terrainX and terrainY columns do not exist, add them
+    if 'terrainX' not in headers:
+        headers.append('terrainX')
+    if 'terrainY' not in headers:
+        headers.append('terrainY')
+
+    terrainX_index = headers.index('terrainX')
+    terrainY_index = headers.index('terrainY')
+
+    updated_data.append(headers)
 
     for row in reader:
         try:
-            # Extracting the 'rotYaxis' value using the found index
             rotYaxis = float(row[rotYaxis_index])
         except ValueError:
-            # Skip rows with invalid 'rotYaxis' values
             continue
 
         terrainX, terrainY = calculate_coordinates(rotYaxis)
-        print(f'rotYaxis: {rotYaxis}, terrainX: {terrainX}, terrainY: {terrainY}')
 
+        # Update or add terrainX and terrainY in the row
+        if len(row) <= terrainX_index:
+            row.append(terrainX)
+        else:
+            row[terrainX_index] = terrainX
+
+        if len(row) <= terrainY_index:
+            row.append(terrainY)
+        else:
+            row[terrainY_index] = terrainY
+
+        updated_data.append(row)
+
+# Write the updated data back to the original CSV file
+with open('WOD_Docks.csv', mode='w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerows(updated_data)
+
+print("Original CSV file has been updated with 'terrainX' and 'terrainY' values.")
