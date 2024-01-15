@@ -1,315 +1,292 @@
-name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,extraData
-Penwall Derry Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,90,847,243,64,64,8471324368,Wayrest,847.5,-243.5,"{""LinkedMapId"":243846}"
-Tunmont Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,180,975,274,64,64,97540274124,Wayrest,975.5,-274.5,"{""LinkedMapId"":273975}"
-Bleeding Ascencion of Akatosh Docks,2,WOD_Dock_Small_01,-45,827,223,64,64,82712222391,Wayrest,827.5,-223.5,"{""LinkedMapId"":223828}"
-The Old Buckinghouse Place Docks,2,WOD_Dock_Small_01,180,840,226,64,64,84064226124,Wayrest,840.5,-226.5,"{""LinkedMapId"":225840}"
-The Yeomfield Farmstead Docks,2,WOD_Dock_Small_01,-135,847,230,64,64,847119230119,Wayrest,847.5,-230.5,"{""LinkedMapId"":229847}"
-Chestertower Docks,2,WOD_Dock_Lighthouse_Small_01,-90,853,236,64,64,85312423696,Wayrest,853.5,-236.5,"{""LinkedMapId"":236854}"
-Tamvale Rock Docks,2,WOD_Dock_Lighthouse_Small_01,0,841,239,64,64,8413123910,Wayrest,841.5,-239.5,"{""LinkedMapId"":240841}"
-Aldingshire Docks,2,WOD_Dock_Small_01,90,840,249,64,64,8400124928,Wayrest,840.5,-249.5,"{""LinkedMapId"":249839}"
-The Gaerham Farmstead Docks,2,WOD_Dock_Small_01,180,836,248,64,64,83674248123,Wayrest,836.5,-248.5,"{""LinkedMapId"":247836}"
-Merwark Hollow Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,-45,859,246,64,64,859120246119,Wayrest,859.5,-246.5,"{""LinkedMapId"":245860}"
-Wayrest Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,180,858,246,64,64,85883246123,Wayrest,858.5,-246.5,"{""LinkedMapId"":244859}"
-Mertale Court Docks,2,WOD_Dock_Small_01,-90,874,250,64,64,87412225052,Wayrest,874.5,-250.5,"{""LinkedMapId"":250875}"
-The Laughing Porcupine Pub Docks,2,WOD_Dock_Small_01,-90,875,255,64,64,87512225549,Wayrest,875.5,-255.5,"{""LinkedMapId"":255876}"
-Eastwold Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,-135,883,256,64,64,883123256123,Wayrest,883.5,-256.5,"{""LinkedMapId"":255884}"
-Chardale Docks,2,WOD_Wayrest_Dock_Lighthouse_Medium_01,180,887,257,64,64,88722257125,Wayrest,887.5,-257.5,"{""LinkedMapId"":256887}"
-Eternal Prophet of Akatosh Docks,2,WOD_Dock_Small_01,-90,860,249,64,64,86012324954,Wayrest,860.5,-249.5,"{""LinkedMapId"":249861}"
-Ashcroft Manor Docks,2,WOD_Dock_Small_01,135,864,251,64,64,86406251124,Wayrest,864.5,-251.5,"{""LinkedMapId"":250863}"
-Old Elyssa's Hovel Docks,2,WOD_Dock_Small_01,180,866,250,64,64,86665250124,Wayrest,866.5,-250.5,"{""LinkedMapId"":249866}"
-Inner Rebirth of Akatosh Docks,2,WOD_Dock_Lighthouse_Small_01,180,889,258,64,64,88967258119,Wayrest,889.5,-258.5,"{""LinkedMapId"":257889}"
-Hawksley Hall Docks,2,WOD_Dock_Small_01,180,892,259,64,64,89272259124,Wayrest,892.5,-259.5,"{""LinkedMapId"":258892}"
-Djen Lodge Docks,2,WOD_Dock_Small_01,180,900,257,64,64,90065257125,Wayrest,900.5,-257.5,"{""LinkedMapId"":256900}"
-Vanhope Hall Docks,2,WOD_Dock_Lighthouse_Small_01,180,907,259,64,64,90765259122,Wayrest,907.5,-259.5,"{""LinkedMapId"":258907}"
-Grayville Court Docks,2,WOD_Dock_Small_01,0,907,261,64,64,9073226104,Wayrest,907.5,-261.5,"{""LinkedMapId"":262907}"
-The Lion and Castle Tavern Docks,2,WOD_Dock_Small_01,-45,902,263,64,64,9024226308,Wayrest,902.5,-263.5,"{""LinkedMapId"":264902}"
-Burgmarket Minster Docks,2,WOD_Dock_Lighthouse_Small_01,-45,899,265,64,64,8996326559,Wayrest,899.5,-265.5,"{""LinkedMapId"":266900}"
-Burning Tree of Akatosh Docks,2,WOD_Dock_Small_01,180,923,262,64,64,92327262120,Wayrest,923.5,-262.5,"{""LinkedMapId"":261923}"
-Coppersly Hall Docks,2,WOD_Dock_Small_01,180,925,262,64,64,92564262119,Wayrest,925.5,-262.5,"{""LinkedMapId"":261925}"
-Longmore Field Docks,2,WOD_Wayrest_Dock_Lighthouse_Medium_01,180,931,263,64,64,93163263122,Wayrest,931.5,-263.5,"{""LinkedMapId"":262931}"
-Kieran Theatre Docks,2,WOD_Dock_Lighthouse_Small_01,180,940,265,64,64,94072265119,Wayrest,940.5,-265.5,"{""LinkedMapId"":264940}"
-The Yeomsley Farmstead Docks,2,WOD_Dock_Small_01,180,942,265,64,64,94276265123,Wayrest,942.5,-265.5,"{""LinkedMapId"":264942}"
-Aldingbridge Moor Docks,2,WOD_Dock_Lighthouse_Small_01,180,956,266,64,64,95664266123,Wayrest,956.5,-266.5,"{""LinkedMapId"":265956}"
-The Queen's Wolf Hostel Docks,2,WOD_Dock_Small_01,-135,959,267,64,64,959122267120,Wayrest,959.5,-267.5,"{""LinkedMapId"":266960}"
-Wartry Moor Docks,2,WOD_Dock_Lighthouse_Small_01,180,964,267,64,64,96468267124,Wayrest,964.5,-267.5,"{""LinkedMapId"":266964}"
-The Black Goblin Pub Docks,2,WOD_Dock_Small_01,90,978,272,64,64,9780127291,Wayrest,978.5,-272.5,"{""LinkedMapId"":271977}"
-Midmont Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,60,106,64,64,6099106101,Tulune,60.5,-106.5,"{""LinkedMapId"":106061}"
-The Old Copperham Place Docks,2,WOD_Dock_Small_01,-90,66,119,64,64,6611311964,Tulune,66.5,-119.5,"{""LinkedMapId"":119067}"
-Yeomham Hall Docks,2,WOD_Dock_Small_01,-90,67,130,64,64,6795130101,Tulune,67.5,-130.5,"{""LinkedMapId"":129068}"
-Westwall Docks,2,WOD_Dock_Lighthouse_Small_01,-45,71,130,64,64,7111013012,Tulune,71.5,-130.5,"{""LinkedMapId"":130072}"
-Reliquary of Sai Docks,2,WOD_Dock_Small_01,-90,72,145,64,64,720014547,Tulune,72.5,-145.5,"{""LinkedMapId"":143073}"
-The Wicksly Farmstead Docks,2,WOD_Dock_Small_01,-90,76,152,64,64,770415240,Tulune,76.5,-152.5,"{""LinkedMapId"":152077}"
-The Wickhart Farmstead Docks,2,WOD_Dock_Small_01,180,68,163,64,64,689216313,Tulune,68.5,-163.5,"{""LinkedMapId"":162068}"
-Lambrugh Docks,2,WOD_Dock_Lighthouse_Medium_01,180,72,165,64,64,7265165118,Tulune,72.5,-165.5,"{""LinkedMapId"":164072}"
-Gaerham Court Docks,2,WOD_Dock_Small_01,180,78,166,64,64,7892166119,Tulune,78.5,-166.5,"{""LinkedMapId"":165078}"
-Antelibuton Docks,2,WOD_HF_Dock_Lighthouse_Large_01,0,558,295,64,64,5581829517,Tigonus,558.5,-295.5,"{""LinkedMapId"":296558}"
-The Crimson Djinn Hostel Docks,2,WOD_HF_Dock_Small_01,90,473,360,64,64,4730636063,Tigonus,473.5,-360.5,"{""LinkedMapId"":360472}"
-Khajocconu Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,474,346,64,64,474125346105,Tigonus,474.5,-346.5,"{""LinkedMapId"":346475}"
-Agunnudai Docks,2,WOD_HF_Dock_Small_01,0,497,325,64,64,4975832509,Tigonus,497.5,-325.5,"{""LinkedMapId"":326497}"
-Mesanis Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,514,317,64,64,5142731701,Tigonus,514.5,-317.5,"{""LinkedMapId"":318514}"
-Mesanis Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,513,318,64,64,513124318101,Tigonus,513.5,-318.5,"{""LinkedMapId"":318514}"
-Paponirea Docks,2,WOD_HF_Dock_Small_01,0,516,312,64,64,5163631203,Tigonus,516.5,-312.5,"{""LinkedMapId"":313516}"
-Millitor Docks,2,WOD_HF_Dock_Small_01,0,518,311,64,64,5186031103,Tigonus,518.5,-311.5,"{""LinkedMapId"":312518}"
-Wadijerareg Docks,2,WOD_HF_Dock_Medium_01,0,552,296,64,64,5525929601,Tigonus,552.5,-296.5,"{""LinkedMapId"":297552}"
-The Red Cat Tavern Docks,2,WOD_HF_Dock_Small_01,0,569,293,64,64,5694029303,Tigonus,569.5,-293.5,"{""LinkedMapId"":294569}"
-The Thirsty Sword Tavern Docks,2,WOD_HF_Dock_Small_01,0,521,308,64,64,5212830808,Tigonus,521.5,-308.5,"{""LinkedMapId"":309521}"
-The Rat and Barbarian Tavern Docks,2,WOD_HF_Dock_Small_01,0,524,307,64,64,5242330705,Tigonus,524.5,-307.5,"{""LinkedMapId"":308524}"
-Kalureg Docks,2,WOD_HF_Dock_Medium_01,0,527,307,64,64,5275030701,Tigonus,527.5,-307.5,"{""LinkedMapId"":308527}"
-Baghada Docks,2,WOD_HF_Dock_Small_01,0,530,307,64,64,5306530708,Tigonus,530.5,-307.5,"{""LinkedMapId"":308530}"
-The V'ev Farmstead Docks,2,WOD_HF_Dock_Small_01,0,534,304,64,64,5344030405,Tigonus,534.5,-304.5,"{""LinkedMapId"":305534}"
-The Krurta Farmstead Docks,2,WOD_HF_Dock_Small_01,0,582,289,64,64,5828428901,Tigonus,582.5,-289.5,"{""LinkedMapId"":290582}"
-Old Rhardja's Hovel Docks,2,WOD_HF_Dock_Small_01,180,596,280,64,64,59668280118,Tigonus,596.5,-280.5,"{""LinkedMapId"":279596}"
-Buckinghart Court Docks,2,WOD_Dock_Small_01,90,320,208,64,64,3200520858,Shalgora,320.5,-208.5,"{""LinkedMapId"":208319}"
-The Woodston Farmstead Docks,2,WOD_Dock_Small_01,180,324,205,64,64,324123205127,Shalgora,324.5,-205.5,"{""LinkedMapId"":204324}"
-Moorton Hall Docks,2,WOD_Dock_Lighthouse_Small_01,90,336,198,64,64,3360419882,Shalgora,336.5,-198.5,"{""LinkedMapId"":198335}"
-Moorsmith Hall Docks,2,WOD_Dock_Lighthouse_Small_01,90,336,196,64,64,3360319636,Shalgora,336.5,-196.5,"{""LinkedMapId"":196335}"
-The Masterwing Farmstead Docks,2,WOD_Dock_Small_01,180,338,194,64,64,33884194127,Shalgora,338.5,-194.5,"{""LinkedMapId"":193338}"
-Sedaha-Kom Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,314,386,64,64,3143138605,Sentinel,314.5,-386.5,"{""LinkedMapId"":387314}"
-Damasta-Korom Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-45,320,381,64,64,32012038105,Sentinel,320.5,-381.5,"{""LinkedMapId"":382321}"
-Pibuda Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,329,375,64,64,32910437508,Sentinel,329.5,-375.5,"{""LinkedMapId"":376329}"
-The King's Jug Pub Docks,2,WOD_HF_Dock_Small_01,-90,330,371,64,64,33012537199,Sentinel,330.5,-371.5,"{""LinkedMapId"":371331}"
-Zenuhno Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,346,359,64,64,34611535952,Sentinel,346.5,-359.5,"{""LinkedMapId"":359347}"
-Zenuhno Docks,2,WOD_HF_Dock_Medium_01,180,347,360,64,64,34763360120,Sentinel,347.5,-360.5,"{""LinkedMapId"":359347}"
-Mji-Ij Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,347,356,64,64,3472435603,Sentinel,347.5,-356.5,"{""LinkedMapId"":357347}"
-Antelajda Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,355,357,64,64,3552835704,Sentinel,355.5,-357.5,"{""LinkedMapId"":358355}"
-Naresa Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-90,369,350,64,64,369120350111,Sentinel,369.5,-350.5,"{""LinkedMapId"":350370}"
-The Bosam Farmstead Docks,2,WOD_HF_Dock_Small_01,0,372,347,64,64,3728434701,Sentinel,372.5,-347.5,"{""LinkedMapId"":348372}"
-Jalonia Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,375,346,64,64,3752934604,Sentinel,375.5,-346.5,"{""LinkedMapId"":347375}"
-The M'erg Farmstead Docks,2,WOD_HF_Dock_Small_01,0,383,344,64,64,3837934404,Sentinel,383.5,-344.5,"{""LinkedMapId"":345383}"
-Ageliret Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,387,343,64,64,3872734304,Sentinel,387.5,-343.5,"{""LinkedMapId"":344387}"
-Pallaton Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,392,340,64,64,3926034008,Sentinel,392.5,-340.5,"{""LinkedMapId"":341392}"
-Sentinel Docks,2,WOD_HF_Dock_Medium_01,45,397,341,64,64,3973534115,Sentinel,397.5,-341.5,"{""LinkedMapId"":343397}"
-The Fortress of Fhojum Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Large_01,0,398,341,64,64,3981334105,Sentinel,398.5,-341.5,"{""LinkedMapId"":342399}"
-Mesiton Docks,2,WOD_HF_Dock_Lighthouse_Small_01,180,396,349,64,64,39664349123,Sentinel,396.5,-349.5,"{""LinkedMapId"":348396}"
-Isfakabi Docks,2,WOD_HF_Dock_Lighthouse_Small_01,180,392,352,64,64,39267352118,Sentinel,392.5,-352.5,"{""LinkedMapId"":351392}"
-The Queen's Wolf Inn Docks,2,WOD_HF_Dock_Small_01,90,388,353,64,64,3880535358,Sentinel,388.5,-353.5,"{""LinkedMapId"":353387}"
-Zagumba-Kom Docks,2,WOD_HF_Dock_Lighthouse_Small_01,90,383,361,64,64,3830536159,Sentinel,383.5,-361.5,"{""LinkedMapId"":361382}"
-Lharp'kern Manor Docks,2,WOD_HF_Dock_Small_01,135,380,366,64,64,38006366124,Sentinel,380.5,-366.5,"{""LinkedMapId"":365379}"
-The Savage Guard Inn Docks,2,WOD_HF_Dock_Small_01,45,381,368,64,64,3811036809,Sentinel,381.5,-368.5,"{""LinkedMapId"":369380}"
-The Old Thush Place Docks,2,WOD_HF_Dock_Small_01,0,385,368,64,64,3856036805,Sentinel,385.5,-368.5,"{""LinkedMapId"":369385}"
-The Rhujten Cabin Docks,2,WOD_HF_Dock_Small_01,0,388,368,64,64,3886736801,Sentinel,388.5,-368.5,"{""LinkedMapId"":369388}"
-Cudakasa Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,407,372,64,64,4076137203,Sentinel,407.5,-372.5,"{""LinkedMapId"":373407}"
-Bubumbaret Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,415,372,64,64,4156337203,Sentinel,415.5,-372.5,"{""LinkedMapId"":373415}"
-The V'uchin Farmstead Docks,2,WOD_HF_Dock_Small_01,0,419,373,64,64,4197937301,Sentinel,419.5,-373.5,"{""LinkedMapId"":374419}"
-The C'avar Cabin Docks,2,WOD_HF_Dock_Small_01,-45,421,373,64,64,42112437381,Sentinel,421.5,-373.5,"{""LinkedMapId"":373422}"
-The Dirty Mug Tavern Docks,2,WOD_HF_Dock_Small_01,0,425,372,64,64,4252937209,Sentinel,425.5,-372.5,"{""LinkedMapId"":373425}"
-Bubaaqja Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,427,372,64,64,4276537203,Sentinel,427.5,-372.5,"{""LinkedMapId"":373427}"
-Old Mhirpti's Hovel Docks,2,WOD_HF_Dock_Small_01,0,438,372,64,64,43812237284,Sentinel,438.5,-372.5,"{""LinkedMapId"":372439}"
-Shrine of Q'Olwen Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,441,369,64,64,4415936904,Sentinel,441.5,-369.5,"{""LinkedMapId"":370441}"
-Bubissidata Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-135,403,328,64,64,403123328124,Sentinel,403.5,-328.5,"{""LinkedMapId"":327404}"
-Rhorkke Hall Docks,2,WOD_HF_Dock_Small_01,180,409,329,64,64,40967329124,Sentinel,409.5,-329.5,"{""LinkedMapId"":328409}"
-Tulajidax Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,45,778,283,64,64,77812428382,Satakalaam,778.5,-283.5,"{""LinkedMapId"":283779}"
-The King's Dungeon Lodge Docks,2,WOD_HF_Dock_Small_01,0,782,282,64,64,7826528206,Satakalaam,782.5,-282.5,"{""LinkedMapId"":283782}"
-Lopadai Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,797,277,64,64,79711927797,Satakalaam,797.5,-277.5,"{""LinkedMapId"":277798}"
-The Old Turder Hovel Docks,2,WOD_HF_Dock_Small_01,0,815,278,64,64,8155427806,Satakalaam,815.5,-278.5,"{""LinkedMapId"":279815}"
-Shrald Court Docks,2,WOD_HF_Dock_Small_01,0,817,277,64,64,8170527704,Satakalaam,817.5,-277.5,"{""LinkedMapId"":278817}"
-The Rusty Bird Tavern Docks,2,WOD_HF_Dock_Small_01,0,835,277,64,64,83511427700,Satakalaam,835.5,-277.5,"{""LinkedMapId"":276835}"
-M'arkam Manor Docks,2,WOD_HF_Dock_Small_01,0,843,277,64,64,8435627704,Satakalaam,843.5,-277.5,"{""LinkedMapId"":278843}"
-Cellen Hall Docks,2,WOD_HF_Dock_Small_01,0,842,293,64,64,8427229315,Satakalaam,842.5,-293.5,"{""LinkedMapId"":294842}"
-Naranu Docks,2,WOD_HF_Dock_Small_01,0,852,292,64,64,8526329203,Satakalaam,852.5,-292.5,"{""LinkedMapId"":293852}"
-Rlorht Manor Docks,2,WOD_HF_Dock_Small_01,90,864,283,64,64,8641028360,Satakalaam,864.5,-283.5,"{""LinkedMapId"":283863}"
-The Doll Farmstead Docks,2,WOD_HF_Dock_Small_01,90,866,281,64,64,8660928147,Satakalaam,866.5,-281.5,"{""LinkedMapId"":281865}"
-Javibia Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,846,269,64,64,84611826965,Satakalaam,846.5,-269.5,"{""LinkedMapId"":269847}"
-Rlect Hall Docks,2,WOD_HF_Dock_Small_01,180,825,265,64,64,82556265115,Satakalaam,825.5,-265.5,"{""LinkedMapId"":264825}"
-The Crimson Cat Inn Docks,2,WOD_HF_Dock_Small_01,0,832,262,64,64,8327026205,Satakalaam,832.5,-262.5,"{""LinkedMapId"":263832}"
-The Feather and Dog Tavern Docks,2,WOD_HF_Dock_Small_01,0,235,407,64,64,2356740714,Pothago,235.5,-407.5,"{""LinkedMapId"":408235}"
-Berbajan Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,266,405,64,64,2661340508,Pothago,266.5,-405.5,"{""LinkedMapId"":406266}"
-Berbajan Docks,2,WOD_HF_Dock_Lighthouse_Small_01,45,267,406,64,64,26706406123,Pothago,267.5,-406.5,"{""LinkedMapId"":406266}"
-Westhead Moor Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,206,222,64,64,20611122224,,206.5,-222.5,"{""LinkedMapId"":223207}"
-Gallocart Docks,2,WOD_Dock_Medium_01,135,93,158,64,64,934015888,,93.5,-158.5,"{""LinkedMapId"":157092}"
-The Greencroft Farmstead Docks,2,WOD_Dock_Small_01,90,90,159,64,64,904515961,,90.5,-159.5,"{""LinkedMapId"":159089}"
-Divad Monument Docks,2,WOD_Dock_Lighthouse_Small_01,180,94,158,64,64,947315899,,94.5,-158.5,"{""LinkedMapId"":157094}"
-The Dirty Wolf Lodge Docks,2,WOD_Dock_Small_01,180,94,183,64,64,9463183111,Daggerfall,94.5,-183.5,"{""LinkedMapId"":182094}"
-Whitecroft Docks,2,WOD_Dock_Lighthouse_Medium_01,180,102,200,64,64,10263200111,Daggerfall,102.5,-200.5,"{""LinkedMapId"":199102}"
-Holwych Docks,2,WOD_Dock_Medium_01,180,118,202,64,64,11867202111,Daggerfall,118.5,-202.5,"{""LinkedMapId"":201118}"
-The Ashhouse Farmstead Docks,2,WOD_Dock_Small_01,180,138,213,64,64,13858213111,Daggerfall,138.5,-213.5,"{""LinkedMapId"":212138}"
-Aldbrone Docks,2,WOD_Dock_Lighthouse_Small_01,135,442,167,64,64,44206167127,,442.5,-167.5,"{""LinkedMapId"":166441}"
-The Old Ashing Hovel Docks,2,WOD_Dock_Small_01,180,446,160,64,64,44667160125,,446.5,-160.5,"{""LinkedMapId"":159446}"
-Inner Light of Stendarr Docks,2,WOD_Dock_Lighthouse_Small_01,90,623,115,64,64,6230311564,,623.5,-115.5,"{""LinkedMapId"":115622}"
-The Buckinghart Plantation Docks,2,WOD_Dock_Small_01,180,735,136,64,64,7357613900,,735.5,-136.5,"{""LinkedMapId"":135735}"
-The Dwarf and Pit Inn Docks,2,WOD_Dock_Small_01,45,611,147,64,64,6110514703,,611.5,-147.5,"{""LinkedMapId"":148610}"
-The Gaerhouse Plantation Docks,2,WOD_Dock_Lighthouse_Small_01,-180,629,159,64,64,62965159119,,629.5,-159.5,"{""LinkedMapId"":158629}"
-Sachan Manor Docks,2,WOD_HF_Dock_Small_01,-135,478,361,64,64,478124361123,,478.5,-361.5,"{""LinkedMapId"":360479}"
-Rhogilah Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,469,359,64,64,46912335961,,469.5,-359.5,"{""LinkedMapId"":359470}"
-Rhogilah Docks,2,WOD_HF_Dock_Small_01,180,470,360,64,64,47067360122,,470.5,-360.5,"{""LinkedMapId"":359470}"
-Divad Monument Docks,2,WOD_HF_Dock_Small_01,0,860,288,64,64,8604528805,,860.5,-288.5,"{""LinkedMapId"":289860}"
-Fearful Redeemer of Julianos Docks,2,WOD_HF_Dock_Small_01,0,866,288,64,64,8666528804,,866.5,-288.5,"{""LinkedMapId"":289866}"
-Gothcroft Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,126,42,64,64,1261184290,Northmoor,126.5,-42.5,"{""LinkedMapId"":42127}"
-The Rat and Priest Hostel Docks,2,WOD_Dock_Small_01,0,224,4,64,64,224580413,Northmoor,224.5,-4.5,"{""LinkedMapId"":5224}"
-The Mouse and Goblin Tavern Docks,2,WOD_Dock_Small_01,0,222,4,64,64,222580410,Northmoor,222.5,-4.5,"{""LinkedMapId"":5222}"
-The Kingham Farmstead Docks,2,WOD_Dock_Small_01,-90,214,11,64,64,2141021147,Northmoor,214.5,-11.5,"{""LinkedMapId"":11215}"
-Knightshope Docks,2,WOD_Dock_Medium_01,0,229,4,64,64,229670409,Northmoor,229.5,-4.5,"{""LinkedMapId"":5229}"
-Stokwall Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,218,8,64,64,2181220852,Northmoor,218.5,-8.5,"{""LinkedMapId"":8219}"
-Buckingsly Manor Docks,2,WOD_Dock_Small_01,0,212,13,64,64,212771308,Northmoor,212.5,-13.5,"{""LinkedMapId"":14212}"
-Buckingsmith Manor Docks,2,WOD_Dock_Small_01,0,210,13,64,64,210641312,Northmoor,210.5,-13.5,"{""LinkedMapId"":14210}"
-Joyous Sunrise of Mara Docks,2,WOD_Dock_Small_01,0,193,24,64,64,193702415,Northmoor,193.5,-24.5,"{""LinkedMapId"":25193}"
-Vanpath Docks,2,WOD_Dock_Lighthouse_Medium_01,0,162,33,64,64,162683310,Northmoor,162.5,-33.5,"{""LinkedMapId"":34162}"
-Pencart Docks,2,WOD_Dock_Lighthouse_Medium_01,-45,152,35,64,64,152043579,Northmoor,152.5,-35.5,"{""LinkedMapId"":38152}"
-Burgcart Heath Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,123,45,64,64,123814583,Northmoor,123.5,-45.5,"{""LinkedMapId"":45124}"
-Elissinia Docks,2,WOD_HF_Dock_Medium_01,0,279,402,64,64,2797040205,Myrkwasa,279.5,-402.5,"{""LinkedMapId"":403279}"
-The Boirch Cabin Docks,2,WOD_HF_Dock_Small_01,-45,295,397,64,64,29512039782,Myrkwasa,295.5,-397.5,"{""LinkedMapId"":397296}"
-Baestem Palace Docks,2,WOD_HF_Dock_Small_01,135,886,284,64,64,88604284120,Mournoth,886.5,-284.5,"{""LinkedMapId"":283885}"
-Tharcer Hall Docks,2,WOD_HF_Dock_Small_01,-45,893,276,64,64,89311827684,Mournoth,893.5,-276.5,"{""LinkedMapId"":276894}"
-The Feather and Hedgehog Lodge Docks,2,WOD_HF_Dock_Small_01,-45,897,274,64,64,89711627491,Mournoth,897.5,-274.5,"{""LinkedMapId"":274898}"
-Wadijilanis Docks,2,WOD_HF_Dock_Medium_01,0,898,284,64,64,8986528409,Mournoth,898.5,-284.5,"{""LinkedMapId"":285898}"
-Vlulder Grange Docks,2,WOD_HF_Dock_Small_01,180,898,281,64,64,89865281119,Mournoth,898.5,-281.5,"{""LinkedMapId"":280898}"
-The Mouse and Fawn Hostel Docks,2,WOD_HF_Dock_Small_01,0,904,283,64,64,9043528312,Mournoth,904.5,-283.5,"{""LinkedMapId"":284904}"
-The Mole and Woodchuck Tavern Docks,2,WOD_HF_Dock_Small_01,180,913,274,64,64,91369274116,Mournoth,913.5,-274.5,"{""LinkedMapId"":273913}"
-Zagalladisu Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,916,276,64,64,9166827612,Mournoth,916.5,-276.5,"{""LinkedMapId"":277916}"
-Appissiza Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,948,279,64,64,9485827906,Mournoth,948.5,-279.5,"{""LinkedMapId"":280948}"
-Meseraara Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,962,277,64,64,9627727708,Mournoth,962.5,-277.5,"{""LinkedMapId"":278962}"
-The Dirty Goat Inn Docks,2,WOD_HF_Dock_Small_01,0,969,280,64,64,9696728014,Mournoth,969.5,-280.5,"{""LinkedMapId"":281969}"
-The Feather and Goat Inn Docks,2,WOD_HF_Dock_Small_01,45,973,281,64,64,9731228113,Mournoth,973.5,-281.5,"{""LinkedMapId"":282972}"
-Oxlech Docks,2,WOD_Dock_Lighthouse_Small_01,-135,798,165,64,64,798127165124,Menevia,798.5,-165.5,"{""LinkedMapId"":164799}"
-The Silver Hedgehog Pub Docks,2,WOD_Dock_Small_01,-90,799,181,64,64,79912518123,Menevia,799.5,-181.5,"{""LinkedMapId"":181800}"
-Chesterbrugh Docks,2,WOD_Dock_Lighthouse_Large_01,180,791,217,64,64,79165217124,Menevia,791.5,-217.5,"{""LinkedMapId"":216791}"
-Old Vannyvyra's Farm Docks,2,WOD_Dock_Small_01,-90,820,216,64,64,820125216122,Menevia,820.5,-216.5,"{""LinkedMapId"":215821}"
-Kalunnunu Docks,2,WOD_Dock_Lighthouse_Large_01,0,754,278,64,64,7546327822,Lainlyn,754.5,-278.5,"{""LinkedMapId"":279754}"
-The Silver Priest Lodge Docks,2,WOD_HF_Dock_Small_01,-45,644,280,64,64,6444928000,Lainlyn,644.5,-280.5,"{""LinkedMapId"":281644}"
-Syrotubu Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,658,280,64,64,6585928003,Lainlyn,658.5,-280.5,"{""LinkedMapId"":281658}"
-The Kurgrn Farmstead Docks,2,WOD_HF_Dock_Small_01,0,663,280,64,64,6636828001,Lainlyn,663.5,-280.5,"{""LinkedMapId"":281663}"
-Papiladisu Docks,2,WOD_HF_Dock_Medium_01,0,674,285,64,64,6744728505,Lainlyn,674.5,-285.5,"{""LinkedMapId"":286674}"
-Pilliweyn Docks,2,WOD_HF_Dock_Small_01,0,685,283,64,64,6852828303,Lainlyn,685.5,-283.5,"{""LinkedMapId"":284685}"
-Torch Manor Docks,2,WOD_HF_Dock_Small_01,0,687,282,64,64,6877328205,Lainlyn,687.5,-282.5,"{""LinkedMapId"":283687}"
-Syrallao Docks,2,WOD_HF_Dock_Lighthouse_Large_01,0,699,280,64,64,6995828003,Lainlyn,699.5,-280.5,"{""LinkedMapId"":281699}"
-Pythohajer Docks,2,WOD_HF_Dock_Medium_01,0,702,280,64,64,7026728004,Lainlyn,702.5,-280.5,"{""LinkedMapId"":281702}"
-Krill'kern Orchard Docks,2,WOD_HF_Dock_Small_01,0,707,282,64,64,7077028201,Lainlyn,707.5,-282.5,"{""LinkedMapId"":283707}"
-Burning Ascencion of Julianos Docks,2,WOD_HF_Dock_Small_01,0,712,281,64,64,7125928105,Lainlyn,712.5,-281.5,"{""LinkedMapId"":282712}"
-Reliquary of Sai Docks,2,WOD_HF_Dock_Small_01,0,724,281,64,64,7245828105,Lainlyn,724.5,-281.5,"{""LinkedMapId"":282724}"
-The Old Rausten Shack Docks,2,WOD_HF_Dock_Small_01,0,728,281,64,64,7286528103,Lainlyn,728.5,-281.5,"{""LinkedMapId"":282728}"
-Blessed Tree of Julianos Docks,2,WOD_HF_Dock_Small_01,0,734,281,64,64,7346528105,Lainlyn,734.5,-281.5,"{""LinkedMapId"":282734}"
-Holy Ascencion of Julianos Docks,2,WOD_HF_Dock_Small_01,-45,737,281,64,64,7374628105,Lainlyn,737.5,-281.5,"{""LinkedMapId"":282737}"
-Morilliton Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,741,280,64,64,7416528004,Lainlyn,741.5,-280.5,"{""LinkedMapId"":281741}"
-Stuld Hall Docks,2,WOD_HF_Dock_Small_01,0,747,279,64,64,7476027906,Lainlyn,747.5,-279.5,"{""LinkedMapId"":280747}"
-Infinite Soul of Julianos Docks,2,WOD_HF_Dock_Small_01,-45,748,279,64,64,74812227995,Lainlyn,748.5,-279.5,"{""LinkedMapId"":279749}"
-Blarcan Hall Docks,2,WOD_HF_Dock_Small_01,0,764,277,64,64,7642927704,Lainlyn,764.5,-277.5,"{""LinkedMapId"":278764}"
-Baghascuwan Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,766,278,64,64,7666027806,Lainlyn,766.5,-278.5,"{""LinkedMapId"":279766}"
-Coppering Manor Docks,2,WOD_Dock_Small_01,-135,671,125,64,64,671124125123,Koegria,671.5,-125.5,"{""LinkedMapId"":124672}"
-Tlactrn Manor Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,202,434,64,64,2029343414,Kairou,202.5,-434.5,"{""LinkedMapId"":435202}"
-Old Lysausa's Farm Docks,2,WOD_Dock_Small_01,-45,624,150,64,64,62412515081,Isle of Balfiera,624.5,-150.5,"{""LinkedMapId"":150625}"
-Warwych Docks,2,WOD_Balfiera_Dock_Lighthouse_Small_01,,631,161,64,64,6312816108,Isle of Balfiera,631.5,-161.5,"{""LinkedMapId"":162631}"
-The Ashsmith Farmstead Docks,2,WOD_Dock_Small_01,-135,628,165,64,64,628127165106,Isle of Balfiera,628.5,-165.5,"{""LinkedMapId"":164629}"
-Kingsly Orchard Docks,2,WOD_Dock_Small_01,,640,168,64,64,6407316812,Isle of Balfiera,640.5,-168.5,"{""LinkedMapId"":169640}"
-Gallomarket Docks,2,WOD_Balfiera_Dock_Lighthouse_Small_01,-90,643,166,64,64,64312216688,Isle of Balfiera,643.5,-166.5,"{""LinkedMapId"":166644}"
-The Moorhouse Farmstead Docks,2,WOD_Dock_Small_01,-180,654,171,64,64,65473171122,Isle of Balfiera,654.5,-171.5,"{""LinkedMapId"":170654}"
-THe Crypts of Kingham Docks,2,WOD_Dock_Small_01,135,726,234,64,64,72609234123,Isle of Balfiera,726.5,-234.5,"{""LinkedMapId"":233725}"
-Ruins of The Old Yeoming Hovel Docks,2,WOD_Balfiera_Dock_Lighthouse_Small_01,-90,670,204,64,64,670119204111,Isle of Balfiera,670.5,-204.5,"{""LinkedMapId"":203671}"
-Singbrugh Docks,2,WOD_Balfiera_Dock_Lighthouse_Small_01,90,659,194,64,64,6591319446,Isle of Balfiera,659.5,-194.5,"{""LinkedMapId"":192653}"
-The Buckingford Farmstead Docks,2,WOD_Dock_Small_01,0,111,50,64,64,1115451120,Glenumbra Moors,111.5,-50.5,"{""LinkedMapId"":51111}"
-The Laughing Gnome Hostel Docks,2,WOD_Dock_Small_01,-45,101,53,64,64,101555373,Glenumbra Moors,101.5,-53.5,"{""LinkedMapId"":53102}"
-Tambridge Docks,2,WOD_Dock_Medium_01,0,79,72,64,64,79597232,Glenumbra Moors,79.5,-72.5,"{""LinkedMapId"":73079}"
-Deerpath Docks,2,WOD_Dock_Medium_01,-90,76,77,64,64,761057752,Glenumbra Moors,76.5,-77.5,"{""LinkedMapId"":77077}"
-The Dwarf and Castle Pub Docks,2,WOD_Dock_Small_01,0,67,86,64,64,67318612,Glenumbra Moors,67.5,-86.5,"{""LinkedMapId"":87067}"
-Upmore Docks,2,WOD_Dock_Lighthouse_Small_01,-90,63,100,64,64,6312010064,Glenumbra Moors,63.5,-100.5,"{""LinkedMapId"":100064}"
-Arking Hall Docks,2,WOD_Dock_Small_01,-135,983,272,64,64,983125272125,Gavaudon,983.5,-272.5,"{""LinkedMapId"":271984}"
-Kingford Palace Docks,2,WOD_Dock_Small_01,-90,512,149,64,64,51212514961,Dwynnen,512.5,-149.5,"{""LinkedMapId"":149513}"
-Hawking Palace Docks,2,WOD_Dock_Small_01,180,535,144,64,64,53568144123,Dwynnen,535.5,-144.5,"{""LinkedMapId"":143535}"
-The Queen's Cat Inn Docks,2,WOD_Dock_Small_01,180,542,144,64,64,54269144123,Dwynnen,542.5,-144.5,"{""LinkedMapId"":143542}"
-Ashfield Hall Docks,2,WOD_Dock_Small_01,90,548,139,64,64,5480413968,Dwynnen,548.5,-139.5,"{""LinkedMapId"":139547}"
-Ashfield Hall Docks,2,WOD_Dwynnen_Dock_Lighthouse_Small_01,45,546,138,64,64,5460313804,Dwynnen,546.5,-138.5,"{""LinkedMapId"":139547}"
-Madla Docks,2,WOD_Dock_Lighthouse_Small_01,0,597,284,64,64,5973228412,Dragontail Mountains,597.5,-284.5,"{""LinkedMapId"":285597}"
-Ripmore Docks,2,WOD_Daggerfall_Dock_Lighthouse_Large_01,0,286,214,64,64,28622214110,Daggerfall,286.5,-214.5,"{""LinkedMapId"":213285}"
-Copperfield Manor Docks,2,WOD_Dock_Medium_01,180,209,215,64,64,2096121584,Daggerfall,209.5,-215.5,"{""LinkedMapId"":214207}"
-The Old Masterham Place Docks,2,WOD_Dock_Large_01,180,210,215,64,64,2107021582,Daggerfall,210.5,-215.5,"{""LinkedMapId"":213210}"
-The Old Masterham Place Docks,2,WOD_Daggerfall_Dock_Lighthouse_Large_01,180,211,215,64,64,211102215116,Daggerfall,211.5,-215.5,"{""LinkedMapId"":213210}"
-Joyous Oracle of Kynareth Docks,2,WOD_Dock_Small_01,180,98,162,64,64,986316200,Daggerfall,98.5,-162.5,"{""LinkedMapId"":162097}"
-The Moorsley Farmstead Docks,2,WOD_Dock_Small_01,-90,88,174,64,64,8812717459,Daggerfall,88.5,-174.5,"{""LinkedMapId"":174089}"
-Burning Martyr of Kynareth Docks,2,WOD_Dock_Small_01,-90,96,189,64,64,9612718959,Daggerfall,96.5,-189.5,"{""LinkedMapId"":189097}"
-Holmarket Docks,2,WOD_Dock_Lighthouse_Small_01,-90,110,199,64,64,11012519958,Daggerfall,110.5,-199.5,"{""LinkedMapId"":199111}"
-The Old Coppercroft Place Docks,2,WOD_Dock_Small_01,-45,131,208,64,64,13100208127,Daggerfall,131.5,-208.5,"{""LinkedMapId"":207131}"
-The Knave and Dragon Pub Docks,2,WOD_Dock_Small_01,-90,131,210,64,64,13112521052,Daggerfall,131.5,-210.5,"{""LinkedMapId"":210132}"
-Fearful Soul of Kynareth Docks,2,WOD_Dock_Small_01,180,143,214,64,64,14363214127,Daggerfall,143.5,-214.5,"{""LinkedMapId"":213143}"
-Mastering Orchard Docks,2,WOD_Dock_Small_01,180,151,216,64,64,15173216127,Daggerfall,151.5,-216.5,"{""LinkedMapId"":215151}"
-Wailing Martyr of Kynareth Docks,2,WOD_Dock_Small_01,180,154,215,64,64,15465215127,Daggerfall,154.5,-215.5,"{""LinkedMapId"":214154}"
-The Dancing Porcupine Inn Docks,2,WOD_Dock_Lighthouse_Small_01,180,171,212,64,64,171114212127,Daggerfall,171.5,-212.5,"{""LinkedMapId"":211172}"
-The Dancing Wolf Pub Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,0,172,220,64,64,17212322000,Daggerfall,172.5,-220.5,"{""LinkedMapId"":220170}"
-Fontborne Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,-90,159,221,64,64,159127221101,Daggerfall,159.5,-221.5,"{""LinkedMapId"":221160}"
-Longwich End Docks,2,WOD_Dock_Medium_01,180,169,226,64,64,1696422503,Daggerfall,169.5,-226.5,"{""LinkedMapId"":225169}"
-Burgtry Commons Docks,2,WOD_Dock_Lighthouse_Small_01,180,171,225,64,64,17164225124,Daggerfall,171.5,-225.5,"{""LinkedMapId"":224171}"
-The Bat and Guard Hostel Docks,2,WOD_Dock_Lighthouse_Small_01,180,173,225,64,64,17365225125,Daggerfall,173.5,-225.5,"{""LinkedMapId"":224173}"
-Wilderham Docks,2,WOD_Dock_Medium_01,180,178,225,64,64,17869225127,Daggerfall,178.5,-225.5,"{""LinkedMapId"":224178}"
-Holy Light of Kynareth Docks,2,WOD_Dock_Small_01,180,180,225,64,64,18067225127,Daggerfall,180.5,-225.5,"{""LinkedMapId"":224180}"
-The Greenham Farmstead Docks,2,WOD_Dock_Small_01,180,191,225,64,64,19150225125,Daggerfall,191.5,-225.5,"{""LinkedMapId"":224191}"
-Gaercroft Manor Docks,2,WOD_Dock_Lighthouse_Small_01,180,193,225,64,64,19370225127,Daggerfall,193.5,-225.5,"{""LinkedMapId"":224193}"
-Midbrugh Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90,199,217,64,64,1990421767,Daggerfall,199.5,-217.5,"{""LinkedMapId"":217198}"
-Ashsly Hall Docks,2,WOD_Dock_Small_01,-90,204,226,64,64,20412322649,Daggerfall,204.5,-226.5,"{""LinkedMapId"":226205}"
-Kinging Court Docks,2,WOD_Dock_Lighthouse_Small_01,180,209,228,64,64,20951229124,Daggerfall,209.5,-229.5,"{""LinkedMapId"":228209}"
-The Silver Goat Inn Docks,2,WOD_Dock_Small_01,90,216,223,64,64,2160322359,Daggerfall,216.5,-223.5,"{""LinkedMapId"":223215}"
-Blackway Wood Docks,2,WOD_Dock_Lighthouse_Small_01,45,230,216,64,64,23003216125,Daggerfall,230.5,-216.5,"{""LinkedMapId"":215229}"
-Pengate Derry Docks,2,WOD_Dock_Lighthouse_Small_01,180,246,214,64,64,24609214127,Daggerfall,246.5,-214.5,"{""LinkedMapId"":213246}"
-Ashsly Manor Docks,2,WOD_Dock_Small_01,45,253,211,64,64,25301211125,Daggerfall,253.5,-211.5,"{""LinkedMapId"":210252}"
-Altar of I'ric Docks,2,WOD_Dock_Small_01,180,257,211,64,64,25765211125,Daggerfall,257.5,-211.5,"{""LinkedMapId"":210257}"
-The Pig and Rascal Tavern Docks,2,WOD_Dock_Small_01,180,267,213,64,64,26745213123,Daggerfall,267.5,-213.5,"{""LinkedMapId"":212267}"
-Cathing Docks,2,WOD_Dock_Lighthouse_Small_01,45,275,213,64,64,27508213118,Daggerfall,275.5,-213.5,"{""LinkedMapId"":212274}"
-Wailing Relic of Kynareth Docks,2,WOD_Dock_Small_01,180,279,214,64,64,27965214124,Daggerfall,279.5,-214.5,"{""LinkedMapId"":213279}"
-Old Vyctara's Shack Docks,2,WOD_Dock_Small_01,180,284,216,64,64,28474216124,Daggerfall,284.5,-216.5,"{""LinkedMapId"":215284}"
-Vanvale Docks,2,WOD_Dock_Medium_01,-90,293,214,64,64,29312021458,Daggerfall,293.5,-214.5,"{""LinkedMapId"":214294}"
-Blackcart Hollow Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90,298,214,64,64,2980321463,Daggerfall,298.5,-214.5,"{""LinkedMapId"":214297}"
-Grimidge Minster Docks,2,WOD_Dock_Lighthouse_Small_01,45,306,213,64,64,30605213123,Daggerfall,306.5,-213.5,"{""LinkedMapId"":212305}"
-Copperfield Manor Docks,2,WOD_Dock_Small_01,180,207,215,64,64,20740215123,Daggerfall,207.5,-215.5,"{""LinkedMapId"":214207}"
-Masterston Court Docks,2,WOD_Dock_Small_01,180,140,242,64,64,14067242125,Daggerfall,140.5,-242.5,"{""LinkedMapId"":241140}"
-The Woodhouse Farmstead Docks,2,WOD_Dock_Small_01,180,146,240,64,64,14682240125,Daggerfall,146.5,-240.5,"{""LinkedMapId"":239146}"
-Aldpath Hall Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,180,144,240,64,64,14468240124,Daggerfall,144.5,-240.5,"{""LinkedMapId"":239144}"
-Grimton Docks,2,WOD_Dock_Medium_01,0,143,235,64,64,1435823505,Daggerfall,143.5,-235.5,"{""LinkedMapId"":236143}"
-Fonthope End Docks,2,WOD_Dock_Lighthouse_Small_01,0,146,234,64,64,1466723403,Daggerfall,146.5,-234.5,"{""LinkedMapId"":235146}"
-Wilderleigh Docks,2,WOD_Dock_Lighthouse_Small_01,180,558,138,64,64,55863138125,Bhoriane,558.5,-138.5,"{""LinkedMapId"":137558}"
-Moorcroft Court Docks,2,WOD_Dock_Small_01,180,561,138,64,64,56170138124,Bhoriane,561.5,-138.5,"{""LinkedMapId"":137561}"
-Arkbeth Garden Docks,2,WOD_Dock_Lighthouse_Small_01,180,583,139,64,64,58364139124,Bhoriane,583.5,-139.5,"{""LinkedMapId"":138583}"
-Wartale Docks,2,WOD_Dock_Medium_01,0,588,140,64,64,58865140127,Bhoriane,588.5,-140.5,"{""LinkedMapId"":139588}"
-The Gaerford Plantation Docks,2,WOD_Dock_Small_01,-90,630,111,64,64,63012411197,Bhoriane,630.5,-111.5,"{""LinkedMapId"":111631}"
-Fontbridge Docks,2,WOD_Dock_Medium_01,180,637,114,64,64,63767114124,Bhoriane,637.5,-114.5,"{""LinkedMapId"":113637}"
-The Masterton Farmstead Docks,2,WOD_Dock_Small_01,180,645,112,64,64,64576112124,Bhoriane,645.5,-112.5,"{""LinkedMapId"":111645}"
-The Thirsty Skull Hostel Docks,2,WOD_Dock_Small_01,180,646,114,64,64,64664114125,Bhoriane,646.5,-114.5,"{""LinkedMapId"":113646}"
-Strenner Haven Docks,2,WOD_Dock_Lighthouse_Small_01,180,649,114,64,64,64967114125,Bhoriane,649.5,-114.5,"{""LinkedMapId"":113649}"
-Stokbrone Docks,2,WOD_Dock_Medium_01,180,652,113,64,64,65265113125,Bhoriane,652.5,-113.5,"{""LinkedMapId"":112652}"
-Old Vannabyth's Farm Docks,2,WOD_Dock_Small_01,-90,586,152,64,64,58612215247,Bhoriane,586.5,-152.5,"{""LinkedMapId"":152587}"
-The Old Hearthwing Hovel Docks,2,WOD_Dock_Small_01,-90,606,146,64,64,60611314660,Bhoriane,606.5,-146.5,"{""LinkedMapId"":146607}"
-Ipsmoth Docks,2,WOD_Dock_Lighthouse_Small_01,,609,144,64,64,6096314408,Bhoriane,609.5,-144.5,"{""LinkedMapId"":145609}"
-Old Evelorya's Farm Docks,2,WOD_Dock_Small_01,-45,613,147,64,64,6139914758,Bhoriane,613.5,-147.5,"{""LinkedMapId"":147614}"
-Kirkbeth Hamlet Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,113,254,64,64,11312425406,Betony,113.5,-254.5,"{""LinkedMapId"":255114}"
-Kieran Theatre Docks,2,WOD_Dock_Lighthouse_Small_01,-45,125,253,64,64,1254925304,Betony,125.5,-253.5,"{""LinkedMapId"":254125}"
-Gentle Martyr of Mara Docks,2,WOD_Dock_Small_01,90,135,257,64,64,1350125768,Betony,135.5,-257.5,"{""LinkedMapId"":257134}"
-Altar of I'ric Docks,2,WOD_Dock_Small_01,135,132,261,64,64,13203261124,Betony,132.5,-261.5,"{""LinkedMapId"":260131}"
-The Wicksly Graveyard Docks,2,WOD_Dock_Small_01,-135,110,273,64,64,110127273127,Betony,110.5,-273.5,"{""LinkedMapId"":274111}"
-The Wickcroft Cabin Docks,2,WOD_Dock_Small_01,-90,110,267,64,64,11012726799,Betony,110.5,-267.5,"{""LinkedMapId"":267111}"
-Umbopala Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,449,363,64,64,44910636304,Ayasofya,449.5,-363.5,"{""LinkedMapId"":364449}"
-Aldwall Rock Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,-90,400,183,64,64,400125183104,Anticlere,400.5,-183.5,"{""LinkedMapId"":183401}"
-Ashham Grange Docks,2,WOD_Dock_Small_01,90,352,184,64,64,3520418458,Anticlere,352.5,-184.5,"{""LinkedMapId"":184351}"
-Masterwing Grange Docks,2,WOD_Dock_Small_01,180,369,173,64,64,36976173123,Anticlere,369.5,-173.5,"{""LinkedMapId"":172369}"
-Ashsley Grange Docks,2,WOD_Dock_Small_01,180,373,173,64,64,37379173120,Anticlere,373.5,-173.5,"{""LinkedMapId"":172373}"
-Yeomton Manor Docks,2,WOD_Dock_Small_01,180,377,172,64,64,37767172124,Anticlere,377.5,-172.5,"{""LinkedMapId"":171377}"
-Yeomsmith Manor Docks,2,WOD_Dock_Small_01,180,381,172,64,64,38170172123,Anticlere,381.5,-172.5,"{""LinkedMapId"":171381}"
-Crossleigh Docks,2,WOD_Dock_Medium_01,180,401,176,64,64,40108176125,Anticlere,401.5,-176.5,"{""LinkedMapId"":175401}"
-Cathwold Heath Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,180,406,188,64,64,40668188125,Anticlere,406.5,-188.5,"{""LinkedMapId"":187406}"
-Charenvale Docks,2,WOD_Dock_Lighthouse_Small_01,180,416,183,64,64,41668183127,Anticlere,416.5,-183.5,"{""LinkedMapId"":182416}"
-Vanwood Hollow Docks,2,WOD_Anticlere_Dock_Lighthouse_Large_01,0,353,194,64,64,3536819406,Anticlere,353.5,-194.5,"{""LinkedMapId"":195353}"
-The Mastersmith Plantation Docks,2,WOD_Dock_Small_01,180,356,201,64,64,35674201122,Anticlere,356.5,-201.5,"{""LinkedMapId"":200356}"
-Ipspath Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,0,358,192,64,64,3585819201,Anticlere,358.5,-192.5,"{""LinkedMapId"":193358}"
-Yeomhart Manor Docks,2,WOD_Dock_Lighthouse_Small_01,0,361,191,64,64,3616819101,Anticlere,361.5,-191.5,"{""LinkedMapId"":192361}"
-Wilderbury Rock Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,180,366,198,64,64,36670198125,Anticlere,366.5,-198.5,"{""LinkedMapId"":197366}"
-Old Elayne's Farm Docks,2,WOD_Dock_Small_01,135,420,182,64,64,42004182125,Anticlere,420.5,-182.5,"{""LinkedMapId"":181419}"
-Yeomford Grange Docks,2,WOD_Dock_Small_01,135,422,181,64,64,42204181124,Anticlere,422.5,-181.5,"{""LinkedMapId"":180421}"
-The Buckingwing Farmstead Docks,2,WOD_Dock_Small_01,180,430,176,64,64,43073176123,Anticlere,430.5,-176.5,"{""LinkedMapId"":175430}"
-The Buckingwing Farmstead Docks,2,WOD_Dock_Lighthouse_Small_01,135,431,174,64,64,43104174125,Anticlere,431.5,-174.5,"{""LinkedMapId"":175430}"
-Woodhart Hall Docks,2,WOD_Dock_Small_01,135,434,171,64,64,43403171124,Anticlere,434.5,-171.5,"{""LinkedMapId"":170433}"
-Old Elyn's Farm Docks,2,WOD_Dock_Small_01,180,437,170,64,64,43779170127,Anticlere,437.5,-170.5,"{""LinkedMapId"":169437}"
-Hearthing Grange Docks,2,WOD_Dock_Small_01,-90,447,169,64,64,44712716958,Anticlere,447.5,-169.5,"{""LinkedMapId"":169448}"
-The Old Kingwing Place Docks,2,WOD_Dock_Small_01,180,455,173,64,64,45564173125,Anticlere,455.5,-173.5,"{""LinkedMapId"":172455}"
-Vantry Docks,2,WOD_Dock_Lighthouse_Small_01,180,470,168,64,64,47067168123,Anticlere,470.5,-168.5,"{""LinkedMapId"":167470}"
-Hawkwing Palace Docks,2,WOD_Dock_Small_01,180,499,159,64,64,49968159127,Anticlere,499.5,-159.5,"{""LinkedMapId"":158499}"
-Greenwing Hall Docks,2,WOD_Dock_Small_01,135,691,124,64,64,69104124124,Alcaire,691.5,-124.5,"{""LinkedMapId"":123690}"
-The Moorsley Farmstead Docks,2,WOD_Dock_Small_01,180,701,134,64,64,70172134124,Alcaire,701.5,-134.5,"{""LinkedMapId"":133701}"
-Cathborne Docks,2,WOD_Dock_Medium_01,180,718,134,64,64,71868134125,Alcaire,718.5,-134.5,"{""LinkedMapId"":133718}"
-Gaerhart Manor Docks,2,WOD_Dock_Small_01,180,745,139,64,64,74567139125,Alcaire,745.5,-139.5,"{""LinkedMapId"":138745}"
-Wargate Docks,2,WOD_Dock_Lighthouse_Medium_01,180,760,141,64,64,76067141124,Alcaire,760.5,-141.5,"{""LinkedMapId"":140760}"
-The Old Kington Place Docks,2,WOD_Dock_Small_01,-135,763,142,64,64,763125142125,Alcaire,763.5,-142.5,"{""LinkedMapId"":141764}"
-The Laughing Cat Hostel Docks,2,WOD_Dock_Small_01,180,788,152,64,64,78861152127,Alcaire,788.5,-152.5,"{""LinkedMapId"":151788}"
-The Mole and Giant Tavern Docks,2,WOD_HF_Dock_Small_01,0,141,494,64,64,1416149406,Abibon-gora,141.5,-494.5,"{""LinkedMapId"":495141}"
-Tsetudax Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,143,493,64,64,14312349397,Abibon-gora,143.5,-493.5,"{""LinkedMapId"":493144}"
-Cudogudax Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,159,477,64,64,1593547710,Abibon-gora,159.5,-477.5,"{""LinkedMapId"":478159}"
-Singing Soul of Julianos Docks,2,WOD_HF_Dock_Small_01,-90,168,473,64,64,16812347370,Abibon-gora,168.5,-473.5,"{""LinkedMapId"":473169}"
-Singing Idol of Julianos Docks,2,WOD_HF_Dock_Small_01,-90,170,463,64,64,17012546317,Abibon-gora,170.5,-463.5,"{""LinkedMapId"":463171}"
-Kieran Theatre Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,173,460,64,64,1735946006,Abibon-gora,173.5,-460.5,"{""LinkedMapId"":461173}"
-Papyrydai Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,-90,173,455,64,64,1742645572,Abibon-gora,173.5,-455.5,"{""LinkedMapId"":455174}"
-Damu-Ij Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,180,450,64,64,1807845003,Abibon-gora,180.5,-450.5,"{""LinkedMapId"":451180}"
-Old D'urdca's Shack Docks,2,WOD_HF_Dock_Small_01,0,186,450,64,64,1866445006,Abibon-gora,186.5,-450.5,"{""LinkedMapId"":451186}"
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate
+Westhead Moor Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,207,223,50,83,2075022383,Daggerfall,207.390625,-223.3515625,1
+Gallocart Docks,2,WOD_Dock_Medium_01,135,92,157,70,74,927015774,Tulune,92.546875,-157.421875,1
+Inner Light of Stendarr Docks,2,WOD_Dock_Lighthouse_Small_01,90,622,115,47,70,6224711570,Bhoriane,622.3671875,-115.453125,1
+The Buckinghart Plantation Docks,2,WOD_Dock_Small_01,180,735,135,61,58,7356113558,Alcaire,735.4765625,-135.546875,1
+The Gaerhouse Plantation Docks,2,WOD_Dock_Lighthouse_Small_01,-180,629,158,64,56,6296415856,Isle of Balfiera,629.5,-158.5625,1
+Fearful Redeemer of Julianos Docks,2,WOD_HF_Dock_Small_01,0,866,289,65,63,8666528963,Satakalaam,866.5078125,-289.5078125,5
+The Mole and Giant Tavern Docks,2,WOD_HF_Dock_Small_01,0,141,495,56,61,1415649561,Abibon-gora,141.4375,-495.5234375,7
+Tsetudax Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,144,493,63,64,1446349364,Abibon-gora,144.4921875,-493.5,7
+Cudogudax Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,159,478,56,61,1595647861,Abibon-gora,159.4375,-478.5234375,7
+Singing Soul of Julianos Docks,2,WOD_HF_Dock_Small_01,-90,169,473,63,64,1696347364,Abibon-gora,169.4921875,-473.5,7
+Singing Idol of Julianos Docks,2,WOD_HF_Dock_Small_01,-90,171,463,63,64,1716346364,Abibon-gora,171.4921875,-463.5,7
+Kieran Theatre Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,173,461,56,61,1735646161,Abibon-gora,173.4375,-461.5234375,7
+Papyrydai Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,-90,174,455,63,64,1746345564,Abibon-gora,174.4921875,-455.5,7
+Damu-Ij Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,180,451,56,61,1805645161,Abibon-gora,180.4375,-451.5234375,7
+Old D'urdca's Shack Docks,2,WOD_HF_Dock_Small_01,0,186,451,56,61,1865645161,Abibon-gora,186.4375,-451.5234375,7
+The Moorsley Farmstead Docks,2,WOD_Dock_Small_01,180,701,133,61,58,7016113358,Alcaire,701.4765625,-133.546875,1
+Cathborne Docks,2,WOD_Dock_Medium_01,180,718,133,61,58,7186113358,Alcaire,718.4765625,-133.546875,1
+Gaerhart Manor Docks,2,WOD_Dock_Small_01,180,745,138,61,58,7456113858,Alcaire,745.4765625,-138.546875,1
+Wargate Docks,2,WOD_Dock_Lighthouse_Medium_01,180,760,140,61,58,7606114058,Alcaire,760.4765625,-140.546875,1
+The Laughing Cat Hostel Docks,2,WOD_Dock_Small_01,180,788,151,61,58,7886115158,Alcaire,788.4765625,-151.546875,4
+Aldwall Rock Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,-90,401,183,70,60,4017018360,Anticlere,401.546875,-183.53125,1
+Crossleigh Docks,2,WOD_Dock_Medium_01,180,401,175,60,58,4016017558,Anticlere,401.46875,-175.546875,1
+Cathwold Heath Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,180,406,187,60,58,4066018758,Anticlere,406.46875,-187.546875,1
+Vanwood Hollow Docks,2,WOD_Anticlere_Dock_Lighthouse_Large_01,0,353,195,73,67,3537319567,Anticlere,353.5703125,-195.4765625,1
+The Mastersmith Plantation Docks,2,WOD_Dock_Small_01,180,356,200,64,70,3566420070,Anticlere,356.5,-200.453125,1
+Ipspath Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,0,358,193,73,67,3587319367,Anticlere,358.5703125,-193.4765625,1
+Yeomhart Manor Docks,2,WOD_Dock_Lighthouse_Small_01,0,361,192,73,67,3617319267,Anticlere,361.5703125,-192.4765625,1
+Wilderbury Rock Docks,2,WOD_Anticlere_Dock_Lighthouse_Medium_01,180,366,197,64,70,3666419770,Anticlere,366.5,-197.453125,1
+The Old Kingwing Place Docks,2,WOD_Dock_Small_01,180,455,172,55,28,4555517228,Anticlere,455.4296875,-172.78125,1
+Hawkwing Palace Docks,2,WOD_Dock_Small_01,180,499,158,55,28,4995515828,Anticlere,499.4296875,-158.78125,1
+Umbopala Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,449,364,65,63,4496536463,Ayasofya,449.5078125,-364.5078125,7
+Kirkbeth Hamlet Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,114,255,59,68,1145925568,Betony,114.4609375,-255.46875,1
+Wilderleigh Docks,2,WOD_Dock_Lighthouse_Small_01,180,558,137,61,56,5586113756,Bhoriane,558.4765625,-137.5625,1
+Moorcroft Court Docks,2,WOD_Dock_Small_01,180,561,137,61,56,5616113756,Bhoriane,561.4765625,-137.5625,1
+Arkbeth Garden Docks,2,WOD_Dock_Lighthouse_Small_01,180,583,138,61,58,5836113858,Bhoriane,583.4765625,-138.546875,1
+Wartale Docks,2,WOD_Dock_Medium_01,0,588,139,61,58,5886113958,Bhoriane,588.4765625,-139.546875,1
+The Gaerford Plantation Docks,2,WOD_Dock_Small_01,-90,631,111,61,73,6316111173,Bhoriane,631.4765625,-111.4296875,1
+Fontbridge Docks,2,WOD_Dock_Medium_01,180,637,113,61,59,6376111359,Bhoriane,637.4765625,-113.5390625,1
+The Masterton Farmstead Docks,2,WOD_Dock_Small_01,180,645,111,61,58,6456111158,Bhoriane,645.4765625,-111.546875,1
+The Thirsty Skull Hostel Docks,2,WOD_Dock_Small_01,180,646,113,61,58,6466111358,Bhoriane,646.4765625,-113.546875,1
+Strenner Haven Docks,2,WOD_Dock_Lighthouse_Small_01,180,649,113,61,58,6496111358,Bhoriane,649.4765625,-113.546875,1
+Stokbrone Docks,2,WOD_Dock_Medium_01,180,652,112,61,58,6526111258,Bhoriane,652.4765625,-112.546875,1
+Old Vannabyth's Farm Docks,2,WOD_Dock_Small_01,-90,587,152,61,59,5876115259,Bhoriane,587.4765625,-152.5390625,1
+The Old Hearthwing Hovel Docks,2,WOD_Dock_Small_01,-90,607,146,61,59,6076114659,Bhoriane,607.4765625,-146.5390625,1
+Ipsmoth Docks,2,WOD_Dock_Lighthouse_Small_01,,609,145,58,61,6095814561,Bhoriane,609.453125,-145.5234375,1
+Old Evelorya's Farm Docks,2,WOD_Dock_Small_01,-45,614,147,61,59,6146114759,Bhoriane,614.4765625,-147.5390625,1
+Whitecroft Docks,2,WOD_Dock_Lighthouse_Medium_01,180,102,199,64,91,1026419991,Daggerfall,102.5,-199.2890625,1
+Holwych Docks,2,WOD_Dock_Medium_01,180,118,201,64,91,1186420191,Daggerfall,118.5,-201.2890625,1
+The Ashhouse Farmstead Docks,2,WOD_Dock_Small_01,180,138,212,55,67,1385521267,Daggerfall,138.4296875,-212.4765625,1
+Ripmore Docks,2,WOD_Daggerfall_Dock_Lighthouse_Large_01,0,285,213,54,67,2855421367,Daggerfall,285.421875,-213.4765625,1
+Copperfield Manor Docks,2,WOD_Dock_Medium_01,180,209,214,73,54,2097321454,Daggerfall,209.5703125,-214.578125,1
+The Old Masterham Place Docks,2,WOD_Dock_Large_01,180,210,214,73,54,2107321454,Daggerfall,210.5703125,-214.578125,1
+The Old Masterham Place Docks,2,WOD_Daggerfall_Dock_Lighthouse_Large_01,180,211,214,73,54,2117321454,Daggerfall,211.5703125,-214.578125,1
+Joyous Oracle of Kynareth Docks,2,WOD_Dock_Small_01,180,98,162,64,64,986416264,Daggerfall,98.5,-162.5,1
+Burning Martyr of Kynareth Docks,2,WOD_Dock_Small_01,-90,97,189,69,59,976918959,Daggerfall,97.5390625,-189.5390625,1
+Holmarket Docks,2,WOD_Dock_Lighthouse_Small_01,-90,111,199,74,102,11174199102,Daggerfall,111.578125,-199.203125,1
+The Knave and Dragon Pub Docks,2,WOD_Dock_Small_01,-90,132,210,70,38,1327021038,Daggerfall,132.546875,-210.703125,1
+Fontborne Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,-90,160,221,50,73,1605022173,Daggerfall,160.390625,-221.4296875,1
+Longwich End Docks,2,WOD_Dock_Medium_01,180,169,225,64,61,1696422561,Daggerfall,169.5,-225.5234375,1
+Wilderham Docks,2,WOD_Dock_Medium_01,180,178,224,64,61,1786422461,Daggerfall,178.5,-224.5234375,1
+Midbrugh Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90,198,217,74,55,1987421755,Daggerfall,198.578125,-217.5703125,1
+Ashsly Hall Docks,2,WOD_Dock_Small_01,-90,205,226,58,64,2055822664,Daggerfall,205.453125,-226.5,1
+Kinging Court Docks,2,WOD_Dock_Lighthouse_Small_01,180,209,228,64,45,2096422845,Daggerfall,209.5,-228.6484375,1
+Vanvale Docks,2,WOD_Dock_Medium_01,-90,294,214,70,64,2947021464,Daggerfall,294.546875,-214.5,1
+Blackcart Hollow Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90,297,214,54,81,2975421481,Daggerfall,297.421875,-214.3671875,1
+Copperfield Manor Docks,2,WOD_Dock_Small_01,180,207,214,73,54,2077321454,Daggerfall,207.5703125,-214.578125,1
+Masterston Court Docks,2,WOD_Dock_Small_01,180,140,241,61,56,1406124156,Daggerfall,140.4765625,-241.5625,1
+The Woodhouse Farmstead Docks,2,WOD_Dock_Small_01,180,146,239,61,56,1466123956,Daggerfall,146.4765625,-239.5625,1
+Aldpath Hall Docks,2,WOD_Daggerfall_Dock_Lighthouse_Medium_01,180,144,239,61,56,1446123956,Daggerfall,144.4765625,-239.5625,1
+Grimton Docks,2,WOD_Dock_Medium_01,0,143,236,64,54,1436423654,Daggerfall,143.5,-236.578125,1
+Fonthope End Docks,2,WOD_Dock_Lighthouse_Small_01,0,146,235,64,54,1466423554,Daggerfall,146.5,-235.578125,1
+Madla Docks,2,WOD_Dock_Lighthouse_Small_01,0,597,285,65,63,5976528563,Dragontail Mountains,597.5078125,-285.5078125,4
+Kingford Palace Docks,2,WOD_Dock_Small_01,-90,513,149,52,58,5135214958,Dwynnen,513.40625,-149.546875,1
+Hawking Palace Docks,2,WOD_Dock_Small_01,180,535,143,61,65,5356114365,Dwynnen,535.4765625,-143.4921875,1
+The Queen's Cat Inn Docks,2,WOD_Dock_Small_01,180,542,143,61,65,5426114365,Dwynnen,542.4765625,-143.4921875,1
+Ashfield Hall Docks,2,WOD_Dock_Small_01,90,547,139,50,58,5475013958,Dwynnen,547.390625,-139.546875,1
+Tambridge Docks,2,WOD_Dock_Medium_01,0,79,73,61,78,79617378,Glenumbra Moors,79.4765625,-73.390625,1
+Deerpath Docks,2,WOD_Dock_Medium_01,-90,77,77,51,67,77517767,Glenumbra Moors,77.3984375,-77.4765625,1
+Old Lysausa's Farm Docks,2,WOD_Dock_Small_01,-45,625,150,61,59,6256115059,Isle of Balfiera,625.4765625,-150.5390625,1
+Warwych Docks,2,WOD_Balfiera_Dock_Lighthouse_Small_01,,631,162,58,61,6315816261,Isle of Balfiera,631.453125,-162.5234375,1
+Kingsly Orchard Docks,2,WOD_Dock_Small_01,,640,169,58,61,6405816961,Isle of Balfiera,640.453125,-169.5234375,1
+Gallomarket Docks,2,WOD_Balfiera_Dock_Lighthouse_Small_01,-90,644,166,61,59,6446116659,Isle of Balfiera,644.4765625,-166.5390625,1
+The Moorhouse Farmstead Docks,2,WOD_Dock_Small_01,-180,654,170,65,65,6546517065,Isle of Balfiera,654.5078125,-170.4921875,1
+THe Crypts of Kingham Docks,2,WOD_Dock_Small_01,135,726,234,64,64,7266423464,Isle of Balfiera,726.5,-234.5,0
+Ruins of The Old Yeoming Hovel Docks,2,WOD_Balfiera_Dock_Lighthouse_Small_01,-90,671,203,56,68,6715620368,Isle of Balfiera,671.4375,-203.46875,4
+Tlactrn Manor Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,202,435,56,61,2025643561,Kairou,202.4375,-435.5234375,7
+Kalunnunu Docks,2,WOD_Dock_Lighthouse_Large_01,0,754,279,65,63,7546527963,Lainlyn,754.5078125,-279.5078125,5
+The Silver Priest Lodge Docks,2,WOD_HF_Dock_Small_01,-45,644,279,58,64,6445827964,Lainlyn,644.453125,-279.5,4
+Syrotubu Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,658,281,65,63,6586528163,Lainlyn,658.5078125,-281.5078125,4
+The Kurgrn Farmstead Docks,2,WOD_HF_Dock_Small_01,0,663,281,65,63,6636528163,Lainlyn,663.5078125,-281.5078125,4
+Papiladisu Docks,2,WOD_HF_Dock_Medium_01,0,674,286,65,63,6746528663,Lainlyn,674.5078125,-286.5078125,5
+Pilliweyn Docks,2,WOD_HF_Dock_Small_01,0,685,284,65,63,6856528463,Lainlyn,685.5078125,-284.5078125,5
+Torch Manor Docks,2,WOD_HF_Dock_Small_01,0,687,283,65,63,6876528363,Lainlyn,687.5078125,-283.5078125,5
+Syrallao Docks,2,WOD_HF_Dock_Lighthouse_Large_01,0,699,281,65,63,6996528163,Lainlyn,699.5078125,-281.5078125,5
+Pythohajer Docks,2,WOD_HF_Dock_Medium_01,0,702,281,65,63,7026528163,Lainlyn,702.5078125,-281.5078125,5
+Krill'kern Orchard Docks,2,WOD_HF_Dock_Small_01,0,707,283,65,63,7076528363,Lainlyn,707.5078125,-283.5078125,5
+Burning Ascencion of Julianos Docks,2,WOD_HF_Dock_Small_01,0,712,282,65,63,7126528263,Lainlyn,712.5078125,-282.5078125,5
+Reliquary of Sai Docks,2,WOD_HF_Dock_Small_01,0,724,282,65,63,7246528263,Lainlyn,724.5078125,-282.5078125,5
+The Old Rausten Shack Docks,2,WOD_HF_Dock_Small_01,0,728,282,65,63,7286528263,Lainlyn,728.5078125,-282.5078125,5
+Blessed Tree of Julianos Docks,2,WOD_HF_Dock_Small_01,0,734,282,65,63,7346528263,Lainlyn,734.5078125,-282.5078125,5
+Holy Ascencion of Julianos Docks,2,WOD_HF_Dock_Small_01,-45,737,282,65,63,7376528263,Lainlyn,737.5078125,-282.5078125,5
+Morilliton Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,741,281,65,63,7416528163,Lainlyn,741.5078125,-281.5078125,5
+Stuld Hall Docks,2,WOD_HF_Dock_Small_01,0,747,280,65,63,7476528063,Lainlyn,747.5078125,-280.5078125,5
+Infinite Soul of Julianos Docks,2,WOD_HF_Dock_Small_01,-45,749,279,63,64,7496327964,Lainlyn,749.4921875,-279.5,5
+Blarcan Hall Docks,2,WOD_HF_Dock_Small_01,0,764,278,65,63,7646527863,Lainlyn,764.5078125,-278.5078125,5
+Baghascuwan Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,766,279,65,63,7666527963,Lainlyn,766.5078125,-279.5078125,5
+The Silver Hedgehog Pub Docks,2,WOD_Dock_Small_01,-90,800,181,61,73,8006118173,Menevia,800.4765625,-181.4296875,1
+Chesterbrugh Docks,2,WOD_Dock_Lighthouse_Large_01,180,791,216,61,58,7916121658,Menevia,791.4765625,-216.546875,1
+Old Vannyvyra's Farm Docks,2,WOD_Dock_Small_01,-90,821,215,54,63,8215421563,Menevia,821.421875,-215.5078125,1
+Wadijilanis Docks,2,WOD_HF_Dock_Medium_01,0,898,285,65,63,8986528563,Mournoth,898.5078125,-285.5078125,5
+Meseraara Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,962,278,65,63,9626527863,Mournoth,962.5078125,-278.5078125,5
+The Dirty Goat Inn Docks,2,WOD_HF_Dock_Small_01,0,969,281,65,63,9696528163,Mournoth,969.5078125,-281.5078125,5
+Elissinia Docks,2,WOD_HF_Dock_Medium_01,0,279,403,56,61,2795640361,Myrkwasa,279.4375,-403.5234375,7
+The Boirch Cabin Docks,2,WOD_HF_Dock_Small_01,-45,296,397,63,64,2966339764,Myrkwasa,296.4921875,-397.5,7
+Gothcroft Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,127,42,67,74,127674274,Northmoor,127.5234375,-42.421875,1
+The Rat and Priest Hostel Docks,2,WOD_Dock_Small_01,0,224,5,67,69,224670569,Northmoor,224.5234375,-5.4609375,1
+The Mouse and Goblin Tavern Docks,2,WOD_Dock_Small_01,0,222,5,67,69,222670569,Northmoor,222.5234375,-5.4609375,1
+The Kingham Farmstead Docks,2,WOD_Dock_Small_01,-90,215,11,63,58,215631158,Northmoor,215.4921875,-11.546875,1
+Knightshope Docks,2,WOD_Dock_Medium_01,0,229,5,67,69,229670569,Northmoor,229.5234375,-5.4609375,1
+Stokwall Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,219,8,63,58,219630858,Northmoor,219.4921875,-8.546875,1
+Buckingsmith Manor Docks,2,WOD_Dock_Small_01,0,210,14,64,67,210641467,Northmoor,210.5,-14.4765625,1
+Vanpath Docks,2,WOD_Dock_Lighthouse_Medium_01,0,162,34,55,74,162553474,Northmoor,162.4296875,-34.421875,1
+Pencart Docks,2,WOD_Dock_Lighthouse_Medium_01,-45,152,35,64,64,152643564,Northmoor,152.5,-35.5,1
+Burgcart Heath Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,124,45,67,74,124674574,Northmoor,124.5234375,-45.421875,1
+The Feather and Dog Tavern Docks,2,WOD_HF_Dock_Small_01,0,235,408,56,61,2355640861,Pothago,235.4375,-408.5234375,7
+Berbajan Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,0,266,406,56,61,2665640661,Pothago,266.4375,-406.5234375,7
+Berbajan Docks,2,WOD_HF_Dock_Lighthouse_Small_01,45,266,406,76,64,2667640664,Pothago,266.59375,-406.5,7
+Tulajidax Docks,2,WOD_HF_Dock_Lighthouse_Medium_01,45,779,283,63,64,7796328364,Satakalaam,779.4921875,-283.5,5
+The King's Dungeon Lodge Docks,2,WOD_HF_Dock_Small_01,0,782,283,65,63,7826528363,Satakalaam,782.5078125,-283.5078125,5
+Lopadai Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,798,277,63,64,7986327764,Satakalaam,798.4921875,-277.5,5
+The Old Turder Hovel Docks,2,WOD_HF_Dock_Small_01,0,815,279,65,63,8156527963,Satakalaam,815.5078125,-279.5078125,5
+Shrald Court Docks,2,WOD_HF_Dock_Small_01,0,817,278,65,63,8176527863,Satakalaam,817.5078125,-278.5078125,5
+M'arkam Manor Docks,2,WOD_HF_Dock_Small_01,0,843,278,65,63,8436527863,Satakalaam,843.5078125,-278.5078125,5
+Cellen Hall Docks,2,WOD_HF_Dock_Small_01,0,842,294,65,63,8426529463,Satakalaam,842.5078125,-294.5078125,5
+Javibia Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,847,269,59,59,8475926959,Satakalaam,847.4609375,-269.5390625,5
+Rlect Hall Docks,2,WOD_HF_Dock_Small_01,180,825,264,64,82,8256426482,Satakalaam,825.5,-264.359375,5
+The Crimson Cat Inn Docks,2,WOD_HF_Dock_Small_01,0,832,263,59,69,8325926369,Satakalaam,832.4609375,-263.4609375,5
+Pibuda Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,329,376,65,63,3296537663,Sentinel,329.5078125,-376.5078125,7
+Zenuhno Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,347,359,63,64,3476335964,Sentinel,347.4921875,-359.5,7
+Zenuhno Docks,2,WOD_HF_Dock_Medium_01,180,347,359,68,69,3476835969,Sentinel,347.53125,-359.4609375,7
+Mji-Ij Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,347,357,65,63,3476535763,Sentinel,347.5078125,-357.5078125,7
+Antelajda Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,355,358,65,63,3556535863,Sentinel,355.5078125,-358.5078125,7
+Naresa Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-90,370,350,63,64,3706335064,Sentinel,370.4921875,-350.5,7
+The Bosam Farmstead Docks,2,WOD_HF_Dock_Small_01,0,372,348,65,63,3726534863,Sentinel,372.5078125,-348.5078125,7
+Jalonia Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,375,347,65,63,3756534763,Sentinel,375.5078125,-347.5078125,7
+The M'erg Farmstead Docks,2,WOD_HF_Dock_Small_01,0,383,345,65,63,3836534563,Sentinel,383.5078125,-345.5078125,7
+Ageliret Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,387,344,65,63,3876534463,Sentinel,387.5078125,-344.5078125,7
+Pallaton Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,392,341,65,63,3926534163,Sentinel,392.5078125,-341.5078125,7
+Sentinel Docks,2,WOD_HF_Dock_Medium_01,45,397,342,73,68,3977334268,Sentinel,397.5703125,-342.46875,7
+The Fortress of Fhojum Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Large_01,0,398,342,73,68,3987334268,Sentinel,398.5703125,-342.46875,7
+Mesiton Docks,2,WOD_HF_Dock_Lighthouse_Small_01,180,396,348,58,64,3965834864,Sentinel,396.453125,-348.5,7
+Isfakabi Docks,2,WOD_HF_Dock_Lighthouse_Small_01,180,392,351,58,64,3925835164,Sentinel,392.453125,-351.5,7
+The Queen's Wolf Inn Docks,2,WOD_HF_Dock_Small_01,90,387,353,76,64,3877635364,Sentinel,387.59375,-353.5,7
+Zagumba-Kom Docks,2,WOD_HF_Dock_Lighthouse_Small_01,90,382,361,76,64,3827636164,Sentinel,382.59375,-361.5,7
+The Old Thush Place Docks,2,WOD_HF_Dock_Small_01,0,385,369,65,63,3856536963,Sentinel,385.5078125,-369.5078125,7
+The Rhujten Cabin Docks,2,WOD_HF_Dock_Small_01,0,388,369,65,63,3886536963,Sentinel,388.5078125,-369.5078125,7
+Cudakasa Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,407,373,65,63,4076537363,Sentinel,407.5078125,-373.5078125,7
+Bubumbaret Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0,415,373,65,63,4156537363,Sentinel,415.5078125,-373.5078125,7
+The V'uchin Farmstead Docks,2,WOD_HF_Dock_Small_01,0,419,374,65,63,4196537463,Sentinel,419.5078125,-374.5078125,7
+The C'avar Cabin Docks,2,WOD_HF_Dock_Small_01,0,422,373,67,58,4226737358,Sentinel,422.5234375,-373.546875,7
+The Dirty Mug Tavern Docks,2,WOD_HF_Dock_Small_01,0,425,373,65,63,4256537363,Sentinel,425.5078125,-373.5078125,7
+Bubaaqja Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,427,373,65,63,4276537363,Sentinel,427.5078125,-373.5078125,7
+Old Mhirpti's Hovel Docks,2,WOD_HF_Dock_Small_01,0,439,372,63,64,4396337264,Sentinel,439.4921875,-372.5,7
+Shrine of Q'Olwen Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,441,370,65,63,4416537063,Sentinel,441.5078125,-370.5078125,7
+Bubissidata Docks,2,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-135,404,327,59,64,4045932764,Sentinel,404.4609375,-327.5,7
+Rhorkke Hall Docks,2,WOD_HF_Dock_Small_01,180,409,328,67,76,4096732876,Sentinel,409.5234375,-328.40625,7
+Antelibuton Docks,2,WOD_HF_Dock_Lighthouse_Large_01,0,558,296,65,63,5586529663,Tigonus,558.5078125,-296.5078125,6
+Khajocconu Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,475,346,63,64,4756334664,Tigonus,475.4921875,-346.5,6
+Mesanis Docks,2,WOD_HF_Dock_Lighthouse_Small_01,0,514,318,65,63,5146531863,Tigonus,514.5078125,-318.5078125,6
+Mesanis Docks,2,WOD_HF_Dock_Lighthouse_Small_01,-90,514,318,63,64,5146331864,Tigonus,514.4921875,-318.5,6
+Paponirea Docks,2,WOD_HF_Dock_Small_01,0,516,313,65,63,5166531363,Tigonus,516.5078125,-313.5078125,6
+Millitor Docks,2,WOD_HF_Dock_Small_01,0,518,312,65,63,5186531263,Tigonus,518.5078125,-312.5078125,6
+Wadijerareg Docks,2,WOD_HF_Dock_Medium_01,0,552,297,65,63,5526529763,Tigonus,552.5078125,-297.5078125,6
+The Red Cat Tavern Docks,2,WOD_HF_Dock_Small_01,0,569,294,65,63,5696529463,Tigonus,569.5078125,-294.5078125,6
+The Thirsty Sword Tavern Docks,2,WOD_HF_Dock_Small_01,0,521,309,65,63,5216530963,Tigonus,521.5078125,-309.5078125,6
+The Rat and Barbarian Tavern Docks,2,WOD_HF_Dock_Small_01,0,524,308,65,63,5246530863,Tigonus,524.5078125,-308.5078125,6
+Kalureg Docks,2,WOD_HF_Dock_Medium_01,0,527,308,65,63,5276530863,Tigonus,527.5078125,-308.5078125,6
+Baghada Docks,2,WOD_HF_Dock_Small_01,0,530,308,65,63,5306530863,Tigonus,530.5078125,-308.5078125,6
+The V'ev Farmstead Docks,2,WOD_HF_Dock_Small_01,0,534,305,65,63,5346530563,Tigonus,534.5078125,-305.5078125,6
+The Krurta Farmstead Docks,2,WOD_HF_Dock_Small_01,0,582,290,65,63,5826529063,Tigonus,582.5078125,-290.5078125,7
+Old Rhardja's Hovel Docks,2,WOD_HF_Dock_Small_01,180,596,279,69,73,5966927973,Tigonus,596.5390625,-279.4296875,4
+Midmont Docks,2,WOD_Dock_Lighthouse_Medium_01,-90,61,106,64,69,616410669,Tulune,61.5,-106.4609375,1
+The Old Copperham Place Docks,2,WOD_Dock_Small_01,-90,67,121,64,65,676412165,Tulune,67.5,-121.4921875,1
+Lambrugh Docks,2,WOD_Dock_Lighthouse_Medium_01,180,72,164,60,74,726016474,Tulune,72.46875,-164.421875,1
+Penwall Derry Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,90,846,243,69,58,8466924358,Wayrest,846.5390625,-243.546875,0
+Tunmont Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,180,975,273,61,58,9756127358,Wayrest,975.4765625,-273.546875,1
+Bleeding Ascencion of Akatosh Docks,2,WOD_Dock_Small_01,-45,828,223,61,73,8286122373,Wayrest,828.4765625,-223.4296875,1
+The Old Buckinghouse Place Docks,2,WOD_Dock_Small_01,180,840,225,61,58,8406122558,Wayrest,840.4765625,-225.546875,1
+The Yeomfield Farmstead Docks,2,WOD_Dock_Small_01,-135,847,229,61,58,8476122958,Wayrest,847.4765625,-229.546875,1
+Chestertower Docks,2,WOD_Dock_Lighthouse_Small_01,-90,854,236,61,73,8546123673,Wayrest,854.4765625,-236.4296875,1
+Tamvale Rock Docks,2,WOD_Dock_Lighthouse_Small_01,0,841,240,67,76,8416724076,Wayrest,841.5234375,-240.40625,5
+Aldingshire Docks,2,WOD_Dock_Small_01,90,839,249,69,58,8396924958,Wayrest,839.5390625,-249.546875,5
+The Gaerham Farmstead Docks,2,WOD_Dock_Small_01,180,836,247,55,56,8365524756,Wayrest,836.4296875,-247.5625,5
+Merwark Hollow Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,-45,859,244,61,73,8596124473,Wayrest,859.4765625,-244.4296875,1
+Mertale Court Docks,2,WOD_Dock_Small_01,-90,875,250,61,73,8756125073,Wayrest,875.4765625,-250.4296875,1
+The Laughing Porcupine Pub Docks,2,WOD_Dock_Small_01,-90,876,255,61,73,8766125573,Wayrest,876.4765625,-255.4296875,1
+Eastwold Docks,2,WOD_Wayrest_Dock_Lighthouse_Large_01,-135,884,255,68,68,8846825568,Wayrest,884.53125,-255.46875,1
+Chardale Docks,2,WOD_Wayrest_Dock_Lighthouse_Medium_01,180,887,256,61,58,8876125658,Wayrest,887.4765625,-256.546875,1
+Eternal Prophet of Akatosh Docks,2,WOD_Dock_Small_01,-90,861,249,61,73,8616124973,Wayrest,861.4765625,-249.4296875,1
+Old Elyssa's Hovel Docks,2,WOD_Dock_Small_01,180,866,249,61,58,8666124958,Wayrest,866.4765625,-249.546875,1
+Inner Rebirth of Akatosh Docks,2,WOD_Dock_Lighthouse_Small_01,180,889,257,61,58,8896125758,Wayrest,889.4765625,-257.546875,1
+Hawksley Hall Docks,2,WOD_Dock_Small_01,180,892,258,61,58,8926125858,Wayrest,892.4765625,-258.546875,1
+Djen Lodge Docks,2,WOD_Dock_Small_01,180,900,256,61,58,9006125658,Wayrest,900.4765625,-256.546875,1
+Vanhope Hall Docks,2,WOD_Dock_Lighthouse_Small_01,180,907,258,61,58,9076125858,Wayrest,907.4765625,-258.546875,1
+Grayville Court Docks,2,WOD_Dock_Small_01,0,907,262,67,63,9076726263,Wayrest,907.5234375,-262.5078125,1
+The Lion and Castle Tavern Docks,2,WOD_Dock_Small_01,-45,902,264,67,63,9026726463,Wayrest,902.5234375,-264.5078125,1
+Burning Tree of Akatosh Docks,2,WOD_Dock_Small_01,180,923,261,61,58,9236126158,Wayrest,923.4765625,-261.546875,1
+Coppersly Hall Docks,2,WOD_Dock_Small_01,180,925,261,61,58,9256126158,Wayrest,925.4765625,-261.546875,1
+Longmore Field Docks,2,WOD_Wayrest_Dock_Lighthouse_Medium_01,180,931,262,61,58,9316126258,Wayrest,931.4765625,-262.546875,1
+Kieran Theatre Docks,2,WOD_Dock_Lighthouse_Small_01,180,940,264,61,58,9406126458,Wayrest,940.4765625,-264.546875,0
+The Yeomsley Farmstead Docks,2,WOD_Dock_Small_01,180,942,264,61,58,9426126458,Wayrest,942.4765625,-264.546875,0
+Aldingbridge Moor Docks,2,WOD_Dock_Lighthouse_Small_01,180,956,265,61,58,9566126558,Wayrest,956.4765625,-265.546875,1
+Wartry Moor Docks,2,WOD_Dock_Lighthouse_Small_01,180,964,266,61,58,9646126658,Wayrest,964.4765625,-266.546875,1
+Town,2,WOD_Dock_Lighthouse_Large_01,-45,152,38,51,79,152513879,Northmoor,152.3984375,-38.3828125,1
+Graveyard,2,WOD_Dock_Small_01,0,59,144,68,84,596814484,Tulune,59.53125,-144.34375,1
+Dungeon,2,WOD_Dock_Small_01,45,62,148,82,82,628214882,Tulune,62.640625,-148.359375,1
+Graveyard,2,WOD_Dock_Small_01,180,125,201,63,63,1256320163,Daggerfall,125.4921875,-201.5078125,1
+Village,2,WOD_Dock_Lighthouse_Small_01,135,333,202,60,64,3336020264,Shalgora,333.46875,-202.5,1
+Graveyard,2,WOD_Dock_Lighthouse_Medium_01,0,366,193,69,70,3666919370,Anticlere,366.5390625,-193.453125,1
+Inn,2,WOD_Dock_Small_01,90,544,137,70,74,5447013774,Dwynnen,544.546875,-137.421875,1
+Dungeon,2,WOD_Dock_Small_01,-135,553,134,61,58,5536113458,Bhoriane,553.4765625,-134.546875,1
+Dungeon,2,WOD_Dock_Small_01,90,593,137,72,55,5937213755,Bhoriane,593.5625,-137.5703125,1
+Castle Dungeon,2,WOD_Dock_Small_01,0,589,148,63,64,5896314864,Bhoriane,589.4921875,-148.5,1
+Dungeon,2,WOD_Dock_Small_01,90,591,151,65,64,5916515164,Bhoriane,591.5078125,-151.5,1
+Dungeon,2,WOD_Dock_Small_01,180,675,125,68,59,6756812559,Koegria,675.53125,-125.5390625,1
+Dungeon,2,WOD_Dock_Small_01,180,711,134,64,60,7116413460,Alcaire,711.5,-134.53125,1
+Castle Dungeon,2,WOD_Dock_Small_01,180,713,135,64,42,7136413542,Alcaire,713.5,-135.671875,1
+Ruin Dungeon,2,WOD_Dock_Small_01,180,717,135,69,65,7176913565,Alcaire,717.5390625,-135.4921875,1
+Castle Dungeon,2,WOD_Dock_Small_01,180,758,140,67,54,7586714054,Alcaire,758.5234375,-140.578125,1
+Graveyard,2,WOD_Dock_Small_01,180,782,148,64,69,7826414869,Alcaire,782.5,-148.4609375,4
+Graveyard,2,WOD_Dock_Small_01,-135,795,157,59,72,7955915772,Menevia,795.4609375,-157.4375,3
+Ruins Dungeon,2,WOD_Dock_Small_01,-90,793,193,59,63,7935919363,Menevia,793.4609375,-193.5078125,1
+Dungeon,2,WOD_Dock_Small_01,-90,785,210,68,59,7856821059,Menevia,785.53125,-210.5390625,1
+Temple,2,WOD_Dock_Small_01,-90,856,242,60,60,8566024260,Wayrest,856.46875,-242.53125,1
+Castle Dungeon,2,WOD_Dock_Small_01,0,900,264,70,69,9007026469,Wayrest,900.546875,-264.4609375,1
+Town,2,WOD_HF_Dock_Lighthouse_Medium_01,180,901,278,64,65,9016427865,Mournoth,901.5,-278.4921875,5
+Dungeon,2,WOD_HF_Dock_Small_01,0,872,281,63,59,8726328159,Mournoth,872.4921875,-281.5390625,5
+Dungeon,2,WOD_HF_Dock_Small_01,180,829,287,67,65,8296728765,Satakalaam,829.5234375,-287.4921875,5
+Dungeon,2,WOD_HF_Dock_Small_01,180,827,287,73,56,8277328756,Satakalaam,827.5703125,-287.5625,5
+Castle Dungeon,2,WOD_HF_Dock_Small_01,45,770,281,72,65,7707228165,Lainlyn,770.5625,-281.4921875,5
+Dungeon,2,WOD_HF_Dock_Small_01,0,751,277,69,79,7516927779,Lainlyn,751.5390625,-277.3828125,5
+Dungeon,2,WOD_HF_Dock_Small_01,0,731,282,60,82,7316028282,Lainlyn,731.46875,-282.359375,5
+Castle Dungeon,2,WOD_HF_Dock_Small_01,0,704,281,69,65,7046928165,Lainlyn,704.5390625,-281.4921875,5
+Dungeon,2,WOD_HF_Dock_Small_01,0,697,279,61,77,6976127977,Lainlyn,697.4765625,-279.3984375,5
+Dungeon,2,WOD_HF_Dock_Small_01,0,682,285,70,64,6827028564,Lainlyn,682.546875,-285.5,5
+Dungeon,2,WOD_HF_Dock_Small_01,0,656,281,59,52,6565928152,Lainlyn,656.4609375,-281.59375,4
+Dungeon,2,WOD_HF_Dock_Small_01,0,614,280,69,63,6146928063,Dragontail Mountains,614.5390625,-280.5078125,4
+Temple,2,WOD_HF_Dock_Lighthouse_Small_01,-90,583,276,58,72,5835827672,Tigonus,583.453125,-276.4375,4
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,0,564,295,56,60,5645629560,Tigonus,564.4375,-295.53125,6
+Shack,2,WOD_HF_Dock_Small_01,-45,470,351,65,54,4706535154,Tigonus,470.5078125,-351.578125,0
+Dungeon,2,WOD_HF_Dock_Small_01,-45,446,370,55,67,4465537067,Ayasofya,446.4296875,-370.4765625,7
+Dungeon,2,WOD_HF_Dock_Small_01,0,429,373,69,63,4296937363,Sentinel,429.5390625,-373.5078125,7
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,0,411,372,68,73,4116837273,Sentinel,411.53125,-372.4296875,7
+Dungeon,2,WOD_HF_Dock_Small_01,90,381,364,69,54,3816936454,Sentinel,381.5390625,-364.578125,7
+Castle Dungeon,2,WOD_HF_Dock_Small_01,180,398,346,73,64,3987334664,Sentinel,398.5703125,-346.5,7
+Dungeon,2,WOD_HF_Dock_Small_01,0,399,342,61,54,3996134254,Sentinel,399.4765625,-342.578125,7
+Castle Dungeon,2,WOD_HF_Dock_Small_01,0,378,345,56,60,3785634560,Sentinel,378.4375,-345.53125,7
+Dungeon,2,WOD_HF_Dock_Small_01,-90,369,352,49,84,3694935284,Sentinel,369.3828125,-352.34375,7
+Shack,2,WOD_HF_Dock_Small_01,0,364,354,55,60,3645535460,Sentinel,364.4296875,-354.53125,7
+Shrine,2,WOD_HF_Dock_Small_01,-45,300,393,63,61,3006339361,Myrkwasa,300.4921875,-393.5234375,7
+Castle Dungeon,2,WOD_HF_Dock_Small_01,-90,276,406,68,60,2766840660,Myrkwasa,276.53125,-406.53125,7
+Dungeon,2,WOD_HF_Dock_Small_01,0,263,405,54,54,2635440554,Pothago,263.421875,-405.578125,7
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,0,246,405,65,54,2466540554,Pothago,246.5078125,-405.578125,7
+Dungeon,2,WOD_HF_Dock_Small_01,0,241,407,63,65,2416340765,Pothago,241.4921875,-407.4921875,7
+Dungeon,2,WOD_HF_Dock_Small_01,-90,227,417,77,59,2277741759,Pothago,227.6015625,-417.5390625,7
+Dungeon,2,WOD_HF_Dock_Small_01,0,217,422,59,64,2175942264,Kairou,217.4609375,-422.5,7
+Castle Dungeon,2,WOD_HF_Dock_Small_01,0,205,433,56,59,2055643359,Kairou,205.4375,-433.5390625,7
+Dungeon,2,WOD_HF_Dock_Small_01,-90,173,453,54,58,1735445358,Abibon-gora,173.421875,-453.546875,7
+Castle Dungeon,2,WOD_HF_Dock_Small_01,-90,168,468,65,51,1686546851,Abibon-gora,168.5078125,-468.6015625,7
+Castle Dungeon,2,WOD_HF_Dock_Small_01,0,164,476,65,58,1646547658,Abibon-gora,164.5078125,-476.546875,7
+Shack,2,WOD_HF_Dock_Small_01,0,162,476,65,60,1626547660,Abibon-gora,162.5078125,-476.53125,7
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,-90,153,483,56,77,1535648377,Abibon-gora,153.4375,-483.3984375,7
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,90,439,343,67,61,4396734361,Cybiades,439.5234375,-343.5234375,7
+House,2,WOD_HF_Dock_Small_01,0,406,325,67,64,4066732564,Sentinel,406.5234375,-325.5,7
+Dungeon,2,WOD_HF_Dock_Small_01,-90,199,455,76,68,1997645568,Kairou,199.59375,-455.46875,7
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,0,198,458,69,70,1986945870,Abibon-gora,198.5390625,-458.453125,7
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,-90,179,457,58,65,1795845765,Abibon-gora,179.453125,-457.4921875,7
+Ruins Dungeon,2,WOD_HF_Dock_Small_01,0,176,460,52,67,1765246067,Abibon-gora,176.40625,-460.4765625,7
+Graveyard,2,WOD_Dock_Small_01,180,712,234,64,59,7126423459,Isle of Balfiera,712.5,-234.5390625,4
+Ruins Dungeon,2,WOD_Dock_Small_01,0,727,188,70,69,7277018869,Isle of Balfiera,727.546875,-188.4609375,4
+Graveyard,2,WOD_Dock_Small_01,-90,681,195,72,70,6817219570,Isle of Balfiera,681.5625,-195.453125,4
+Ruins Dungeon,2,WOD_Dock_Small_01,-135,685,225,46,63,6854622563,Isle of Balfiera,685.359375,-225.5078125,4
+Ruins Dungeon,2,WOD_Dock_Small_01,180,654,201,65,65,6546520165,Isle of Balfiera,654.5078125,-201.4921875,1
+Ruins Dungeon,2,WOD_Dock_Small_01,180,646,202,58,61,6465820261,Isle of Balfiera,646.453125,-202.5234375,1
+Ruins Dungeon,2,WOD_Dock_Small_01,0,663,178,54,58,6635417858,Isle of Balfiera,663.421875,-178.546875,1
+Dungeon,2,WOD_Dock_Small_01,0,652,168,58,83,6525816883,Isle of Balfiera,652.453125,-168.3515625,1
+Dungeon,2,WOD_Dock_Small_01,0,648,164,70,46,6487016446,Isle of Balfiera,648.546875,-164.640625,1
+Graveyard,2,WOD_Dock_Small_01,90,646,162,64,59,6466416259,Isle of Balfiera,646.5,-162.5390625,1
+Castle Dungeon,2,WOD_Dock_Small_01,-45,849,269,70,74,8497026974,Satakalaam,849.546875,-269.421875,5
+Inn,2,WOD_Dock_Small_01,90,835,276,56,58,8355627658,Satakalaam,835.4375,-276.546875,5
+Dungeon,2,WOD_Dock_Small_01,-90,139,239,65,73,1396523973,Daggerfall,139.5078125,-239.4296875,1
