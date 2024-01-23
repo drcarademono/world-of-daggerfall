@@ -46,7 +46,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82350,Rocks,1,WOD_Rocks_Round_Gray_Medium_09,872,143,8728014374,80,74,Orsinium Area,872.625,-143.421875,42,Mountains,Gray,0.5
 81915,Rocks,1,WOD_Rocks_Round_Gray_Medium_03,873,152,87368152111,68,111,Orsinium Area,873.53125,-152.1328125,172,Woodland Hills,Gray,0.5
 81269,Rocks,1,WOD_Rocks_Round_Gray_Large_09,883,159,88311215999,112,99,Orsinium Area,883.875,-159.2265625,68,Woodland Hills,Gray,0.5
-82201,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,853,154,85312815459,128,59,Orsinium Area,854,-154.5390625,22,Woodland Hills,Gray,0.5
+82201,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,853,154,85312815459,128,59,Orsinium Area,854.0,-154.5390625,22,Woodland Hills,Gray,0.5
 80985,Rocks,1,WOD_Rocks_Round_Gray_Large_09,872,173,8728517334,85,34,Orsinium Area,872.6640625,-173.734375,16,Woodland Hills,Gray,0.5
 80863,Rocks,1,WOD_Rocks_Round_Gray_Large_07,889,174,88911117456,111,56,Orsinium Area,889.8671875,-174.5625,168,Woodland Hills,Gray,0.5
 81039,Rocks,1,WOD_Rocks_Round_Gray_Small_08,900,168,90011816873,118,73,Orsinium Area,900.921875,-168.4296875,146,Woodland Hills,Gray,0.5
@@ -73,7 +73,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81024,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,892,157,89279157121,79,121,Orsinium Area,892.6171875,-157.0546875,-167,Woodland Hills,Gray,0.5
 81899,Rocks,1,WOD_Rocks_Round_Gray_Large_04,897,174,8976017486,60,86,Orsinium Area,897.46875,-174.328125,34,Woodland Hills,Gray,0.5
 81031,Rocks,1,WOD_Rocks_Round_Gray_Large_07,886,162,8863516276,35,76,Orsinium Area,886.2734375,-162.40625,-85,Woodland Hills,Gray,0.5
-81151,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,865,141,865113141128,113,128,Orsinium Area,865.8828125,-141,-58,Mountains,Gray,0.5
+81151,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,865,141,865113141128,113,128,Orsinium Area,865.8828125,-141.0,-58,Mountains,Gray,0.5
 80719,Rocks,1,WOD_Rocks_Round_Gray_Medium_02,874,152,8743615208,36,8,Orsinium Area,874.28125,-152.9375,55,Woodland Hills,Gray,0.5
 82320,Rocks,1,WOD_Rocks_Round_Gray_Medium_01,890,145,8901114511,11,11,Orsinium Area,890.0859375,-145.9140625,120,Mountains,Gray,0.5
 82568,Rocks,1,WOD_Rocks_Round_Gray_Large_09,906,173,9063217370,32,70,Orsinium Area,906.25,-173.453125,35,Woodland Hills,Gray,0.5
@@ -149,7 +149,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 80521,Rocks,1,WOD_Rocks_Round_Gray_Small_09,876,156,87610815668,108,68,Orsinium Area,876.84375,-156.46875,92,Woodland Hills,Gray,0.5
 82754,Rocks,1,WOD_Rocks_Round_Gray_Small_07,852,165,85210816567,108,67,Orsinium Area,852.84375,-165.4765625,-93,Woodland Hills,Gray,0.5
 82368,Rocks,1,WOD_Rocks_Round_Gray_Small_09,890,174,890124174103,124,103,Orsinium Area,890.96875,-174.1953125,-108,Woodland Hills,Gray,0.5
-80972,Rocks,1,WOD_Rocks_Round_Gray_Small_10,876,135,87668135128,68,128,Orsinium Area,876.53125,-135,107,Mountains,Gray,0.5
+80972,Rocks,1,WOD_Rocks_Round_Gray_Small_10,876,135,87668135128,68,128,Orsinium Area,876.53125,-135.0,107,Mountains,Gray,0.5
 81489,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,902,176,90212617684,126,84,Orsinium Area,902.984375,-176.34375,-126,Woodland Hills,Gray,0.5
 81747,Rocks,1,WOD_Rocks_Round_Gray_Large_09,853,152,85318152118,18,118,Orsinium Area,853.140625,-152.078125,51,Woodland Hills,Gray,0.5
 81188,Rocks,1,WOD_Rocks_Round_Gray_Large_07,894,174,89412717411,127,11,Orsinium Area,894.9921875,-174.9140625,-84,Woodland Hills,Gray,0.5
@@ -190,7 +190,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 80529,Rocks,1,WOD_Rocks_Round_Gray_Large_05,853,155,8537715539,77,39,Orsinium Area,853.6015625,-155.6953125,-54,Woodland Hills,Gray,0.5
 82506,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,850,162,8508016276,80,76,Orsinium Area,850.625,-162.40625,-178,Woodland Hills,Gray,0.5
 80970,Rocks,1,WOD_Rocks_Round_Gray_Small_08,869,143,86999143120,99,120,Orsinium Area,869.7734375,-143.0625,-140,Mountains,Gray,0.5
-80937,Rocks,1,WOD_Rocks_Round_Gray_Large_07,861,171,86159171128,59,128,Orsinium Area,861.4609375,-171,92,,Gray,0.5
+80937,Rocks,1,WOD_Rocks_Round_Gray_Large_07,861,171,86159171128,59,128,Orsinium Area,861.4609375,-171.0,92,,Gray,0.5
 82617,Rocks,1,WOD_Rocks_Round_Gray_Large_05,880,139,8809213968,92,68,Orsinium Area,880.71875,-139.46875,-41,Mountains,Gray,0.5
 81918,Rocks,1,WOD_Rocks_Round_Gray_Medium_07,859,170,8590217084,2,84,Orsinium Area,859.015625,-170.34375,173,Woodland Hills,Gray,0.5
 82712,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,882,156,8829515630,95,30,Orsinium Area,882.7421875,-156.765625,-23,Woodland Hills,Gray,0.5
@@ -347,7 +347,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82706,Rocks,1,WOD_Rocks_Round_Gray_Small_10,868,138,86817138115,17,115,Orsinium Area,868.1328125,-138.1015625,-32,Mountains,Gray,0.5
 82346,Rocks,1,WOD_Rocks_Round_Gray_Medium_04,885,164,8852816428,28,28,Orsinium Area,885.21875,-164.78125,-102,Woodland Hills,Gray,0.5
 80652,Rocks,1,WOD_Rocks_Round_Gray_Large_01,898,172,8989417218,94,18,Orsinium Area,898.734375,-172.859375,-58,Woodland Hills,Gray,0.5
-81881,Rocks,1,WOD_Rocks_Round_Gray_Small_05,885,151,88591151128,91,128,Orsinium Area,885.7109375,-151,-78,Woodland Hills,Gray,0.5
+81881,Rocks,1,WOD_Rocks_Round_Gray_Small_05,885,151,88591151128,91,128,Orsinium Area,885.7109375,-151.0,-78,Woodland Hills,Gray,0.5
 82280,Rocks,1,WOD_Rocks_Round_Gray_Large_01,874,163,87411316390,113,90,Orsinium Area,874.8828125,-163.296875,-133,Woodland Hills,Gray,0.5
 82092,Rocks,1,WOD_Rocks_Round_Gray_Small_08,900,154,90011015494,110,94,Orsinium Area,900.859375,-154.265625,-151,Woodland Hills,Gray,0.5
 82376,Rocks,1,WOD_Rocks_Round_Gray_Medium_07,893,165,8930216592,2,92,Orsinium Area,893.015625,-165.28125,88,Woodland Hills,Gray,0.5
@@ -418,7 +418,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 80975,Rocks,1,WOD_Rocks_Round_Gray_Medium_03,869,138,86912313878,123,78,Orsinium Area,869.9609375,-138.390625,-24,Mountains,Gray,0.5
 82423,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,902,166,90210916611,109,11,Orsinium Area,902.8515625,-166.9140625,-45,Woodland Hills,Gray,0.5
 82062,Rocks,1,WOD_Rocks_Round_Gray_Small_02,885,176,88521176125,21,125,Orsinium Area,885.1640625,-176.0234375,-114,Woodland Hills,Gray,0.5
-80829,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,901,181,90112818194,128,94,Orsinium Area,902,-181.265625,-63,Woodland Hills,Gray,0.5
+80829,Rocks,1,WOD_Rocks_Round_Gray_Medium_10,901,181,90112818194,128,94,Orsinium Area,902.0,-181.265625,-63,Woodland Hills,Gray,0.5
 80830,Rocks,1,WOD_Rocks_Round_Gray_Medium_11,903,181,9038018153,80,53,Orsinium Area,903.625,-181.5859375,42,Woodland Hills,Gray,0.5
 81400,Rocks,1,WOD_Rocks_Round_Gray_Small_05,885,155,8851415504,14,4,Orsinium Area,885.109375,-155.96875,151,Woodland Hills,Gray,0.5
 82629,Rocks,1,WOD_Rocks_Round_Gray_Small_10,883,168,88310116869,101,69,Orsinium Area,883.7890625,-168.4609375,159,Woodland Hills,Gray,0.5
@@ -631,7 +631,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 80744,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,877,178,8779817887,98,87,Orsinium Area,877.765625,-178.3203125,-53,Woodland Hills,Gray,0.5
 80760,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,875,155,8752315568,23,68,Orsinium Area,875.1796875,-155.46875,108,Woodland Hills,Gray,0.5
 82140,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,892,151,89212115172,121,72,Orsinium Area,892.9453125,-151.4375,61,Woodland Hills,Gray,0.5
-81724,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,874,167,874128167107,128,107,Orsinium Area,875,-167.1640625,-176,Woodland Hills,Gray,0.5
+81724,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,874,167,874128167107,128,107,Orsinium Area,875.0,-167.1640625,-176,Woodland Hills,Gray,0.5
 82361,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_09,885,158,8859415863,94,63,Orsinium Area,885.734375,-158.5078125,169,Woodland Hills,Gray,0.5
 81957,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_09,885,146,8852614678,26,78,Orsinium Area,885.203125,-146.390625,114,Woodland Hills,Gray,0.5
 81043,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,903,158,9030915802,9,2,Orsinium Area,903.0703125,-158.984375,-16,Woodland Hills,Gray,0.5
@@ -830,7 +830,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81531,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,877,157,8773115710,31,10,Orsinium Area,877.2421875,-157.921875,141,Woodland Hills,Gray,0.5
 82402,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,882,170,88215170110,15,110,Orsinium Area,882.1171875,-170.140625,141,Woodland Hills,Gray,0.5
 82169,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,879,147,8791914751,19,51,Orsinium Area,879.1484375,-147.6015625,139,Woodland Hills,Gray,0.5
-81029,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,882,177,88217177128,17,128,Orsinium Area,882.1328125,-177,116,Woodland Hills,Gray,0.5
+81029,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,882,177,88217177128,17,128,Orsinium Area,882.1328125,-177.0,116,Woodland Hills,Gray,0.5
 81606,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,890,155,89012415556,124,56,Orsinium Area,890.96875,-155.5625,-176,Woodland Hills,Gray,0.5
 82497,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,862,163,8623716397,37,97,Orsinium Area,862.2890625,-163.2421875,121,Woodland Hills,Gray,0.5
 81937,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,896,154,89611015426,110,26,Orsinium Area,896.859375,-154.796875,-2,Woodland Hills,Gray,0.5
@@ -857,7 +857,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82364,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,897,174,897105174110,105,110,Orsinium Area,897.8203125,-174.140625,147,Woodland Hills,Gray,0.5
 82710,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,893,167,8939116761,91,61,Orsinium Area,893.7109375,-167.5234375,130,Woodland Hills,Gray,0.5
 81408,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,862,167,8629816719,98,19,Orsinium Area,862.765625,-167.8515625,-162,Woodland Hills,Gray,0.5
-82510,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,884,168,884126168128,126,128,Orsinium Area,884.984375,-168,99,Woodland Hills,Gray,0.5
+82510,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,884,168,884126168128,126,128,Orsinium Area,884.984375,-168.0,99,Woodland Hills,Gray,0.5
 81398,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,880,151,8803715157,37,57,Orsinium Area,880.2890625,-151.5546875,-99,Woodland Hills,Gray,0.5
 81534,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,878,140,8782514056,25,56,Orsinium Area,878.1953125,-140.5625,-142,Mountains,Gray,0.5
 80428,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,866,158,8661215803,12,3,Orsinium Area,866.09375,-158.9765625,158,Woodland Hills,Gray,0.5
@@ -916,7 +916,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81670,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_06,876,154,87625154102,25,102,Orsinium Area,876.1953125,-154.203125,123,Woodland Hills,Gray,0.5
 81678,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,892,164,8922616495,26,95,Orsinium Area,892.203125,-164.2578125,-109,Woodland Hills,Gray,0.5
 81253,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,866,162,8667716278,77,78,Orsinium Area,866.6015625,-162.390625,-71,Woodland Hills,Gray,0.5
-80647,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,889,171,88930171128,30,128,Orsinium Area,889.234375,-171,-86,Woodland Hills,Gray,0.5
+80647,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,889,171,88930171128,30,128,Orsinium Area,889.234375,-171.0,-86,Woodland Hills,Gray,0.5
 81196,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,885,165,88521165111,21,111,Orsinium Area,885.1640625,-165.1328125,-60,Woodland Hills,Gray,0.5
 80955,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,878,164,8785616415,56,15,Orsinium Area,878.4375,-164.8828125,-35,Woodland Hills,Gray,0.5
 81609,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,888,148,88810014865,100,65,Orsinium Area,888.78125,-148.4921875,-14,Woodland Hills,Gray,0.5
@@ -984,7 +984,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 80589,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,876,169,87611916995,119,95,Orsinium Area,876.9296875,-169.2578125,-105,Woodland Hills,Gray,0.5
 81203,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,870,173,8705917385,59,85,Orsinium Area,870.4609375,-173.3359375,-178,Woodland Hills,Gray,0.5
 81914,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_02,867,172,867127172118,127,118,Orsinium Area,867.9921875,-172.078125,-96,Woodland Hills,Gray,0.5
-81786,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,874,136,874128136112,128,112,Orsinium Area,875,-136.125,79,Mountains,Gray,0.5
+81786,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,874,136,874128136112,128,112,Orsinium Area,875.0,-136.125,79,Mountains,Gray,0.5
 81632,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,853,144,85351144118,51,118,Orsinium Area,853.3984375,-144.078125,126,Woodland Hills,Gray,0.5
 82073,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,860,155,86012615579,126,79,Orsinium Area,860.984375,-155.3828125,9,Woodland Hills,Gray,0.5
 81598,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,890,159,89010715933,107,33,Orsinium Area,890.8359375,-159.7421875,-108,Woodland Hills,Gray,0.5
@@ -1004,7 +1004,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82328,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,873,156,87311715692,117,92,Orsinium Area,873.9140625,-156.28125,-147,Woodland Hills,Gray,0.5
 80447,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,894,169,89412516979,125,79,Orsinium Area,894.9765625,-169.3828125,-111,Woodland Hills,Gray,0.5
 81284,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,861,165,8617516502,75,2,Orsinium Area,861.5859375,-165.984375,124,Woodland Hills,Gray,0.5
-81590,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,903,169,90312816959,128,59,Orsinium Area,904,-169.5390625,-117,Woodland Hills,Gray,0.5
+81590,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,903,169,90312816959,128,59,Orsinium Area,904.0,-169.5390625,-117,Woodland Hills,Gray,0.5
 81749,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,874,156,8745315694,53,94,Orsinium Area,874.4140625,-156.265625,31,Woodland Hills,Gray,0.5
 82030,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,899,162,89910416259,104,59,Orsinium Area,899.8125,-162.5390625,-85,Woodland Hills,Gray,0.5
 81507,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,884,137,8844013747,40,47,Orsinium Area,884.3125,-137.6328125,146,Mountains,Gray,0.5
@@ -1015,7 +1015,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82061,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_09,887,169,88714169112,14,112,Orsinium Area,887.109375,-169.125,180,Woodland Hills,Gray,0.5
 81243,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,884,166,8845416677,54,77,Orsinium Area,884.421875,-166.3984375,-150,Woodland Hills,Gray,0.5
 81852,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,856,142,85612214256,122,56,Orsinium Area,856.953125,-142.5625,105,Mountains,Gray,0.5
-81861,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_02,885,164,88512816440,128,40,Orsinium Area,886,-164.6875,-114,Woodland Hills,Gray,0.5
+81861,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_02,885,164,88512816440,128,40,Orsinium Area,886.0,-164.6875,-114,Woodland Hills,Gray,0.5
 82389,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,878,171,87812117141,121,41,Orsinium Area,878.9453125,-171.6796875,-68,Woodland Hills,Gray,0.5
 82713,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_08,885,147,8855714794,57,94,Orsinium Area,885.4453125,-147.265625,-125,Woodland Hills,Gray,0.5
 80978,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,874,161,8742016143,20,43,Orsinium Area,874.15625,-161.6640625,-148,Woodland Hills,Gray,0.5
@@ -1073,7 +1073,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81468,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,902,182,9022618274,26,74,Orsinium Area,902.203125,-182.421875,-139,Woodland Hills,Gray,0.5
 81765,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,856,149,85611114902,111,2,Orsinium Area,856.8671875,-149.984375,73,Woodland Hills,Gray,0.5
 82770,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,882,162,8823616216,36,16,Orsinium Area,882.28125,-162.875,-31,Woodland Hills,Gray,0.5
-80621,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,852,155,85258155128,58,128,Orsinium Area,852.453125,-155,-166,Woodland Hills,Gray,0.5
+80621,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,852,155,85258155128,58,128,Orsinium Area,852.453125,-155.0,-166,Woodland Hills,Gray,0.5
 82470,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,870,143,87011714380,117,80,Orsinium Area,870.9140625,-143.375,-128,Mountains,Gray,0.5
 82663,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,872,164,8727616460,76,60,Orsinium Area,872.59375,-164.53125,-157,Woodland Hills,Gray,0.5
 82213,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,851,157,8511315764,13,64,Orsinium Area,851.1015625,-157.5,-143,Woodland Hills,Gray,0.5
@@ -1095,7 +1095,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 80804,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,898,179,8983617923,36,23,Orsinium Area,898.28125,-179.8203125,-67,Woodland Hills,Gray,0.5
 82253,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,870,143,87019143119,19,119,Orsinium Area,870.1484375,-143.0703125,176,Mountains,Gray,0.5
 80475,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,881,168,88110216831,102,31,Orsinium Area,881.796875,-168.7578125,53,Woodland Hills,Gray,0.5
-81655,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,882,172,88290172128,90,128,Orsinium Area,882.703125,-172,-15,Woodland Hills,Gray,0.5
+81655,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,882,172,88290172128,90,128,Orsinium Area,882.703125,-172.0,-15,Woodland Hills,Gray,0.5
 82095,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,878,158,878104158112,104,112,Orsinium Area,878.8125,-158.125,-97,Woodland Hills,Gray,0.5
 80489,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,860,164,86012516459,125,59,Orsinium Area,860.9765625,-164.5390625,-68,Woodland Hills,Gray,0.5
 81028,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,890,177,8905817758,58,58,Orsinium Area,890.453125,-177.546875,-10,Woodland Hills,Gray,0.5
@@ -1111,7 +1111,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81718,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,882,137,8829513723,95,23,Orsinium Area,882.7421875,-137.8203125,15,Mountains,Gray,0.5
 81385,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_08,872,177,87212017742,120,42,Orsinium Area,872.9375,-177.671875,-60,Woodland Hills,Gray,0.5
 81624,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,898,176,89812217618,122,18,Orsinium Area,898.953125,-176.859375,-160,Woodland Hills,Gray,0.5
-81836,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,884,145,884128145106,128,106,Orsinium Area,885,-145.171875,46,Mountains,Gray,0.5
+81836,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,884,145,884128145106,128,106,Orsinium Area,885.0,-145.171875,46,Mountains,Gray,0.5
 81255,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_06,861,150,86122150112,22,112,Orsinium Area,861.171875,-150.125,68,Woodland Hills,Gray,0.5
 81883,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,895,153,8951815374,18,74,Orsinium Area,895.140625,-153.421875,-88,Woodland Hills,Gray,0.5
 81767,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,880,139,88012413940,124,40,Orsinium Area,880.96875,-139.6875,117,Mountains,Gray,0.5
@@ -1181,7 +1181,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81451,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,896,177,89611917770,119,70,Orsinium Area,896.9296875,-177.453125,78,Woodland Hills,Gray,0.5
 81674,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,899,169,89912216973,122,73,Orsinium Area,899.953125,-169.4296875,-16,Woodland Hills,Gray,0.5
 81628,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,860,149,86063149123,63,123,Orsinium Area,860.4921875,-149.0390625,-161,Woodland Hills,Gray,0.5
-82560,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,876,143,87639143128,39,128,Orsinium Area,876.3046875,-143,53,Mountains,Gray,0.5
+82560,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,876,143,87639143128,39,128,Orsinium Area,876.3046875,-143.0,53,Mountains,Gray,0.5
 81898,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,882,175,88210317597,103,97,Orsinium Area,882.8046875,-175.2421875,69,Woodland Hills,Gray,0.5
 80701,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,873,164,873118164117,118,117,Orsinium Area,873.921875,-164.0859375,17,Woodland Hills,Gray,0.5
 82207,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_06,865,147,8653014730,30,30,Orsinium Area,865.234375,-147.765625,-173,Woodland Hills,Gray,0.5
@@ -1203,7 +1203,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82182,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_06,878,165,8784516517,45,17,Orsinium Area,878.3515625,-165.8671875,-151,Woodland Hills,Gray,0.5
 81009,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,896,178,8963417893,34,93,Orsinium Area,896.265625,-178.2734375,77,Woodland Hills,Gray,0.5
 81665,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,896,156,8966015681,60,81,Orsinium Area,896.46875,-156.3671875,-78,Woodland Hills,Gray,0.5
-82064,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,909,180,90928180128,28,128,Orsinium Area,909.21875,-180,26,Woodland Hills,Gray,0.5
+82064,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,909,180,90928180128,28,128,Orsinium Area,909.21875,-180.0,26,Woodland Hills,Gray,0.5
 81056,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_06,863,145,8634914584,49,84,Orsinium Area,863.3828125,-145.34375,-36,Woodland Hills,Gray,0.5
 82136,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,862,138,8629413878,94,78,Orsinium Area,862.734375,-138.390625,177,Mountains,Gray,0.5
 82304,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,883,145,8835014545,50,45,Orsinium Area,883.390625,-145.6484375,90,Mountains,Gray,0.5
@@ -1269,7 +1269,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82232,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,877,177,8775817769,58,69,Orsinium Area,877.453125,-177.4609375,100,Woodland Hills,Gray,0.5
 81509,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,871,176,871100176109,100,109,Orsinium Area,871.78125,-176.1484375,-93,Woodland Hills,Gray,0.5
 80603,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,888,140,88831140109,31,109,Orsinium Area,888.2421875,-140.1484375,-26,Mountains,Gray,0.5
-82696,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_07,874,174,87490174128,90,128,Orsinium Area,874.703125,-174,55,Woodland Hills,Gray,0.5
+82696,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_07,874,174,87490174128,90,128,Orsinium Area,874.703125,-174.0,55,Woodland Hills,Gray,0.5
 82415,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,907,174,9078317410,83,10,Orsinium Area,907.6484375,-174.921875,-86,Woodland Hills,Gray,0.5
 82010,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,876,160,8767416074,74,74,Orsinium Area,876.578125,-160.421875,55,Woodland Hills,Gray,0.5
 81387,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,876,147,8766714775,67,75,Orsinium Area,876.5234375,-147.4140625,147,Woodland Hills,Gray,0.5
@@ -1321,7 +1321,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82393,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,866,156,8668615606,86,6,Orsinium Area,866.671875,-156.953125,-32,Woodland Hills,Gray,0.5
 81148,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_02,892,158,8923315877,33,77,Orsinium Area,892.2578125,-158.3984375,-138,Woodland Hills,Gray,0.5
 82683,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,893,180,8936218022,62,22,Orsinium Area,893.484375,-180.828125,140,Woodland Hills,Gray,0.5
-82511,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,884,160,88412816077,128,77,Orsinium Area,885,-160.3984375,-19,Woodland Hills,Gray,0.5
+82511,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,884,160,88412816077,128,77,Orsinium Area,885.0,-160.3984375,-19,Woodland Hills,Gray,0.5
 82068,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,895,163,8951516375,15,75,Orsinium Area,895.1171875,-163.4140625,101,Woodland Hills,Gray,0.5
 81266,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_06,853,150,8539015040,90,40,Orsinium Area,853.703125,-150.6875,146,Woodland Hills,Gray,0.5
 82541,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,890,168,89029168118,29,118,Orsinium Area,890.2265625,-168.078125,147,Woodland Hills,Gray,0.5
@@ -1598,7 +1598,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81069,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,883,155,883104155124,104,124,Orsinium Area,883.8125,-155.03125,174,Woodland Hills,Gray,0.5
 81041,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,873,146,8732214676,22,76,Orsinium Area,873.171875,-146.40625,-141,Woodland Hills,Gray,0.5
 82008,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,859,138,85941138118,41,118,Orsinium Area,859.3203125,-138.078125,-147,Mountains,Gray,0.5
-80460,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_08,894,180,89412818065,128,65,Orsinium Area,895,-180.4921875,107,Woodland Hills,Gray,0.5
+80460,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_08,894,180,89412818065,128,65,Orsinium Area,895.0,-180.4921875,107,Woodland Hills,Gray,0.5
 81512,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_06,865,165,86510816523,108,23,Orsinium Area,865.84375,-165.8203125,-26,Woodland Hills,Gray,0.5
 80754,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,902,181,90211518177,115,77,Orsinium Area,902.8984375,-181.3984375,-92,Woodland Hills,Gray,0.5
 81011,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,871,158,87117158108,17,108,Orsinium Area,871.1328125,-158.15625,20,Woodland Hills,Gray,0.5
@@ -1652,7 +1652,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82071,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,883,138,8839213855,92,55,Orsinium Area,883.71875,-138.5703125,-139,Mountains,Gray,0.5
 81161,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,879,156,8794715641,47,41,Orsinium Area,879.3671875,-156.6796875,-55,Woodland Hills,Gray,0.5
 81349,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,886,174,88612017497,120,97,Orsinium Area,886.9375,-174.2421875,-16,Woodland Hills,Gray,0.5
-82116,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,871,144,87110144128,10,128,Orsinium Area,871.078125,-144,-98,Mountains,Gray,0.5
+82116,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,871,144,87110144128,10,128,Orsinium Area,871.078125,-144.0,-98,Mountains,Gray,0.5
 80439,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,901,158,90111415807,114,7,Orsinium Area,901.890625,-158.9453125,170,Woodland Hills,Gray,0.5
 80502,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,887,156,88797156109,97,109,Orsinium Area,887.7578125,-156.1484375,-96,Woodland Hills,Gray,0.5
 80984,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,867,168,867121168123,121,123,Orsinium Area,867.9453125,-168.0390625,159,Woodland Hills,Gray,0.5
@@ -1733,7 +1733,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82698,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,880,175,88030175125,30,125,Orsinium Area,880.234375,-175.0234375,-53,Woodland Hills,Gray,0.5
 82588,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,874,139,8743313986,33,86,Orsinium Area,874.2578125,-139.328125,-86,Mountains,Gray,0.5
 81910,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,878,174,8787717424,77,24,Orsinium Area,878.6015625,-174.8125,18,Woodland Hills,Gray,0.5
-81938,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,882,170,88247170128,47,128,Orsinium Area,882.3671875,-170,126,Woodland Hills,Gray,0.5
+81938,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,882,170,88247170128,47,128,Orsinium Area,882.3671875,-170.0,126,Woodland Hills,Gray,0.5
 82671,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_09,897,155,89712215562,122,62,Orsinium Area,897.953125,-155.515625,-160,Woodland Hills,Gray,0.5
 80505,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,880,166,8803916677,39,77,Orsinium Area,880.3046875,-166.3984375,111,Woodland Hills,Gray,0.5
 80487,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,880,176,88011517606,115,6,Orsinium Area,880.8984375,-176.953125,-5,Woodland Hills,Gray,0.5
@@ -1786,7 +1786,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 81409,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,875,169,8757116951,71,51,Orsinium Area,875.5546875,-169.6015625,92,Woodland Hills,Gray,0.5
 82149,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,893,164,8936016419,60,19,Orsinium Area,893.46875,-164.8515625,100,Woodland Hills,Gray,0.5
 81490,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,885,149,88512114978,121,78,Orsinium Area,885.9453125,-149.390625,54,Woodland Hills,Gray,0.5
-82451,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,880,137,88012813752,128,52,Orsinium Area,881,-137.59375,84,Mountains,Gray,0.5
+82451,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,880,137,88012813752,128,52,Orsinium Area,881.0,-137.59375,84,Mountains,Gray,0.5
 81415,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,859,143,85912414371,124,71,Orsinium Area,859.96875,-143.4453125,114,Mountains,Gray,0.5
 81234,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,901,179,90137179100,37,100,Orsinium Area,901.2890625,-179.21875,-90,Woodland Hills,Gray,0.5
 80641,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,881,172,881118172106,118,106,Orsinium Area,881.921875,-172.171875,17,Woodland Hills,Gray,0.5
@@ -1812,233 +1812,3 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 80997,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,879,156,8790415688,4,88,Orsinium Area,879.03125,-156.3125,115,Woodland Hills,Gray,0.5
 80627,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,861,169,86127169116,27,116,Orsinium Area,861.2109375,-169.09375,84,Woodland Hills,Gray,0.5
 82424,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,888,177,8889617762,96,62,Orsinium Area,888.75,-177.515625,157,Woodland Hills,Gray,0.5
-82790,Rocks,1,WOD_Rocks_Round_LightGray_Medium_06,853,181,85310718157,107,57,Orsinium Area,853.8359375,-181.5546875,-86,Temperate Woodlands,LightGray,0.5
-81358,Rocks,1,WOD_Rocks_Round_LightGray_Medium_09,854,181,8542318179,23,79,Orsinium Area,854.1796875,-181.3828125,-1,Temperate Woodlands,LightGray,0.5
-81863,Rocks,1,WOD_Rocks_Round_LightGray_Medium_04,857,175,85742175112,42,112,Orsinium Area,857.328125,-175.125,173,Temperate Woodlands,LightGray,0.5
-82130,Rocks,1,WOD_Rocks_Round_LightGray_Large_02,873,179,87310017996,100,96,Orsinium Area,873.78125,-179.25,-171,Temperate Woodlands,LightGray,0.5
-81017,Rocks,1,WOD_Rocks_Round_LightGray_Medium_04,853,172,8537817268,78,68,Orsinium Area,853.609375,-172.46875,-93,Temperate Woodlands,LightGray,0.5
-81515,Rocks,1,WOD_Rocks_Round_LightGray_Medium_12,875,180,8756218078,62,78,Orsinium Area,875.484375,-180.390625,-36,Temperate Woodlands,LightGray,0.5
-82691,Rocks,1,WOD_Rocks_Round_LightGray_Large_01,856,169,8561416992,14,92,Orsinium Area,856.109375,-169.28125,52,Temperate Woodlands,LightGray,0.5
-81768,Rocks,1,WOD_Rocks_Round_LightGray_Large_05,851,168,85185168112,85,112,Orsinium Area,851.6640625,-168.125,94,Temperate Woodlands,LightGray,0.5
-82259,Rocks,1,WOD_Rocks_Round_LightGray_Large_09,863,176,86369176127,69,127,Orsinium Area,863.5390625,-176.0078125,-83,Temperate Woodlands,LightGray,0.5
-82070,Rocks,1,WOD_Rocks_Round_LightGray_Medium_02,853,179,8535917918,59,18,Orsinium Area,853.4609375,-179.859375,119,Temperate Woodlands,LightGray,0.5
-81574,Rocks,1,WOD_Rocks_Round_LightGray_Small_03,858,183,8582718370,27,70,Orsinium Area,858.2109375,-183.453125,-140,Temperate Woodlands,LightGray,0.5
-81635,Rocks,1,WOD_Rocks_Round_LightGray_Medium_04,873,179,87383179125,83,125,Orsinium Area,873.6484375,-179.0234375,-56,Temperate Woodlands,LightGray,0.5
-82732,Rocks,1,WOD_Rocks_Round_LightGray_Medium_02,855,171,8559017169,90,69,Orsinium Area,855.703125,-171.4609375,-35,Temperate Woodlands,LightGray,0.5
-82176,Rocks,1,WOD_Rocks_Round_LightGray_Medium_11,872,179,87241179119,41,119,Orsinium Area,872.3203125,-179.0703125,98,Temperate Woodlands,LightGray,0.5
-81339,Rocks,1,WOD_Rocks_Round_LightGray_Large_03,865,180,8654418033,44,33,Orsinium Area,865.34375,-180.7421875,-42,Temperate Woodlands,LightGray,0.5
-80631,Rocks,1,WOD_Rocks_Round_LightGray_Small_03,868,178,86853178109,53,109,Orsinium Area,868.4140625,-178.1484375,-98,Temperate Woodlands,LightGray,0.5
-81098,Rocks,1,WOD_Rocks_Round_LightGray_Medium_05,852,175,8529117532,91,32,Orsinium Area,852.7109375,-175.75,16,Temperate Woodlands,LightGray,0.5
-81429,Rocks,1,WOD_Rocks_Round_LightGray_Small_10,856,182,85611318247,113,47,Orsinium Area,856.8828125,-182.6328125,-36,Temperate Woodlands,LightGray,0.5
-82635,Rocks,1,WOD_Rocks_Round_LightGray_Medium_06,851,175,8516217517,62,17,Orsinium Area,851.484375,-175.8671875,34,Temperate Woodlands,LightGray,0.5
-81344,Rocks,1,WOD_Rocks_Round_LightGray_Small_01,864,180,8649818061,98,61,Orsinium Area,864.765625,-180.5234375,-107,Temperate Woodlands,LightGray,0.5
-81846,Rocks,1,WOD_Rocks_Round_LightGray_Large_05,861,178,8616217803,62,3,Orsinium Area,861.484375,-178.9765625,-126,Temperate Woodlands,LightGray,0.5
-80772,Rocks,1,WOD_Rocks_Round_LightGray_Small_06,873,179,8739517999,95,99,Orsinium Area,873.7421875,-179.2265625,174,Temperate Woodlands,LightGray,0.5
-82640,Rocks,1,WOD_Rocks_Round_LightGray_Medium_12,866,183,86603183117,3,117,Orsinium Area,866.0234375,-183.0859375,-155,Temperate Woodlands,LightGray,0.5
-82157,Rocks,1,WOD_Rocks_Round_LightGray_Large_08,853,182,8537518260,75,60,Orsinium Area,853.5859375,-182.53125,-116,Temperate Woodlands,LightGray,0.5
-80779,Rocks,1,WOD_Rocks_Round_LightGray_Medium_07,861,171,8611417179,14,79,Orsinium Area,861.109375,-171.3828125,153,Temperate Woodlands,LightGray,0.5
-80943,Rocks,1,WOD_Rocks_Round_LightGray_Small_05,857,180,8573618064,36,64,Orsinium Area,857.28125,-180.5,79,Temperate Woodlands,LightGray,0.5
-81115,Rocks,1,WOD_Rocks_Round_LightGray_Small_03,856,182,85612618254,126,54,Orsinium Area,856.984375,-182.578125,83,Temperate Woodlands,LightGray,0.5
-82312,Rocks,1,WOD_Rocks_Round_LightGray_Small_02,850,180,85010518081,105,81,Orsinium Area,850.8203125,-180.3671875,49,Temperate Woodlands,LightGray,0.5
-81430,Rocks,1,WOD_Rocks_Round_LightGray_Medium_01,866,180,8660118052,1,52,Orsinium Area,866.0078125,-180.59375,-28,Temperate Woodlands,LightGray,0.5
-82165,Rocks,1,WOD_Rocks_Round_LightGray_Small_07,855,170,8556417042,64,42,Orsinium Area,855.5,-170.671875,62,Temperate Woodlands,LightGray,0.5
-80838,Rocks,1,WOD_Rocks_Round_LightGray_Large_08,869,183,8691518384,15,84,Orsinium Area,869.1171875,-183.34375,142,Temperate Woodlands,LightGray,0.5
-81260,Rocks,1,WOD_Rocks_Round_LightGray_Medium_12,860,174,8608417403,84,3,Orsinium Area,860.65625,-174.9765625,-36,Temperate Woodlands,LightGray,0.5
-80580,Rocks,1,WOD_Rocks_Round_LightGray_Medium_02,857,172,857125172123,125,123,Orsinium Area,857.9765625,-172.0390625,-69,Temperate Woodlands,LightGray,0.5
-81316,Rocks,1,WOD_Rocks_Round_LightGray_Large_05,871,179,8712117958,21,58,Orsinium Area,871.1640625,-179.546875,127,Temperate Woodlands,LightGray,0.5
-81014,Rocks,1,WOD_Rocks_Round_LightGray_Small_10,870,180,8702318027,23,27,Orsinium Area,870.1796875,-180.7890625,55,Temperate Woodlands,LightGray,0.5
-80807,Rocks,1,WOD_Rocks_Round_LightGray_Medium_12,862,180,86210118025,101,25,Orsinium Area,862.7890625,-180.8046875,-52,Temperate Woodlands,LightGray,0.5
-81348,Rocks,1,WOD_Rocks_Round_LightGray_Small_07,858,178,8582417879,24,79,Orsinium Area,858.1875,-178.3828125,160,Temperate Woodlands,LightGray,0.5
-80950,Rocks,1,WOD_Rocks_Round_LightGray_Medium_04,859,180,8596518042,65,42,Orsinium Area,859.5078125,-180.671875,-61,Temperate Woodlands,LightGray,0.5
-81652,Rocks,1,WOD_Rocks_Round_LightGray_Small_03,858,171,85860171125,60,125,Orsinium Area,858.46875,-171.0234375,38,Temperate Woodlands,LightGray,0.5
-81181,Rocks,1,WOD_Rocks_Round_LightGray_Medium_08,851,178,85186178111,86,111,Orsinium Area,851.671875,-178.1328125,149,Temperate Woodlands,LightGray,0.5
-81397,Rocks,1,WOD_Rocks_Round_LightGray_Small_02,864,177,86402177116,2,116,Orsinium Area,864.015625,-177.09375,-78,Temperate Woodlands,LightGray,0.5
-81159,Rocks,1,WOD_Rocks_Round_LightGray_Large_02,851,176,8516617656,66,56,Orsinium Area,851.515625,-176.5625,-166,Temperate Woodlands,LightGray,0.5
-82473,Rocks,1,WOD_Rocks_Round_LightGray_Medium_02,866,177,86672177118,72,118,Orsinium Area,866.5625,-177.078125,156,Temperate Woodlands,LightGray,0.5
-81081,Rocks,1,WOD_Rocks_Round_LightGray_Large_04,864,177,864106177100,106,100,Orsinium Area,864.828125,-177.21875,-102,Temperate Woodlands,LightGray,0.5
-81763,Rocks,1,WOD_Rocks_Round_LightGray_Medium_11,867,174,86788174112,88,112,Orsinium Area,867.6875,-174.125,-95,Temperate Woodlands,LightGray,0.5
-82474,Rocks,1,WOD_Rocks_Round_LightGray_Medium_03,861,182,86101182107,1,107,Orsinium Area,861.0078125,-182.1640625,-154,Temperate Woodlands,LightGray,0.5
-81053,Rocks,1,WOD_Rocks_Round_LightGray_Large_03,851,179,8510417959,4,59,Orsinium Area,851.03125,-179.5390625,-90,Temperate Woodlands,LightGray,0.5
-80996,Rocks,1,WOD_Rocks_Round_LightGray_Medium_02,857,176,85705176118,5,118,Orsinium Area,857.0390625,-176.078125,-78,Temperate Woodlands,LightGray,0.5
-81342,Rocks,1,WOD_Rocks_Round_LightGray_Large_07,850,171,85034171100,34,100,Orsinium Area,850.265625,-171.21875,-112,Temperate Woodlands,LightGray,0.5
-82052,Rocks,1,WOD_Rocks_Round_LightGray_Medium_10,853,171,8531917136,19,36,Orsinium Area,853.1484375,-171.71875,-172,Temperate Woodlands,LightGray,0.5
-81893,Rocks,1,WOD_Rocks_Round_LightGray_Medium_09,854,182,85473182104,73,104,Orsinium Area,854.5703125,-182.1875,-26,Temperate Woodlands,LightGray,0.5
-81668,Rocks,1,WOD_Rocks_Round_LightGray_Large_01,860,181,8606518150,65,50,Orsinium Area,860.5078125,-181.609375,52,Temperate Woodlands,LightGray,0.5
-82528,Rocks,1,WOD_Rocks_Round_LightGray_Medium_01,865,183,86510618371,106,71,Orsinium Area,865.828125,-183.4453125,1,Temperate Woodlands,LightGray,0.5
-82278,Rocks,1,WOD_Rocks_Round_LightGray_Medium_10,852,168,8523816843,38,43,Orsinium Area,852.296875,-168.6640625,-164,Temperate Woodlands,LightGray,0.5
-81985,Rocks,1,WOD_Rocks_Round_LightGray_Small_04,867,181,8677518139,75,39,Orsinium Area,867.5859375,-181.6953125,79,Temperate Woodlands,LightGray,0.5
-81494,Rocks,1,WOD_Rocks_Round_LightGray_Large_05,869,176,8693417622,34,22,Orsinium Area,869.265625,-176.828125,144,Temperate Woodlands,LightGray,0.5
-82094,Rocks,1,WOD_Rocks_Round_LightGray_Small_10,867,177,86710017746,100,46,Orsinium Area,867.78125,-177.640625,13,Temperate Woodlands,LightGray,0.5
-82454,Rocks,1,WOD_Rocks_Round_LightGray_Medium_11,864,179,8646417997,64,97,Orsinium Area,864.5,-179.2421875,73,Temperate Woodlands,LightGray,0.5
-81829,Rocks,1,WOD_Rocks_Round_LightGray_Small_04,873,178,8737117857,71,57,Orsinium Area,873.5546875,-178.5546875,2,Temperate Woodlands,LightGray,0.5
-82763,Rocks,1,WOD_Rocks_Round_LightGray_Medium_07,854,174,8547817419,78,19,Orsinium Area,854.609375,-174.8515625,102,Temperate Woodlands,LightGray,0.5
-81295,Rocks,1,WOD_Rocks_Round_LightGray_Large_09,861,175,8612017579,20,79,Orsinium Area,861.15625,-175.3828125,81,Temperate Woodlands,LightGray,0.5
-80844,Rocks,1,WOD_Rocks_Round_LightGray_Small_06,851,179,85110017969,100,69,Orsinium Area,851.78125,-179.4609375,-65,Temperate Woodlands,LightGray,0.5
-81667,Rocks,1,WOD_Rocks_Round_LightGray_Medium_11,866,174,8662017423,20,23,Orsinium Area,866.15625,-174.8203125,106,Temperate Woodlands,LightGray,0.5
-81333,Rocks,1,WOD_Rocks_Round_LightGray_Medium_07,860,178,8601917816,19,16,Orsinium Area,860.1484375,-178.875,129,Temperate Woodlands,LightGray,0.5
-80995,Rocks,1,WOD_Rocks_Round_LightGray_Medium_01,854,182,8544318243,43,43,Orsinium Area,854.3359375,-182.6640625,133,Temperate Woodlands,LightGray,0.5
-82081,Rocks,1,WOD_Rocks_Round_LightGray_Large_02,862,180,862124180119,124,119,Orsinium Area,862.96875,-180.0703125,110,Temperate Woodlands,LightGray,0.5
-82611,Rocks,1,WOD_Rocks_Round_LightGray_Medium_11,865,176,8659917633,99,33,Orsinium Area,865.7734375,-176.7421875,134,Temperate Woodlands,LightGray,0.5
-81555,Rocks,1,WOD_Rocks_Round_LightGray_Medium_01,861,174,86111217413,112,13,Orsinium Area,861.875,-174.8984375,39,Temperate Woodlands,LightGray,0.5
-81900,Rocks,1,WOD_Rocks_Round_LightGray_Large_05,869,182,8698118266,81,66,Orsinium Area,869.6328125,-182.484375,-170,Temperate Woodlands,LightGray,0.5
-82163,Rocks,1,WOD_Rocks_Round_LightGray_Small_05,851,169,85112416920,124,20,Orsinium Area,851.96875,-169.84375,-118,Temperate Woodlands,LightGray,0.5
-82654,Rocks,1,WOD_Rocks_Round_LightGray_Medium_01,869,175,86984175116,84,116,Orsinium Area,869.65625,-175.09375,3,Temperate Woodlands,LightGray,0.5
-81072,Rocks,1,WOD_Rocks_Round_LightGray_Medium_03,851,179,851117179105,117,105,Orsinium Area,851.9140625,-179.1796875,-17,Temperate Woodlands,LightGray,0.5
-82655,Rocks,1,WOD_Rocks_Round_LightGray_Medium_02,867,182,8675218283,52,83,Orsinium Area,867.40625,-182.3515625,-129,Temperate Woodlands,LightGray,0.5
-81739,Rocks,1,WOD_Rocks_Round_LightGray_Medium_12,860,174,86031174113,31,113,Orsinium Area,860.2421875,-174.1171875,12,Temperate Woodlands,LightGray,0.5
-82525,Rocks,1,WOD_Rocks_Round_LightGray_Small_07,866,177,86650177118,50,118,Orsinium Area,866.390625,-177.078125,-74,Temperate Woodlands,LightGray,0.5
-81273,Rocks,1,WOD_Rocks_Round_LightGray_Small_05,867,178,86768178122,68,122,Orsinium Area,867.53125,-178.046875,-14,Temperate Woodlands,LightGray,0.5
-82542,Rocks,1,WOD_Rocks_Round_LightGray_Large_05,865,179,86511817923,118,23,Orsinium Area,865.921875,-179.8203125,-37,Temperate Woodlands,LightGray,0.5
-82035,Rocks,1,WOD_Rocks_Round_LightGray_Small_02,851,174,8514417440,44,40,Orsinium Area,851.34375,-174.6875,-3,Temperate Woodlands,LightGray,0.5
-80809,Rocks,1,WOD_Rocks_Round_LightGray_Large_02,865,181,8651518189,15,89,Orsinium Area,865.1171875,-181.3046875,13,Temperate Woodlands,LightGray,0.5
-82245,Rocks,1,WOD_Rocks_Round_LightGray_Small_09,858,170,8588117020,81,20,Orsinium Area,858.6328125,-170.84375,137,Temperate Woodlands,LightGray,0.5
-82076,Rocks,1,WOD_Rocks_Round_LightGray_Medium_09,852,174,85212317472,123,72,Orsinium Area,852.9609375,-174.4375,-59,Temperate Woodlands,LightGray,0.5
-80574,Rocks,1,WOD_Rocks_Round_LightGray_Small_01,860,179,8600617996,6,96,Orsinium Area,860.046875,-179.25,-126,Temperate Woodlands,LightGray,0.5
-81277,Rocks,1,WOD_Rocks_Round_LightGray_Small_09,863,175,8638517556,85,56,Orsinium Area,863.6640625,-175.5625,-101,Temperate Woodlands,LightGray,0.5
-81394,Rocks,1,WOD_Rocks_Round_LightGray_Large_06,863,179,86351179104,51,104,Orsinium Area,863.3984375,-179.1875,89,Temperate Woodlands,LightGray,0.5
-80919,Rocks,1,WOD_Rocks_Round_LightGray_Small_04,851,177,85127177123,27,123,Orsinium Area,851.2109375,-177.0390625,-101,Temperate Woodlands,LightGray,0.5
-81562,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_08,852,179,8522917915,29,15,Orsinium Area,852.2265625,-179.8828125,-38,Temperate Woodlands,LightGray,0.5
-81355,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,858,173,8584317375,43,75,Orsinium Area,858.3359375,-173.4140625,-114,Temperate Woodlands,LightGray,0.5
-82789,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_04,867,180,8676118034,61,34,Orsinium Area,867.4765625,-180.734375,-151,Temperate Woodlands,LightGray,0.5
-80658,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_03,857,172,85774172101,74,101,Orsinium Area,857.578125,-172.2109375,177,Temperate Woodlands,LightGray,0.5
-82566,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,861,180,8615118097,51,97,Orsinium Area,861.3984375,-180.2421875,70,Temperate Woodlands,LightGray,0.5
-80618,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_01,856,173,85643173125,43,125,Orsinium Area,856.3359375,-173.0234375,2,Temperate Woodlands,LightGray,0.5
-80828,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_09,859,183,8593018376,30,76,Orsinium Area,859.234375,-183.40625,115,Temperate Woodlands,LightGray,0.5
-81292,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_05,851,170,85180170128,80,128,Orsinium Area,851.625,-170,-147,Temperate Woodlands,LightGray,0.5
-81502,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_04,852,176,85212417602,124,2,Orsinium Area,852.96875,-176.984375,151,Temperate Woodlands,LightGray,0.5
-80880,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_08,868,181,86863181111,63,111,Orsinium Area,868.4921875,-181.1328125,173,Temperate Woodlands,LightGray,0.5
-82292,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_07,860,178,86011017855,110,55,Orsinium Area,860.859375,-178.5703125,169,Temperate Woodlands,LightGray,0.5
-80963,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,855,179,85594179102,94,102,Orsinium Area,855.734375,-179.203125,12,Temperate Woodlands,LightGray,0.5
-82458,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_05,858,173,8583217399,32,99,Orsinium Area,858.25,-173.2265625,-114,Temperate Woodlands,LightGray,0.5
-81525,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_04,855,176,8555017689,50,89,Orsinium Area,855.390625,-176.3046875,116,Temperate Woodlands,LightGray,0.5
-81953,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_03,850,172,8505717248,57,48,Orsinium Area,850.4453125,-172.625,-156,Temperate Woodlands,LightGray,0.5
-82084,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_05,865,181,86557181123,57,123,Orsinium Area,865.4453125,-181.0390625,115,Temperate Woodlands,LightGray,0.5
-80854,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_10,866,173,8666617347,66,47,Orsinium Area,866.515625,-173.6328125,20,Temperate Woodlands,LightGray,0.5
-81143,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,851,178,85104178106,4,106,Orsinium Area,851.03125,-178.171875,-20,Temperate Woodlands,LightGray,0.5
-80654,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,860,179,86011617927,116,27,Orsinium Area,860.90625,-179.7890625,172,Temperate Woodlands,LightGray,0.5
-81268,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,864,180,8648418048,84,48,Orsinium Area,864.65625,-180.625,69,Temperate Woodlands,LightGray,0.5
-82773,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,864,179,8644917902,49,2,Orsinium Area,864.3828125,-179.984375,44,Temperate Woodlands,LightGray,0.5
-82439,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,867,173,86710717306,107,6,Orsinium Area,867.8359375,-173.953125,6,Temperate Woodlands,LightGray,0.5
-80877,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_03,866,179,866107179120,107,120,Orsinium Area,866.8359375,-179.0625,19,Temperate Woodlands,LightGray,0.5
-80634,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_01,867,179,86745179122,45,122,Orsinium Area,867.3515625,-179.046875,-87,Temperate Woodlands,LightGray,0.5
-81407,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_03,851,180,8512418085,24,85,Orsinium Area,851.1875,-180.3359375,67,Temperate Woodlands,LightGray,0.5
-82074,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_07,850,170,85087170128,87,128,Orsinium Area,850.6796875,-170,164,Temperate Woodlands,LightGray,0.5
-80871,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_06,863,175,8635817574,58,74,Orsinium Area,863.453125,-175.421875,-95,Temperate Woodlands,LightGray,0.5
-82011,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,864,177,86487177102,87,102,Orsinium Area,864.6796875,-177.203125,-119,Temperate Woodlands,LightGray,0.5
-82288,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,863,175,8633017574,30,74,Orsinium Area,863.234375,-175.421875,-49,Temperate Woodlands,LightGray,0.5
-81105,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_01,854,180,8547318060,73,60,Orsinium Area,854.5703125,-180.53125,69,Temperate Woodlands,LightGray,0.5
-81164,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,852,177,8528817715,88,15,Orsinium Area,852.6875,-177.8828125,-36,Temperate Woodlands,LightGray,0.5
-81689,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_11,863,174,8635317410,53,10,Orsinium Area,863.4140625,-174.921875,-75,Temperate Woodlands,LightGray,0.5
-82622,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,852,182,852123182108,123,108,Orsinium Area,852.9609375,-182.15625,148,Temperate Woodlands,LightGray,0.5
-81518,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,852,178,85272178118,72,118,Orsinium Area,852.5625,-178.078125,-96,Temperate Woodlands,LightGray,0.5
-81370,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,859,183,85964183124,64,124,Orsinium Area,859.5,-183.03125,-53,Temperate Woodlands,LightGray,0.5
-81476,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,864,174,8648917453,89,53,Orsinium Area,864.6953125,-174.5859375,-167,Temperate Woodlands,LightGray,0.5
-82489,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,864,177,86410717780,107,80,Orsinium Area,864.8359375,-177.375,57,Temperate Woodlands,LightGray,0.5
-81125,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,858,173,8581017339,10,39,Orsinium Area,858.078125,-173.6953125,-107,Temperate Woodlands,LightGray,0.5
-80575,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,865,182,86538182113,38,113,Orsinium Area,865.296875,-182.1171875,-180,Temperate Woodlands,LightGray,0.5
-82060,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,858,181,8584318193,43,93,Orsinium Area,858.3359375,-181.2734375,-77,Temperate Woodlands,LightGray,0.5
-82492,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,852,180,8527718056,77,56,Orsinium Area,852.6015625,-180.5625,34,Temperate Woodlands,LightGray,0.5
-81924,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_02,852,170,8520917005,9,5,Orsinium Area,852.0703125,-170.9609375,-72,Temperate Woodlands,LightGray,0.5
-82513,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_04,852,169,85211716988,117,88,Orsinium Area,852.9140625,-169.3125,167,Temperate Woodlands,LightGray,0.5
-81651,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,850,177,850126177123,126,123,Orsinium Area,850.984375,-177.0390625,148,Temperate Woodlands,LightGray,0.5
-81694,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_04,869,175,8699717558,97,58,Orsinium Area,869.7578125,-175.546875,41,Temperate Woodlands,LightGray,0.5
-81411,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_07,860,175,86010017594,100,94,Orsinium Area,860.78125,-175.265625,110,Temperate Woodlands,LightGray,0.5
-80888,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,867,175,867103175109,103,109,Orsinium Area,867.8046875,-175.1484375,-40,Temperate Woodlands,LightGray,0.5
-81445,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_04,854,174,85411717488,117,88,Orsinium Area,854.9140625,-174.3125,-18,Temperate Woodlands,LightGray,0.5
-81536,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,867,173,8677317313,73,13,Orsinium Area,867.5703125,-173.8984375,0,Temperate Woodlands,LightGray,0.5
-82337,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,873,180,87311718086,117,86,Orsinium Area,873.9140625,-180.328125,-62,Temperate Woodlands,LightGray,0.5
-81796,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_07,851,167,8513116770,31,70,Orsinium Area,851.2421875,-167.453125,-41,Temperate Woodlands,LightGray,0.5
-81160,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_03,850,168,85012716827,127,27,Orsinium Area,850.9921875,-168.7890625,118,Temperate Woodlands,LightGray,0.5
-80999,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_06,866,176,86612117680,121,80,Orsinium Area,866.9453125,-176.375,-136,Temperate Woodlands,LightGray,0.5
-81874,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,850,170,8509317020,93,20,Orsinium Area,850.7265625,-170.84375,82,Temperate Woodlands,LightGray,0.5
-81054,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_04,855,179,8554517983,45,83,Orsinium Area,855.3515625,-179.3515625,11,Temperate Woodlands,LightGray,0.5
-82403,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_12,866,180,86612118004,121,4,Orsinium Area,866.9453125,-180.96875,10,Temperate Woodlands,LightGray,0.5
-80928,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_07,864,172,8645917282,59,82,Orsinium Area,864.4609375,-172.359375,-153,Temperate Woodlands,LightGray,0.5
-81309,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_10,870,180,8701118004,11,4,Orsinium Area,870.0859375,-180.96875,111,Temperate Woodlands,LightGray,0.5
-82366,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_07,860,173,8600717321,7,21,Orsinium Area,860.0546875,-173.8359375,160,Temperate Woodlands,LightGray,0.5
-81692,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_02,854,178,8545617808,56,8,Orsinium Area,854.4375,-178.9375,58,Temperate Woodlands,LightGray,0.5
-82054,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_12,860,177,8604317752,43,52,Orsinium Area,860.3359375,-177.59375,-115,Temperate Woodlands,LightGray,0.5
-81154,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_09,857,174,85783174111,83,111,Orsinium Area,857.6484375,-174.1328125,131,Temperate Woodlands,LightGray,0.5
-82444,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_10,872,180,8721318006,13,6,Orsinium Area,872.1015625,-180.953125,-83,Temperate Woodlands,LightGray,0.5
-80490,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,858,178,85811717893,117,93,Orsinium Area,858.9140625,-178.2734375,-112,Temperate Woodlands,LightGray,0.5
-82309,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,857,171,85793171101,93,101,Orsinium Area,857.7265625,-171.2109375,-33,Temperate Woodlands,LightGray,0.5
-80671,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,852,172,8521917225,19,25,Orsinium Area,852.1484375,-172.8046875,62,Temperate Woodlands,LightGray,0.5
-80523,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_01,855,172,8555317206,53,6,Orsinium Area,855.4140625,-172.953125,-54,Temperate Woodlands,LightGray,0.5
-81034,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,864,181,8647318102,73,2,Orsinium Area,864.5703125,-181.984375,58,Temperate Woodlands,LightGray,0.5
-81514,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_10,872,182,87261182103,61,103,Orsinium Area,872.4765625,-182.1953125,168,Temperate Woodlands,LightGray,0.5
-82285,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,852,177,8521917794,19,94,Orsinium Area,852.1484375,-177.265625,139,Temperate Woodlands,LightGray,0.5
-81864,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,867,174,8671817491,18,91,Orsinium Area,867.140625,-174.2890625,-174,Temperate Woodlands,LightGray,0.5
-80497,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_10,861,180,8616418065,64,65,Orsinium Area,861.5,-180.4921875,156,Temperate Woodlands,LightGray,0.5
-81140,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,856,173,8568217307,82,7,Orsinium Area,856.640625,-173.9453125,90,Temperate Woodlands,LightGray,0.5
-82727,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_07,875,181,875105181126,105,126,Orsinium Area,875.8203125,-181.015625,-140,Temperate Woodlands,LightGray,0.5
-81526,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,857,176,85711517686,115,86,Orsinium Area,857.8984375,-176.328125,-48,Temperate Woodlands,LightGray,0.5
-81775,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,860,183,8603018374,30,74,Orsinium Area,860.234375,-183.421875,13,Temperate Woodlands,LightGray,0.5
-81120,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_10,850,179,8505517981,55,81,Orsinium Area,850.4296875,-179.3671875,-162,Temperate Woodlands,LightGray,0.5
-81876,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_09,859,177,8598017774,80,74,Orsinium Area,859.625,-177.421875,28,Temperate Woodlands,LightGray,0.5
-82234,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,851,180,8517918061,79,61,Orsinium Area,851.6171875,-180.5234375,-147,Temperate Woodlands,LightGray,0.5
-81996,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_06,855,181,85511918149,119,49,Orsinium Area,855.9296875,-181.6171875,-67,Temperate Woodlands,LightGray,0.5
-81762,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_09,867,183,8671218382,12,82,Orsinium Area,867.09375,-183.359375,-27,Temperate Woodlands,LightGray,0.5
-82678,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_09,859,179,8593617949,36,49,Orsinium Area,859.28125,-179.6171875,-167,Temperate Woodlands,LightGray,0.5
-80835,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_04,864,180,8647018023,70,23,Orsinium Area,864.546875,-180.8203125,41,Temperate Woodlands,LightGray,0.5
-81895,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_11,867,177,8674317748,43,48,Orsinium Area,867.3359375,-177.625,-82,Temperate Woodlands,LightGray,0.5
-81616,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_01,857,177,85712217777,122,77,Orsinium Area,857.953125,-177.3984375,155,Temperate Woodlands,LightGray,0.5
-81541,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_01,869,183,8699018378,90,78,Orsinium Area,869.703125,-183.390625,-115,Temperate Woodlands,LightGray,0.5
-82630,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_01,856,182,85674182113,74,113,Orsinium Area,856.578125,-182.1171875,-162,Temperate Woodlands,LightGray,0.5
-80666,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,853,173,85328173105,28,105,Orsinium Area,853.21875,-173.1796875,-79,Temperate Woodlands,LightGray,0.5
-81465,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_10,851,178,8514117896,41,96,Orsinium Area,851.3203125,-178.25,104,Temperate Woodlands,LightGray,0.5
-82286,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_09,853,181,8536718151,67,51,Orsinium Area,853.5234375,-181.6015625,-38,Temperate Woodlands,LightGray,0.5
-82198,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,851,178,85177178117,77,117,Orsinium Area,851.6015625,-178.0859375,159,Temperate Woodlands,LightGray,0.5
-80491,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,859,171,85911317186,113,86,Orsinium Area,859.8828125,-171.328125,166,Temperate Woodlands,LightGray,0.5
-81711,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_06,864,173,8642017353,20,53,Orsinium Area,864.15625,-173.5859375,-93,Temperate Woodlands,LightGray,0.5
-82574,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_08,851,172,8519717287,97,87,Orsinium Area,851.7578125,-172.3203125,-94,Temperate Woodlands,LightGray,0.5
-81826,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,864,172,8648017221,80,21,Orsinium Area,864.625,-172.8359375,-152,Temperate Woodlands,LightGray,0.5
-81088,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,861,178,8615417861,54,61,Orsinium Area,861.421875,-178.5234375,-159,Temperate Woodlands,LightGray,0.5
-80724,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,854,173,85430173126,30,126,Orsinium Area,854.234375,-173.015625,-73,Temperate Woodlands,LightGray,0.5
-80885,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_02,863,177,8636017782,60,82,Orsinium Area,863.46875,-177.359375,59,Temperate Woodlands,LightGray,0.5
-81950,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_12,858,179,8583617934,36,34,Orsinium Area,858.28125,-179.734375,53,Temperate Woodlands,LightGray,0.5
-81560,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_06,859,180,8590318022,3,22,Orsinium Area,859.0234375,-180.828125,110,Temperate Woodlands,LightGray,0.5
-82024,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_09,863,179,8632717914,27,14,Orsinium Area,863.2109375,-179.890625,-137,Temperate Woodlands,LightGray,0.5
-81771,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,851,169,8517716988,77,88,Orsinium Area,851.6015625,-169.3125,-6,Temperate Woodlands,LightGray,0.5
-81703,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_08,862,182,8628618258,86,58,Orsinium Area,862.671875,-182.546875,103,Temperate Woodlands,LightGray,0.5
-81311,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_12,866,178,86610717854,107,54,Orsinium Area,866.8359375,-178.578125,-128,Temperate Woodlands,LightGray,0.5
-82700,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,864,181,8645118184,51,84,Orsinium Area,864.3984375,-181.34375,-38,Temperate Woodlands,LightGray,0.5
-81403,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_08,873,181,8737418178,74,78,Orsinium Area,873.578125,-181.390625,157,Temperate Woodlands,LightGray,0.5
-82603,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_10,859,177,8599417768,94,68,Orsinium Area,859.734375,-177.46875,45,Temperate Woodlands,LightGray,0.5
-81958,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,858,178,8580117887,1,87,Orsinium Area,858.0078125,-178.3203125,-44,Temperate Woodlands,LightGray,0.5
-81220,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,872,182,87210518243,105,43,Orsinium Area,872.8203125,-182.6640625,88,Temperate Woodlands,LightGray,0.5
-82741,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_02,853,181,85313181119,13,119,Orsinium Area,853.1015625,-181.0703125,111,Temperate Woodlands,LightGray,0.5
-82058,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,869,181,8698418106,84,6,Orsinium Area,869.65625,-181.953125,161,Temperate Woodlands,LightGray,0.5
-81802,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,856,174,8567917497,79,97,Orsinium Area,856.6171875,-174.2421875,-75,Temperate Woodlands,LightGray,0.5
-82241,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,862,176,86273176102,73,102,Orsinium Area,862.5703125,-176.203125,-159,Temperate Woodlands,LightGray,0.5
-81464,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_09,858,170,8586517072,65,72,Orsinium Area,858.5078125,-170.4375,-74,Temperate Woodlands,LightGray,0.5
-81241,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_09,853,171,8539717157,97,57,Orsinium Area,853.7578125,-171.5546875,149,Temperate Woodlands,LightGray,0.5
-82168,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_02,854,176,85468176104,68,104,Orsinium Area,854.53125,-176.1875,21,Temperate Woodlands,LightGray,0.5
-80473,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_07,854,173,85424173126,24,126,Orsinium Area,854.1875,-173.015625,-138,Temperate Woodlands,LightGray,0.5
-82555,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_02,850,174,85010917476,109,76,Orsinium Area,850.8515625,-174.40625,47,Temperate Woodlands,LightGray,0.5
-81356,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_06,853,177,853128177121,128,121,Orsinium Area,854,-177.0546875,-106,Temperate Woodlands,LightGray,0.5
-81669,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_02,863,181,86312418198,124,98,Orsinium Area,863.96875,-181.234375,-79,Temperate Woodlands,LightGray,0.5
-81037,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,859,180,8594018087,40,87,Orsinium Area,859.3125,-180.3203125,107,Temperate Woodlands,LightGray,0.5
-81721,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_08,853,177,8531617756,16,56,Orsinium Area,853.125,-177.5625,-68,Temperate Woodlands,LightGray,0.5
-82334,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_07,856,174,85611617409,116,9,Orsinium Area,856.90625,-174.9296875,-119,Temperate Woodlands,LightGray,0.5
-81147,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_01,861,171,8617717108,77,8,Orsinium Area,861.6015625,-171.9375,116,Temperate Woodlands,LightGray,0.5
-82004,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_06,873,178,87319178125,19,125,Orsinium Area,873.1484375,-178.0234375,-159,Temperate Woodlands,LightGray,0.5
-81815,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_08,855,170,85512017049,120,49,Orsinium Area,855.9375,-170.6171875,-177,Temperate Woodlands,LightGray,0.5
-81764,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_01,865,173,8658617305,86,5,Orsinium Area,865.671875,-173.9609375,-36,Temperate Woodlands,LightGray,0.5
-82658,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,872,180,87268180116,68,116,Orsinium Area,872.53125,-180.09375,-103,Temperate Woodlands,LightGray,0.5
-82164,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_06,852,176,8527417677,74,77,Orsinium Area,852.578125,-176.3984375,159,Temperate Woodlands,LightGray,0.5
-81751,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,859,182,8591518233,15,33,Orsinium Area,859.1171875,-182.7421875,22,Temperate Woodlands,LightGray,0.5
-80988,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,851,176,85112617643,126,43,Orsinium Area,851.984375,-176.6640625,20,Temperate Woodlands,LightGray,0.5
-81524,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,865,177,86511817725,118,25,Orsinium Area,865.921875,-177.8046875,-58,Temperate Woodlands,LightGray,0.5
-82646,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,873,179,8733417971,34,71,Orsinium Area,873.265625,-179.4453125,28,Temperate Woodlands,LightGray,0.5
-82339,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_05,861,180,86111818011,118,11,Orsinium Area,861.921875,-180.9140625,-156,Temperate Woodlands,LightGray,0.5
-81074,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_06,861,180,8619018058,90,58,Orsinium Area,861.703125,-180.546875,5,Temperate Woodlands,LightGray,0.5
-81405,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_10,860,174,86037174113,37,113,Orsinium Area,860.2890625,-174.1171875,10,Temperate Woodlands,LightGray,0.5
-82735,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_05,869,178,8695617882,56,82,Orsinium Area,869.4375,-178.359375,69,Temperate Woodlands,LightGray,0.5
-81680,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_09,858,174,85811117435,111,35,Orsinium Area,858.8671875,-174.7265625,90,Temperate Woodlands,LightGray,0.5
-81166,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,864,180,8649118018,91,18,Orsinium Area,864.7109375,-180.859375,-101,Temperate Woodlands,LightGray,0.5
-80662,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_01,858,178,858102178102,102,102,Orsinium Area,858.796875,-178.203125,46,Temperate Woodlands,LightGray,0.5
-81599,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_02,857,176,8578517657,85,57,Orsinium Area,857.6640625,-176.5546875,-29,Temperate Woodlands,LightGray,0.5
-80891,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Large_09,867,173,8674717325,47,25,Orsinium Area,867.3671875,-173.8046875,-92,Temperate Woodlands,LightGray,0.5
-80687,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_10,867,179,8673117999,31,99,Orsinium Area,867.2421875,-179.2265625,-132,Temperate Woodlands,LightGray,0.5
-81437,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Medium_08,857,171,8570417122,4,22,Orsinium Area,857.03125,-171.828125,-106,Temperate Woodlands,LightGray,0.5
-82778,Rocks,1,WOD_Rocks_Round_LightGray_Grass_Small_03,864,179,8648617984,86,84,Orsinium Area,864.671875,-179.34375,-49,Temperate Woodlands,LightGray,0.5

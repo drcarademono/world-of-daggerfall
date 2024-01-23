@@ -16,7 +16,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77377,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_04,874,467,87412546702,125,2,Ephesus,874.9765625,-467.984375,144,Mountains,Gray,0.5
 79061,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_03,880,461,88085461125,85,125,Ephesus,880.6640625,-461.0234375,-160,Mountains,Gray,0.5
 77737,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_08,911,436,9114843602,48,2,Ephesus,911.375,-436.984375,-145,Mountains,Gray,0.5
-77897,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_09,920,449,92092449128,92,128,Ephesus,920.71875,-449,-103,Mountains,Gray,0.5
+77897,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_09,920,449,92092449128,92,128,Ephesus,920.71875,-449.0,-103,Mountains,Gray,0.5
 79454,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_02,824,437,8240443740,4,40,Ephesus,824.03125,-437.6875,160,Mountains,Gray,0.5
 77236,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,863,463,86350463120,50,120,Ephesus,863.390625,-463.0625,-29,Mountains,Gray,0.5
 76445,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_11,910,434,91010143417,101,17,Ephesus,910.7890625,-434.8671875,-172,Mountains,Gray,0.5
@@ -36,7 +36,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79438,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_05,887,452,8874245250,42,50,Ephesus,887.328125,-452.609375,-103,Mountains,Gray,0.5
 78629,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_05,828,439,828100439115,100,115,Ephesus,828.78125,-439.1015625,-50,Mountains,Gray,0.5
 78250,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_10,888,462,8886546206,65,6,Ephesus,888.5078125,-462.953125,71,Mountains,Gray,0.5
-77627,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_03,901,457,90112845701,128,1,Ephesus,902,-457.9921875,-70,Mountains,Gray,0.5
+77627,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_03,901,457,90112845701,128,1,Ephesus,902.0,-457.9921875,-70,Mountains,Gray,0.5
 78256,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_06,918,431,918126431108,126,108,Ephesus,918.984375,-431.15625,-91,Mountains,Gray,0.5
 77818,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_05,833,427,83311042748,110,48,Ephesus,833.859375,-427.625,-92,Mountains,Gray,0.5
 77369,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_03,903,444,90351444112,51,112,Ephesus,903.3984375,-444.125,97,Mountains,Gray,0.5
@@ -119,7 +119,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78505,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,847,469,847117469110,117,110,Ephesus,847.9140625,-469.140625,-91,Mountains,Gray,0.5
 78742,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_10,834,468,83412046819,120,19,Ephesus,834.9375,-468.8515625,117,Mountains,Gray,0.5
 79418,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,834,463,83411146343,111,43,Ephesus,834.8671875,-463.6640625,-99,Mountains,Gray,0.5
-76349,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,895,426,89533426128,33,128,Ephesus,895.2578125,-426,-160,Mountains,Gray,0.5
+76349,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,895,426,89533426128,33,128,Ephesus,895.2578125,-426.0,-160,Mountains,Gray,0.5
 77103,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,869,469,8696046924,60,24,Ephesus,869.46875,-469.8125,153,Mountains,Gray,0.5
 76257,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,817,454,81710645412,106,12,Ephesus,817.828125,-454.90625,-99,Mountains,Gray,0.5
 78776,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,901,440,9014644039,46,39,Ephesus,901.359375,-440.6953125,68,Mountains,Gray,0.5
@@ -137,7 +137,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76469,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_06,852,430,8522743069,27,69,Ephesus,852.2109375,-430.4609375,-73,Mountains,Gray,0.5
 77304,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,882,423,88210142358,101,58,Ephesus,882.7890625,-423.546875,-44,Mountains,Gray,0.5
 76944,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_02,850,444,85011944411,119,11,Ephesus,850.9296875,-444.9140625,18,Mountains,Gray,0.5
-77056,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,901,433,90126433128,26,128,Ephesus,901.203125,-433,-59,Mountains,Gray,0.5
+77056,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,901,433,90126433128,26,128,Ephesus,901.203125,-433.0,-59,Mountains,Gray,0.5
 77614,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_07,823,451,8237345121,73,21,Ephesus,823.5703125,-451.8359375,156,Mountains,Gray,0.5
 79180,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,833,432,8339743287,97,87,Ephesus,833.7578125,-432.3203125,91,Mountains,Gray,0.5
 78183,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_06,925,437,9252143767,21,67,Ephesus,925.1640625,-437.4765625,166,Mountains,Gray,0.5
@@ -301,7 +301,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78984,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,823,438,8232243806,22,6,Ephesus,823.171875,-438.953125,14,Mountains,Gray,0.5
 77861,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,881,441,88110544197,105,97,Ephesus,881.8203125,-441.2421875,-76,Mountains,Gray,0.5
 78551,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,909,454,9092045498,20,98,Ephesus,909.15625,-454.234375,-5,Mountains,Gray,0.5
-75955,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_01,896,468,89612846819,128,19,Ephesus,897,-468.8515625,-2,Mountains,Gray,0.5
+75955,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_01,896,468,89612846819,128,19,Ephesus,897.0,-468.8515625,-2,Mountains,Gray,0.5
 76293,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_12,815,450,81512545091,125,91,Ephesus,815.9765625,-450.2890625,131,Mountains,Gray,0.5
 79242,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_05,834,436,8349143689,91,89,Ephesus,834.7109375,-436.3046875,-68,Mountains,Gray,0.5
 76174,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_02,855,435,8550843570,8,70,Ephesus,855.0625,-435.453125,177,Mountains,Gray,0.5
@@ -356,7 +356,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77876,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,887,425,8876142537,61,37,Ephesus,887.4765625,-425.7109375,148,Mountains,Gray,0.5
 78097,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,903,446,9031944681,19,81,Ephesus,903.1484375,-446.3671875,-27,Mountains,Gray,0.5
 77756,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_03,880,434,880119434103,119,103,Ephesus,880.9296875,-434.1953125,-145,Mountains,Gray,0.5
-78546,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,876,431,87612843168,128,68,Ephesus,877,-431.46875,-47,Mountains,Gray,0.5
+78546,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,876,431,87612843168,128,68,Ephesus,877.0,-431.46875,-47,Mountains,Gray,0.5
 77450,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,872,469,8727346986,73,86,Ephesus,872.5703125,-469.328125,-19,Mountains,Gray,0.5
 78421,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,924,438,92410143869,101,69,Ephesus,924.7890625,-438.4609375,9,Mountains,Gray,0.5
 78458,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,921,449,9214444932,44,32,Ephesus,921.34375,-449.75,53,Mountains,Gray,0.5
@@ -444,7 +444,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79189,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,820,462,8208546235,85,35,Ephesus,820.6640625,-462.7265625,-63,Mountains,Gray,0.5
 78284,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,874,466,87411846625,118,25,Ephesus,874.921875,-466.8046875,-33,Mountains,Gray,0.5
 77957,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,875,468,87511046803,110,3,Ephesus,875.859375,-468.9765625,-55,Mountains,Gray,0.5
-76518,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,849,462,84912846274,128,74,Ephesus,850,-462.421875,-104,Mountains,Gray,0.5
+76518,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,849,462,84912846274,128,74,Ephesus,850.0,-462.421875,-104,Mountains,Gray,0.5
 76935,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_11,811,444,8113344458,33,58,Ephesus,811.2578125,-444.546875,-30,Mountains,Gray,0.5
 79339,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,825,455,8252145545,21,45,Ephesus,825.1640625,-455.6484375,75,Mountains,Gray,0.5
 76386,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,897,467,89770467115,70,115,Ephesus,897.546875,-467.1015625,-69,Mountains,Gray,0.5
@@ -488,7 +488,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76830,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,911,460,9118346042,83,42,Ephesus,911.6484375,-460.671875,-152,Mountains,Gray,0.5
 79170,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_10,882,432,88298432112,98,112,Ephesus,882.765625,-432.125,-165,Mountains,Gray,0.5
 77748,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,857,426,8578242692,82,92,Ephesus,857.640625,-426.28125,-55,Mountains,Gray,0.5
-77857,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,883,461,883128461100,128,100,Ephesus,884,-461.21875,10,Mountains,Gray,0.5
+77857,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,883,461,883128461100,128,100,Ephesus,884.0,-461.21875,10,Mountains,Gray,0.5
 78875,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_03,849,461,8491146170,11,70,Ephesus,849.0859375,-461.453125,-102,Mountains,Gray,0.5
 78623,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_06,839,465,8395746542,57,42,Ephesus,839.4453125,-465.671875,167,Mountains,Gray,0.5
 77240,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_04,922,427,9221842792,18,92,Ephesus,922.140625,-427.28125,-3,Mountains,Gray,0.5
@@ -501,7 +501,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76462,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_08,868,456,86879456109,79,109,Ephesus,868.6171875,-456.1484375,93,Mountains,Gray,0.5
 77332,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_08,901,441,9014644132,46,32,Ephesus,901.359375,-441.75,-134,Mountains,Gray,0.5
 78241,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,924,455,92479455103,79,103,Ephesus,924.6171875,-455.1953125,171,Mountains,Gray,0.5
-78652,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,853,446,85312844610,128,10,Ephesus,854,-446.921875,-12,Mountains,Gray,0.5
+78652,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,853,446,85312844610,128,10,Ephesus,854.0,-446.921875,-12,Mountains,Gray,0.5
 78193,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,831,465,83111846572,118,72,Ephesus,831.921875,-465.4375,108,Mountains,Gray,0.5
 77382,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,916,451,9162245134,22,34,Ephesus,916.171875,-451.734375,75,Mountains,Gray,0.5
 78072,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,818,439,8184643928,46,28,Ephesus,818.359375,-439.78125,113,Mountains,Gray,0.5
@@ -512,7 +512,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76508,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,862,428,8622742841,27,41,Ephesus,862.2109375,-428.6796875,-31,Mountains,Gray,0.5
 78678,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,819,470,8195747013,57,13,Ephesus,819.4453125,-470.8984375,-92,Mountains,Gray,0.5
 77262,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_06,899,447,8995944760,59,60,Ephesus,899.4609375,-447.53125,77,Mountains,Gray,0.5
-77534,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,845,467,84546467128,46,128,Ephesus,845.359375,-467,87,Mountains,Gray,0.5
+77534,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,845,467,84546467128,46,128,Ephesus,845.359375,-467.0,87,Mountains,Gray,0.5
 78762,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_06,823,433,82312543391,125,91,Ephesus,823.9765625,-433.2890625,43,Mountains,Gray,0.5
 79183,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_04,920,442,920123442102,123,102,Ephesus,920.9609375,-442.203125,-79,Mountains,Gray,0.5
 77032,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,892,462,8929946293,99,93,Ephesus,892.7734375,-462.2734375,21,Mountains,Gray,0.5
@@ -528,7 +528,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78506,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,844,437,8443543736,35,36,Ephesus,844.2734375,-437.71875,165,Mountains,Gray,0.5
 76867,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_05,853,449,85369449104,69,104,Ephesus,853.5390625,-449.1875,122,Mountains,Gray,0.5
 78695,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_03,889,447,8891944770,19,70,Ephesus,889.1484375,-447.453125,-36,Mountains,Gray,0.5
-76028,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,857,444,85744444128,44,128,Ephesus,857.34375,-444,-179,Mountains,Gray,0.5
+76028,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,857,444,85744444128,44,128,Ephesus,857.34375,-444.0,-179,Mountains,Gray,0.5
 76035,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_12,824,469,8249846995,98,95,Ephesus,824.765625,-469.2578125,-171,Mountains,Gray,0.5
 76342,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_11,881,464,88115464116,15,116,Ephesus,881.1171875,-464.09375,-76,Mountains,Gray,0.5
 76144,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_04,905,432,90511432112,11,112,Ephesus,905.0859375,-432.125,92,Mountains,Gray,0.5
@@ -611,7 +611,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79369,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_07,845,447,8454644778,46,78,Ephesus,845.359375,-447.390625,-89,Mountains,Gray,0.5
 78077,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,912,433,91203433126,3,126,Ephesus,912.0234375,-433.015625,-89,Mountains,Gray,0.5
 78212,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,860,439,8601443927,14,27,Ephesus,860.109375,-439.7890625,-138,Mountains,Gray,0.5
-77059,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_04,922,433,92212843397,128,97,Ephesus,923,-433.2421875,16,Mountains,Gray,0.5
+77059,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_04,922,433,92212843397,128,97,Ephesus,923.0,-433.2421875,16,Mountains,Gray,0.5
 78881,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_04,869,448,86962448110,62,110,Ephesus,869.484375,-448.140625,166,Mountains,Gray,0.5
 76434,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_08,882,436,88210043688,100,88,Ephesus,882.78125,-436.3125,-47,Mountains,Gray,0.5
 79118,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_09,824,431,8243043193,30,93,Ephesus,824.234375,-431.2734375,-30,Mountains,Gray,0.5
@@ -679,7 +679,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76983,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_08,858,441,85804441112,4,112,Ephesus,858.03125,-441.125,-126,Mountains,Gray,0.5
 78036,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,916,465,9162946550,29,50,Ephesus,916.2265625,-465.609375,-115,Mountains,Gray,0.5
 77611,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,914,425,9146942577,69,77,Ephesus,914.5390625,-425.3984375,-21,Mountains,Gray,0.5
-77530,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,817,439,81750439128,50,128,Ephesus,817.390625,-439,-18,Mountains,Gray,0.5
+77530,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,817,439,81750439128,50,128,Ephesus,817.390625,-439.0,-18,Mountains,Gray,0.5
 77536,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_05,862,452,8625645223,56,23,Ephesus,862.4375,-452.8203125,18,Mountains,Gray,0.5
 76692,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_05,878,449,87810744946,107,46,Ephesus,878.8359375,-449.640625,157,Mountains,Gray,0.5
 77353,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_04,829,455,8290245587,2,87,Ephesus,829.015625,-455.3203125,-172,Mountains,Gray,0.5
@@ -700,7 +700,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77442,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_03,882,431,8827243152,72,52,Ephesus,882.5625,-431.59375,-105,Mountains,Gray,0.5
 78412,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_12,918,429,9188242975,82,75,Ephesus,918.640625,-429.4140625,-71,Mountains,Gray,0.5
 78263,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_04,837,450,8374745055,47,55,Ephesus,837.3671875,-450.5703125,-41,Mountains,Gray,0.5
-78191,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,861,425,861128425115,128,115,Ephesus,862,-425.1015625,173,Mountains,Gray,0.5
+78191,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,861,425,861128425115,128,115,Ephesus,862.0,-425.1015625,173,Mountains,Gray,0.5
 79158,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_05,886,440,88610244019,102,19,Ephesus,886.796875,-440.8515625,47,Mountains,Gray,0.5
 78515,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_08,858,436,8588943675,89,75,Ephesus,858.6953125,-436.4140625,-155,Mountains,Gray,0.5
 76700,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_03,889,452,8899845238,98,38,Ephesus,889.765625,-452.703125,-64,Mountains,Gray,0.5
@@ -722,7 +722,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76476,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_02,886,430,8860643008,6,8,Ephesus,886.046875,-430.9375,17,Mountains,Gray,0.5
 76903,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_08,823,467,82312346791,123,91,Ephesus,823.9609375,-467.2890625,-33,Mountains,Gray,0.5
 79064,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_06,870,458,87007458119,7,119,Ephesus,870.0546875,-458.0703125,154,Mountains,Gray,0.5
-78334,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_02,838,470,838128470127,128,127,Ephesus,839,-470.0078125,-8,Mountains,Gray,0.5
+78334,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_02,838,470,838128470127,128,127,Ephesus,839.0,-470.0078125,-8,Mountains,Gray,0.5
 77484,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,847,464,84711346475,113,75,Ephesus,847.8828125,-464.4140625,-60,Mountains,Gray,0.5
 77388,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_06,813,444,8131544472,15,72,Ephesus,813.1171875,-444.4375,109,Mountains,Gray,0.5
 78959,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,884,453,88412145381,121,81,Ephesus,884.9453125,-453.3671875,16,Mountains,Gray,0.5
@@ -735,7 +735,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77052,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,908,444,9089944403,99,3,Ephesus,908.7734375,-444.9765625,34,Mountains,Gray,0.5
 78720,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_12,881,443,88110344313,103,13,Ephesus,881.8046875,-443.8984375,-161,Mountains,Gray,0.5
 76184,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_08,869,437,86975437122,75,122,Ephesus,869.5859375,-437.046875,-154,Mountains,Gray,0.5
-76820,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,890,452,89012845229,128,29,Ephesus,891,-452.7734375,-166,Mountains,Gray,0.5
+76820,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,890,452,89012845229,128,29,Ephesus,891.0,-452.7734375,-166,Mountains,Gray,0.5
 79079,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,829,441,82911644116,116,16,Ephesus,829.90625,-441.875,-41,Mountains,Gray,0.5
 77308,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,918,449,91819449109,19,109,Ephesus,918.1484375,-449.1484375,-57,Mountains,Gray,0.5
 76563,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_02,828,451,828104451110,104,110,Ephesus,828.8125,-451.140625,-76,Mountains,Gray,0.5
@@ -762,7 +762,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77161,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_05,918,461,91810146106,101,6,Ephesus,918.7890625,-461.953125,47,Mountains,Gray,0.5
 78856,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,822,462,8229646229,96,29,Ephesus,822.75,-462.7734375,23,Mountains,Gray,0.5
 77114,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_06,824,447,8245944751,59,51,Ephesus,824.4609375,-447.6015625,-131,Mountains,Gray,0.5
-75855,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_09,897,432,89732432128,32,128,Ephesus,897.25,-432,-61,Mountains,Gray,0.5
+75855,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_09,897,432,89732432128,32,128,Ephesus,897.25,-432.0,-61,Mountains,Gray,0.5
 77281,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,862,434,86210543473,105,73,Ephesus,862.8203125,-434.4296875,106,Mountains,Gray,0.5
 78476,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,901,460,90112246047,122,47,Ephesus,901.953125,-460.6328125,-90,Mountains,Gray,0.5
 77919,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_03,877,441,8778944153,89,53,Ephesus,877.6953125,-441.5859375,129,Mountains,Gray,0.5
@@ -833,7 +833,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79044,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_12,894,442,8945944290,59,90,Ephesus,894.4609375,-442.296875,46,Mountains,Gray,0.5
 76686,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_07,883,432,8834543215,45,15,Ephesus,883.3515625,-432.8828125,-21,Mountains,Gray,0.5
 77695,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_06,826,468,826103468111,103,111,Ephesus,826.8046875,-468.1328125,122,Mountains,Gray,0.5
-77126,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,839,437,83991437128,91,128,Ephesus,839.7109375,-437,-51,Mountains,Gray,0.5
+77126,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,839,437,83991437128,91,128,Ephesus,839.7109375,-437.0,-51,Mountains,Gray,0.5
 77686,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_08,816,437,8161643758,16,58,Ephesus,816.125,-437.546875,-86,Mountains,Gray,0.5
 78394,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,891,428,8919642832,96,32,Ephesus,891.75,-428.75,-106,Mountains,Gray,0.5
 78683,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,872,448,8727244820,72,20,Ephesus,872.5625,-448.84375,-26,Mountains,Gray,0.5
@@ -982,7 +982,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79136,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,864,455,8643945593,39,93,Ephesus,864.3046875,-455.2734375,71,Mountains,Gray,0.5
 77736,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_07,897,447,8971544729,15,29,Ephesus,897.1171875,-447.7734375,57,Mountains,Gray,0.5
 76199,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_03,835,471,8351047195,10,95,Ephesus,835.078125,-471.2578125,-103,Mountains,Gray,0.5
-77256,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,849,425,84926425128,26,128,Ephesus,849.203125,-425,-140,Mountains,Gray,0.5
+77256,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,849,425,84926425128,26,128,Ephesus,849.203125,-425.0,-140,Mountains,Gray,0.5
 77047,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,880,449,880103449104,103,104,Ephesus,880.8046875,-449.1875,162,Mountains,Gray,0.5
 78529,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_07,838,427,8386342764,63,64,Ephesus,838.4921875,-427.5,-138,Mountains,Gray,0.5
 77572,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_03,844,461,8448946159,89,59,Ephesus,844.6953125,-461.5390625,-63,Mountains,Gray,0.5
@@ -1070,7 +1070,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76904,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,916,434,9164743431,47,31,Ephesus,916.3671875,-434.7578125,-37,Mountains,Gray,0.5
 78513,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_06,877,432,87735432117,35,117,Ephesus,877.2734375,-432.0859375,97,Mountains,Gray,0.5
 78955,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_05,827,446,82711344617,113,17,Ephesus,827.8828125,-446.8671875,-180,Mountains,Gray,0.5
-76207,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,878,430,87812430128,12,128,Ephesus,878.09375,-430,102,Mountains,Gray,0.5
+76207,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,878,430,87812430128,12,128,Ephesus,878.09375,-430.0,102,Mountains,Gray,0.5
 77795,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,878,446,8788844641,88,41,Ephesus,878.6875,-446.6796875,-87,Mountains,Gray,0.5
 76283,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,835,444,8354044456,40,56,Ephesus,835.3125,-444.5625,24,Mountains,Gray,0.5
 78658,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,853,467,8535146795,51,95,Ephesus,853.3984375,-467.2578125,35,Mountains,Gray,0.5
@@ -1149,7 +1149,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77673,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,853,425,85310342577,103,77,Ephesus,853.8046875,-425.3984375,-177,Mountains,Gray,0.5
 76098,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,916,436,91610943610,109,10,Ephesus,916.8515625,-436.921875,-92,Mountains,Gray,0.5
 77358,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,877,459,87708459102,8,102,Ephesus,877.0625,-459.203125,-115,Mountains,Gray,0.5
-77658,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,841,468,841128468100,128,100,Ephesus,842,-468.21875,-127,Mountains,Gray,0.5
+77658,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,841,468,841128468100,128,100,Ephesus,842.0,-468.21875,-127,Mountains,Gray,0.5
 77767,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,871,470,871124470119,124,119,Ephesus,871.96875,-470.0703125,93,Mountains,Gray,0.5
 76624,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_07,813,440,8133044053,30,53,Ephesus,813.234375,-440.5859375,-28,Mountains,Gray,0.5
 76486,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,832,457,83212045729,120,29,Ephesus,832.9375,-457.7734375,-124,Mountains,Gray,0.5
@@ -1188,7 +1188,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76382,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,887,454,88772454114,72,114,Ephesus,887.5625,-454.109375,34,Mountains,Gray,0.5
 77582,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,879,449,87967449123,67,123,Ephesus,879.5234375,-449.0390625,108,Mountains,Gray,0.5
 79089,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,865,448,86533448102,33,102,Ephesus,865.2578125,-448.203125,141,Mountains,Gray,0.5
-78225,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,850,462,85012846299,128,99,Ephesus,851,-462.2265625,-160,Mountains,Gray,0.5
+78225,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,850,462,85012846299,128,99,Ephesus,851.0,-462.2265625,-160,Mountains,Gray,0.5
 77181,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_08,845,453,8451845380,18,80,Ephesus,845.140625,-453.375,167,Mountains,Gray,0.5
 76781,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,892,468,8929446891,94,91,Ephesus,892.734375,-468.2890625,-166,Mountains,Gray,0.5
 77355,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,894,468,8940746858,7,58,Ephesus,894.0546875,-468.546875,43,Mountains,Gray,0.5
@@ -1200,7 +1200,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77404,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,889,453,8893045304,30,4,Ephesus,889.234375,-453.96875,89,Mountains,Gray,0.5
 76796,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,869,437,8699643768,96,68,Ephesus,869.75,-437.46875,-14,Mountains,Gray,0.5
 78446,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,921,442,92110344213,103,13,Ephesus,921.8046875,-442.8984375,31,Mountains,Gray,0.5
-77734,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,831,453,83112845388,128,88,Ephesus,832,-453.3125,-99,Mountains,Gray,0.5
+77734,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,831,453,83112845388,128,88,Ephesus,832.0,-453.3125,-99,Mountains,Gray,0.5
 76031,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,865,429,8654542962,45,62,Ephesus,865.3515625,-429.515625,134,Mountains,Gray,0.5
 76096,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_08,836,453,8361445311,14,11,Ephesus,836.109375,-453.9140625,162,Mountains,Gray,0.5
 77195,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,895,467,8959646766,96,66,Ephesus,895.75,-467.484375,-11,Mountains,Gray,0.5
@@ -1271,7 +1271,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78803,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_08,925,453,9251545306,15,6,Ephesus,925.1171875,-453.953125,52,Mountains,Gray,0.5
 76919,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,860,446,86011244631,112,31,Ephesus,860.875,-446.7578125,43,Mountains,Gray,0.5
 78247,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,856,446,8568544613,85,13,Ephesus,856.6640625,-446.8984375,16,Mountains,Gray,0.5
-76148,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,883,446,883128446124,128,124,Ephesus,884,-446.03125,157,Mountains,Gray,0.5
+76148,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,883,446,883128446124,128,124,Ephesus,884.0,-446.03125,157,Mountains,Gray,0.5
 77037,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,887,466,8871546686,15,86,Ephesus,887.1171875,-466.328125,-3,Mountains,Gray,0.5
 77601,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,885,439,88598439114,98,114,Ephesus,885.765625,-439.109375,-121,Mountains,Gray,0.5
 76237,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,885,431,8855143179,51,79,Ephesus,885.3984375,-431.3828125,-49,Mountains,Gray,0.5
@@ -1370,7 +1370,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77974,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,920,458,9209345805,93,5,Ephesus,920.7265625,-458.9609375,72,Mountains,Gray,0.5
 78101,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,863,445,8639444539,94,39,Ephesus,863.734375,-445.6953125,-180,Mountains,Gray,0.5
 79144,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,846,432,8467443251,74,51,Ephesus,846.578125,-432.6015625,81,Mountains,Gray,0.5
-77566,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,899,446,899126446128,126,128,Ephesus,899.984375,-446,-21,Mountains,Gray,0.5
+77566,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,899,446,899126446128,126,128,Ephesus,899.984375,-446.0,-21,Mountains,Gray,0.5
 77856,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,914,471,9148647141,86,41,Ephesus,914.671875,-471.6796875,24,Mountains,Gray,0.5
 77625,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,867,430,8670343054,3,54,Ephesus,867.0234375,-430.578125,-88,Mountains,Gray,0.5
 77420,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,858,464,8581446413,14,13,Ephesus,858.109375,-464.8984375,152,Mountains,Gray,0.5
@@ -1418,7 +1418,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77021,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_08,824,436,8246143648,61,48,Ephesus,824.4765625,-436.625,56,Mountains,Gray,0.5
 79327,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,865,454,8651745491,17,91,Ephesus,865.1328125,-454.2890625,176,Mountains,Gray,0.5
 76444,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,832,462,8320646262,6,62,Ephesus,832.046875,-462.515625,-61,Mountains,Gray,0.5
-79068,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,867,469,86712846989,128,89,Ephesus,868,-469.3046875,163,Mountains,Gray,0.5
+79068,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,867,469,86712846989,128,89,Ephesus,868.0,-469.3046875,163,Mountains,Gray,0.5
 77408,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,915,463,9151346353,13,53,Ephesus,915.1015625,-463.5859375,-134,Mountains,Gray,0.5
 77699,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,923,437,9230443762,4,62,Ephesus,923.03125,-437.515625,-146,Mountains,Gray,0.5
 79320,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_07,919,428,9198742871,87,71,Ephesus,919.6796875,-428.4453125,-57,Mountains,Gray,0.5
@@ -1451,7 +1451,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76325,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,838,446,8387744670,77,70,Ephesus,838.6015625,-446.453125,38,Mountains,Gray,0.5
 76677,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,883,448,8837944874,79,74,Ephesus,883.6171875,-448.421875,22,Mountains,Gray,0.5
 79336,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,841,470,84110447009,104,9,Ephesus,841.8125,-470.9296875,-27,Mountains,Gray,0.5
-77166,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,825,440,82523440128,23,128,Ephesus,825.1796875,-440,166,Mountains,Gray,0.5
+77166,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,825,440,82523440128,23,128,Ephesus,825.1796875,-440.0,166,Mountains,Gray,0.5
 77501,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_07,912,436,91299436107,99,107,Ephesus,912.7734375,-436.1640625,-125,Mountains,Gray,0.5
 77945,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,848,430,8486043076,60,76,Ephesus,848.46875,-430.40625,101,Mountains,Gray,0.5
 77150,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,838,453,83811145381,111,81,Ephesus,838.8671875,-453.3671875,2,Mountains,Gray,0.5
@@ -1482,7 +1482,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78224,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,919,458,91962458101,62,101,Ephesus,919.484375,-458.2109375,170,Mountains,Gray,0.5
 79407,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,844,464,8443146438,31,38,Ephesus,844.2421875,-464.703125,-19,Mountains,Gray,0.5
 79009,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,828,463,8282946360,29,60,Ephesus,828.2265625,-463.53125,118,Mountains,Gray,0.5
-78598,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,873,459,87312845980,128,80,Ephesus,874,-459.375,-59,Mountains,Gray,0.5
+78598,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,873,459,87312845980,128,80,Ephesus,874.0,-459.375,-59,Mountains,Gray,0.5
 78809,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,820,446,82059446115,59,115,Ephesus,820.4609375,-446.1015625,-172,Mountains,Gray,0.5
 79275,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,832,459,8324145932,41,32,Ephesus,832.3203125,-459.75,-79,Mountains,Gray,0.5
 76666,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,873,459,8734545985,45,85,Ephesus,873.3515625,-459.3359375,-68,Mountains,Gray,0.5
@@ -1606,7 +1606,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76637,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,896,440,896112440124,112,124,Ephesus,896.875,-440.03125,41,Mountains,Gray,0.5
 76768,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,924,439,92411443956,114,56,Ephesus,924.890625,-439.5625,-87,Mountains,Gray,0.5
 78599,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,854,446,8547544618,75,18,Ephesus,854.5859375,-446.859375,103,Mountains,Gray,0.5
-76705,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,905,460,90552460128,52,128,Ephesus,905.40625,-460,-11,Mountains,Gray,0.5
+76705,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,905,460,90552460128,52,128,Ephesus,905.40625,-460.0,-11,Mountains,Gray,0.5
 76077,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,836,462,83610446299,104,99,Ephesus,836.8125,-462.2265625,-175,Mountains,Gray,0.5
 78914,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,836,441,8368444163,84,63,Ephesus,836.65625,-441.5078125,-75,Mountains,Gray,0.5
 76540,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,874,448,87446448108,46,108,Ephesus,874.359375,-448.15625,156,Mountains,Gray,0.5
@@ -1624,7 +1624,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76603,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,925,462,9254646288,46,88,Ephesus,925.359375,-462.3125,35,Mountains,Gray,0.5
 79446,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,848,427,8483842716,38,16,Ephesus,848.296875,-427.875,-31,Mountains,Gray,0.5
 77218,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,914,441,9146844164,68,64,Ephesus,914.53125,-441.5,32,Mountains,Gray,0.5
-77354,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,913,447,91396447128,96,128,Ephesus,913.75,-447,108,Mountains,Gray,0.5
+77354,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,913,447,91396447128,96,128,Ephesus,913.75,-447.0,108,Mountains,Gray,0.5
 76915,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,841,469,8417346933,73,33,Ephesus,841.5703125,-469.7421875,-5,Mountains,Gray,0.5
 76351,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,883,434,8831843461,18,61,Ephesus,883.140625,-434.5234375,-79,Mountains,Gray,0.5
 77029,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_08,823,448,8235844872,58,72,Ephesus,823.453125,-448.4375,-107,Mountains,Gray,0.5
@@ -1693,7 +1693,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 75900,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,909,465,9092546505,25,5,Ephesus,909.1953125,-465.9609375,108,Mountains,Gray,0.5
 79263,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,859,447,8591344715,13,15,Ephesus,859.1015625,-447.8828125,101,Mountains,Gray,0.5
 76291,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,847,465,8471646550,16,50,Ephesus,847.125,-465.609375,115,Mountains,Gray,0.5
-76350,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,879,425,879128425111,128,111,Ephesus,880,-425.1328125,-132,Mountains,Gray,0.5
+76350,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,879,425,879128425111,128,111,Ephesus,880.0,-425.1328125,-132,Mountains,Gray,0.5
 78911,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,818,453,81858453115,58,115,Ephesus,818.453125,-453.1015625,-8,Mountains,Gray,0.5
 77487,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,883,461,8830746137,7,37,Ephesus,883.0546875,-461.7109375,-110,Mountains,Gray,0.5
 78620,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,834,455,8346745542,67,42,Ephesus,834.5234375,-455.671875,-16,Mountains,Gray,0.5
@@ -1812,7 +1812,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77986,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,858,456,85872456109,72,109,Ephesus,858.5625,-456.1484375,6,Mountains,Gray,0.5
 78029,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,872,434,8729143430,91,30,Ephesus,872.7109375,-434.765625,-111,Mountains,Gray,0.5
 77440,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,830,448,8302144857,21,57,Ephesus,830.1640625,-448.5546875,-137,Mountains,Gray,0.5
-77180,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_07,920,444,92012844499,128,99,Ephesus,921,-444.2265625,-62,Mountains,Gray,0.5
+77180,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_07,920,444,92012844499,128,99,Ephesus,921.0,-444.2265625,-62,Mountains,Gray,0.5
 78460,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,888,426,888123426108,123,108,Ephesus,888.9609375,-426.15625,86,Mountains,Gray,0.5
 76510,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,916,451,9167845183,78,83,Ephesus,916.609375,-451.3515625,62,Mountains,Gray,0.5
 78958,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_08,883,424,8837942450,79,50,Ephesus,883.6171875,-424.609375,27,Mountains,Gray,0.5
@@ -1890,7 +1890,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76141,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_08,828,463,8284446304,44,4,Ephesus,828.34375,-463.96875,-117,Mountains,Gray,0.5
 76967,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,924,459,9247045956,70,56,Ephesus,924.546875,-459.5625,-177,Mountains,Gray,0.5
 78750,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,846,453,84610645320,106,20,Ephesus,846.828125,-453.84375,49,Mountains,Gray,0.5
-77162,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,883,462,88307462128,7,128,Ephesus,883.0546875,-462,88,Mountains,Gray,0.5
+77162,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,883,462,88307462128,7,128,Ephesus,883.0546875,-462.0,88,Mountains,Gray,0.5
 77091,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,848,436,8480243643,2,43,Ephesus,848.015625,-436.6640625,174,Mountains,Gray,0.5
 77922,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,834,463,8340746372,7,72,Ephesus,834.0546875,-463.4375,144,Mountains,Gray,0.5
 78187,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,822,458,8226645884,66,84,Ephesus,822.515625,-458.34375,-124,Mountains,Gray,0.5
@@ -1970,7 +1970,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77804,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,896,451,8969145113,91,13,Ephesus,896.7109375,-451.8984375,117,Mountains,Gray,0.5
 77729,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,920,456,9203645686,36,86,Ephesus,920.28125,-456.328125,-66,Mountains,Gray,0.5
 78010,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,876,462,8767346228,73,28,Ephesus,876.5703125,-462.78125,-95,Mountains,Gray,0.5
-78045,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,827,452,82712845270,128,70,Ephesus,828,-452.453125,153,Mountains,Gray,0.5
+78045,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,827,452,82712845270,128,70,Ephesus,828.0,-452.453125,153,Mountains,Gray,0.5
 76457,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,913,457,9131445778,14,78,Ephesus,913.109375,-457.390625,-95,Mountains,Gray,0.5
 78378,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,874,462,874101462106,101,106,Ephesus,874.7890625,-462.171875,76,Mountains,Gray,0.5
 76937,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,835,465,8351046526,10,26,Ephesus,835.078125,-465.796875,-152,Mountains,Gray,0.5
@@ -1992,7 +1992,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79129,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,879,450,8792545069,25,69,Ephesus,879.1953125,-450.4609375,-38,Mountains,Gray,0.5
 78147,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,884,457,88479457113,79,113,Ephesus,884.6171875,-457.1171875,-92,Mountains,Gray,0.5
 76155,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,832,464,832112464120,112,120,Ephesus,832.875,-464.0625,-124,Mountains,Gray,0.5
-78617,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,820,443,82050443128,50,128,Ephesus,820.390625,-443,30,Mountains,Gray,0.5
+78617,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,820,443,82050443128,50,128,Ephesus,820.390625,-443.0,30,Mountains,Gray,0.5
 75903,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,913,467,9130446797,4,97,Ephesus,913.03125,-467.2421875,-44,Mountains,Gray,0.5
 75926,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,893,431,89382431113,82,113,Ephesus,893.640625,-431.1171875,58,Mountains,Gray,0.5
 78498,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,849,421,84910042189,100,89,Ephesus,849.78125,-421.3046875,-39,Mountains,Gray,0.5
@@ -2010,7 +2010,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76208,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,833,434,8337343491,73,91,Ephesus,833.5703125,-434.2890625,74,Mountains,Gray,0.5
 76081,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,907,432,90773432117,73,117,Ephesus,907.5703125,-432.0859375,-65,Mountains,Gray,0.5
 78477,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,864,466,86478466120,78,120,Ephesus,864.609375,-466.0625,172,Mountains,Gray,0.5
-77543,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,853,460,85360460128,60,128,Ephesus,853.46875,-460,25,Mountains,Gray,0.5
+77543,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,853,460,85360460128,60,128,Ephesus,853.46875,-460.0,25,Mountains,Gray,0.5
 78517,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,838,470,8388947029,89,29,Ephesus,838.6953125,-470.7734375,57,Mountains,Gray,0.5
 78166,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,872,433,8720243355,2,55,Ephesus,872.015625,-433.5703125,-67,Mountains,Gray,0.5
 76109,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,910,437,91001437103,1,103,Ephesus,910.0078125,-437.1953125,-154,Mountains,Gray,0.5
@@ -2028,7 +2028,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79437,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,887,427,88711942742,119,42,Ephesus,887.9296875,-427.671875,134,Mountains,Gray,0.5
 77179,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,838,433,8380843310,8,10,Ephesus,838.0625,-433.921875,69,Mountains,Gray,0.5
 78144,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,881,439,8814543992,45,92,Ephesus,881.3515625,-439.28125,14,Mountains,Gray,0.5
-76848,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,872,467,87212846743,128,43,Ephesus,873,-467.6640625,-146,Mountains,Gray,0.5
+76848,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,872,467,87212846743,128,43,Ephesus,873.0,-467.6640625,-146,Mountains,Gray,0.5
 77598,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,849,462,849103462126,103,126,Ephesus,849.8046875,-462.015625,-164,Mountains,Gray,0.5
 76466,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,832,435,8325343570,53,70,Ephesus,832.4140625,-435.453125,-8,Mountains,Gray,0.5
 77905,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,829,451,8293145177,31,77,Ephesus,829.2421875,-451.3984375,-96,Mountains,Gray,0.5
@@ -2061,7 +2061,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79464,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,869,463,86911946342,119,42,Ephesus,869.9296875,-463.671875,-81,Mountains,Gray,0.5
 77268,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,861,459,86112245923,122,23,Ephesus,861.953125,-459.8203125,46,Mountains,Gray,0.5
 76697,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,869,449,8697844917,78,17,Ephesus,869.609375,-449.8671875,99,Mountains,Gray,0.5
-76407,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,838,448,838118448128,118,128,Ephesus,838.921875,-448,-2,Mountains,Gray,0.5
+76407,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,838,448,838118448128,118,128,Ephesus,838.921875,-448.0,-2,Mountains,Gray,0.5
 78772,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,817,442,81710144276,101,76,Ephesus,817.7890625,-442.40625,65,Mountains,Gray,0.5
 77191,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,871,433,871111433126,111,126,Ephesus,871.8671875,-433.015625,-84,Mountains,Gray,0.5
 77441,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,859,427,8594142702,41,2,Ephesus,859.3203125,-427.984375,133,Mountains,Gray,0.5
@@ -2088,7 +2088,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76506,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,890,427,8902242798,22,98,Ephesus,890.171875,-427.234375,22,Mountains,Gray,0.5
 76955,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,819,447,81911144704,111,4,Ephesus,819.8671875,-447.96875,49,Mountains,Gray,0.5
 76337,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,859,430,85911443049,114,49,Ephesus,859.890625,-430.6171875,148,Mountains,Gray,0.5
-79373,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,880,442,88048442128,48,128,Ephesus,880.375,-442,-52,Mountains,Gray,0.5
+79373,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,880,442,88048442128,48,128,Ephesus,880.375,-442.0,-52,Mountains,Gray,0.5
 78265,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,867,445,86740445114,40,114,Ephesus,867.3125,-445.109375,144,Mountains,Gray,0.5
 78455,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,914,438,9149743878,97,78,Ephesus,914.7578125,-438.390625,-131,Mountains,Gray,0.5
 77983,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,904,427,90412442796,124,96,Ephesus,904.96875,-427.25,-11,Mountains,Gray,0.5
@@ -2169,7 +2169,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76000,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_07,861,468,8612746803,27,3,Ephesus,861.2109375,-468.9765625,124,Mountains,Gray,0.5
 79411,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,877,435,8778443540,84,40,Ephesus,877.65625,-435.6875,-45,Mountains,Gray,0.5
 77365,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,913,438,9139243814,92,14,Ephesus,913.71875,-438.890625,158,Mountains,Gray,0.5
-76971,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,823,451,82312845130,128,30,Ephesus,824,-451.765625,158,Mountains,Gray,0.5
+76971,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,823,451,82312845130,128,30,Ephesus,824.0,-451.765625,158,Mountains,Gray,0.5
 78780,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,873,444,8739744416,97,16,Ephesus,873.7578125,-444.875,176,Mountains,Gray,0.5
 78574,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,918,445,91812445110,12,110,Ephesus,918.09375,-445.140625,-126,Mountains,Gray,0.5
 76412,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,820,457,82010645754,106,54,Ephesus,820.828125,-457.578125,-141,Mountains,Gray,0.5
@@ -2228,7 +2228,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76072,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_08,901,453,90111545316,115,16,Ephesus,901.8984375,-453.875,48,Mountains,Gray,0.5
 77067,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,851,459,8515845978,58,78,Ephesus,851.453125,-459.390625,-12,Mountains,Gray,0.5
 77331,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,894,456,8949045630,90,30,Ephesus,894.703125,-456.765625,51,Mountains,Gray,0.5
-76390,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_07,840,446,84078446128,78,128,Ephesus,840.609375,-446,2,Mountains,Gray,0.5
+76390,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_07,840,446,84078446128,78,128,Ephesus,840.609375,-446.0,2,Mountains,Gray,0.5
 78916,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,830,457,8308245741,82,41,Ephesus,830.640625,-457.6796875,40,Mountains,Gray,0.5
 79326,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,854,449,85412044983,120,83,Ephesus,854.9375,-449.3515625,175,Mountains,Gray,0.5
 79312,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_08,915,462,9156846274,68,74,Ephesus,915.53125,-462.421875,-55,Mountains,Gray,0.5
@@ -2252,7 +2252,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78700,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,838,433,838102433112,102,112,Ephesus,838.796875,-433.125,-33,Mountains,Gray,0.5
 79444,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,824,466,8246446693,64,93,Ephesus,824.5,-466.2734375,-111,Mountains,Gray,0.5
 77316,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,850,466,8504246651,42,51,Ephesus,850.328125,-466.6015625,127,Mountains,Gray,0.5
-77985,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,883,468,883128468128,128,128,Ephesus,884,-468,-25,Mountains,Gray,0.5
+77985,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,883,468,883128468128,128,128,Ephesus,884.0,-468.0,-25,Mountains,Gray,0.5
 78965,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,919,432,91985432115,85,115,Ephesus,919.6640625,-432.1015625,50,Mountains,Gray,0.5
 77717,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,912,437,9125443705,54,5,Ephesus,912.421875,-437.9609375,155,Mountains,Gray,0.5
 76632,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,917,466,9176846691,68,91,Ephesus,917.53125,-466.2890625,-117,Mountains,Gray,0.5
@@ -2286,7 +2286,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76539,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,821,466,8217346620,73,20,Ephesus,821.5703125,-466.84375,82,Mountains,Gray,0.5
 78020,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,889,467,8890846795,8,95,Ephesus,889.0625,-467.2578125,-177,Mountains,Gray,0.5
 76669,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,913,465,9136846512,68,12,Ephesus,913.53125,-465.90625,77,Mountains,Gray,0.5
-75976,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,836,440,83678440128,78,128,Ephesus,836.609375,-440,63,Mountains,Gray,0.5
+75976,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,836,440,83678440128,78,128,Ephesus,836.609375,-440.0,63,Mountains,Gray,0.5
 78398,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,854,428,8541242836,12,36,Ephesus,854.09375,-428.71875,4,Mountains,Gray,0.5
 77363,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,873,453,8732945335,29,35,Ephesus,873.2265625,-453.7265625,-9,Mountains,Gray,0.5
 78057,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,849,428,849120428112,120,112,Ephesus,849.9375,-428.125,22,Mountains,Gray,0.5
@@ -2362,7 +2362,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76395,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,908,423,90811542343,115,43,Ephesus,908.8984375,-423.6640625,11,Mountains,Gray,0.5
 79162,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,843,440,8437744099,77,99,Ephesus,843.6015625,-440.2265625,114,Mountains,Gray,0.5
 78661,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,821,443,8214644307,46,7,Ephesus,821.359375,-443.9453125,-109,Mountains,Gray,0.5
-77591,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,901,460,901128460108,128,108,Ephesus,902,-460.15625,1,Mountains,Gray,0.5
+77591,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,901,460,901128460108,128,108,Ephesus,902.0,-460.15625,1,Mountains,Gray,0.5
 76307,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,868,451,86812451121,12,121,Ephesus,868.09375,-451.0546875,93,Mountains,Gray,0.5
 78082,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_07,838,466,83820466102,20,102,Ephesus,838.15625,-466.203125,23,Mountains,Gray,0.5
 76426,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,869,435,8694843579,48,79,Ephesus,869.375,-435.3828125,-61,Mountains,Gray,0.5
@@ -2431,7 +2431,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76746,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,850,439,8506143981,61,81,Ephesus,850.4765625,-439.3671875,46,Mountains,Gray,0.5
 76512,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,835,470,83510247053,102,53,Ephesus,835.796875,-470.5859375,150,Mountains,Gray,0.5
 79461,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,838,454,8387945483,79,83,Ephesus,838.6171875,-454.3515625,129,Mountains,Gray,0.5
-76083,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,906,442,90612844261,128,61,Ephesus,907,-442.5234375,136,Mountains,Gray,0.5
+76083,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,906,442,90612844261,128,61,Ephesus,907.0,-442.5234375,136,Mountains,Gray,0.5
 78509,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,848,452,8481445240,14,40,Ephesus,848.109375,-452.6875,14,Mountains,Gray,0.5
 77170,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,912,447,9126444720,64,20,Ephesus,912.5,-447.84375,75,Mountains,Gray,0.5
 77650,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,813,450,81391450115,91,115,Ephesus,813.7109375,-450.1015625,143,Mountains,Gray,0.5
@@ -2578,7 +2578,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78387,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,924,446,9247144694,71,94,Ephesus,924.5546875,-446.265625,117,Mountains,Gray,0.5
 78487,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,920,427,9201142722,11,22,Ephesus,920.0859375,-427.828125,1,Mountains,Gray,0.5
 76729,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,846,460,8468246085,82,85,Ephesus,846.640625,-460.3359375,-19,Mountains,Gray,0.5
-79374,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,895,432,89552432128,52,128,Ephesus,895.40625,-432,-25,Mountains,Gray,0.5
+79374,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,895,432,89552432128,52,128,Ephesus,895.40625,-432.0,-25,Mountains,Gray,0.5
 79462,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,910,434,91023434100,23,100,Ephesus,910.1796875,-434.21875,-58,Mountains,Gray,0.5
 78403,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,878,454,8788345403,83,3,Ephesus,878.6484375,-454.9765625,-97,Mountains,Gray,0.5
 78842,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,884,430,8849343007,93,7,Ephesus,884.7265625,-430.9453125,71,Mountains,Gray,0.5
@@ -2610,7 +2610,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77831,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,852,431,85244431104,44,104,Ephesus,852.34375,-431.1875,132,Mountains,Gray,0.5
 77249,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_08,863,450,8632945070,29,70,Ephesus,863.2265625,-450.453125,-35,Mountains,Gray,0.5
 78204,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,891,448,8916144879,61,79,Ephesus,891.4765625,-448.3828125,56,Mountains,Gray,0.5
-79281,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,842,445,84212844505,128,5,Ephesus,843,-445.9609375,-151,Mountains,Gray,0.5
+79281,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,842,445,84212844505,128,5,Ephesus,843.0,-445.9609375,-151,Mountains,Gray,0.5
 77326,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,817,442,8174844203,48,3,Ephesus,817.375,-442.9765625,-96,Mountains,Gray,0.5
 77169,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,847,458,8471545825,15,25,Ephesus,847.1171875,-458.8046875,154,Mountains,Gray,0.5
 78645,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,879,442,8794444228,44,28,Ephesus,879.34375,-442.78125,29,Mountains,Gray,0.5
@@ -2689,7 +2689,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79352,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,852,432,852111432115,111,115,Ephesus,852.8671875,-432.1015625,44,Mountains,Gray,0.5
 77470,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,924,431,92411243119,112,19,Ephesus,924.875,-431.8515625,57,Mountains,Gray,0.5
 77840,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,840,449,840109449102,109,102,Ephesus,840.8515625,-449.203125,71,Mountains,Gray,0.5
-76344,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,902,471,902128471123,128,123,Ephesus,903,-471.0390625,52,Mountains,Gray,0.5
+76344,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,902,471,902128471123,128,123,Ephesus,903.0,-471.0390625,52,Mountains,Gray,0.5
 77005,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,840,454,8401945465,19,65,Ephesus,840.1484375,-454.4921875,-75,Mountains,Gray,0.5
 78937,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,900,428,90052428118,52,118,Ephesus,900.40625,-428.078125,-32,Mountains,Gray,0.5
 77539,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,847,463,8474546302,45,2,Ephesus,847.3515625,-463.984375,98,Mountains,Gray,0.5
@@ -2763,7 +2763,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76046,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,897,451,89783451125,83,125,Ephesus,897.6484375,-451.0234375,154,Mountains,Gray,0.5
 78868,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_05,901,444,90138444121,38,121,Ephesus,901.296875,-444.0546875,-109,Mountains,Gray,0.5
 79033,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_10,921,451,9210845192,8,92,Ephesus,921.0625,-451.28125,-4,Mountains,Gray,0.5
-78496,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,891,445,89112844522,128,22,Ephesus,892,-445.828125,114,Mountains,Gray,0.5
+78496,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,891,445,89112844522,128,22,Ephesus,892.0,-445.828125,114,Mountains,Gray,0.5
 77592,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,840,442,84007442114,7,114,Ephesus,840.0546875,-442.109375,-125,Mountains,Gray,0.5
 77886,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,873,462,8736346210,63,10,Ephesus,873.4921875,-462.921875,-180,Mountains,Gray,0.5
 76749,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_05,845,462,8453346208,33,8,Ephesus,845.2578125,-462.9375,160,Mountains,Gray,0.5
@@ -2887,7 +2887,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77204,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,855,443,85512444322,124,22,Ephesus,855.96875,-443.828125,-10,Mountains,Gray,0.5
 77823,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,844,453,8446045304,60,4,Ephesus,844.46875,-453.96875,155,Mountains,Gray,0.5
 79045,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,923,454,92310945433,109,33,Ephesus,923.8515625,-454.7421875,58,Mountains,Gray,0.5
-75998,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,909,437,909114437128,114,128,Ephesus,909.890625,-437,-40,Mountains,Gray,0.5
+75998,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,909,437,909114437128,114,128,Ephesus,909.890625,-437.0,-40,Mountains,Gray,0.5
 77677,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_08,875,448,8757944809,79,9,Ephesus,875.6171875,-448.9296875,-178,Mountains,Gray,0.5
 79067,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,902,468,9020146836,1,36,Ephesus,902.0078125,-468.71875,132,Mountains,Gray,0.5
 76846,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_03,916,462,9165846247,58,47,Ephesus,916.453125,-462.6328125,-134,Mountains,Gray,0.5
@@ -2936,7 +2936,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77292,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,904,465,9049746528,97,28,Ephesus,904.7578125,-465.78125,-131,Mountains,Gray,0.5
 79276,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,873,433,87328433124,28,124,Ephesus,873.21875,-433.03125,-60,Mountains,Gray,0.5
 79254,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,838,436,8380143696,1,96,Ephesus,838.0078125,-436.25,-50,Mountains,Gray,0.5
-79477,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,812,449,81212844909,128,9,Ephesus,813,-449.9296875,-129,Mountains,Gray,0.5
+79477,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,812,449,81212844909,128,9,Ephesus,813.0,-449.9296875,-129,Mountains,Gray,0.5
 78979,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,865,429,8659242909,92,9,Ephesus,865.71875,-429.9296875,-71,Mountains,Gray,0.5
 77917,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,851,431,85113431101,13,101,Ephesus,851.1015625,-431.2109375,171,Mountains,Gray,0.5
 77890,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,843,461,84384461101,84,101,Ephesus,843.65625,-461.2109375,178,Mountains,Gray,0.5
@@ -2978,7 +2978,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 79340,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,840,469,840113469106,113,106,Ephesus,840.8828125,-469.171875,-163,Mountains,Gray,0.5
 77577,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,813,449,81394449126,94,126,Ephesus,813.734375,-449.015625,153,Mountains,Gray,0.5
 76961,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,909,426,9099342683,93,83,Ephesus,909.7265625,-426.3515625,-68,Mountains,Gray,0.5
-76287,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,900,437,90012843731,128,31,Ephesus,901,-437.7578125,-18,Mountains,Gray,0.5
+76287,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,900,437,90012843731,128,31,Ephesus,901.0,-437.7578125,-18,Mountains,Gray,0.5
 78748,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,854,452,854117452123,117,123,Ephesus,854.9140625,-452.0390625,32,Mountains,Gray,0.5
 79323,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,909,457,9097345710,73,10,Ephesus,909.5703125,-457.921875,-126,Mountains,Gray,0.5
 76642,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_08,904,426,9044642601,46,1,Ephesus,904.359375,-426.9921875,-119,Mountains,Gray,0.5
@@ -2986,7 +2986,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77718,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,820,460,82011246090,112,90,Ephesus,820.875,-460.296875,146,Mountains,Gray,0.5
 76371,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,841,430,84110443066,104,66,Ephesus,841.8125,-430.484375,-31,Mountains,Gray,0.5
 78626,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,909,431,9096443103,64,3,Ephesus,909.5,-431.9765625,-34,Mountains,Gray,0.5
-79298,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,917,440,917128440121,128,121,Ephesus,918,-440.0546875,50,Mountains,Gray,0.5
+79298,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,917,440,917128440121,128,121,Ephesus,918.0,-440.0546875,50,Mountains,Gray,0.5
 79434,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,869,429,86989429125,89,125,Ephesus,869.6953125,-429.0234375,-50,Mountains,Gray,0.5
 77750,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_06,924,441,924119441110,119,110,Ephesus,924.9296875,-441.140625,-46,Mountains,Gray,0.5
 79143,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,868,448,8681044871,10,71,Ephesus,868.078125,-448.4453125,44,Mountains,Gray,0.5
@@ -3006,7 +3006,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76906,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,917,464,91726464105,26,105,Ephesus,917.203125,-464.1796875,15,Mountains,Gray,0.5
 78102,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,895,428,89510042801,100,1,Ephesus,895.78125,-428.9921875,-78,Mountains,Gray,0.5
 77222,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_01,916,468,9168146812,81,12,Ephesus,916.6328125,-468.90625,-41,Mountains,Gray,0.5
-79399,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,915,424,915128424114,128,114,Ephesus,916,-424.109375,86,Mountains,Gray,0.5
+79399,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_09,915,424,915128424114,128,114,Ephesus,916.0,-424.109375,86,Mountains,Gray,0.5
 79224,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,917,446,9172944675,29,75,Ephesus,917.2265625,-446.4140625,-108,Mountains,Gray,0.5
 79036,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,896,464,8965646473,56,73,Ephesus,896.4375,-464.4296875,-105,Mountains,Gray,0.5
 75917,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,886,458,8861545883,15,83,Ephesus,886.1171875,-458.3515625,-158,Mountains,Gray,0.5
@@ -3060,7 +3060,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78296,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,873,448,87310144897,101,97,Ephesus,873.7890625,-448.2421875,-72,Mountains,Gray,0.5
 76710,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,912,453,9120845317,8,17,Ephesus,912.0625,-453.8671875,-96,Mountains,Gray,0.5
 77988,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_07,874,464,8747346426,73,26,Ephesus,874.5703125,-464.796875,132,Mountains,Gray,0.5
-78169,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,857,434,85797434128,97,128,Ephesus,857.7578125,-434,-162,Mountains,Gray,0.5
+78169,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,857,434,85797434128,97,128,Ephesus,857.7578125,-434.0,-162,Mountains,Gray,0.5
 77415,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,817,469,8176546979,65,79,Ephesus,817.5078125,-469.3828125,83,Mountains,Gray,0.5
 78808,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,857,444,8577144416,71,16,Ephesus,857.5546875,-444.875,136,Mountains,Gray,0.5
 77127,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_09,879,438,87903438118,3,118,Ephesus,879.0234375,-438.078125,140,Mountains,Gray,0.5
@@ -3123,7 +3123,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78844,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,919,462,91911346271,113,71,Ephesus,919.8828125,-462.4453125,50,Mountains,Gray,0.5
 76315,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,840,437,84010943704,109,4,Ephesus,840.8515625,-437.96875,64,Mountains,Gray,0.5
 76039,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,909,446,9098744604,87,4,Ephesus,909.6796875,-446.96875,-178,Mountains,Gray,0.5
-79209,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,913,435,91312843553,128,53,Ephesus,914,-435.5859375,-69,Mountains,Gray,0.5
+79209,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,913,435,91312843553,128,53,Ephesus,914.0,-435.5859375,-69,Mountains,Gray,0.5
 76708,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,849,465,84912046523,120,23,Ephesus,849.9375,-465.8203125,-57,Mountains,Gray,0.5
 77848,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_04,830,438,83011543887,115,87,Ephesus,830.8984375,-438.3203125,2,Mountains,Gray,0.5
 77493,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,816,461,8163046116,30,16,Ephesus,816.234375,-461.875,93,Mountains,Gray,0.5
@@ -3131,7 +3131,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 78596,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_07,901,459,9019845957,98,57,Ephesus,901.765625,-459.5546875,-10,Mountains,Gray,0.5
 78631,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_08,895,431,895110431105,110,105,Ephesus,895.859375,-431.1796875,-177,Mountains,Gray,0.5
 78989,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,854,461,854118461124,118,124,Ephesus,854.921875,-461.03125,87,Mountains,Gray,0.5
-79197,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,877,441,87712844190,128,90,Ephesus,878,-441.296875,106,Mountains,Gray,0.5
+79197,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_11,877,441,87712844190,128,90,Ephesus,878.0,-441.296875,106,Mountains,Gray,0.5
 78846,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,891,454,8914345454,43,54,Ephesus,891.3359375,-454.578125,55,Mountains,Gray,0.5
 77245,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_02,862,464,8623346456,33,56,Ephesus,862.2578125,-464.5625,158,Mountains,Gray,0.5
 76996,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_04,843,433,84374433124,74,124,Ephesus,843.578125,-433.03125,-102,Mountains,Gray,0.5
@@ -3173,7 +3173,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77208,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,814,450,8144545023,45,23,Ephesus,814.3515625,-450.8203125,-34,Mountains,Gray,0.5
 76760,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,861,428,86152428122,52,122,Ephesus,861.40625,-428.046875,57,Mountains,Gray,0.5
 77816,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_03,913,461,9131046102,10,2,Ephesus,913.078125,-461.984375,-80,Mountains,Gray,0.5
-77757,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,882,460,88212846054,128,54,Ephesus,883,-460.578125,158,Mountains,Gray,0.5
+77757,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_04,882,460,88212846054,128,54,Ephesus,883.0,-460.578125,158,Mountains,Gray,0.5
 77996,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,871,449,8716844914,68,14,Ephesus,871.53125,-449.890625,-178,Mountains,Gray,0.5
 76543,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,872,467,87231467109,31,109,Ephesus,872.2421875,-467.1484375,97,Mountains,Gray,0.5
 78537,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_06,877,446,8770644691,6,91,Ephesus,877.046875,-446.2890625,-103,Mountains,Gray,0.5
@@ -3183,7 +3183,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 77247,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,889,463,88910746372,107,72,Ephesus,889.8359375,-463.4375,-150,Mountains,Gray,0.5
 77318,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,879,430,8797343072,73,72,Ephesus,879.5703125,-430.4375,123,Mountains,Gray,0.5
 78108,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_08,871,448,8719444821,94,21,Ephesus,871.734375,-448.8359375,-112,Mountains,Gray,0.5
-76219,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,823,452,82312845280,128,80,Ephesus,824,-452.375,53,Mountains,Gray,0.5
+76219,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,823,452,82312845280,128,80,Ephesus,824.0,-452.375,53,Mountains,Gray,0.5
 78812,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,911,471,9117447185,74,85,Ephesus,911.578125,-471.3359375,92,Mountains,Gray,0.5
 76178,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,910,462,91011946212,119,12,Ephesus,910.9296875,-462.90625,151,Mountains,Gray,0.5
 79223,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_10,922,456,9229645693,96,93,Ephesus,922.75,-456.2734375,-60,Mountains,Gray,0.5
@@ -3233,7 +3233,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76974,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_07,880,450,8808345079,83,79,Ephesus,880.6484375,-450.3828125,155,Mountains,Gray,0.5
 78933,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_09,862,441,8624244139,42,39,Ephesus,862.328125,-441.6953125,39,Mountains,Gray,0.5
 75986,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,822,429,8227142930,71,30,Ephesus,822.5546875,-429.765625,-28,Mountains,Gray,0.5
-77168,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,832,463,83212846310,128,10,Ephesus,833,-463.921875,-69,Mountains,Gray,0.5
+77168,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_03,832,463,83212846310,128,10,Ephesus,833.0,-463.921875,-69,Mountains,Gray,0.5
 76685,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_05,922,445,922127445107,127,107,Ephesus,922.9921875,-445.1640625,-93,Mountains,Gray,0.5
 78548,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,873,434,8730643435,6,35,Ephesus,873.046875,-434.7265625,121,Mountains,Gray,0.5
 78927,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_02,861,467,8611146722,11,22,Ephesus,861.0859375,-467.828125,59,Mountains,Gray,0.5
@@ -3341,7 +3341,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 76619,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_02,876,446,8761544626,15,26,Ephesus,876.1171875,-446.796875,-26,Mountains,Gray,0.5
 77476,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Small_01,851,424,8516142470,61,70,Ephesus,851.4765625,-424.453125,-107,Mountains,Gray,0.5
 76978,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_01,920,431,9206543106,65,6,Ephesus,920.5078125,-431.953125,102,Mountains,Gray,0.5
-77439,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,864,458,86491458128,91,128,Ephesus,864.7109375,-458,45,Mountains,Gray,0.5
+77439,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Medium_12,864,458,86491458128,91,128,Ephesus,864.7109375,-458.0,45,Mountains,Gray,0.5
 78366,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,891,443,89112744374,127,74,Ephesus,891.9921875,-443.421875,-30,Mountains,Gray,0.5
 76222,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_08,824,435,824114435106,114,106,Ephesus,824.890625,-435.171875,-96,Mountains,Gray,0.5
 76220,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Grass_Large_06,860,458,8608545888,85,88,Ephesus,860.6640625,-458.3125,-67,Mountains,Gray,0.5

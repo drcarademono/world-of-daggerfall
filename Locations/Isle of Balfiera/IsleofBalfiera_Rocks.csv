@@ -17,7 +17,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86762,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,721,209,7212420974,24,74,Isle of Balfiera,721.1875,-209.421875,-4,Mountains,Gray,0.5
 85973,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,681,225,6814422504,44,4,Isle of Balfiera,681.34375,-225.96875,-97,Mountains,Gray,0.5
 87217,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,706,208,7061920828,19,28,Isle of Balfiera,706.1484375,-208.78125,-133,Mountains,Gray,0.5
-86438,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,720,209,72021209128,21,128,Isle of Balfiera,720.1640625,-209,75,Mountains,Gray,0.5
+86438,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,720,209,72021209128,21,128,Isle of Balfiera,720.1640625,-209.0,75,Mountains,Gray,0.5
 87457,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,705,232,7055323218,53,18,Isle of Balfiera,705.4140625,-232.859375,-160,Mountains,Gray,0.5
 85521,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,696,190,6966819050,68,50,Isle of Balfiera,696.53125,-190.609375,-21,Mountains,Gray,0.5
 85430,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,708,215,70841215127,41,127,Isle of Balfiera,708.3203125,-215.0078125,-56,Mountains,Gray,0.5
@@ -34,7 +34,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85195,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,718,220,7186122096,61,96,Isle of Balfiera,718.4765625,-220.25,-8,Mountains,Gray,0.5
 86459,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,685,203,6857420381,74,81,Isle of Balfiera,685.578125,-203.3671875,-92,Mountains,Gray,0.5
 86128,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,724,225,72452225119,52,119,Isle of Balfiera,724.40625,-225.0703125,145,Mountains,Gray,0.5
-85286,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,717,185,7177818516,78,16,Isle of Balfiera,717.609375,-185.875,12,Ocean,Gray,0.5
 86379,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,733,190,7338019082,80,82,Isle of Balfiera,733.625,-190.359375,31,Mountains,Gray,0.5
 86742,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,710,202,7107720226,77,26,Isle of Balfiera,710.6015625,-202.796875,-75,Mountains,Gray,0.5
 87215,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,701,227,70120227120,20,120,Isle of Balfiera,701.15625,-227.0625,-161,Mountains,Gray,0.5
@@ -119,7 +118,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85132,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,748,220,7486022019,60,19,Isle of Balfiera,748.46875,-220.8515625,62,Mountains,Gray,0.5
 84714,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,716,214,71610521406,105,6,Isle of Balfiera,716.8203125,-214.953125,114,Mountains,Gray,0.5
 85469,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,731,197,7310219767,2,67,Isle of Balfiera,731.015625,-197.4765625,110,Mountains,Gray,0.5
-85639,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,689,186,68912818618,128,18,Isle of Balfiera,690,-186.859375,-84,Mountains,Gray,0.5
+85639,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,689,186,68912818618,128,18,Isle of Balfiera,690.0,-186.859375,-84,Mountains,Gray,0.5
 86497,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,690,223,6901822304,18,4,Isle of Balfiera,690.140625,-223.96875,-113,Mountains,Gray,0.5
 87592,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,722,205,7228120506,81,6,Isle of Balfiera,722.6328125,-205.953125,-147,Mountains,Gray,0.5
 86042,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,702,225,70212522561,125,61,Isle of Balfiera,702.9765625,-225.5234375,-83,Mountains,Gray,0.5
@@ -175,7 +174,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86773,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,719,230,71911230106,11,106,Isle of Balfiera,719.0859375,-230.171875,-22,Mountains,Gray,0.5
 87641,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,724,188,72411618864,116,64,Isle of Balfiera,724.90625,-188.5,62,Mountains,Gray,0.5
 85579,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,699,187,6991718718,17,18,Isle of Balfiera,699.1328125,-187.859375,-126,Mountains,Gray,0.5
-85445,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,659,201,6597720108,77,8,Isle of Balfiera,659.6015625,-201.9375,153,Ocean,Gray,0.5
 87338,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,734,198,73411198104,11,104,Isle of Balfiera,734.0859375,-198.1875,-174,Mountains,Gray,0.5
 86454,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,683,208,6838520860,85,60,Isle of Balfiera,683.6640625,-208.53125,-82,Mountains,Gray,0.5
 86597,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,691,213,69111521353,115,53,Isle of Balfiera,691.8984375,-213.5859375,74,Mountains,Gray,0.5
@@ -193,7 +191,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86142,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,741,209,7412020917,20,17,Isle of Balfiera,741.15625,-209.8671875,-172,Mountains,Gray,0.5
 85771,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,727,201,7273620155,36,55,Isle of Balfiera,727.28125,-201.5703125,135,Mountains,Gray,0.5
 84845,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,732,202,7324820223,48,23,Isle of Balfiera,732.375,-202.8203125,14,Mountains,Gray,0.5
-85489,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,696,224,696118224128,118,128,Isle of Balfiera,696.921875,-224,104,Mountains,Gray,0.5
+85489,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,696,224,696118224128,118,128,Isle of Balfiera,696.921875,-224.0,104,Mountains,Gray,0.5
 85343,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,697,184,6970618435,6,35,Isle of Balfiera,697.046875,-184.7265625,60,Mountains,Gray,0.5
 87138,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,676,212,67611921209,119,9,Isle of Balfiera,676.9296875,-212.9296875,-152,Mountains,Gray,0.5
 86751,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,688,223,6888522313,85,13,Isle of Balfiera,688.6640625,-223.8984375,-127,Mountains,Gray,0.5
@@ -210,7 +208,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86157,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,737,214,7376521419,65,19,Isle of Balfiera,737.5078125,-214.8515625,80,Mountains,Gray,0.5
 87464,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,683,207,6836620780,66,80,Isle of Balfiera,683.515625,-207.375,21,Mountains,Gray,0.5
 87058,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,695,179,69595179117,95,117,Isle of Balfiera,695.7421875,-179.0859375,135,Mountains,Gray,0.5
-86947,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,716,184,7166318413,63,13,Isle of Balfiera,716.4921875,-184.8984375,83,Ocean,Gray,0.5
 85870,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,721,220,7219222012,92,12,Isle of Balfiera,721.71875,-220.90625,-37,Mountains,Gray,0.5
 85391,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,737,226,73710922605,109,5,Isle of Balfiera,737.8515625,-226.9609375,-136,Mountains,Gray,0.5
 85320,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,697,200,69734200106,34,106,Isle of Balfiera,697.265625,-200.171875,-119,Mountains,Gray,0.5
@@ -238,7 +235,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86010,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,725,221,72512622104,126,4,Isle of Balfiera,725.984375,-221.96875,103,Mountains,Gray,0.5
 87759,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,709,196,7092219663,22,63,Isle of Balfiera,709.171875,-196.5078125,108,Mountains,Gray,0.5
 85155,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,703,184,7037718423,77,23,Isle of Balfiera,703.6015625,-184.8203125,-3,Mountains,Gray,0.5
-86981,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,693,214,69324214128,24,128,Isle of Balfiera,693.1875,-214,-125,Mountains,Gray,0.5
+86981,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,693,214,69324214128,24,128,Isle of Balfiera,693.1875,-214.0,-125,Mountains,Gray,0.5
 86635,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,708,192,70864192120,64,120,Isle of Balfiera,708.5,-192.0625,-99,Mountains,Gray,0.5
 85620,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,705,219,7058821953,88,53,Isle of Balfiera,705.6875,-219.5859375,-54,Mountains,Gray,0.5
 84629,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,688,198,68844198117,44,117,Isle of Balfiera,688.34375,-198.0859375,32,Mountains,Gray,0.5
@@ -270,7 +267,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86411,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,689,184,68941184106,41,106,Isle of Balfiera,689.3203125,-184.171875,-25,Mountains,Gray,0.5
 84953,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,700,213,70021213101,21,101,Isle of Balfiera,700.1640625,-213.2109375,59,Mountains,Gray,0.5
 86602,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,735,220,73511222086,112,86,Isle of Balfiera,735.875,-220.328125,77,Mountains,Gray,0.5
-85964,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,625,148,6255814809,58,9,Isle of Balfiera,625.453125,-148.9296875,-2,Ocean,Gray,0.5
 85396,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,678,219,678122219120,122,120,Isle of Balfiera,678.953125,-219.0625,120,Mountains,Gray,0.5
 87284,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,705,206,7058720640,87,40,Isle of Balfiera,705.6796875,-206.6875,85,Mountains,Gray,0.5
 86675,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,741,206,74120206125,20,125,Isle of Balfiera,741.15625,-206.0234375,-83,Mountains,Gray,0.5
@@ -284,7 +280,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85940,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,715,199,71510119941,101,41,Isle of Balfiera,715.7890625,-199.6796875,-177,Mountains,Gray,0.5
 87655,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,697,186,6979018612,90,12,Isle of Balfiera,697.703125,-186.90625,-150,Mountains,Gray,0.5
 86639,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,681,208,6818320804,83,4,Isle of Balfiera,681.6484375,-208.96875,-15,Mountains,Gray,0.5
-85900,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,641,194,64111019433,110,33,Isle of Balfiera,641.859375,-194.7421875,123,Ocean,Gray,0.5
 85191,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,693,202,6931820211,18,11,Isle of Balfiera,693.140625,-202.9140625,-158,Mountains,Gray,0.5
 86851,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,700,221,70061221112,61,112,Isle of Balfiera,700.4765625,-221.125,-138,Mountains,Gray,0.5
 86451,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,735,197,7353819742,38,42,Isle of Balfiera,735.296875,-197.671875,-31,Mountains,Gray,0.5
@@ -296,7 +291,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84773,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,687,198,68756198117,56,117,Isle of Balfiera,687.4375,-198.0859375,-167,Mountains,Gray,0.5
 87286,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,718,225,7184422596,44,96,Isle of Balfiera,718.34375,-225.25,-106,Mountains,Gray,0.5
 87513,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,708,234,7080523482,5,82,Isle of Balfiera,708.0390625,-234.359375,8,Mountains,Gray,0.5
-85173,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,652,192,65210419253,104,53,Isle of Balfiera,652.8125,-192.5859375,125,Ocean,Gray,0.5
 86977,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,729,206,7293320616,33,16,Isle of Balfiera,729.2578125,-206.875,-132,Mountains,Gray,0.5
 85318,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,740,218,7405421890,54,90,Isle of Balfiera,740.421875,-218.296875,-68,Mountains,Gray,0.5
 84922,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,733,216,73310721661,107,61,Isle of Balfiera,733.8359375,-216.5234375,-59,Mountains,Gray,0.5
@@ -337,7 +331,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85586,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,708,210,7086221025,62,25,Isle of Balfiera,708.484375,-210.8046875,139,Mountains,Gray,0.5
 85735,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,727,194,7279819448,98,48,Isle of Balfiera,727.765625,-194.625,179,Mountains,Gray,0.5
 86508,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,735,218,7352721827,27,27,Isle of Balfiera,735.2109375,-218.7890625,179,Mountains,Gray,0.5
-85815,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,705,217,70512821785,128,85,Isle of Balfiera,706,-217.3359375,40,Mountains,Gray,0.5
+85815,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,705,217,70512821785,128,85,Isle of Balfiera,706.0,-217.3359375,40,Mountains,Gray,0.5
 86787,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,687,197,6873719776,37,76,Isle of Balfiera,687.2890625,-197.40625,68,Mountains,Gray,0.5
 85625,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,683,178,6832917843,29,43,Isle of Balfiera,683.2265625,-178.6640625,155,Mountains,Gray,0.5
 84852,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,726,197,7261219782,12,82,Isle of Balfiera,726.09375,-197.359375,-51,Mountains,Gray,0.5
@@ -386,7 +380,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86190,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,732,228,7323922877,39,77,Isle of Balfiera,732.3046875,-228.3984375,-111,Mountains,Gray,0.5
 86739,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,681,223,68112122355,121,55,Isle of Balfiera,681.9453125,-223.5703125,-178,Mountains,Gray,0.5
 86625,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,728,220,72801220123,1,123,Isle of Balfiera,728.0078125,-220.0390625,-127,Mountains,Gray,0.5
-87693,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,709,231,70912823189,128,89,Isle of Balfiera,710,-231.3046875,23,Mountains,Gray,0.5
+87693,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,709,231,70912823189,128,89,Isle of Balfiera,710.0,-231.3046875,23,Mountains,Gray,0.5
 87201,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,728,218,7284221842,42,42,Isle of Balfiera,728.328125,-218.671875,-143,Mountains,Gray,0.5
 87422,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,712,200,71264200101,64,101,Isle of Balfiera,712.5,-200.2109375,-105,Mountains,Gray,0.5
 85517,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,703,189,7030318974,3,74,Isle of Balfiera,703.0234375,-189.421875,95,Mountains,Gray,0.5
@@ -403,7 +397,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85221,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,693,223,6938122368,81,68,Isle of Balfiera,693.6328125,-223.46875,-19,Mountains,Gray,0.5
 85101,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,708,210,7086521061,65,61,Isle of Balfiera,708.5078125,-210.5234375,-141,Mountains,Gray,0.5
 86564,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,669,215,6699921590,99,90,Isle of Balfiera,669.7734375,-215.296875,58,Mountains,Gray,0.5
-86757,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,706,209,70605209128,5,128,Isle of Balfiera,706.0390625,-209,147,Mountains,Gray,0.5
+86757,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,706,209,70605209128,5,128,Isle of Balfiera,706.0390625,-209.0,147,Mountains,Gray,0.5
 84903,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,673,203,67312120381,121,81,Isle of Balfiera,673.9453125,-203.3671875,-174,Mountains,Gray,0.5
 87024,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,742,219,74210721952,107,52,Isle of Balfiera,742.8359375,-219.59375,149,Mountains,Gray,0.5
 85157,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,700,226,7004822643,48,43,Isle of Balfiera,700.375,-226.6640625,-142,Mountains,Gray,0.5
@@ -451,7 +445,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87558,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,722,196,72211519664,115,64,Isle of Balfiera,722.8984375,-196.5,106,Mountains,Gray,0.5
 85691,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,692,183,69212018366,120,66,Isle of Balfiera,692.9375,-183.484375,34,Mountains,Gray,0.5
 86591,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,676,206,6763120692,31,92,Isle of Balfiera,676.2421875,-206.28125,-2,Mountains,Gray,0.5
-86941,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,744,230,74412823015,128,15,Isle of Balfiera,745,-230.8828125,-47,,Gray,0.5
+86941,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,744,230,74412823015,128,15,Isle of Balfiera,745.0,-230.8828125,-47,,Gray,0.5
 85975,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,695,207,69590207108,90,108,Isle of Balfiera,695.703125,-207.15625,-153,Mountains,Gray,0.5
 85872,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,724,231,7241923174,19,74,Isle of Balfiera,724.1484375,-231.421875,-100,Mountains,Gray,0.5
 84844,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,704,230,7042023017,20,17,Isle of Balfiera,704.15625,-230.8671875,-116,Mountains,Gray,0.5
@@ -473,7 +467,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85987,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,731,214,7317521480,75,80,Isle of Balfiera,731.5859375,-214.375,141,Mountains,Gray,0.5
 85838,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,690,225,69039225124,39,124,Isle of Balfiera,690.3046875,-225.03125,-162,Mountains,Gray,0.5
 87156,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,722,219,7226921984,69,84,Isle of Balfiera,722.5390625,-219.34375,-169,Mountains,Gray,0.5
-86388,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,662,179,66211617933,116,33,Isle of Balfiera,662.90625,-179.7421875,58,Ocean,Gray,0.5
 85232,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,700,215,7006721556,67,56,Isle of Balfiera,700.5234375,-215.5625,29,Mountains,Gray,0.5
 87589,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,718,226,71850226114,50,114,Isle of Balfiera,718.390625,-226.109375,144,Mountains,Gray,0.5
 86110,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,701,199,70136199107,36,107,Isle of Balfiera,701.28125,-199.1640625,-12,Mountains,Gray,0.5
@@ -546,7 +539,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85589,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,694,197,6941419710,14,10,Isle of Balfiera,694.109375,-197.921875,85,Mountains,Gray,0.5
 87136,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,749,208,749119208118,119,118,Isle of Balfiera,749.9296875,-208.078125,-7,Mountains,Gray,0.5
 86719,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,717,186,71771186115,71,115,Isle of Balfiera,717.5546875,-186.1015625,-145,Mountains,Gray,0.5
-87402,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,624,150,62410015005,100,5,Isle of Balfiera,624.78125,-150.9609375,117,Ocean,Gray,0.5
 86666,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,747,209,7477920942,79,42,Isle of Balfiera,747.6171875,-209.671875,-80,Mountains,Gray,0.5
 87312,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,730,199,7309619987,96,87,Isle of Balfiera,730.75,-199.3203125,23,Mountains,Gray,0.5
 86890,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,728,229,7284322976,43,76,Isle of Balfiera,728.3359375,-229.40625,158,Mountains,Gray,0.5
@@ -598,13 +590,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85986,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,744,208,7440920886,9,86,Isle of Balfiera,744.0703125,-208.328125,-110,Mountains,Gray,0.5
 86989,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,698,202,6986520251,65,51,Isle of Balfiera,698.5078125,-202.6015625,149,Mountains,Gray,0.5
 87203,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,705,192,7054219278,42,78,Isle of Balfiera,705.328125,-192.390625,-108,Mountains,Gray,0.5
-84909,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,688,220,68812822069,128,69,Isle of Balfiera,689,-220.4609375,10,Mountains,Gray,0.5
+84909,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,688,220,68812822069,128,69,Isle of Balfiera,689.0,-220.4609375,10,Mountains,Gray,0.5
 86824,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,697,208,6974120871,41,71,Isle of Balfiera,697.3203125,-208.4453125,55,Mountains,Gray,0.5
 87236,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,725,192,7257519224,75,24,Isle of Balfiera,725.5859375,-192.8125,35,Mountains,Gray,0.5
 86536,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,691,196,691110196119,110,119,Isle of Balfiera,691.859375,-196.0703125,46,Mountains,Gray,0.5
 84653,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,712,220,7129622029,96,29,Isle of Balfiera,712.75,-220.7734375,-20,Mountains,Gray,0.5
 87092,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,713,233,71336233120,36,120,Isle of Balfiera,713.28125,-233.0625,89,Mountains,Gray,0.5
-86016,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,637,192,6378619217,86,17,Isle of Balfiera,637.671875,-192.8671875,151,Ocean,Gray,0.5
 85818,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,718,214,7183021442,30,42,Isle of Balfiera,718.234375,-214.671875,93,Mountains,Gray,0.5
 86730,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,733,210,73310821012,108,12,Isle of Balfiera,733.84375,-210.90625,28,Mountains,Gray,0.5
 86592,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,729,197,72910519751,105,51,Isle of Balfiera,729.8203125,-197.6015625,61,Mountains,Gray,0.5
@@ -622,15 +613,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87741,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,747,226,7478922669,89,69,Isle of Balfiera,747.6953125,-226.4609375,135,Mountains,Gray,0.5
 87064,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,712,210,7121021050,10,50,Isle of Balfiera,712.078125,-210.609375,-22,Mountains,Gray,0.5
 86587,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,702,232,70237232115,37,115,Isle of Balfiera,702.2890625,-232.1015625,-176,Mountains,Gray,0.5
-85915,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,668,216,66810621665,106,65,Isle of Balfiera,668.828125,-216.4921875,-108,Ocean,Gray,0.5
 85543,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,733,190,73319190122,19,122,Isle of Balfiera,733.1484375,-190.046875,-54,Mountains,Gray,0.5
 87307,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,715,185,7155318539,53,39,Isle of Balfiera,715.4140625,-185.6953125,70,Mountains,Gray,0.5
 87497,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,724,215,7245921591,59,91,Isle of Balfiera,724.4609375,-215.2890625,136,Mountains,Gray,0.5
-86348,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,696,178,6969517821,95,21,Isle of Balfiera,696.7421875,-178.8359375,-78,Ocean,Gray,0.5
 84891,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,744,221,74488221120,88,120,Isle of Balfiera,744.6875,-221.0625,31,Mountains,Gray,0.5
 86134,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,730,227,73011122745,111,45,Isle of Balfiera,730.8671875,-227.6484375,127,Mountains,Gray,0.5
 86019,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,681,208,68110820877,108,77,Isle of Balfiera,681.84375,-208.3984375,-150,Mountains,Gray,0.5
-87069,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,702,220,702121220128,121,128,Isle of Balfiera,702.9453125,-220,-3,Mountains,Gray,0.5
+87069,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,702,220,702121220128,121,128,Isle of Balfiera,702.9453125,-220.0,-3,Mountains,Gray,0.5
 86709,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,743,224,74312022431,120,31,Isle of Balfiera,743.9375,-224.7578125,-107,Mountains,Gray,0.5
 87686,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,709,223,7094922343,49,43,Isle of Balfiera,709.3828125,-223.6640625,0,Mountains,Gray,0.5
 86137,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,693,206,6933320668,33,68,Isle of Balfiera,693.2578125,-206.46875,81,Mountains,Gray,0.5
@@ -792,7 +781,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86998,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,729,208,7299520887,95,87,Isle of Balfiera,729.7421875,-208.3203125,102,Mountains,Gray,0.5
 85058,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,739,197,7397819731,78,31,Isle of Balfiera,739.609375,-197.7578125,98,Mountains,Gray,0.5
 85668,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,741,218,74111621890,116,90,Isle of Balfiera,741.90625,-218.296875,-15,Mountains,Gray,0.5
-86783,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,721,227,721128227107,128,107,Isle of Balfiera,722,-227.1640625,-57,Mountains,Gray,0.5
+86783,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,721,227,721128227107,128,107,Isle of Balfiera,722.0,-227.1640625,-57,Mountains,Gray,0.5
 86712,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,737,213,73710121357,101,57,Isle of Balfiera,737.7890625,-213.5546875,134,Mountains,Gray,0.5
 85692,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,694,178,6945917874,59,74,Isle of Balfiera,694.4609375,-178.421875,178,Mountains,Gray,0.5
 86453,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,691,225,69111522592,115,92,Isle of Balfiera,691.8984375,-225.28125,1,Mountains,Gray,0.5
@@ -836,7 +825,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85297,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,748,223,74812422323,124,23,Isle of Balfiera,748.96875,-223.8203125,-38,Mountains,Gray,0.5
 87761,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,693,205,6938820511,88,11,Isle of Balfiera,693.6875,-205.9140625,-138,Mountains,Gray,0.5
 85509,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,723,204,72372204104,72,104,Isle of Balfiera,723.5625,-204.1875,-133,Mountains,Gray,0.5
-84927,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,690,220,69012822096,128,96,Isle of Balfiera,691,-220.25,50,Mountains,Gray,0.5
+84927,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,690,220,69012822096,128,96,Isle of Balfiera,691.0,-220.25,50,Mountains,Gray,0.5
 85724,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,683,193,68311919352,119,52,Isle of Balfiera,683.9296875,-193.59375,9,Mountains,Gray,0.5
 85050,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,750,211,7508621176,86,76,Isle of Balfiera,750.671875,-211.40625,-154,Mountains,Gray,0.5
 87522,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,707,194,70771194121,71,121,Isle of Balfiera,707.5546875,-194.0546875,4,Mountains,Gray,0.5
@@ -847,7 +836,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84762,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,689,198,68973198109,73,109,Isle of Balfiera,689.5703125,-198.1484375,75,Mountains,Gray,0.5
 87181,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,712,207,71210920729,109,29,Isle of Balfiera,712.8515625,-207.7734375,-64,Mountains,Gray,0.5
 86228,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,689,186,6899518677,95,77,Isle of Balfiera,689.7421875,-186.3984375,165,Mountains,Gray,0.5
-85123,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,685,227,68512222736,122,36,Isle of Balfiera,685.953125,-227.71875,-142,Ocean,Gray,0.5
 86814,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,712,196,71211519612,115,12,Isle of Balfiera,712.8984375,-196.90625,-172,Mountains,Gray,0.5
 86627,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,686,228,68656228108,56,108,Isle of Balfiera,686.4375,-228.15625,14,Mountains,Gray,0.5
 84895,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,703,215,70315215103,15,103,Isle of Balfiera,703.1171875,-215.1953125,115,Mountains,Gray,0.5
@@ -890,14 +878,14 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85315,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,739,214,7394921444,49,44,Isle of Balfiera,739.3828125,-214.65625,-61,Mountains,Gray,0.5
 87503,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,717,219,71710621941,106,41,Isle of Balfiera,717.828125,-219.6796875,175,Mountains,Gray,0.5
 86274,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,724,190,7247219054,72,54,Isle of Balfiera,724.5625,-190.578125,163,Mountains,Gray,0.5
-85539,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,716,229,71682229128,82,128,Isle of Balfiera,716.640625,-229,-178,Mountains,Gray,0.5
+85539,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,716,229,71682229128,82,128,Isle of Balfiera,716.640625,-229.0,-178,Mountains,Gray,0.5
 86298,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,718,225,718112225127,112,127,Isle of Balfiera,718.875,-225.0078125,125,Mountains,Gray,0.5
 86260,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,697,223,6972222375,22,75,Isle of Balfiera,697.171875,-223.4140625,20,Mountains,Gray,0.5
 86934,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,683,191,6838519145,85,45,Isle of Balfiera,683.6640625,-191.6484375,161,Mountains,Gray,0.5
 85311,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,732,229,7329922951,99,51,Isle of Balfiera,732.7734375,-229.6015625,120,Mountains,Gray,0.5
 85555,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,703,226,7037722678,77,78,Isle of Balfiera,703.6015625,-226.390625,-157,Mountains,Gray,0.5
 86906,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,744,227,7448022755,80,55,Isle of Balfiera,744.625,-227.5703125,29,Mountains,Gray,0.5
-87147,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,713,223,713128223125,128,125,Isle of Balfiera,714,-223.0234375,113,Mountains,Gray,0.5
+87147,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,713,223,713128223125,128,125,Isle of Balfiera,714.0,-223.0234375,113,Mountains,Gray,0.5
 87341,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,684,180,68410518058,105,58,Isle of Balfiera,684.8203125,-180.546875,154,Mountains,Gray,0.5
 86211,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,741,196,74110219617,102,17,Isle of Balfiera,741.796875,-196.8671875,-114,Mountains,Gray,0.5
 87583,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,706,226,7062322659,23,59,Isle of Balfiera,706.1796875,-226.5390625,129,Mountains,Gray,0.5
@@ -912,7 +900,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85292,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,708,222,7089722251,97,51,Isle of Balfiera,708.7578125,-222.6015625,-33,Mountains,Gray,0.5
 85855,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,699,186,69910118647,101,47,Isle of Balfiera,699.7890625,-186.6328125,12,Mountains,Gray,0.5
 85656,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,700,203,70011720357,117,57,Isle of Balfiera,700.9140625,-203.5546875,7,Mountains,Gray,0.5
-86139,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,637,190,63711219036,112,36,Isle of Balfiera,637.875,-190.71875,75,Ocean,Gray,0.5
 86100,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,721,220,7215322005,53,5,Isle of Balfiera,721.4140625,-220.9609375,-99,Mountains,Gray,0.5
 85731,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,726,220,726123220119,123,119,Isle of Balfiera,726.9609375,-220.0703125,-16,Mountains,Gray,0.5
 86378,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,707,185,7077218523,72,23,Isle of Balfiera,707.5625,-185.8203125,-26,Mountains,Gray,0.5
@@ -971,13 +958,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85809,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,710,232,7102423257,24,57,Isle of Balfiera,710.1875,-232.5546875,48,Mountains,Gray,0.5
 87489,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,712,189,712117189119,117,119,Isle of Balfiera,712.9140625,-189.0703125,160,Mountains,Gray,0.5
 86064,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,732,194,7320419463,4,63,Isle of Balfiera,732.03125,-194.5078125,121,Mountains,Gray,0.5
-86162,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,711,225,71112822550,128,50,Isle of Balfiera,712,-225.609375,-117,Mountains,Gray,0.5
+86162,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,711,225,71112822550,128,50,Isle of Balfiera,712.0,-225.609375,-117,Mountains,Gray,0.5
 87210,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,691,203,6913420332,34,32,Isle of Balfiera,691.265625,-203.75,71,Mountains,Gray,0.5
 87140,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,709,190,70910219010,102,10,Isle of Balfiera,709.796875,-190.921875,-76,Mountains,Gray,0.5
-87006,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,713,201,71376201128,76,128,Isle of Balfiera,713.59375,-201,-85,Mountains,Gray,0.5
+87006,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,713,201,71376201128,76,128,Isle of Balfiera,713.59375,-201.0,-85,Mountains,Gray,0.5
 87702,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,699,197,6997719713,77,13,Isle of Balfiera,699.6015625,-197.8984375,-170,Mountains,Gray,0.5
 84794,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,692,219,692109219103,109,103,Isle of Balfiera,692.8515625,-219.1953125,-119,Mountains,Gray,0.5
-85172,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,639,169,63910816901,108,1,Isle of Balfiera,639.84375,-169.9921875,-6,Ocean,Gray,0.5
 84648,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,734,217,73410521789,105,89,Isle of Balfiera,734.8203125,-217.3046875,-100,Mountains,Gray,0.5
 85463,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,718,215,7184821532,48,32,Isle of Balfiera,718.375,-215.75,176,Mountains,Gray,0.5
 86997,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,717,201,71711520151,115,51,Isle of Balfiera,717.8984375,-201.6015625,4,Mountains,Gray,0.5
@@ -1040,7 +1026,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85366,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,701,206,7015420680,54,80,Isle of Balfiera,701.421875,-206.375,180,Mountains,Gray,0.5
 86618,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,725,210,7257921096,79,96,Isle of Balfiera,725.6171875,-210.25,100,Mountains,Gray,0.5
 86806,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,713,200,7131820044,18,44,Isle of Balfiera,713.140625,-200.65625,29,Mountains,Gray,0.5
-86083,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,686,181,68611518133,115,33,Isle of Balfiera,686.8984375,-181.7421875,102,Ocean,Gray,0.5
 85654,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,730,195,73012319574,123,74,Isle of Balfiera,730.9609375,-195.421875,89,Mountains,Gray,0.5
 86225,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,738,221,7388122168,81,68,Isle of Balfiera,738.6328125,-221.46875,-37,Mountains,Gray,0.5
 86599,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,714,185,7144118551,41,51,Isle of Balfiera,714.3203125,-185.6015625,69,Mountains,Gray,0.5
@@ -1057,7 +1042,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87330,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,745,221,74512322106,123,6,Isle of Balfiera,745.9609375,-221.953125,112,Mountains,Gray,0.5
 87038,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,732,225,7325822528,58,28,Isle of Balfiera,732.453125,-225.78125,117,Mountains,Gray,0.5
 84888,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,706,200,70696200127,96,127,Isle of Balfiera,706.75,-200.0078125,62,Mountains,Gray,0.5
-85006,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,711,215,711128215125,128,125,Isle of Balfiera,712,-215.0234375,14,Mountains,Gray,0.5
+85006,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,711,215,711128215125,128,125,Isle of Balfiera,712.0,-215.0234375,14,Mountains,Gray,0.5
 86376,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,720,234,7207523409,75,9,Isle of Balfiera,720.5859375,-234.9296875,162,Mountains,Gray,0.5
 84921,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,717,198,71712619879,126,79,Isle of Balfiera,717.984375,-198.3828125,114,Mountains,Gray,0.5
 86425,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,696,199,69611519933,115,33,Isle of Balfiera,696.8984375,-199.7421875,69,Mountains,Gray,0.5
@@ -1077,16 +1062,15 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85244,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,737,195,737122195109,122,109,Isle of Balfiera,737.953125,-195.1484375,80,Mountains,Gray,0.5
 86606,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,714,206,7144420614,44,14,Isle of Balfiera,714.34375,-206.890625,84,Mountains,Gray,0.5
 85414,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,739,215,7397521597,75,97,Isle of Balfiera,739.5859375,-215.2421875,34,Mountains,Gray,0.5
-86090,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,735,208,73506208128,6,128,Isle of Balfiera,735.046875,-208,175,Mountains,Gray,0.5
+86090,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,735,208,73506208128,6,128,Isle of Balfiera,735.046875,-208.0,175,Mountains,Gray,0.5
 84635,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,691,219,691109219109,109,109,Isle of Balfiera,691.8515625,-219.1484375,-15,Mountains,Gray,0.5
 87430,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,714,218,71453218111,53,111,Isle of Balfiera,714.4140625,-218.1328125,67,Mountains,Gray,0.5
 86330,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,683,197,6838819758,88,58,Isle of Balfiera,683.6875,-197.546875,112,Mountains,Gray,0.5
-85898,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,647,203,64711320375,113,75,Isle of Balfiera,647.8828125,-203.4140625,134,Ocean,Gray,0.5
 86728,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,731,230,7310323021,3,21,Isle of Balfiera,731.0234375,-230.8359375,145,Mountains,Gray,0.5
 85738,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,748,224,74810322451,103,51,Isle of Balfiera,748.8046875,-224.6015625,-145,Mountains,Gray,0.5
 86765,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,697,217,6977321744,73,44,Isle of Balfiera,697.5703125,-217.65625,-63,Mountains,Gray,0.5
 86176,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,700,205,7002820521,28,21,Isle of Balfiera,700.21875,-205.8359375,-16,Mountains,Gray,0.5
-86399,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,693,209,69373209128,73,128,Isle of Balfiera,693.5703125,-209,84,Mountains,Gray,0.5
+86399,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,693,209,69373209128,73,128,Isle of Balfiera,693.5703125,-209.0,84,Mountains,Gray,0.5
 87328,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,750,214,7500621469,6,69,Isle of Balfiera,750.046875,-214.4609375,-11,Mountains,Gray,0.5
 86285,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,687,185,6878518534,85,34,Isle of Balfiera,687.6640625,-185.734375,-95,Mountains,Gray,0.5
 85000,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,691,215,6918721523,87,23,Isle of Balfiera,691.6796875,-215.8203125,-131,Mountains,Gray,0.5
@@ -1134,14 +1118,14 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84910,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,702,202,70240202109,40,109,Isle of Balfiera,702.3125,-202.1484375,122,Mountains,Gray,0.5
 86322,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,740,196,7408619697,86,97,Isle of Balfiera,740.671875,-196.2421875,-39,Mountains,Gray,0.5
 87112,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,714,212,71411621238,116,38,Isle of Balfiera,714.90625,-212.703125,-88,Mountains,Gray,0.5
-85216,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,721,201,721128201121,128,121,Isle of Balfiera,722,-201.0546875,-131,Mountains,Gray,0.5
+85216,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,721,201,721128201121,128,121,Isle of Balfiera,722.0,-201.0546875,-131,Mountains,Gray,0.5
 84785,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,699,198,69998198116,98,116,Isle of Balfiera,699.765625,-198.09375,-39,Mountains,Gray,0.5
 85125,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,731,232,73111223280,112,80,Isle of Balfiera,731.875,-232.375,71,Mountains,Gray,0.5
 85912,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,690,186,6909718667,97,67,Isle of Balfiera,690.7578125,-186.4765625,121,Mountains,Gray,0.5
 86878,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,734,208,7342320846,23,46,Isle of Balfiera,734.1796875,-208.640625,21,Mountains,Gray,0.5
 85787,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,702,203,7027020310,70,10,Isle of Balfiera,702.546875,-203.921875,-155,Mountains,Gray,0.5
 87389,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,730,217,7306421772,64,72,Isle of Balfiera,730.5,-217.4375,-106,Mountains,Gray,0.5
-86555,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,706,201,706128201125,128,125,Isle of Balfiera,707,-201.0234375,-142,Mountains,Gray,0.5
+86555,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,706,201,706128201125,128,125,Isle of Balfiera,707.0,-201.0234375,-142,Mountains,Gray,0.5
 85822,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,716,226,7166522627,65,27,Isle of Balfiera,716.5078125,-226.7890625,131,Mountains,Gray,0.5
 85488,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,721,234,7217023485,70,85,Isle of Balfiera,721.546875,-234.3359375,119,Mountains,Gray,0.5
 86861,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,734,232,7349623206,96,6,Isle of Balfiera,734.75,-232.953125,-167,Mountains,Gray,0.5
@@ -1325,14 +1309,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87247,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,686,195,68619195124,19,124,Isle of Balfiera,686.1484375,-195.03125,80,Mountains,Gray,0.5
 87369,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,680,184,6803518431,35,31,Isle of Balfiera,680.2734375,-184.7578125,46,Mountains,Gray,0.5
 85722,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,748,217,7480621794,6,94,Isle of Balfiera,748.046875,-217.265625,1,Mountains,Gray,0.5
-86802,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,714,218,71432218128,32,128,Isle of Balfiera,714.25,-218,155,Mountains,Gray,0.5
+86802,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,714,218,71432218128,32,128,Isle of Balfiera,714.25,-218.0,155,Mountains,Gray,0.5
 84885,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,732,212,7329121259,91,59,Isle of Balfiera,732.7109375,-212.5390625,106,Mountains,Gray,0.5
 86026,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,675,209,6756420987,64,87,Isle of Balfiera,675.5,-209.3203125,-15,Mountains,Gray,0.5
 86499,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,697,202,6972220281,22,81,Isle of Balfiera,697.171875,-202.3671875,-18,Mountains,Gray,0.5
 86912,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,702,197,70212619734,126,34,Isle of Balfiera,702.984375,-197.734375,-160,Mountains,Gray,0.5
 87656,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,711,200,7118920053,89,53,Isle of Balfiera,711.6953125,-200.5859375,-107,Mountains,Gray,0.5
 87458,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,728,193,7282219325,22,25,Isle of Balfiera,728.171875,-193.8046875,127,Mountains,Gray,0.5
-87072,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,698,178,6987317823,73,23,Isle of Balfiera,698.5703125,-178.8203125,108,Ocean,Gray,0.5
 85989,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,708,222,70810022212,100,12,Isle of Balfiera,708.78125,-222.90625,11,Mountains,Gray,0.5
 84962,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,730,190,7306519041,65,41,Isle of Balfiera,730.5078125,-190.6796875,-25,Mountains,Gray,0.5
 85726,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,688,195,68889195108,89,108,Isle of Balfiera,688.6953125,-195.15625,62,Mountains,Gray,0.5
@@ -1458,7 +1441,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85364,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,732,225,73212722522,127,22,Isle of Balfiera,732.9921875,-225.828125,134,Mountains,Gray,0.5
 87295,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,697,201,6977720119,77,19,Isle of Balfiera,697.6015625,-201.8515625,131,Mountains,Gray,0.5
 84867,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,740,222,7406022255,60,55,Isle of Balfiera,740.46875,-222.5703125,-107,Mountains,Gray,0.5
-85131,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,703,203,703103203128,103,128,Isle of Balfiera,703.8046875,-203,-31,Mountains,Gray,0.5
+85131,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,703,203,703103203128,103,128,Isle of Balfiera,703.8046875,-203.0,-31,Mountains,Gray,0.5
 86350,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,716,220,7165422015,54,15,Isle of Balfiera,716.421875,-220.8828125,-154,Mountains,Gray,0.5
 85341,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,741,230,74110423061,104,61,Isle of Balfiera,741.8125,-230.5234375,-81,Mountains,Gray,0.5
 87098,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,726,232,7261723261,17,61,Isle of Balfiera,726.1328125,-232.5234375,-89,Mountains,Gray,0.5
@@ -1480,7 +1463,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85550,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,689,201,68910320190,103,90,Isle of Balfiera,689.8046875,-201.296875,-21,Mountains,Gray,0.5
 87454,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,721,219,72103219122,3,122,Isle of Balfiera,721.0234375,-219.046875,138,Mountains,Gray,0.5
 85487,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,686,184,68666184115,66,115,Isle of Balfiera,686.515625,-184.1015625,-73,Mountains,Gray,0.5
-87007,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,634,202,63411120274,111,74,Isle of Balfiera,634.8671875,-202.421875,180,Ocean,Gray,0.5
 86130,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,739,221,7396022170,60,70,Isle of Balfiera,739.46875,-221.453125,167,Mountains,Gray,0.5
 86626,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,731,202,73158202127,58,127,Isle of Balfiera,731.453125,-202.0078125,43,Mountains,Gray,0.5
 87664,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,743,220,7433422020,34,20,Isle of Balfiera,743.265625,-220.84375,-147,Mountains,Gray,0.5
@@ -1525,7 +1507,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86398,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,697,179,697109179116,109,116,Isle of Balfiera,697.8515625,-179.09375,-2,Mountains,Gray,0.5
 87371,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,720,213,7207821338,78,38,Isle of Balfiera,720.609375,-213.703125,-176,Mountains,Gray,0.5
 84734,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,692,218,6922721811,27,11,Isle of Balfiera,692.2109375,-218.9140625,-74,Mountains,Gray,0.5
-86402,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,706,213,70625213128,25,128,Isle of Balfiera,706.1953125,-213,142,Mountains,Gray,0.5
+86402,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,706,213,70625213128,25,128,Isle of Balfiera,706.1953125,-213.0,142,Mountains,Gray,0.5
 86514,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,733,212,7334921210,49,10,Isle of Balfiera,733.3828125,-212.921875,168,Mountains,Gray,0.5
 86900,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,715,212,7156121289,61,89,Isle of Balfiera,715.4765625,-212.3046875,-173,Mountains,Gray,0.5
 87350,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,710,223,71012622309,126,9,Isle of Balfiera,710.984375,-223.9296875,-2,Mountains,Gray,0.5
@@ -1547,7 +1529,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87471,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,712,219,7121821998,18,98,Isle of Balfiera,712.140625,-219.234375,31,Mountains,Gray,0.5
 85530,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,730,217,73099217102,99,102,Isle of Balfiera,730.7734375,-217.203125,-95,Mountains,Gray,0.5
 87083,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,689,212,68966212100,66,100,Isle of Balfiera,689.515625,-212.21875,-159,Mountains,Gray,0.5
-84980,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,742,209,74275209128,75,128,Isle of Balfiera,742.5859375,-209,-119,Mountains,Gray,0.5
+84980,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,742,209,74275209128,75,128,Isle of Balfiera,742.5859375,-209.0,-119,Mountains,Gray,0.5
 85761,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,693,197,69310019755,100,55,Isle of Balfiera,693.78125,-197.5703125,107,Mountains,Gray,0.5
 84853,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,691,216,6916921618,69,18,Isle of Balfiera,691.5390625,-216.859375,162,Mountains,Gray,0.5
 86435,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,688,210,6888421073,84,73,Isle of Balfiera,688.65625,-210.4296875,-159,Mountains,Gray,0.5
@@ -1680,7 +1662,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84866,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,699,222,6990922283,9,83,Isle of Balfiera,699.0703125,-222.3515625,63,Mountains,Gray,0.5
 86853,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,714,198,714102198112,102,112,Isle of Balfiera,714.796875,-198.125,163,Mountains,Gray,0.5
 85039,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,685,193,68513193127,13,127,Isle of Balfiera,685.1015625,-193.0078125,-116,Mountains,Gray,0.5
-85275,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,716,195,71612819562,128,62,Isle of Balfiera,717,-195.515625,-33,Mountains,Gray,0.5
+85275,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,716,195,71612819562,128,62,Isle of Balfiera,717.0,-195.515625,-33,Mountains,Gray,0.5
 87240,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,710,213,71010821340,108,40,Isle of Balfiera,710.84375,-213.6875,55,Mountains,Gray,0.5
 85188,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,721,225,72102225108,2,108,Isle of Balfiera,721.015625,-225.15625,-54,Mountains,Gray,0.5
 87561,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,694,224,6941522433,15,33,Isle of Balfiera,694.1171875,-224.7421875,180,Mountains,Gray,0.5
@@ -1729,7 +1711,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85600,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,684,216,6844421641,44,41,Isle of Balfiera,684.34375,-216.6796875,146,Mountains,Gray,0.5
 85031,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,702,183,7029618367,96,67,Isle of Balfiera,702.75,-183.4765625,-91,Mountains,Gray,0.5
 85243,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,714,224,71410222464,102,64,Isle of Balfiera,714.796875,-224.5,106,Mountains,Gray,0.5
-85904,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,679,190,6796519001,65,1,Isle of Balfiera,679.5078125,-190.9921875,-128,Ocean,Gray,0.5
 86312,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,695,184,69512418416,124,16,Isle of Balfiera,695.96875,-184.875,-131,Mountains,Gray,0.5
 87425,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,698,181,6983118125,31,25,Isle of Balfiera,698.2421875,-181.8046875,46,Mountains,Gray,0.5
 87674,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,722,192,7222419217,24,17,Isle of Balfiera,722.1875,-192.8671875,-139,Mountains,Gray,0.5
@@ -1769,7 +1750,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84743,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,687,218,6870421812,4,12,Isle of Balfiera,687.03125,-218.90625,-82,Mountains,Gray,0.5
 87616,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,698,209,69810320951,103,51,Isle of Balfiera,698.8046875,-209.6015625,-95,Mountains,Gray,0.5
 86749,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,739,223,739124223109,124,109,Isle of Balfiera,739.96875,-223.1484375,101,Mountains,Gray,0.5
-86740,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,711,219,71112821920,128,20,Isle of Balfiera,712,-219.84375,-33,Mountains,Gray,0.5
+86740,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,711,219,71112821920,128,20,Isle of Balfiera,712.0,-219.84375,-33,Mountains,Gray,0.5
 85613,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,729,230,7298523009,85,9,Isle of Balfiera,729.6640625,-230.9296875,69,Mountains,Gray,0.5
 85642,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,682,215,6827921584,79,84,Isle of Balfiera,682.6171875,-215.34375,173,Mountains,Gray,0.5
 85223,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,727,232,72712323204,123,4,Isle of Balfiera,727.9609375,-232.96875,179,Mountains,Gray,0.5
@@ -1862,7 +1843,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84679,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,729,220,72961220111,61,111,Isle of Balfiera,729.4765625,-220.1328125,113,Mountains,Gray,0.5
 86837,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,727,230,72711323009,113,9,Isle of Balfiera,727.8828125,-230.9296875,-72,Mountains,Gray,0.5
 85495,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,734,222,7340422242,4,42,Isle of Balfiera,734.03125,-222.671875,-85,Mountains,Gray,0.5
-85856,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,705,220,70512822084,128,84,Isle of Balfiera,706,-220.34375,-170,Mountains,Gray,0.5
+85856,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,705,220,70512822084,128,84,Isle of Balfiera,706.0,-220.34375,-170,Mountains,Gray,0.5
 86667,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,682,216,68211521602,115,2,Isle of Balfiera,682.8984375,-216.984375,87,Mountains,Gray,0.5
 85466,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,725,217,7254821790,48,90,Isle of Balfiera,725.375,-217.296875,-39,Mountains,Gray,0.5
 87640,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,738,202,7381420294,14,94,Isle of Balfiera,738.109375,-202.265625,81,Mountains,Gray,0.5
@@ -1987,7 +1968,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87720,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,685,214,6857621467,76,67,Isle of Balfiera,685.59375,-214.4765625,-77,Mountains,Gray,0.5
 85743,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,735,225,7354022537,40,37,Isle of Balfiera,735.3125,-225.7109375,-106,Mountains,Gray,0.5
 87424,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,748,219,7487121929,71,29,Isle of Balfiera,748.5546875,-219.7734375,-84,Mountains,Gray,0.5
-87556,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,680,190,6807319005,73,5,Isle of Balfiera,680.5703125,-190.9609375,-68,Ocean,Gray,0.5
 84982,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,700,206,7005020616,50,16,Isle of Balfiera,700.390625,-206.875,-36,Mountains,Gray,0.5
 86535,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,717,208,717111208119,111,119,Isle of Balfiera,717.8671875,-208.0703125,-153,Mountains,Gray,0.5
 87432,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,679,201,67947201108,47,108,Isle of Balfiera,679.3671875,-201.15625,-148,Mountains,Gray,0.5
@@ -2025,7 +2005,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86440,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,694,188,6944718884,47,84,Isle of Balfiera,694.3671875,-188.34375,-94,Mountains,Gray,0.5
 87158,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,719,191,71910619156,106,56,Isle of Balfiera,719.828125,-191.5625,106,Mountains,Gray,0.5
 86786,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,746,217,74610621731,106,31,Isle of Balfiera,746.828125,-217.7578125,-12,Mountains,Gray,0.5
-85612,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,649,187,6499018702,90,2,Isle of Balfiera,649.703125,-187.984375,149,Ocean,Gray,0.5
 85048,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,721,229,72182229127,82,127,Isle of Balfiera,721.640625,-229.0078125,-157,Mountains,Gray,0.5
 86458,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,723,235,72333235109,33,109,Isle of Balfiera,723.2578125,-235.1484375,-42,Mountains,Gray,0.5
 86122,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,728,231,72883231127,83,127,Isle of Balfiera,728.6484375,-231.0078125,-6,Mountains,Gray,0.5
@@ -2064,7 +2043,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85804,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,720,225,72073225122,73,122,Isle of Balfiera,720.5703125,-225.046875,135,Mountains,Gray,0.5
 84779,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,726,220,72635220116,35,116,Isle of Balfiera,726.2734375,-220.09375,-160,Mountains,Gray,0.5
 85248,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,729,203,7297620369,76,69,Isle of Balfiera,729.59375,-203.4609375,91,Mountains,Gray,0.5
-87378,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,727,214,727100214128,100,128,Isle of Balfiera,727.78125,-214,-70,Mountains,Gray,0.5
+87378,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,727,214,727100214128,100,128,Isle of Balfiera,727.78125,-214.0,-70,Mountains,Gray,0.5
 86089,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,746,207,74665207100,65,100,Isle of Balfiera,746.5078125,-207.21875,-11,Mountains,Gray,0.5
 87349,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,689,213,6893621346,36,46,Isle of Balfiera,689.28125,-213.640625,93,Mountains,Gray,0.5
 86297,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,694,208,6942720861,27,61,Isle of Balfiera,694.2109375,-208.5234375,-45,Mountains,Gray,0.5
@@ -2078,7 +2057,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85705,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,699,211,6992721179,27,79,Isle of Balfiera,699.2109375,-211.3828125,143,Mountains,Gray,0.5
 86368,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,737,215,7378321596,83,96,Isle of Balfiera,737.6484375,-215.25,142,Mountains,Gray,0.5
 84957,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,698,197,698101197105,101,105,Isle of Balfiera,698.7890625,-197.1796875,42,Mountains,Gray,0.5
-86027,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,696,184,69612818459,128,59,Isle of Balfiera,697,-184.5390625,54,Mountains,Gray,0.5
+86027,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,696,184,69612818459,128,59,Isle of Balfiera,697.0,-184.5390625,54,Mountains,Gray,0.5
 84883,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,687,184,68794184115,94,115,Isle of Balfiera,687.734375,-184.1015625,-75,Mountains,Gray,0.5
 86118,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,688,203,6882020315,20,15,Isle of Balfiera,688.15625,-203.8828125,-81,Mountains,Gray,0.5
 86700,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,700,206,7008020651,80,51,Isle of Balfiera,700.625,-206.6015625,-83,Mountains,Gray,0.5
@@ -2108,7 +2087,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87709,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,702,201,70244201123,44,123,Isle of Balfiera,702.34375,-201.0390625,12,Mountains,Gray,0.5
 84795,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,711,221,71132221126,32,126,Isle of Balfiera,711.25,-221.015625,65,Mountains,Gray,0.5
 85934,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,696,221,69611622146,116,46,Isle of Balfiera,696.90625,-221.640625,-78,Mountains,Gray,0.5
-84970,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,717,212,71712821235,128,35,Isle of Balfiera,718,-212.7265625,98,Mountains,Gray,0.5
+84970,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,717,212,71712821235,128,35,Isle of Balfiera,718.0,-212.7265625,98,Mountains,Gray,0.5
 85725,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,714,221,7148822102,88,2,Isle of Balfiera,714.6875,-221.984375,41,Mountains,Gray,0.5
 85319,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,726,219,7269321993,93,93,Isle of Balfiera,726.7265625,-219.2734375,-28,Mountains,Gray,0.5
 86180,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,716,190,7167919036,79,36,Isle of Balfiera,716.6171875,-190.71875,79,Mountains,Gray,0.5
@@ -2176,7 +2155,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87040,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,721,200,72112620030,126,30,Isle of Balfiera,721.984375,-200.765625,29,Mountains,Gray,0.5
 85330,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,692,179,692117179115,117,115,Isle of Balfiera,692.9140625,-179.1015625,-52,Mountains,Gray,0.5
 84968,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,726,206,72611920601,119,1,Isle of Balfiera,726.9296875,-206.9921875,-44,Mountains,Gray,0.5
-87622,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,727,211,72712821196,128,96,Isle of Balfiera,728,-211.25,179,Mountains,Gray,0.5
+87622,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,727,211,72712821196,128,96,Isle of Balfiera,728.0,-211.25,179,Mountains,Gray,0.5
 87160,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,736,206,7360320653,3,53,Isle of Balfiera,736.0234375,-206.5859375,142,Mountains,Gray,0.5
 85235,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,723,236,72313236126,13,126,Isle of Balfiera,723.1015625,-236.015625,157,Mountains,Gray,0.5
 85576,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,736,217,73696217106,96,106,Isle of Balfiera,736.75,-217.171875,49,Mountains,Gray,0.5
@@ -2236,7 +2215,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 85562,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,732,194,7320219460,2,60,Isle of Balfiera,732.015625,-194.53125,28,Mountains,Gray,0.5
 86928,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,693,206,6937120625,71,25,Isle of Balfiera,693.5546875,-206.8046875,-66,Mountains,Gray,0.5
 87752,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,734,225,7344922559,49,59,Isle of Balfiera,734.3828125,-225.5390625,-180,Mountains,Gray,0.5
-85205,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,689,182,68912818207,128,7,Isle of Balfiera,690,-182.9453125,118,Mountains,Gray,0.5
+85205,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,689,182,68912818207,128,7,Isle of Balfiera,690.0,-182.9453125,118,Mountains,Gray,0.5
 86619,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,688,182,6885518244,55,44,Isle of Balfiera,688.4296875,-182.65625,-52,Mountains,Gray,0.5
 85659,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,673,202,6738520256,85,56,Isle of Balfiera,673.6640625,-202.5625,-14,Mountains,Gray,0.5
 86838,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,711,198,7114219871,42,71,Isle of Balfiera,711.328125,-198.4453125,29,Mountains,Gray,0.5
@@ -2264,7 +2243,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86034,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,716,223,71610322371,103,71,Isle of Balfiera,716.8046875,-223.4453125,-22,Mountains,Gray,0.5
 87352,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,683,197,68347197103,47,103,Isle of Balfiera,683.3671875,-197.1953125,-158,Mountains,Gray,0.5
 87441,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,692,217,69212621774,126,74,Isle of Balfiera,692.984375,-217.421875,56,Mountains,Gray,0.5
-86560,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,733,204,73316204128,16,128,Isle of Balfiera,733.125,-204,-64,Mountains,Gray,0.5
+86560,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,733,204,73316204128,16,128,Isle of Balfiera,733.125,-204.0,-64,Mountains,Gray,0.5
 85689,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,742,227,742112227125,112,125,Isle of Balfiera,742.875,-227.0234375,-177,Mountains,Gray,0.5
 84977,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,750,213,7507921367,79,67,Isle of Balfiera,750.6171875,-213.4765625,-104,Mountains,Gray,0.5
 87351,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,686,208,68611020815,110,15,Isle of Balfiera,686.859375,-208.8828125,113,Mountains,Gray,0.5
@@ -2288,7 +2267,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 87529,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,723,214,7238121496,81,96,Isle of Balfiera,723.6328125,-214.25,6,Mountains,Gray,0.5
 85426,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,701,186,7013918624,39,24,Isle of Balfiera,701.3046875,-186.8125,-75,Mountains,Gray,0.5
 87356,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,726,214,72612621496,126,96,Isle of Balfiera,726.984375,-214.25,165,Mountains,Gray,0.5
-84880,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,704,193,70482193128,82,128,Isle of Balfiera,704.640625,-193,-166,Mountains,Gray,0.5
+84880,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,704,193,70482193128,82,128,Isle of Balfiera,704.640625,-193.0,-166,Mountains,Gray,0.5
 84956,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,709,195,70997195116,97,116,Isle of Balfiera,709.7578125,-195.09375,-107,Mountains,Gray,0.5
 86636,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,710,200,71091200125,91,125,Isle of Balfiera,710.7109375,-200.0234375,-122,Mountains,Gray,0.5
 87334,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,746,226,7462122678,21,78,Isle of Balfiera,746.1640625,-226.390625,-90,Mountains,Gray,0.5
@@ -2415,7 +2394,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 86238,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,706,205,7063720555,37,55,Isle of Balfiera,706.2890625,-205.5703125,-97,Mountains,Gray,0.5
 85054,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,709,211,7098521168,85,68,Isle of Balfiera,709.6640625,-211.46875,-134,Mountains,Gray,0.5
 87588,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,676,211,67612721110,127,10,Isle of Balfiera,676.9921875,-211.921875,-67,Mountains,Gray,0.5
-84908,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,713,208,71346208128,46,128,Isle of Balfiera,713.359375,-208,10,Mountains,Gray,0.5
+84908,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,713,208,71346208128,46,128,Isle of Balfiera,713.359375,-208.0,10,Mountains,Gray,0.5
 86831,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,680,208,680109208118,109,118,Isle of Balfiera,680.8515625,-208.078125,-4,Mountains,Gray,0.5
 85638,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,727,221,72711522156,115,56,Isle of Balfiera,727.8984375,-221.5625,146,Mountains,Gray,0.5
 86049,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,717,201,71782201118,82,118,Isle of Balfiera,717.640625,-201.078125,-12,Mountains,Gray,0.5
@@ -2486,558 +2465,4 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84768,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,693,218,6931421820,14,20,Isle of Balfiera,693.109375,-218.84375,-169,Mountains,Gray,0.5
 85427,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,682,204,6825020497,50,97,Isle of Balfiera,682.390625,-204.2421875,159,Mountains,Gray,0.5
 84680,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,734,215,73410021551,100,51,Isle of Balfiera,734.78125,-215.6015625,91,Mountains,Gray,0.5
-87114,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,713,226,71336226128,36,128,Isle of Balfiera,713.28125,-226,-158,Mountains,Gray,0.5
-84918,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,642,189,6426018978,60,78,Isle of Balfiera,642.46875,-189.390625,-1,Temperate Woodlands,LightGray,0.5
-87630,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,639,193,63981193112,81,112,Isle of Balfiera,639.6328125,-193.125,-140,Temperate Woodlands,LightGray,0.5
-85851,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,640,187,64011118762,111,62,Isle of Balfiera,640.8671875,-187.515625,118,Temperate Woodlands,LightGray,0.5
-86784,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,638,204,6383220421,32,21,Isle of Balfiera,638.25,-204.8359375,150,Temperate Woodlands,LightGray,0.5
-85865,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,648,192,6488219273,82,73,Isle of Balfiera,648.640625,-192.4296875,-54,Temperate Woodlands,LightGray,0.5
-84893,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,652,193,6524519316,45,16,Isle of Balfiera,652.3515625,-193.875,116,Temperate Woodlands,LightGray,0.5
-87082,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,648,202,6485520218,55,18,Isle of Balfiera,648.4296875,-202.859375,-69,Temperate Woodlands,LightGray,0.5
-85187,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,625,157,62510015736,100,36,Isle of Balfiera,625.78125,-157.71875,130,Temperate Woodlands,LightGray,0.5
-86410,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,638,172,6384017260,40,60,Isle of Balfiera,638.3125,-172.53125,173,Temperate Woodlands,LightGray,0.5
-87722,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,648,199,6483619992,36,92,Isle of Balfiera,648.28125,-199.28125,21,Temperate Woodlands,LightGray,0.5
-85428,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,660,182,660109182124,109,124,Isle of Balfiera,660.8515625,-182.03125,44,Temperate Woodlands,LightGray,0.5
-85373,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,637,205,63711620532,116,32,Isle of Balfiera,637.90625,-205.75,39,Temperate Woodlands,LightGray,0.5
-84709,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,646,166,64611416628,114,28,Isle of Balfiera,646.890625,-166.78125,-168,Temperate Woodlands,LightGray,0.5
-86566,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,649,167,6496216795,62,95,Isle of Balfiera,649.484375,-167.2578125,-167,Temperate Woodlands,LightGray,0.5
-86299,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,646,192,64687192125,87,125,Isle of Balfiera,646.6796875,-192.0234375,-85,Temperate Woodlands,LightGray,0.5
-84771,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,653,193,6539419370,94,70,Isle of Balfiera,653.734375,-193.453125,46,Temperate Woodlands,LightGray,0.5
-86519,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,648,176,64810717639,107,39,Isle of Balfiera,648.8359375,-176.6953125,-170,Temperate Woodlands,LightGray,0.5
-87063,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,636,202,6360320247,3,47,Isle of Balfiera,636.0234375,-202.6328125,-152,Temperate Woodlands,LightGray,0.5
-86978,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,659,203,65988203111,88,111,Isle of Balfiera,659.6875,-203.1328125,-19,Temperate Woodlands,LightGray,0.5
-87688,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,658,194,6584919468,49,68,Isle of Balfiera,658.3828125,-194.46875,98,Temperate Woodlands,LightGray,0.5
-84633,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,653,169,653105169113,105,113,Isle of Balfiera,653.8203125,-169.1171875,107,Temperate Woodlands,LightGray,0.5
-85177,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,636,202,6365420246,54,46,Isle of Balfiera,636.421875,-202.640625,-114,Temperate Woodlands,LightGray,0.5
-85956,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,658,192,6580119225,1,25,Isle of Balfiera,658.0078125,-192.8046875,36,Temperate Woodlands,LightGray,0.5
-85259,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,657,186,6570918642,9,42,Isle of Balfiera,657.0703125,-186.671875,137,Temperate Woodlands,LightGray,0.5
-86550,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,630,166,6304816680,48,80,Isle of Balfiera,630.375,-166.375,130,Temperate Woodlands,LightGray,0.5
-86214,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,647,189,6472518983,25,83,Isle of Balfiera,647.1953125,-189.3515625,66,Temperate Woodlands,LightGray,0.5
-85922,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,626,152,62646152125,46,125,Isle of Balfiera,626.359375,-152.0234375,-26,Temperate Woodlands,LightGray,0.5
-86795,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,620,154,62009154121,9,121,Isle of Balfiera,620.0703125,-154.0546875,-112,Temperate Woodlands,LightGray,0.5
-87321,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,659,197,65912519720,125,20,Isle of Balfiera,659.9765625,-197.84375,141,Temperate Woodlands,LightGray,0.5
-86644,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,648,167,6485916758,59,58,Isle of Balfiera,648.4609375,-167.546875,178,Temperate Woodlands,LightGray,0.5
-85324,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,651,173,6513517307,35,7,Isle of Balfiera,651.2734375,-173.9453125,54,Temperate Woodlands,LightGray,0.5
-86084,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,638,199,6381619998,16,98,Isle of Balfiera,638.125,-199.234375,71,Temperate Woodlands,LightGray,0.5
-85636,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,654,200,6544720072,47,72,Isle of Balfiera,654.3671875,-200.4375,168,Temperate Woodlands,LightGray,0.5
-85179,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,636,196,6368419697,84,97,Isle of Balfiera,636.65625,-196.2421875,113,Temperate Woodlands,LightGray,0.5
-87347,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,654,168,6543716861,37,61,Isle of Balfiera,654.2890625,-168.5234375,53,Temperate Woodlands,LightGray,0.5
-86779,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,622,155,622112155120,112,120,Isle of Balfiera,622.875,-155.0625,34,Temperate Woodlands,LightGray,0.5
-85467,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,640,190,6409419056,94,56,Isle of Balfiera,640.734375,-190.5625,-75,Temperate Woodlands,LightGray,0.5
-86764,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,641,189,64111918935,119,35,Isle of Balfiera,641.9296875,-189.7265625,63,Temperate Woodlands,LightGray,0.5
-87532,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,625,149,62547149106,47,106,Isle of Balfiera,625.3671875,-149.171875,5,Temperate Woodlands,LightGray,0.5
-84846,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,649,170,6498017010,80,10,Isle of Balfiera,649.625,-170.921875,-98,Temperate Woodlands,LightGray,0.5
-85968,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,621,154,6216315414,63,14,Isle of Balfiera,621.4921875,-154.890625,-129,Temperate Woodlands,LightGray,0.5
-87223,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,639,171,6394917156,49,56,Isle of Balfiera,639.3828125,-171.5625,-159,Temperate Woodlands,LightGray,0.5
-87322,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,638,201,6384520189,45,89,Isle of Balfiera,638.3515625,-201.3046875,130,Temperate Woodlands,LightGray,0.5
-87249,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,641,193,64145193121,45,121,Isle of Balfiera,641.3515625,-193.0546875,45,Temperate Woodlands,LightGray,0.5
-85971,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,646,161,64634161116,34,116,Isle of Balfiera,646.265625,-161.09375,-151,Temperate Woodlands,LightGray,0.5
-84983,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,646,196,6466719685,67,85,Isle of Balfiera,646.5234375,-196.3359375,-96,Temperate Woodlands,LightGray,0.5
-87168,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,657,194,6577319402,73,2,Isle of Balfiera,657.5703125,-194.984375,-41,Temperate Woodlands,LightGray,0.5
-84789,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,646,200,64615200106,15,106,Isle of Balfiera,646.1171875,-200.171875,137,Temperate Woodlands,LightGray,0.5
-84838,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,647,201,64710620130,106,30,Isle of Balfiera,647.828125,-201.765625,82,Temperate Woodlands,LightGray,0.5
-85497,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,631,153,63122153126,22,126,Isle of Balfiera,631.171875,-153.015625,-100,Temperate Woodlands,LightGray,0.5
-85908,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,651,202,65105202110,5,110,Isle of Balfiera,651.0390625,-202.140625,66,Temperate Woodlands,LightGray,0.5
-85038,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,652,187,65211118730,111,30,Isle of Balfiera,652.8671875,-187.765625,23,Temperate Woodlands,LightGray,0.5
-85556,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,628,164,6288916411,89,11,Isle of Balfiera,628.6953125,-164.9140625,-113,Temperate Woodlands,LightGray,0.5
-85148,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,652,188,6523318874,33,74,Isle of Balfiera,652.2578125,-188.421875,87,Temperate Woodlands,LightGray,0.5
-85528,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,656,200,6562520005,25,5,Isle of Balfiera,656.1953125,-200.9609375,-75,Temperate Woodlands,LightGray,0.5
-85063,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,656,183,6568918376,89,76,Isle of Balfiera,656.6953125,-183.40625,-101,Temperate Woodlands,LightGray,0.5
-84861,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,657,186,6578118636,81,36,Isle of Balfiera,657.6328125,-186.71875,-103,Temperate Woodlands,LightGray,0.5
-85978,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,639,190,6393419029,34,29,Isle of Balfiera,639.265625,-190.7734375,46,Temperate Woodlands,LightGray,0.5
-87302,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,647,169,64796169107,96,107,Isle of Balfiera,647.75,-169.1640625,-35,Temperate Woodlands,LightGray,0.5
-86160,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,651,195,65111719529,117,29,Isle of Balfiera,651.9140625,-195.7734375,-48,Temperate Woodlands,LightGray,0.5
-86251,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,628,163,6283916363,39,63,Isle of Balfiera,628.3046875,-163.5078125,-124,Temperate Woodlands,LightGray,0.5
-86271,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,653,202,6531020213,10,13,Isle of Balfiera,653.078125,-202.8984375,-53,Temperate Woodlands,LightGray,0.5
-86069,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,637,198,6379019845,90,45,Isle of Balfiera,637.703125,-198.6484375,21,Temperate Woodlands,LightGray,0.5
-85675,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,641,204,6416320417,63,17,Isle of Balfiera,641.4921875,-204.8671875,-113,Temperate Woodlands,LightGray,0.5
-86460,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,630,158,63060158126,60,126,Isle of Balfiera,630.46875,-158.015625,-32,Temperate Woodlands,LightGray,0.5
-85778,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,642,205,64212120598,121,98,Isle of Balfiera,642.9453125,-205.234375,178,Temperate Woodlands,LightGray,0.5
-85207,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,628,149,6283814917,38,17,Isle of Balfiera,628.296875,-149.8671875,110,Temperate Woodlands,LightGray,0.5
-86655,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,631,153,6318315369,83,69,Isle of Balfiera,631.6484375,-153.4609375,-119,Temperate Woodlands,LightGray,0.5
-84684,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,649,168,6493716883,37,83,Isle of Balfiera,649.2890625,-168.3515625,-159,Temperate Woodlands,LightGray,0.5
-86526,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,632,162,6325416233,54,33,Isle of Balfiera,632.421875,-162.7421875,-149,Temperate Woodlands,LightGray,0.5
-85421,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,643,204,64317204103,17,103,Isle of Balfiera,643.1328125,-204.1953125,-171,Temperate Woodlands,LightGray,0.5
-86580,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,654,196,6549319659,93,59,Isle of Balfiera,654.7265625,-196.5390625,125,Temperate Woodlands,LightGray,0.5
-87274,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,637,194,6376619406,66,6,Isle of Balfiera,637.515625,-194.953125,52,Temperate Woodlands,LightGray,0.5
-85871,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,632,167,6320116714,1,14,Isle of Balfiera,632.0078125,-167.890625,130,Temperate Woodlands,LightGray,0.5
-84963,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,646,175,64678175125,78,125,Isle of Balfiera,646.609375,-175.0234375,108,Temperate Woodlands,LightGray,0.5
-86901,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,651,197,65112519732,125,32,Isle of Balfiera,651.9765625,-197.75,37,Temperate Woodlands,LightGray,0.5
-86630,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,620,159,6207315904,73,4,Isle of Balfiera,620.5703125,-159.96875,9,Temperate Woodlands,LightGray,0.5
-85293,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,628,155,628101155123,101,123,Isle of Balfiera,628.7890625,-155.0390625,135,Temperate Woodlands,LightGray,0.5
-84925,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,642,173,6425717341,57,41,Isle of Balfiera,642.4453125,-173.6796875,-130,Temperate Woodlands,LightGray,0.5
-84835,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,623,153,6239215313,92,13,Isle of Balfiera,623.71875,-153.8984375,24,Temperate Woodlands,LightGray,0.5
-86972,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,636,202,6368620298,86,98,Isle of Balfiera,636.671875,-202.234375,97,Temperate Woodlands,LightGray,0.5
-87174,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,647,173,6472517325,25,25,Isle of Balfiera,647.1953125,-173.8046875,-46,Temperate Woodlands,LightGray,0.5
-86863,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,639,192,6399419278,94,78,Isle of Balfiera,639.734375,-192.390625,180,Temperate Woodlands,LightGray,0.5
-85240,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,642,194,64280194125,80,125,Isle of Balfiera,642.625,-194.0234375,-117,Temperate Woodlands,LightGray,0.5
-85970,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,651,190,6511119043,11,43,Isle of Balfiera,651.0859375,-190.6640625,43,Temperate Woodlands,LightGray,0.5
-85269,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,650,189,65010918916,109,16,Isle of Balfiera,650.8515625,-189.875,103,Temperate Woodlands,LightGray,0.5
-84733,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,643,199,64311619913,116,13,Isle of Balfiera,643.90625,-199.8984375,177,Temperate Woodlands,LightGray,0.5
-86710,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,657,187,6574418754,44,54,Isle of Balfiera,657.34375,-187.578125,18,Temperate Woodlands,LightGray,0.5
-85499,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,643,192,6432219246,22,46,Isle of Balfiera,643.171875,-192.640625,-6,Temperate Woodlands,LightGray,0.5
-86053,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,656,187,6567018701,70,1,Isle of Balfiera,656.546875,-187.9921875,-32,Temperate Woodlands,LightGray,0.5
-85754,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,659,187,6595618773,56,73,Isle of Balfiera,659.4375,-187.4296875,-95,Temperate Woodlands,LightGray,0.5
-87639,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,666,180,66611918067,119,67,Isle of Balfiera,666.9296875,-180.4765625,-73,Temperate Woodlands,LightGray,0.5
-87481,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,617,158,61710915882,109,82,Isle of Balfiera,617.8515625,-158.359375,125,Temperate Woodlands,LightGray,0.5
-85055,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,618,155,6186915559,69,59,Isle of Balfiera,618.5390625,-155.5390625,141,Temperate Woodlands,LightGray,0.5
-86594,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,645,171,645110171127,110,127,Isle of Balfiera,645.859375,-171.0078125,-87,Temperate Woodlands,LightGray,0.5
-85353,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,635,203,6354920367,49,67,Isle of Balfiera,635.3828125,-203.4765625,65,Temperate Woodlands,LightGray,0.5
-87348,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,651,172,6514317255,43,55,Isle of Balfiera,651.3359375,-172.5703125,105,Temperate Woodlands,LightGray,0.5
-86810,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,650,191,65011019142,110,42,Isle of Balfiera,650.859375,-191.671875,29,Temperate Woodlands,LightGray,0.5
-87382,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,621,153,6211615394,16,94,Isle of Balfiera,621.125,-153.265625,88,Temperate Woodlands,LightGray,0.5
-86394,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,651,189,6518918990,89,90,Isle of Balfiera,651.6953125,-189.296875,55,Temperate Woodlands,LightGray,0.5
-85415,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,651,195,6519219501,92,1,Isle of Balfiera,651.71875,-195.9921875,140,Temperate Woodlands,LightGray,0.5
-84737,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,653,169,65383169112,83,112,Isle of Balfiera,653.6484375,-169.125,170,Temperate Woodlands,LightGray,0.5
-87285,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,657,186,6574518620,45,20,Isle of Balfiera,657.3515625,-186.84375,-47,Temperate Woodlands,LightGray,0.5
-85729,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,644,168,6444916850,49,50,Isle of Balfiera,644.3828125,-168.609375,179,Temperate Woodlands,LightGray,0.5
-86342,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,653,186,65310518632,105,32,Isle of Balfiera,653.8203125,-186.75,-114,Temperate Woodlands,LightGray,0.5
-86843,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,657,205,6574520577,45,77,Isle of Balfiera,657.3515625,-205.3984375,58,Temperate Woodlands,LightGray,0.5
-87157,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,655,196,6559719682,97,82,Isle of Balfiera,655.7578125,-196.359375,-173,Temperate Woodlands,LightGray,0.5
-86199,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,643,190,6434619037,46,37,Isle of Balfiera,643.359375,-190.7109375,-97,Temperate Woodlands,LightGray,0.5
-86990,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,622,158,62282158100,82,100,Isle of Balfiera,622.640625,-158.21875,137,Temperate Woodlands,LightGray,0.5
-85824,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,659,197,6595919744,59,44,Isle of Balfiera,659.4609375,-197.65625,-177,Temperate Woodlands,LightGray,0.5
-85542,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,659,203,6595020343,50,43,Isle of Balfiera,659.390625,-203.6640625,67,Temperate Woodlands,LightGray,0.5
-84682,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,650,169,650116169121,116,121,Isle of Balfiera,650.90625,-169.0546875,46,Temperate Woodlands,LightGray,0.5
-87730,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,647,200,64711720004,117,4,Isle of Balfiera,647.9140625,-200.96875,67,Temperate Woodlands,LightGray,0.5
-87222,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,656,171,6562717188,27,88,Isle of Balfiera,656.2109375,-171.3125,26,Temperate Woodlands,LightGray,0.5
-86549,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,626,156,62615156116,15,116,Isle of Balfiera,626.1171875,-156.09375,37,Temperate Woodlands,LightGray,0.5
-87390,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,658,190,65811519029,115,29,Isle of Balfiera,658.8984375,-190.7734375,163,Temperate Woodlands,LightGray,0.5
-86642,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,645,173,6454517301,45,1,Isle of Balfiera,645.3515625,-173.9921875,101,Temperate Woodlands,LightGray,0.5
-86697,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,629,153,6295615398,56,98,Isle of Balfiera,629.4375,-153.234375,-30,Temperate Woodlands,LightGray,0.5
-86500,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,642,191,6423319176,33,76,Isle of Balfiera,642.2578125,-191.40625,-8,Temperate Woodlands,LightGray,0.5
-84946,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,648,172,6484617288,46,88,Isle of Balfiera,648.359375,-172.3125,91,Temperate Woodlands,LightGray,0.5
-87723,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,624,153,6249315375,93,75,Isle of Balfiera,624.7265625,-153.4140625,-68,Temperate Woodlands,LightGray,0.5
-87593,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,634,162,634106162105,106,105,Isle of Balfiera,634.828125,-162.1796875,-50,Temperate Woodlands,LightGray,0.5
-86881,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,649,164,649103164114,103,114,Isle of Balfiera,649.8046875,-164.109375,-67,Temperate Woodlands,LightGray,0.5
-86129,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,653,168,6536116811,61,11,Isle of Balfiera,653.4765625,-168.9140625,-165,Temperate Woodlands,LightGray,0.5
-84704,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,649,198,6491919848,19,48,Isle of Balfiera,649.1484375,-198.625,116,Temperate Woodlands,LightGray,0.5
-85615,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,648,196,6480519654,5,54,Isle of Balfiera,648.0390625,-196.578125,-25,Temperate Woodlands,LightGray,0.5
-84978,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,636,205,6366020537,60,37,Isle of Balfiera,636.46875,-205.7109375,15,Temperate Woodlands,LightGray,0.5
-86240,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,650,197,6505919727,59,27,Isle of Balfiera,650.4609375,-197.7890625,166,Temperate Woodlands,LightGray,0.5
-86479,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,632,157,6323115764,31,64,Isle of Balfiera,632.2421875,-157.5,-163,Temperate Woodlands,LightGray,0.5
-84843,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,627,153,62711215337,112,37,Isle of Balfiera,627.875,-153.7109375,-53,Temperate Woodlands,LightGray,0.5
-85089,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,627,156,6275015603,50,3,Isle of Balfiera,627.390625,-156.9765625,169,Temperate Woodlands,LightGray,0.5
-87246,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,658,169,6588616970,86,70,Isle of Balfiera,658.671875,-169.453125,-140,Temperate Woodlands,LightGray,0.5
-86195,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,654,193,6540319331,3,31,Isle of Balfiera,654.0234375,-193.7578125,20,Temperate Woodlands,LightGray,0.5
-86931,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,630,158,6308615854,86,54,Isle of Balfiera,630.671875,-158.578125,-44,Temperate Woodlands,LightGray,0.5
-86945,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,648,206,6484620647,46,47,Isle of Balfiera,648.359375,-206.6328125,-83,Temperate Woodlands,LightGray,0.5
-87269,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,652,186,65210918696,109,96,Isle of Balfiera,652.8515625,-186.25,151,Temperate Woodlands,LightGray,0.5
-85864,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,623,154,6235815420,58,20,Isle of Balfiera,623.453125,-154.84375,60,Temperate Woodlands,LightGray,0.5
-85112,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,617,157,61796157106,96,106,Isle of Balfiera,617.75,-157.171875,172,Temperate Woodlands,LightGray,0.5
-86880,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,643,195,6437519509,75,9,Isle of Balfiera,643.5859375,-195.9296875,-30,Temperate Woodlands,LightGray,0.5
-85302,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,654,195,65485195122,85,122,Isle of Balfiera,654.6640625,-195.046875,16,Temperate Woodlands,LightGray,0.5
-84791,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,645,200,64558200123,58,123,Isle of Balfiera,645.453125,-200.0390625,117,Temperate Woodlands,LightGray,0.5
-87171,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,627,157,627117157105,117,105,Isle of Balfiera,627.9140625,-157.1796875,116,Temperate Woodlands,LightGray,0.5
-87671,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,637,193,63773193113,73,113,Isle of Balfiera,637.5703125,-193.1171875,-157,Temperate Woodlands,LightGray,0.5
-87523,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,629,161,6298516143,85,43,Isle of Balfiera,629.6640625,-161.6640625,82,Temperate Woodlands,LightGray,0.5
-87118,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,643,189,6437718940,77,40,Isle of Balfiera,643.6015625,-189.6875,152,Temperate Woodlands,LightGray,0.5
-86408,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,646,176,64612017647,120,47,Isle of Balfiera,646.9375,-176.6328125,-151,Temperate Woodlands,LightGray,0.5
-87536,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,648,205,6482720550,27,50,Isle of Balfiera,648.2109375,-205.609375,179,Temperate Woodlands,LightGray,0.5
-86073,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,632,154,6320815418,8,18,Isle of Balfiera,632.0625,-154.859375,141,Temperate Woodlands,LightGray,0.5
-86638,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,650,203,6506620344,66,44,Isle of Balfiera,650.515625,-203.65625,0,Temperate Woodlands,LightGray,0.5
-85899,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,619,154,61967154100,67,100,Isle of Balfiera,619.5234375,-154.21875,83,Temperate Woodlands,LightGray,0.5
-87449,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,618,160,618107160102,107,102,Isle of Balfiera,618.8359375,-160.203125,-79,Temperate Woodlands,LightGray,0.5
-85545,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,631,166,6310916668,9,68,Isle of Balfiera,631.0703125,-166.46875,179,Temperate Woodlands,LightGray,0.5
-85547,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,641,197,641108197110,108,110,Isle of Balfiera,641.84375,-197.140625,-132,Temperate Woodlands,LightGray,0.5
-85375,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,625,151,6256615160,66,60,Isle of Balfiera,625.515625,-151.53125,-78,Temperate Woodlands,LightGray,0.5
-87005,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,650,166,6503216606,32,6,Isle of Balfiera,650.25,-166.953125,-154,Temperate Woodlands,LightGray,0.5
-86051,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,657,197,657117197123,117,123,Isle of Balfiera,657.9140625,-197.0390625,-8,Temperate Woodlands,LightGray,0.5
-85700,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,646,198,64643198125,43,125,Isle of Balfiera,646.3359375,-198.0234375,-140,Temperate Woodlands,LightGray,0.5
-87697,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,636,197,63612819750,128,50,Isle of Balfiera,637,-197.609375,-135,Temperate Woodlands,LightGray,0.5
-85088,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,640,171,64011217133,112,33,Isle of Balfiera,640.875,-171.7421875,110,Temperate Woodlands,LightGray,0.5
-87480,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,630,153,6308415313,84,13,Isle of Balfiera,630.65625,-153.8984375,-134,Temperate Woodlands,LightGray,0.5
-86932,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,655,192,6552219276,22,76,Isle of Balfiera,655.171875,-192.40625,-125,Temperate Woodlands,LightGray,0.5
-87534,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,630,158,6303715870,37,70,Isle of Balfiera,630.2890625,-158.453125,180,Temperate Woodlands,LightGray,0.5
-86763,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,659,196,65965196122,65,122,Isle of Balfiera,659.5078125,-196.046875,-76,Temperate Woodlands,LightGray,0.5
-85643,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,622,160,6226716088,67,88,Isle of Balfiera,622.5234375,-160.3125,-178,Temperate Woodlands,LightGray,0.5
-85349,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,641,173,64110917387,109,87,Isle of Balfiera,641.8515625,-173.3203125,-6,Temperate Woodlands,LightGray,0.5
-85821,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,638,201,63873201120,73,120,Isle of Balfiera,638.5703125,-201.0625,-74,Temperate Woodlands,LightGray,0.5
-85111,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,630,157,6307915767,79,67,Isle of Balfiera,630.6171875,-157.4765625,103,Temperate Woodlands,LightGray,0.5
-85401,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,644,197,6443219793,32,93,Isle of Balfiera,644.25,-197.2734375,72,Temperate Woodlands,LightGray,0.5
-84911,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,650,189,6509118937,91,37,Isle of Balfiera,650.7109375,-189.7109375,79,Temperate Woodlands,LightGray,0.5
-85394,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,621,159,6213615953,36,53,Isle of Balfiera,621.28125,-159.5859375,-5,Temperate Woodlands,LightGray,0.5
-87579,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,647,201,64766201108,66,108,Isle of Balfiera,647.515625,-201.15625,-89,Temperate Woodlands,LightGray,0.5
-85081,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,630,157,63009157112,9,112,Isle of Balfiera,630.0703125,-157.125,-32,Temperate Woodlands,LightGray,0.5
-86163,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,650,170,6504617014,46,14,Isle of Balfiera,650.359375,-170.890625,-170,Temperate Woodlands,LightGray,0.5
-87172,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,634,165,6344216571,42,71,Isle of Balfiera,634.328125,-165.4453125,-180,Temperate Woodlands,LightGray,0.5
-85619,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,656,184,6561618475,16,75,Isle of Balfiera,656.125,-184.4140625,-88,Temperate Woodlands,LightGray,0.5
-86885,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,649,192,6493319229,33,29,Isle of Balfiera,649.2578125,-192.7734375,63,Temperate Woodlands,LightGray,0.5
-87141,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,641,201,6415520173,55,73,Isle of Balfiera,641.4296875,-201.4296875,78,Temperate Woodlands,LightGray,0.5
-86832,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,646,193,6466719344,67,44,Isle of Balfiera,646.5234375,-193.65625,94,Temperate Woodlands,LightGray,0.5
-85790,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,634,161,63488161127,88,127,Isle of Balfiera,634.6875,-161.0078125,118,Temperate Woodlands,LightGray,0.5
-85122,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,652,198,65211619806,116,6,Isle of Balfiera,652.90625,-198.953125,26,Temperate Woodlands,LightGray,0.5
-87575,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,644,196,64410919683,109,83,Isle of Balfiera,644.8515625,-196.3515625,71,Temperate Woodlands,LightGray,0.5
-86406,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,630,158,6308815858,88,58,Isle of Balfiera,630.6875,-158.546875,-134,Temperate Woodlands,LightGray,0.5
-86792,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,625,155,6257815585,78,85,Isle of Balfiera,625.609375,-155.3359375,-176,Temperate Woodlands,LightGray,0.5
-85858,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,631,163,6319616317,96,17,Isle of Balfiera,631.75,-163.8671875,-113,Temperate Woodlands,LightGray,0.5
-86772,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,646,192,6463419211,34,11,Isle of Balfiera,646.265625,-192.9140625,-16,Temperate Woodlands,LightGray,0.5
-85124,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,636,204,63607204106,7,106,Isle of Balfiera,636.0546875,-204.171875,15,Temperate Woodlands,LightGray,0.5
-86870,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,653,202,6530120279,1,79,Isle of Balfiera,653.0078125,-202.3828125,29,Temperate Woodlands,LightGray,0.5
-87088,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,634,163,6344516302,45,2,Isle of Balfiera,634.3515625,-163.984375,32,Temperate Woodlands,LightGray,0.5
-85553,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,626,155,6265615531,56,31,Isle of Balfiera,626.4375,-155.7578125,-170,Temperate Woodlands,LightGray,0.5
-87081,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,626,153,62660153119,60,119,Isle of Balfiera,626.46875,-153.0703125,27,Temperate Woodlands,LightGray,0.5
-85478,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,638,195,6389919596,99,96,Isle of Balfiera,638.7734375,-195.25,-124,Temperate Woodlands,LightGray,0.5
-87275,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,656,203,6564720341,47,41,Isle of Balfiera,656.3671875,-203.6796875,-162,Temperate Woodlands,LightGray,0.5
-87306,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,651,198,6513319854,33,54,Isle of Balfiera,651.2578125,-198.578125,-164,Temperate Woodlands,LightGray,0.5
-87368,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,620,153,62011715349,117,49,Isle of Balfiera,620.9140625,-153.6171875,-22,Temperate Woodlands,LightGray,0.5
-85285,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,622,152,622122152123,122,123,Isle of Balfiera,622.953125,-152.0390625,-93,Temperate Woodlands,LightGray,0.5
-87687,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,658,195,65810019558,100,58,Isle of Balfiera,658.78125,-195.546875,-21,Temperate Woodlands,LightGray,0.5
-87364,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,622,153,6223615326,36,26,Isle of Balfiera,622.28125,-153.796875,-2,Temperate Woodlands,LightGray,0.5
-87207,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,627,149,627124149109,124,109,Isle of Balfiera,627.96875,-149.1484375,107,Temperate Woodlands,LightGray,0.5
-85166,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,632,161,6326816195,68,95,Isle of Balfiera,632.53125,-161.2578125,-157,Temperate Woodlands,LightGray,0.5
-86840,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,639,195,6392719570,27,70,Isle of Balfiera,639.2109375,-195.453125,-149,Temperate Woodlands,LightGray,0.5
-87360,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,629,157,6295115734,51,34,Isle of Balfiera,629.3984375,-157.734375,-140,Temperate Woodlands,LightGray,0.5
-87327,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,647,174,6479117478,91,78,Isle of Balfiera,647.7109375,-174.390625,148,Temperate Woodlands,LightGray,0.5
-85035,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,641,197,6411119774,11,74,Isle of Balfiera,641.0859375,-197.421875,101,Temperate Woodlands,LightGray,0.5
-86924,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,637,206,6377920654,79,54,Isle of Balfiera,637.6171875,-206.578125,-136,Temperate Woodlands,LightGray,0.5
-85685,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,656,196,656119196120,119,120,Isle of Balfiera,656.9296875,-196.0625,148,Temperate Woodlands,LightGray,0.5
-85835,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,640,173,64010317380,103,80,Isle of Balfiera,640.8046875,-173.375,5,Temperate Woodlands,LightGray,0.5
-86988,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,619,156,61926156104,26,104,Isle of Balfiera,619.203125,-156.1875,-150,Temperate Woodlands,LightGray,0.5
-86866,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,617,159,6177215951,72,51,Isle of Balfiera,617.5625,-159.6015625,-35,Temperate Woodlands,LightGray,0.5
-87685,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,654,192,6549019224,90,24,Isle of Balfiera,654.703125,-192.8125,143,Temperate Woodlands,LightGray,0.5
-85105,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,626,158,62648158111,48,111,Isle of Balfiera,626.375,-158.1328125,-99,Temperate Woodlands,LightGray,0.5
-85882,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,646,197,6462319702,23,2,Isle of Balfiera,646.1796875,-197.984375,36,Temperate Woodlands,LightGray,0.5
-85238,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,629,156,6297615661,76,61,Isle of Balfiera,629.59375,-156.5234375,152,Temperate Woodlands,LightGray,0.5
-87620,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,654,189,6549518956,95,56,Isle of Balfiera,654.7421875,-189.5625,84,Temperate Woodlands,LightGray,0.5
-87299,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,647,197,6472719710,27,10,Isle of Balfiera,647.2109375,-197.921875,-139,Temperate Woodlands,LightGray,0.5
-86037,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,634,162,63412616298,126,98,Isle of Balfiera,634.984375,-162.234375,-106,Temperate Woodlands,LightGray,0.5
-86681,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,640,196,64029196109,29,109,Isle of Balfiera,640.2265625,-196.1484375,87,Temperate Woodlands,LightGray,0.5
-86502,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,650,207,6506920799,69,99,Isle of Balfiera,650.5390625,-207.2265625,-94,Temperate Woodlands,LightGray,0.5
-85151,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,632,153,6329415394,94,94,Isle of Balfiera,632.734375,-153.265625,-134,Temperate Woodlands,LightGray,0.5
-86209,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,632,163,6328516391,85,91,Isle of Balfiera,632.6640625,-163.2890625,-126,Temperate Woodlands,LightGray,0.5
-84907,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,650,191,65011019151,110,51,Isle of Balfiera,650.859375,-191.6015625,-103,Temperate Woodlands,LightGray,0.5
-87089,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,648,167,6488216721,82,21,Isle of Balfiera,648.640625,-167.8359375,75,Temperate Woodlands,LightGray,0.5
-85974,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,648,194,6489019465,90,65,Isle of Balfiera,648.703125,-194.4921875,-9,Temperate Woodlands,LightGray,0.5
-86146,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,628,163,62811716325,117,25,Isle of Balfiera,628.9140625,-163.8046875,-64,Temperate Woodlands,LightGray,0.5
-84643,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,645,199,64510419901,104,1,Isle of Balfiera,645.8125,-199.9921875,118,Temperate Woodlands,LightGray,0.5
-85023,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,649,171,6496217102,62,2,Isle of Balfiera,649.484375,-171.984375,-5,Temperate Woodlands,LightGray,0.5
-87514,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,636,197,63694197122,94,122,Isle of Balfiera,636.734375,-197.046875,6,Temperate Woodlands,LightGray,0.5
-87498,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,646,192,6467519271,75,71,Isle of Balfiera,646.5859375,-192.4453125,151,Temperate Woodlands,LightGray,0.5
-87052,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,650,197,6507019713,70,13,Isle of Balfiera,650.546875,-197.8984375,42,Temperate Woodlands,LightGray,0.5
-87552,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,642,198,6424919839,49,39,Isle of Balfiera,642.3828125,-198.6953125,-14,Temperate Woodlands,LightGray,0.5
-85034,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,649,178,6498417843,84,43,Isle of Balfiera,649.65625,-178.6640625,145,Temperate Woodlands,LightGray,0.5
-87533,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,655,201,6551720108,17,8,Isle of Balfiera,655.1328125,-201.9375,92,Temperate Woodlands,LightGray,0.5
-85367,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,655,200,6550320085,3,85,Isle of Balfiera,655.0234375,-200.3359375,133,Temperate Woodlands,LightGray,0.5
-87560,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,646,169,6462616988,26,88,Isle of Balfiera,646.203125,-169.3125,95,Temperate Woodlands,LightGray,0.5
-86648,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,650,178,6503917896,39,96,Isle of Balfiera,650.3046875,-178.25,-69,Temperate Woodlands,LightGray,0.5
-87682,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,657,194,6570419435,4,35,Isle of Balfiera,657.03125,-194.7265625,-105,Temperate Woodlands,LightGray,0.5
-87668,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,641,202,6416920289,69,89,Isle of Balfiera,641.5390625,-202.3046875,-89,Temperate Woodlands,LightGray,0.5
-85816,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,625,152,6252815237,28,37,Isle of Balfiera,625.21875,-152.7109375,-65,Temperate Woodlands,LightGray,0.5
-86404,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,647,174,64747174105,47,105,Isle of Balfiera,647.3671875,-174.1796875,-2,Temperate Woodlands,LightGray,0.5
-85873,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,657,200,657114200126,114,126,Isle of Balfiera,657.890625,-200.015625,-84,Temperate Woodlands,LightGray,0.5
-87381,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,648,201,6488420182,84,82,Isle of Balfiera,648.65625,-201.359375,154,Temperate Woodlands,LightGray,0.5
-85268,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,650,170,6503417088,34,88,Isle of Balfiera,650.265625,-170.3125,-78,Temperate Woodlands,LightGray,0.5
-85593,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,645,177,64512517752,125,52,Isle of Balfiera,645.9765625,-177.59375,-163,Temperate Woodlands,LightGray,0.5
-85702,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,626,157,6265515770,55,70,Isle of Balfiera,626.4296875,-157.453125,-151,Temperate Woodlands,LightGray,0.5
-85300,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,652,171,6527617156,76,56,Isle of Balfiera,652.59375,-171.5625,-28,Temperate Woodlands,LightGray,0.5
-87297,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,658,198,6589319865,93,65,Isle of Balfiera,658.7265625,-198.4921875,8,Temperate Woodlands,LightGray,0.5
-85381,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,641,204,64111520435,115,35,Isle of Balfiera,641.8984375,-204.7265625,-84,Temperate Woodlands,LightGray,0.5
-85194,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,655,189,65512018973,120,73,Isle of Balfiera,655.9375,-189.4296875,121,Temperate Woodlands,LightGray,0.5
-86504,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,628,162,62810316245,103,45,Isle of Balfiera,628.8046875,-162.6484375,-26,Temperate Woodlands,LightGray,0.5
-87071,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,645,201,64510720146,107,46,Isle of Balfiera,645.8359375,-201.640625,125,Temperate Woodlands,LightGray,0.5
-85158,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,648,201,6484720184,47,84,Isle of Balfiera,648.3671875,-201.34375,18,Temperate Woodlands,LightGray,0.5
-85001,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,650,202,65011720236,117,36,Isle of Balfiera,650.9140625,-202.71875,38,Temperate Woodlands,LightGray,0.5
-87680,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,653,202,65311720279,117,79,Isle of Balfiera,653.9140625,-202.3828125,-18,Temperate Woodlands,LightGray,0.5
-86671,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,648,196,64857196102,57,102,Isle of Balfiera,648.4453125,-196.203125,12,Temperate Woodlands,LightGray,0.5
-84715,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,646,167,64601167125,1,125,Isle of Balfiera,646.0078125,-167.0234375,-58,Temperate Woodlands,LightGray,0.5
-87339,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,636,199,6360319980,3,80,Isle of Balfiera,636.0234375,-199.375,-175,Temperate Woodlands,LightGray,0.5
-87120,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,618,156,6187015655,70,55,Isle of Balfiera,618.546875,-156.5703125,-101,Temperate Woodlands,LightGray,0.5
-84933,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,657,193,6579419368,94,68,Isle of Balfiera,657.734375,-193.46875,-130,Temperate Woodlands,LightGray,0.5
-87409,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,665,180,6653218046,32,46,Isle of Balfiera,665.25,-180.640625,-136,Temperate Woodlands,LightGray,0.5
-87332,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,653,190,6539319042,93,42,Isle of Balfiera,653.7265625,-190.671875,17,Temperate Woodlands,LightGray,0.5
-87070,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,630,161,6306016143,60,43,Isle of Balfiera,630.46875,-161.6640625,-161,Temperate Woodlands,LightGray,0.5
-85438,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,647,190,6476719023,67,23,Isle of Balfiera,647.5234375,-190.8203125,-75,Temperate Woodlands,LightGray,0.5
-85066,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,658,190,65811019099,110,99,Isle of Balfiera,658.859375,-190.2265625,129,Temperate Woodlands,LightGray,0.5
-86333,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,620,158,6204715851,47,51,Isle of Balfiera,620.3671875,-158.6015625,-3,Temperate Woodlands,LightGray,0.5
-86334,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,635,163,63511916315,119,15,Isle of Balfiera,635.9296875,-163.8828125,-121,Temperate Woodlands,LightGray,0.5
-85518,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,651,167,6511716737,17,37,Isle of Balfiera,651.1328125,-167.7109375,38,Temperate Woodlands,LightGray,0.5
-86975,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,636,197,63671197102,71,102,Isle of Balfiera,636.5546875,-197.203125,49,Temperate Woodlands,LightGray,0.5
-84703,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,648,167,6486416709,64,9,Isle of Balfiera,648.5,-167.9296875,76,Temperate Woodlands,LightGray,0.5
-84860,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,646,177,6464017701,40,1,Isle of Balfiera,646.3125,-177.9921875,135,Temperate Woodlands,LightGray,0.5
-84759,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,649,199,649106199116,106,116,Isle of Balfiera,649.828125,-199.09375,80,Temperate Woodlands,LightGray,0.5
-86430,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,634,162,6347916296,79,96,Isle of Balfiera,634.6171875,-162.25,46,Temperate Woodlands,LightGray,0.5
-87699,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,644,196,64410819638,108,38,Isle of Balfiera,644.84375,-196.703125,-180,Temperate Woodlands,LightGray,0.5
-85294,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,649,191,64943191103,43,103,Isle of Balfiera,649.3359375,-191.1953125,162,Temperate Woodlands,LightGray,0.5
-84755,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,643,199,64310719908,107,8,Isle of Balfiera,643.8359375,-199.9375,-169,Temperate Woodlands,LightGray,0.5
-87504,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,656,193,6565319310,53,10,Isle of Balfiera,656.4140625,-193.921875,91,Temperate Woodlands,LightGray,0.5
-84855,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,634,162,63411916243,119,43,Isle of Balfiera,634.9296875,-162.6640625,107,Temperate Woodlands,LightGray,0.5
-86340,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,643,197,6432119780,21,80,Isle of Balfiera,643.1640625,-197.375,-138,Temperate Woodlands,LightGray,0.5
-85757,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,625,153,6256415399,64,99,Isle of Balfiera,625.5,-153.2265625,64,Temperate Woodlands,LightGray,0.5
-87491,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,639,189,6399818955,98,55,Isle of Balfiera,639.765625,-189.5703125,35,Temperate Woodlands,LightGray,0.5
-85002,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,649,194,6498319445,83,45,Isle of Balfiera,649.6484375,-194.6484375,-2,Temperate Woodlands,LightGray,0.5
-87562,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,626,157,626120157109,120,109,Isle of Balfiera,626.9375,-157.1484375,149,Temperate Woodlands,LightGray,0.5
-87362,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,650,178,6501117874,11,74,Isle of Balfiera,650.0859375,-178.421875,47,Temperate Woodlands,LightGray,0.5
-85660,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,657,184,65788184108,88,108,Isle of Balfiera,657.6875,-184.15625,13,Temperate Woodlands,LightGray,0.5
-87452,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,655,202,6556020238,60,38,Isle of Balfiera,655.46875,-202.703125,-21,Temperate Woodlands,LightGray,0.5
-85309,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,621,156,62172156106,72,106,Isle of Balfiera,621.5625,-156.171875,180,Temperate Woodlands,LightGray,0.5
-84991,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,630,155,63072155100,72,100,Isle of Balfiera,630.5625,-155.21875,-139,Temperate Woodlands,LightGray,0.5
-87701,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,641,187,6413818748,38,48,Isle of Balfiera,641.296875,-187.625,-56,Temperate Woodlands,LightGray,0.5
-85632,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,654,187,6547318729,73,29,Isle of Balfiera,654.5703125,-187.7734375,130,Temperate Woodlands,LightGray,0.5
-84902,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,654,189,65410918949,109,49,Isle of Balfiera,654.8515625,-189.6171875,81,Temperate Woodlands,LightGray,0.5
-87318,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,645,198,64509198102,9,102,Isle of Balfiera,645.0703125,-198.203125,49,Temperate Woodlands,LightGray,0.5
-86377,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,659,183,65989183102,89,102,Isle of Balfiera,659.6953125,-183.203125,-168,Temperate Woodlands,LightGray,0.5
-85008,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,635,161,6352816153,28,53,Isle of Balfiera,635.21875,-161.5859375,-37,Temperate Woodlands,LightGray,0.5
-87531,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,641,193,64111419396,114,96,Isle of Balfiera,641.890625,-193.25,137,Temperate Woodlands,LightGray,0.5
-84872,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,657,169,6573816973,38,73,Isle of Balfiera,657.296875,-169.4296875,168,Temperate Woodlands,LightGray,0.5
-85780,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,639,198,63929198101,29,101,Isle of Balfiera,639.2265625,-198.2109375,53,Temperate Woodlands,LightGray,0.5
-85680,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,656,194,65611619440,116,40,Isle of Balfiera,656.90625,-194.6875,-13,Temperate Woodlands,LightGray,0.5
-84900,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,646,193,6467919391,79,91,Isle of Balfiera,646.6171875,-193.2890625,154,Temperate Woodlands,LightGray,0.5
-86429,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,643,200,64311020003,110,3,Isle of Balfiera,643.859375,-200.9765625,-147,Temperate Woodlands,LightGray,0.5
-87745,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,642,197,6420519778,5,78,Isle of Balfiera,642.0390625,-197.390625,-177,Temperate Woodlands,LightGray,0.5
-85925,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,646,176,6469217636,92,36,Isle of Balfiera,646.71875,-176.71875,-80,Temperate Woodlands,LightGray,0.5
-84730,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,651,169,65137169114,37,114,Isle of Balfiera,651.2890625,-169.109375,106,Temperate Woodlands,LightGray,0.5
-85360,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,642,204,6428420439,84,39,Isle of Balfiera,642.65625,-204.6953125,121,Temperate Woodlands,LightGray,0.5
-85701,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,635,205,63511520531,115,31,Isle of Balfiera,635.8984375,-205.7578125,15,Temperate Woodlands,LightGray,0.5
-86685,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,659,202,6598320297,83,97,Isle of Balfiera,659.6484375,-202.2421875,145,Temperate Woodlands,LightGray,0.5
-87439,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,650,207,6508020747,80,47,Isle of Balfiera,650.625,-207.6328125,-43,Temperate Woodlands,LightGray,0.5
-84969,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,641,171,64122171109,22,109,Isle of Balfiera,641.171875,-171.1484375,113,Temperate Woodlands,LightGray,0.5
-86389,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,618,160,6185016011,50,11,Isle of Balfiera,618.390625,-160.9140625,19,Temperate Woodlands,LightGray,0.5
-86321,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,656,201,65611620114,116,14,Isle of Balfiera,656.90625,-201.890625,-120,Temperate Woodlands,LightGray,0.5
-86288,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,621,160,6214516006,45,6,Isle of Balfiera,621.3515625,-160.953125,155,Temperate Woodlands,LightGray,0.5
-86632,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,640,170,64012017062,120,62,Isle of Balfiera,640.9375,-170.515625,12,Temperate Woodlands,LightGray,0.5
-86682,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,630,158,63011415874,114,74,Isle of Balfiera,630.890625,-158.421875,-44,Temperate Woodlands,LightGray,0.5
-85387,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,639,191,63910919168,109,68,Isle of Balfiera,639.8515625,-191.46875,-39,Temperate Woodlands,LightGray,0.5
-85863,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,646,191,6468019162,80,62,Isle of Balfiera,646.625,-191.515625,-52,Temperate Woodlands,LightGray,0.5
-85876,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,646,198,6465419805,54,5,Isle of Balfiera,646.421875,-198.9609375,179,Temperate Woodlands,LightGray,0.5
-85011,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,642,187,642118187121,118,121,Isle of Balfiera,642.921875,-187.0546875,-165,Temperate Woodlands,LightGray,0.5
-85762,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,651,171,6518017166,80,66,Isle of Balfiera,651.625,-171.484375,123,Temperate Woodlands,LightGray,0.5
-86678,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,623,155,62317155124,17,124,Isle of Balfiera,623.1328125,-155.03125,88,Temperate Woodlands,LightGray,0.5
-86114,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,656,187,6567518733,75,33,Isle of Balfiera,656.5859375,-187.7421875,-87,Temperate Woodlands,LightGray,0.5
-86345,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,639,191,6394819105,48,5,Isle of Balfiera,639.375,-191.9609375,149,Temperate Woodlands,LightGray,0.5
-86862,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,646,164,64611716410,117,10,Isle of Balfiera,646.9140625,-164.921875,61,Temperate Woodlands,LightGray,0.5
-86584,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,642,197,6421119784,11,84,Isle of Balfiera,642.0859375,-197.34375,-112,Temperate Woodlands,LightGray,0.5
-84736,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,649,198,6496619821,66,21,Isle of Balfiera,649.515625,-198.8359375,46,Temperate Woodlands,LightGray,0.5
-85541,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,632,167,6325216775,52,75,Isle of Balfiera,632.40625,-167.4140625,-88,Temperate Woodlands,LightGray,0.5
-86523,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,657,192,6573119277,31,77,Isle of Balfiera,657.2421875,-192.3984375,90,Temperate Woodlands,LightGray,0.5
-84934,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,655,200,65512320074,123,74,Isle of Balfiera,655.9609375,-200.421875,81,Temperate Woodlands,LightGray,0.5
-87605,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,652,171,65291171100,91,100,Isle of Balfiera,652.7109375,-171.21875,-116,Temperate Woodlands,LightGray,0.5
-86794,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,641,203,64110420306,104,6,Isle of Balfiera,641.8125,-203.953125,-36,Temperate Woodlands,LightGray,0.5
-87137,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,651,170,6510517057,5,57,Isle of Balfiera,651.0390625,-170.5546875,107,Temperate Woodlands,LightGray,0.5
-84741,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,649,200,649107200102,107,102,Isle of Balfiera,649.8359375,-200.203125,-11,Temperate Woodlands,LightGray,0.5
-85883,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,658,200,6585020010,50,10,Isle of Balfiera,658.390625,-200.921875,-141,Temperate Woodlands,LightGray,0.5
-84781,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,653,168,6539516825,95,25,Isle of Balfiera,653.7421875,-168.8046875,-82,Temperate Woodlands,LightGray,0.5
-87563,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,665,182,66510218249,102,49,Isle of Balfiera,665.796875,-182.6171875,92,Temperate Woodlands,LightGray,0.5
-84887,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,655,187,6558718708,87,8,Isle of Balfiera,655.6796875,-187.9375,-87,Temperate Woodlands,LightGray,0.5
-87725,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,649,170,64957170110,57,110,Isle of Balfiera,649.4453125,-170.140625,82,Temperate Woodlands,LightGray,0.5
-87254,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,658,204,6583220414,32,14,Isle of Balfiera,658.25,-204.890625,-131,Temperate Woodlands,LightGray,0.5
-85860,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,646,190,6461919077,19,77,Isle of Balfiera,646.1484375,-190.3984375,35,Temperate Woodlands,LightGray,0.5
-87188,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,651,168,6514016868,40,68,Isle of Balfiera,651.3125,-168.46875,-118,Temperate Woodlands,LightGray,0.5
-86867,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,647,166,6476216605,62,5,Isle of Balfiera,647.484375,-166.9609375,-63,Temperate Woodlands,LightGray,0.5
-87393,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,625,158,62511815872,118,72,Isle of Balfiera,625.921875,-158.4375,-59,Temperate Woodlands,LightGray,0.5
-86643,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,618,159,6181215938,12,38,Isle of Balfiera,618.09375,-159.703125,-47,Temperate Woodlands,LightGray,0.5
-87004,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,639,191,6393219157,32,57,Isle of Balfiera,639.25,-191.5546875,164,Temperate Woodlands,LightGray,0.5
-86976,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,627,159,62736159111,36,111,Isle of Balfiera,627.28125,-159.1328125,106,Temperate Woodlands,LightGray,0.5
-86426,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,646,198,646119198127,119,127,Isle of Balfiera,646.9296875,-198.0078125,-171,Temperate Woodlands,LightGray,0.5
-85258,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,640,172,6403917242,39,42,Isle of Balfiera,640.3046875,-172.671875,-44,Temperate Woodlands,LightGray,0.5
-86994,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,656,189,65602189117,2,117,Isle of Balfiera,656.015625,-189.0859375,116,Temperate Woodlands,LightGray,0.5
-86126,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,639,202,6390120269,1,69,Isle of Balfiera,639.0078125,-202.4609375,177,Temperate Woodlands,LightGray,0.5
-87714,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,624,152,6246115265,61,65,Isle of Balfiera,624.4765625,-152.4921875,-162,Temperate Woodlands,LightGray,0.5
-84657,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,649,168,6498216818,82,18,Isle of Balfiera,649.640625,-168.859375,155,Temperate Woodlands,LightGray,0.5
-86043,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,657,205,65750205108,50,108,Isle of Balfiera,657.390625,-205.15625,169,Temperate Woodlands,LightGray,0.5
-86727,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,639,202,6396220293,62,93,Isle of Balfiera,639.484375,-202.2734375,-101,Temperate Woodlands,LightGray,0.5
-87128,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,650,188,6508018823,80,23,Isle of Balfiera,650.625,-188.8203125,77,Temperate Woodlands,LightGray,0.5
-85878,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,628,150,62893150119,93,119,Isle of Balfiera,628.7265625,-150.0703125,166,Temperate Woodlands,LightGray,0.5
-86461,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,643,192,64368192101,68,101,Isle of Balfiera,643.53125,-192.2109375,-86,Temperate Woodlands,LightGray,0.5
-85823,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,624,158,6241015855,10,55,Isle of Balfiera,624.078125,-158.5703125,-124,Temperate Woodlands,LightGray,0.5
-87198,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,623,152,62312715285,127,85,Isle of Balfiera,623.9921875,-152.3359375,34,Temperate Woodlands,LightGray,0.5
-86652,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,628,163,6286616369,66,69,Isle of Balfiera,628.515625,-163.4609375,164,Temperate Woodlands,LightGray,0.5
-85024,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,649,189,6494618983,46,83,Isle of Balfiera,649.359375,-189.3515625,-38,Temperate Woodlands,LightGray,0.5
-86080,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,657,184,65781184113,81,113,Isle of Balfiera,657.6328125,-184.1171875,48,Temperate Woodlands,LightGray,0.5
-87159,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,630,152,63011715206,117,6,Isle of Balfiera,630.9140625,-152.953125,40,Temperate Woodlands,LightGray,0.5
-85255,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,644,201,64411201126,11,126,Isle of Balfiera,644.0859375,-201.015625,-56,Temperate Woodlands,LightGray,0.5
-86882,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,628,154,62878154102,78,102,Isle of Balfiera,628.609375,-154.203125,-18,Temperate Woodlands,LightGray,0.5
-86337,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,643,196,64351196105,51,105,Isle of Balfiera,643.3984375,-196.1796875,-51,Temperate Woodlands,LightGray,0.5
-87076,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,637,196,6376419635,64,35,Isle of Balfiera,637.5,-196.7265625,159,Temperate Woodlands,LightGray,0.5
-85834,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,647,171,64708171124,8,124,Isle of Balfiera,647.0625,-171.03125,100,Temperate Woodlands,LightGray,0.5
-85451,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,646,190,646102190126,102,126,Isle of Balfiera,646.796875,-190.015625,48,Temperate Woodlands,LightGray,0.5
-86821,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,658,195,6583519511,35,11,Isle of Balfiera,658.2734375,-195.9140625,45,Temperate Woodlands,LightGray,0.5
-86178,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,656,194,6566419438,64,38,Isle of Balfiera,656.5,-194.703125,-93,Temperate Woodlands,LightGray,0.5
-87180,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,638,200,6385820077,58,77,Isle of Balfiera,638.453125,-200.3984375,-161,Temperate Woodlands,LightGray,0.5
-87383,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,638,199,6388519992,85,92,Isle of Balfiera,638.6640625,-199.28125,107,Temperate Woodlands,LightGray,0.5
-87049,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,650,165,6509316583,93,83,Isle of Balfiera,650.7265625,-165.3515625,-132,Temperate Woodlands,LightGray,0.5
-87041,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,634,162,6342216245,22,45,Isle of Balfiera,634.171875,-162.6484375,85,Temperate Woodlands,LightGray,0.5
-85936,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,658,196,6582119633,21,33,Isle of Balfiera,658.1640625,-196.7421875,-69,Temperate Woodlands,LightGray,0.5
-85242,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,641,199,6417819979,78,79,Isle of Balfiera,641.609375,-199.3828125,-70,Temperate Woodlands,LightGray,0.5
-87673,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,648,176,64898176107,98,107,Isle of Balfiera,648.765625,-176.1640625,125,Temperate Woodlands,LightGray,0.5
-87676,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,641,171,6418517194,85,94,Isle of Balfiera,641.6640625,-171.265625,-11,Temperate Woodlands,LightGray,0.5
-85766,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,659,203,6592220384,22,84,Isle of Balfiera,659.171875,-203.34375,-132,Temperate Woodlands,LightGray,0.5
-85941,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,636,197,6362019767,20,67,Isle of Balfiera,636.15625,-197.4765625,21,Temperate Woodlands,LightGray,0.5
-86109,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,642,195,6424519569,45,69,Isle of Balfiera,642.3515625,-195.4609375,43,Temperate Woodlands,LightGray,0.5
-86294,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,641,198,6417719844,77,44,Isle of Balfiera,641.6015625,-198.65625,44,Temperate Woodlands,LightGray,0.5
-85102,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,647,192,64710619217,106,17,Isle of Balfiera,647.828125,-192.8671875,134,Temperate Woodlands,LightGray,0.5
-87584,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,643,201,6434220187,42,87,Isle of Balfiera,643.328125,-201.3203125,158,Temperate Woodlands,LightGray,0.5
-86381,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,657,187,6574918786,49,86,Isle of Balfiera,657.3828125,-187.328125,97,Temperate Woodlands,LightGray,0.5
-86186,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,629,163,6293516375,35,75,Isle of Balfiera,629.2734375,-163.4140625,72,Temperate Woodlands,LightGray,0.5
-85014,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,623,156,6237915668,79,68,Isle of Balfiera,623.6171875,-156.46875,-175,Temperate Woodlands,LightGray,0.5
-87456,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,649,166,6492716683,27,83,Isle of Balfiera,649.2109375,-166.3515625,-11,Temperate Woodlands,LightGray,0.5
-84971,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,638,192,6387219212,72,12,Isle of Balfiera,638.5625,-192.90625,-70,Temperate Woodlands,LightGray,0.5
-87026,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,648,174,648101174123,101,123,Isle of Balfiera,648.7890625,-174.0390625,-69,Temperate Woodlands,LightGray,0.5
-87748,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,645,173,6451917319,19,19,Isle of Balfiera,645.1484375,-173.8515625,160,Temperate Woodlands,LightGray,0.5
-86647,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,619,160,61959160117,59,117,Isle of Balfiera,619.4609375,-160.0859375,-161,Temperate Woodlands,LightGray,0.5
-86552,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,633,154,6337815413,78,13,Isle of Balfiera,633.609375,-154.8984375,123,Temperate Woodlands,LightGray,0.5
-87698,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,656,198,6563319845,33,45,Isle of Balfiera,656.2578125,-198.6484375,-87,Temperate Woodlands,LightGray,0.5
-85314,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,654,186,654123186115,123,115,Isle of Balfiera,654.9609375,-186.1015625,146,Temperate Woodlands,LightGray,0.5
-86363,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,642,187,6420718766,7,66,Isle of Balfiera,642.0546875,-187.484375,81,Temperate Woodlands,LightGray,0.5
-87506,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,654,173,6540217308,2,8,Isle of Balfiera,654.015625,-173.9375,-168,Temperate Woodlands,LightGray,0.5
-86887,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,639,189,639106189115,106,115,Isle of Balfiera,639.828125,-189.1015625,60,Temperate Woodlands,LightGray,0.5
-87272,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,648,195,64838195111,38,111,Isle of Balfiera,648.296875,-195.1328125,-126,Temperate Woodlands,LightGray,0.5
-87652,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,637,194,6370519484,5,84,Isle of Balfiera,637.0390625,-194.34375,-17,Temperate Woodlands,LightGray,0.5
-85215,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,633,166,6331616680,16,80,Isle of Balfiera,633.125,-166.375,27,Temperate Woodlands,LightGray,0.5
-86908,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,642,194,6421819419,18,19,Isle of Balfiera,642.140625,-194.8515625,-5,Temperate Woodlands,LightGray,0.5
-85224,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,654,195,6542319524,23,24,Isle of Balfiera,654.1796875,-195.8125,-34,Temperate Woodlands,LightGray,0.5
-87466,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,658,198,65811019889,110,89,Isle of Balfiera,658.859375,-198.3046875,172,Temperate Woodlands,LightGray,0.5
-84945,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,649,207,6491020751,10,51,Isle of Balfiera,649.078125,-207.6015625,-17,Temperate Woodlands,LightGray,0.5
-85768,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,647,194,64718194122,18,122,Isle of Balfiera,647.140625,-194.046875,62,Temperate Woodlands,LightGray,0.5
-87256,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,665,180,6655518074,55,74,Isle of Balfiera,665.4296875,-180.421875,-49,Temperate Woodlands,LightGray,0.5
-85046,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,653,201,6531420169,14,69,Isle of Balfiera,653.109375,-201.4609375,-129,Temperate Woodlands,LightGray,0.5
-86236,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,642,188,6428318860,83,60,Isle of Balfiera,642.6484375,-188.53125,-39,Temperate Woodlands,LightGray,0.5
-85635,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,653,195,65312019584,120,84,Isle of Balfiera,653.9375,-195.34375,116,Temperate Woodlands,LightGray,0.5
-86731,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,651,175,65110017596,100,96,Isle of Balfiera,651.78125,-175.25,-86,Temperate Woodlands,LightGray,0.5
-84638,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,649,198,6496619856,66,56,Isle of Balfiera,649.515625,-198.5625,35,Temperate Woodlands,LightGray,0.5
-85623,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,627,148,6273314805,33,5,Isle of Balfiera,627.2578125,-148.9609375,-35,Temperate Woodlands,LightGray,0.5
-85486,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,645,193,6459219332,92,32,Isle of Balfiera,645.71875,-193.75,96,Temperate Woodlands,LightGray,0.5
-85214,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,652,173,6528117396,81,96,Isle of Balfiera,652.6328125,-173.25,-12,Temperate Woodlands,LightGray,0.5
-85845,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,639,196,63910319692,103,92,Isle of Balfiera,639.8046875,-196.28125,60,Temperate Woodlands,LightGray,0.5
-86097,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,637,206,6376520678,65,78,Isle of Balfiera,637.5078125,-206.390625,124,Temperate Woodlands,LightGray,0.5
-85003,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,655,194,65512019410,120,10,Isle of Balfiera,655.9375,-194.921875,-152,Temperate Woodlands,LightGray,0.5
-86633,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,657,205,65734205103,34,103,Isle of Balfiera,657.265625,-205.1953125,-106,Temperate Woodlands,LightGray,0.5
-86937,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,649,173,64910317392,103,92,Isle of Balfiera,649.8046875,-173.28125,138,Temperate Woodlands,LightGray,0.5
-87443,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,644,194,6446819495,68,95,Isle of Balfiera,644.53125,-194.2578125,-162,Temperate Woodlands,LightGray,0.5
-87566,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,648,196,6482819649,28,49,Isle of Balfiera,648.21875,-196.6171875,147,Temperate Woodlands,LightGray,0.5
-85181,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,640,198,64016198109,16,109,Isle of Balfiera,640.125,-198.1484375,-106,Temperate Woodlands,LightGray,0.5
-86680,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,646,175,64611175128,11,128,Isle of Balfiera,646.0859375,-175,-131,Temperate Woodlands,LightGray,0.5
-85505,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,626,151,6265115164,51,64,Isle of Balfiera,626.3984375,-151.5,-92,Temperate Woodlands,LightGray,0.5
-84931,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,617,157,6176315784,63,84,Isle of Balfiera,617.4921875,-157.34375,-124,Temperate Woodlands,LightGray,0.5
-84839,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,646,175,64610017503,100,3,Isle of Balfiera,646.78125,-175.9765625,-30,Temperate Woodlands,LightGray,0.5
-87444,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,647,170,6476417034,64,34,Isle of Balfiera,647.5,-170.734375,-45,Temperate Woodlands,LightGray,0.5
-85236,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,651,167,6518916746,89,46,Isle of Balfiera,651.6953125,-167.640625,149,Temperate Woodlands,LightGray,0.5
-85398,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,649,193,6497619396,76,96,Isle of Balfiera,649.59375,-193.25,126,Temperate Woodlands,LightGray,0.5
-85016,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,664,181,6646118180,61,80,Isle of Balfiera,664.4765625,-181.375,26,Temperate Woodlands,LightGray,0.5
-85220,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,637,194,6374619495,46,95,Isle of Balfiera,637.359375,-194.2578125,-71,Temperate Woodlands,LightGray,0.5
-85707,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,621,152,621107152118,107,118,Isle of Balfiera,621.8359375,-152.078125,-179,Temperate Woodlands,LightGray,0.5
-87204,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,658,193,6581119392,11,92,Isle of Balfiera,658.0859375,-193.28125,9,Temperate Woodlands,LightGray,0.5
-87739,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,617,159,6173415930,34,30,Isle of Balfiera,617.265625,-159.765625,-54,Temperate Woodlands,LightGray,0.5
-86370,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,621,160,62112816097,128,97,Isle of Balfiera,622,-160.2421875,-128,Temperate Woodlands,LightGray,0.5
-84847,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,639,172,63959172102,59,102,Isle of Balfiera,639.4609375,-172.203125,34,Temperate Woodlands,LightGray,0.5
-85329,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,645,192,6454619218,46,18,Isle of Balfiera,645.359375,-192.859375,-68,Temperate Woodlands,LightGray,0.5
-86825,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,643,200,6437020034,70,34,Isle of Balfiera,643.546875,-200.734375,173,Temperate Woodlands,LightGray,0.5
-86804,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,639,196,6391219613,12,13,Isle of Balfiera,639.09375,-196.8984375,-24,Temperate Woodlands,LightGray,0.5
-86718,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,653,200,6536320099,63,99,Isle of Balfiera,653.4921875,-200.2265625,89,Temperate Woodlands,LightGray,0.5
-87173,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,660,183,660123183122,123,122,Isle of Balfiera,660.9609375,-183.046875,-166,Temperate Woodlands,LightGray,0.5
-86235,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,639,194,6397419442,74,42,Isle of Balfiera,639.578125,-194.671875,35,Temperate Woodlands,LightGray,0.5
-84961,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,654,169,6544816967,48,67,Isle of Balfiera,654.375,-169.4765625,136,Temperate Woodlands,LightGray,0.5
-86380,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,627,157,6277715791,77,91,Isle of Balfiera,627.6015625,-157.2890625,146,Temperate Woodlands,LightGray,0.5
-86944,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,652,199,6525119913,51,13,Isle of Balfiera,652.3984375,-199.8984375,29,Temperate Woodlands,LightGray,0.5
-85405,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,641,205,6413320554,33,54,Isle of Balfiera,641.2578125,-205.578125,79,Temperate Woodlands,LightGray,0.5
-87596,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,619,157,6197015768,70,68,Isle of Balfiera,619.546875,-157.46875,-64,Temperate Woodlands,LightGray,0.5
-85042,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,648,193,64810319330,103,30,Isle of Balfiera,648.8046875,-193.765625,77,Temperate Woodlands,LightGray,0.5
-85732,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,630,166,63011016683,110,83,Isle of Balfiera,630.859375,-166.3515625,47,Temperate Woodlands,LightGray,0.5
-84858,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,656,191,65628191118,28,118,Isle of Balfiera,656.21875,-191.078125,-102,Temperate Woodlands,LightGray,0.5
-85376,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,621,155,6213815573,38,73,Isle of Balfiera,621.296875,-155.4296875,-96,Temperate Woodlands,LightGray,0.5
-86147,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,622,159,6228115918,81,18,Isle of Balfiera,622.6328125,-159.859375,104,Temperate Woodlands,LightGray,0.5
-85867,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,650,201,6505620150,56,50,Isle of Balfiera,650.4375,-201.609375,20,Temperate Woodlands,LightGray,0.5
-87542,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,651,188,6511718877,17,77,Isle of Balfiera,651.1328125,-188.3984375,143,Temperate Woodlands,LightGray,0.5
-87170,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,658,195,6589219517,92,17,Isle of Balfiera,658.71875,-195.8671875,-121,Temperate Woodlands,LightGray,0.5
-86818,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,649,171,64911617147,116,47,Isle of Balfiera,649.90625,-171.6328125,165,Temperate Woodlands,LightGray,0.5
-85703,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,654,168,6543116862,31,62,Isle of Balfiera,654.2421875,-168.515625,49,Temperate Woodlands,LightGray,0.5
-87020,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,658,192,65815192128,15,128,Isle of Balfiera,658.1171875,-192,166,Temperate Woodlands,LightGray,0.5
-86791,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,627,152,62774152106,74,106,Isle of Balfiera,627.578125,-152.171875,-161,Temperate Woodlands,LightGray,0.5
-86032,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,652,186,6526018609,60,9,Isle of Balfiera,652.46875,-186.9296875,17,Temperate Woodlands,LightGray,0.5
-86917,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_10,638,190,6388019059,80,59,Isle of Balfiera,638.625,-190.5390625,20,Temperate Woodlands,LightGray,0.5
-87359,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,643,204,64310020477,100,77,Isle of Balfiera,643.78125,-204.3984375,-141,Temperate Woodlands,LightGray,0.5
-85570,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,643,192,64312319295,123,95,Isle of Balfiera,643.9609375,-192.2578125,14,Temperate Woodlands,LightGray,0.5
-85037,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,632,157,6321015754,10,54,Isle of Balfiera,632.078125,-157.578125,129,Temperate Woodlands,LightGray,0.5
-87044,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,627,153,62704153104,4,104,Isle of Balfiera,627.03125,-153.1875,29,Temperate Woodlands,LightGray,0.5
-86949,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,649,205,64947205105,47,105,Isle of Balfiera,649.3671875,-205.1796875,36,Temperate Woodlands,LightGray,0.5
-87011,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,643,194,6439919427,99,27,Isle of Balfiera,643.7734375,-194.7890625,-116,Temperate Woodlands,LightGray,0.5
-87631,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,621,156,6212315644,23,44,Isle of Balfiera,621.1796875,-156.65625,162,Temperate Woodlands,LightGray,0.5
-85585,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,646,195,64672195125,72,125,Isle of Balfiera,646.5625,-195.0234375,22,Temperate Woodlands,LightGray,0.5
-86359,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,627,156,62719156123,19,123,Isle of Balfiera,627.1484375,-156.0390625,-158,Temperate Woodlands,LightGray,0.5
-86796,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,642,203,6426520364,65,64,Isle of Balfiera,642.5078125,-203.5,40,Temperate Woodlands,LightGray,0.5
-86452,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,639,171,63939171110,39,110,Isle of Balfiera,639.3046875,-171.140625,146,Temperate Woodlands,LightGray,0.5
-87202,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,649,204,64960204111,60,111,Isle of Balfiera,649.46875,-204.1328125,150,Temperate Woodlands,LightGray,0.5
-86445,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_03,638,191,63811719129,117,29,Isle of Balfiera,638.9140625,-191.7734375,2,Temperate Woodlands,LightGray,0.5
-85075,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,644,195,6443719565,37,65,Isle of Balfiera,644.2890625,-195.4921875,54,Temperate Woodlands,LightGray,0.5
-86144,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,656,199,65611019987,110,87,Isle of Balfiera,656.859375,-199.3203125,-164,Temperate Woodlands,LightGray,0.5
-86905,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,653,202,6536320245,63,45,Isle of Balfiera,653.4921875,-202.6484375,-160,Temperate Woodlands,LightGray,0.5
-86465,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,639,197,6391319788,13,88,Isle of Balfiera,639.1015625,-197.3125,7,Temperate Woodlands,LightGray,0.5
-86875,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,650,197,6507519739,75,39,Isle of Balfiera,650.5859375,-197.6953125,97,Temperate Woodlands,LightGray,0.5
-87096,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,648,204,6488020470,80,70,Isle of Balfiera,648.625,-204.453125,82,Temperate Woodlands,LightGray,0.5
-86723,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,650,203,6505420345,54,45,Isle of Balfiera,650.421875,-203.6484375,-62,Temperate Woodlands,LightGray,0.5
-86919,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,648,200,6483120005,31,5,Isle of Balfiera,648.2421875,-200.9609375,4,Temperate Woodlands,LightGray,0.5
-85806,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,655,191,6559219153,92,53,Isle of Balfiera,655.71875,-191.5859375,46,Temperate Woodlands,LightGray,0.5
-86707,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_04,636,198,6368619867,86,67,Isle of Balfiera,636.671875,-198.4765625,98,Temperate Woodlands,LightGray,0.5
-86960,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_03,655,196,6553319666,33,66,Isle of Balfiera,655.2578125,-196.484375,106,Temperate Woodlands,LightGray,0.5
-85712,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,650,190,65010519058,105,58,Isle of Balfiera,650.8203125,-190.546875,-15,Temperate Woodlands,LightGray,0.5
-87738,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,649,178,649118178121,118,121,Isle of Balfiera,649.921875,-178.0546875,-109,Temperate Woodlands,LightGray,0.5
-86951,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,638,206,6384820618,48,18,Isle of Balfiera,638.375,-206.859375,156,Temperate Woodlands,LightGray,0.5
-86391,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,633,162,6335216247,52,47,Isle of Balfiera,633.40625,-162.6328125,32,Temperate Woodlands,LightGray,0.5
-86093,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,625,155,62511415515,114,15,Isle of Balfiera,625.890625,-155.8828125,-177,Temperate Woodlands,LightGray,0.5
-85763,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,643,188,6430318872,3,72,Isle of Balfiera,643.0234375,-188.4375,-10,Temperate Woodlands,LightGray,0.5
-85356,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,664,178,6647917845,79,45,Isle of Balfiera,664.6171875,-178.6484375,-70,Temperate Woodlands,LightGray,0.5
-86021,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,657,198,65712119834,121,34,Isle of Balfiera,657.9453125,-198.734375,-16,Temperate Woodlands,LightGray,0.5
-85512,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,624,152,624128152115,128,115,Isle of Balfiera,625,-152.1015625,-92,Temperate Woodlands,LightGray,0.5
-86984,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,617,156,6174515649,45,49,Isle of Balfiera,617.3515625,-156.6171875,156,Temperate Woodlands,LightGray,0.5
-87569,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,644,203,6447420359,74,59,Isle of Balfiera,644.578125,-203.5390625,-116,Temperate Woodlands,LightGray,0.5
-87189,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,656,194,6566819487,68,87,Isle of Balfiera,656.53125,-194.3203125,-45,Temperate Woodlands,LightGray,0.5
-84700,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,645,199,64510719912,107,12,Isle of Balfiera,645.8359375,-199.90625,6,Temperate Woodlands,LightGray,0.5
-87337,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,647,166,6474616650,46,50,Isle of Balfiera,647.359375,-166.609375,-165,Temperate Woodlands,LightGray,0.5
-85449,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,659,197,65912219719,122,19,Isle of Balfiera,659.953125,-197.8515625,-134,Temperate Woodlands,LightGray,0.5
-85597,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,642,187,64212718762,127,62,Isle of Balfiera,642.9921875,-187.515625,-138,Temperate Woodlands,LightGray,0.5
-85608,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,633,164,6337216480,72,80,Isle of Balfiera,633.5625,-164.375,33,Temperate Woodlands,LightGray,0.5
-87097,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,628,152,6283115202,31,2,Isle of Balfiera,628.2421875,-152.984375,164,Temperate Woodlands,LightGray,0.5
-86119,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,660,182,66015182118,15,118,Isle of Balfiera,660.1171875,-182.078125,-29,Temperate Woodlands,LightGray,0.5
-86009,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,649,167,6499816770,98,70,Isle of Balfiera,649.765625,-167.453125,157,Temperate Woodlands,LightGray,0.5
-85535,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,643,203,6437220314,72,14,Isle of Balfiera,643.5625,-203.890625,-20,Temperate Woodlands,LightGray,0.5
-86275,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_03,649,192,6494919239,49,39,Isle of Balfiera,649.3828125,-192.6953125,-129,Temperate Woodlands,LightGray,0.5
-86239,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,636,201,6361120193,11,93,Isle of Balfiera,636.0859375,-201.2734375,-135,Temperate Woodlands,LightGray,0.5
-87645,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,651,172,6513217255,32,55,Isle of Balfiera,651.25,-172.5703125,-58,Temperate Woodlands,LightGray,0.5
-87392,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,625,158,62555158119,55,119,Isle of Balfiera,625.4296875,-158.0703125,-140,Temperate Woodlands,LightGray,0.5
-86622,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,646,170,6464417050,44,50,Isle of Balfiera,646.34375,-170.609375,-109,Temperate Woodlands,LightGray,0.5
-86011,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,640,190,6405219045,52,45,Isle of Balfiera,640.40625,-190.6484375,12,Temperate Woodlands,LightGray,0.5
-84894,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,657,203,6576120382,61,82,Isle of Balfiera,657.4765625,-203.359375,-99,Temperate Woodlands,LightGray,0.5
-85859,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_01,658,192,65811419297,114,97,Isle of Balfiera,658.890625,-192.2421875,116,Temperate Woodlands,LightGray,0.5
-85156,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_09,653,189,65317189115,17,115,Isle of Balfiera,653.1328125,-189.1015625,-123,Temperate Woodlands,LightGray,0.5
-86116,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_02,644,199,6441419975,14,75,Isle of Balfiera,644.109375,-199.4140625,-99,Temperate Woodlands,LightGray,0.5
-85278,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_02,628,150,62888150119,88,119,Isle of Balfiera,628.6875,-150.0703125,51,Temperate Woodlands,LightGray,0.5
-85339,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,620,153,62011715326,117,26,Isle of Balfiera,620.9140625,-153.796875,36,Temperate Woodlands,LightGray,0.5
-85019,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_04,647,174,64789174115,89,115,Isle of Balfiera,647.6953125,-174.1015625,-85,Temperate Woodlands,LightGray,0.5
-86589,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_05,638,198,63882198101,82,101,Isle of Balfiera,638.640625,-198.2109375,121,Temperate Woodlands,LightGray,0.5
-85590,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,650,168,6507716823,77,23,Isle of Balfiera,650.6015625,-168.8203125,-125,Temperate Woodlands,LightGray,0.5
-87372,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,640,187,64010318719,103,19,Isle of Balfiera,640.8046875,-187.8515625,59,Temperate Woodlands,LightGray,0.5
-87394,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_07,648,171,64810417113,104,13,Isle of Balfiera,648.8125,-171.8984375,23,Temperate Woodlands,LightGray,0.5
-86895,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,638,200,6382220046,22,46,Isle of Balfiera,638.171875,-200.640625,-124,Temperate Woodlands,LightGray,0.5
-85857,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_11,641,191,6410719117,7,17,Isle of Balfiera,641.0546875,-191.8671875,-86,Temperate Woodlands,LightGray,0.5
-85670,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,665,178,6650517820,5,20,Isle of Balfiera,665.0390625,-178.84375,-146,Temperate Woodlands,LightGray,0.5
-87109,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_09,653,188,65312118879,121,79,Isle of Balfiera,653.9453125,-188.3828125,169,Temperate Woodlands,LightGray,0.5
-85624,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,649,178,64969178107,69,107,Isle of Balfiera,649.5390625,-178.1640625,-123,Temperate Woodlands,LightGray,0.5
-86059,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,639,173,6393417310,34,10,Isle of Balfiera,639.265625,-173.921875,-104,Temperate Woodlands,LightGray,0.5
-86463,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,630,157,63010915762,109,62,Isle of Balfiera,630.8515625,-157.515625,0,Temperate Woodlands,LightGray,0.5
-85044,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_10,644,192,6441419255,14,55,Isle of Balfiera,644.109375,-192.5703125,79,Temperate Woodlands,LightGray,0.5
-85511,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_01,652,196,6521319633,13,33,Isle of Balfiera,652.1015625,-196.7421875,52,Temperate Woodlands,LightGray,0.5
-87615,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_06,644,172,6442117241,21,41,Isle of Balfiera,644.1640625,-172.6796875,67,Temperate Woodlands,LightGray,0.5
-86858,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_09,652,201,6528520149,85,49,Isle of Balfiera,652.6640625,-201.6171875,68,Temperate Woodlands,LightGray,0.5
-86583,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,657,188,657118188126,118,126,Isle of Balfiera,657.921875,-188.015625,-135,Temperate Woodlands,LightGray,0.5
-86694,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_07,618,157,6186515727,65,27,Isle of Balfiera,618.5078125,-157.7890625,-24,Temperate Woodlands,LightGray,0.5
-85803,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_12,644,193,6446919335,69,35,Isle of Balfiera,644.5390625,-193.7265625,-156,Temperate Woodlands,LightGray,0.5
-87728,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,654,192,6547419259,74,59,Isle of Balfiera,654.578125,-192.5390625,166,Temperate Woodlands,LightGray,0.5
-87046,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,654,194,6547619438,76,38,Isle of Balfiera,654.59375,-194.703125,83,Temperate Woodlands,LightGray,0.5
-87554,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,647,171,6473917157,39,57,Isle of Balfiera,647.3046875,-171.5546875,-47,Temperate Woodlands,LightGray,0.5
-87000,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,623,156,6236815654,68,54,Isle of Balfiera,623.53125,-156.578125,24,Temperate Woodlands,LightGray,0.5
-85567,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,650,177,6508017762,80,62,Isle of Balfiera,650.625,-177.515625,10,Temperate Woodlands,LightGray,0.5
-86705,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_02,628,155,6289215550,92,50,Isle of Balfiera,628.71875,-155.609375,46,Temperate Woodlands,LightGray,0.5
-86232,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,642,173,64245173101,45,101,Isle of Balfiera,642.3515625,-173.2109375,55,Temperate Woodlands,LightGray,0.5
-86914,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_05,645,196,64555196102,55,102,Isle of Balfiera,645.4296875,-196.203125,-172,Temperate Woodlands,LightGray,0.5
-85985,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_08,654,189,6546518989,65,89,Isle of Balfiera,654.5078125,-189.3046875,-84,Temperate Woodlands,LightGray,0.5
-86729,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_07,657,186,6578418624,84,24,Isle of Balfiera,657.65625,-186.8125,-37,Temperate Woodlands,LightGray,0.5
-84936,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_01,628,150,6286015076,60,76,Isle of Balfiera,628.46875,-150.40625,173,Temperate Woodlands,LightGray,0.5
-87689,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,646,193,64659193101,59,101,Isle of Balfiera,646.4609375,-193.2109375,-170,Temperate Woodlands,LightGray,0.5
-86268,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_05,645,177,6455417789,54,89,Isle of Balfiera,645.421875,-177.3046875,85,Temperate Woodlands,LightGray,0.5
-85983,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,652,200,6521320005,13,5,Isle of Balfiera,652.1015625,-200.9609375,57,Temperate Woodlands,LightGray,0.5
-86612,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,638,192,63811619291,116,91,Isle of Balfiera,638.90625,-192.2890625,-149,Temperate Woodlands,LightGray,0.5
-86847,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_06,645,178,64511517848,115,48,Isle of Balfiera,645.8984375,-178.625,173,Temperate Woodlands,LightGray,0.5
-86077,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Small_08,657,201,65778201122,78,122,Isle of Balfiera,657.609375,-201.046875,131,Temperate Woodlands,LightGray,0.5
-87540,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_06,640,194,64006194103,6,103,Isle of Balfiera,640.046875,-194.1953125,160,Temperate Woodlands,LightGray,0.5
-85893,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Large_08,648,169,6480616961,6,61,Isle of Balfiera,648.046875,-169.5234375,-57,Temperate Woodlands,LightGray,0.5
-87649,Rocks,1,WOD_Rocks_RoundSpiky_LightGray_Medium_04,654,173,6541817375,18,75,Isle of Balfiera,654.140625,-173.4140625,-35,Temperate Woodlands,LightGray,0.5
+87114,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,713,226,71336226128,36,128,Isle of Balfiera,713.28125,-226.0,-158,Mountains,Gray,0.5

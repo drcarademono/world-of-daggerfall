@@ -21,7 +21,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83403,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,446,412,4469241255,92,55,Ayasofya,446.71875,-412.5703125,115,Desert,Brown,0.5
 84042,Rocks,1,WOD_Rocks_Round_Brown_Large_03,477,364,4772936435,29,35,Ayasofya,477.2265625,-364.7265625,64,Subtropical,Brown,0.5
 83570,Rocks,1,WOD_Rocks_Round_Brown_Large_02,472,385,4727838566,78,66,Ayasofya,472.609375,-385.484375,4,Subtropical,Brown,0.5
-82918,Rocks,1,WOD_Rocks_Round_Brown_Large_05,481,362,48111836221,118,21,Ayasofya,481.921875,-362.8359375,54,Ocean,Brown,0.5
 83950,Rocks,1,WOD_Rocks_Round_Brown_Small_09,454,399,45438399117,38,117,Ayasofya,454.296875,-399.0859375,142,Desert,Brown,0.5
 83726,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,481,364,4811736483,17,83,Ayasofya,481.1328125,-364.3515625,1,Subtropical,Brown,0.5
 84085,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,465,381,4659838164,98,64,Ayasofya,465.765625,-381.5,147,Subtropical,Brown,0.5
@@ -30,7 +29,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83394,Rocks,1,WOD_Rocks_Round_Brown_Small_02,458,367,45838367114,38,114,Ayasofya,458.296875,-367.109375,-96,Subtropical,Brown,0.5
 83730,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,514,363,51412536318,125,18,Ayasofya,514.9765625,-363.859375,-158,Subtropical,Brown,0.5
 83740,Rocks,1,WOD_Rocks_Round_Brown_Small_01,446,411,4461441133,14,33,Ayasofya,446.109375,-411.7421875,-156,Desert,Brown,0.5
-84250,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,483,379,48369379128,69,128,Ayasofya,483.5390625,-379,18,Subtropical,Brown,0.5
+84250,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,483,379,48369379128,69,128,Ayasofya,483.5390625,-379.0,18,Subtropical,Brown,0.5
 83523,Rocks,1,WOD_Rocks_Round_Brown_Large_09,501,385,501114385118,114,118,Ayasofya,501.890625,-385.078125,26,Subtropical,Brown,0.5
 84258,Rocks,1,WOD_Rocks_Round_Brown_Small_02,447,402,447122402116,122,116,Ayasofya,447.953125,-402.09375,-108,Desert,Brown,0.5
 83263,Rocks,1,WOD_Rocks_Round_Brown_Small_01,471,378,4714137869,41,69,Ayasofya,471.3203125,-378.4609375,67,Subtropical,Brown,0.5
@@ -66,7 +65,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84615,Rocks,1,WOD_Rocks_Round_Brown_Small_05,477,392,4778239245,82,45,Ayasofya,477.640625,-392.6484375,38,Desert,Brown,0.5
 84477,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,473,365,473119365111,119,111,Ayasofya,473.9296875,-365.1328125,118,Subtropical,Brown,0.5
 83086,Rocks,1,WOD_Rocks_Round_Brown_Small_09,475,390,4752939068,29,68,Ayasofya,475.2265625,-390.46875,32,Desert,Brown,0.5
-82797,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,513,388,51375388128,75,128,Ayasofya,513.5859375,-388,84,Subtropical,Brown,0.5
+82797,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,513,388,51375388128,75,128,Ayasofya,513.5859375,-388.0,84,Subtropical,Brown,0.5
 84326,Rocks,1,WOD_Rocks_Round_Brown_Large_01,552,379,5524137904,41,4,Ayasofya,552.3203125,-379.96875,172,Subtropical,Brown,0.5
 84354,Rocks,1,WOD_Rocks_Round_Brown_Large_07,558,372,5585237220,52,20,Ayasofya,558.40625,-372.84375,-78,Subtropical,Brown,0.5
 84570,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,490,368,4905236819,52,19,Ayasofya,490.40625,-368.8515625,-171,Subtropical,Brown,0.5
@@ -107,7 +106,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82855,Rocks,1,WOD_Rocks_Round_Brown_Large_01,451,408,45112740874,127,74,Ayasofya,451.9921875,-408.421875,174,Desert,Brown,0.5
 83856,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,471,393,4716139323,61,23,Ayasofya,471.4765625,-393.8203125,122,Desert,Brown,0.5
 82827,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,535,381,53579381107,79,107,Ayasofya,535.6171875,-381.1640625,43,Subtropical,Brown,0.5
-84130,Rocks,1,WOD_Rocks_Round_Brown_Small_02,525,384,52512838427,128,27,Ayasofya,526,-384.7890625,94,Subtropical,Brown,0.5
+84130,Rocks,1,WOD_Rocks_Round_Brown_Small_02,525,384,52512838427,128,27,Ayasofya,526.0,-384.7890625,94,Subtropical,Brown,0.5
 84562,Rocks,1,WOD_Rocks_Round_Brown_Small_02,472,388,47212638803,126,3,Ayasofya,472.984375,-388.9765625,-85,Desert,Brown,0.5
 84048,Rocks,1,WOD_Rocks_Round_Brown_Small_01,447,395,4476539576,65,76,Ayasofya,447.5078125,-395.40625,63,Desert,Brown,0.5
 83882,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,470,385,4705138507,51,7,Ayasofya,470.3984375,-385.9453125,-44,Subtropical,Brown,0.5
@@ -144,7 +143,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84467,Rocks,1,WOD_Rocks_Round_Brown_Small_07,544,371,54411137162,111,62,Ayasofya,544.8671875,-371.515625,-114,Subtropical,Brown,0.5
 83796,Rocks,1,WOD_Rocks_Round_Brown_Small_05,447,412,44710541269,105,69,Ayasofya,447.8203125,-412.4609375,-94,Desert,Brown,0.5
 84081,Rocks,1,WOD_Rocks_Round_Brown_Small_09,498,388,4988138838,81,38,Ayasofya,498.6328125,-388.703125,-168,Subtropical,Brown,0.5
-83257,Rocks,1,WOD_Rocks_Round_Brown_Large_02,455,360,4559836070,98,70,Ayasofya,455.765625,-360.453125,-29,Ocean,Brown,0.5
 83476,Rocks,1,WOD_Rocks_Round_Brown_Small_08,531,374,53111337479,113,79,Ayasofya,531.8828125,-374.3828125,-50,Subtropical,Brown,0.5
 83578,Rocks,1,WOD_Rocks_Round_Brown_Small_03,527,386,5275538693,55,93,Ayasofya,527.4296875,-386.2734375,-2,Subtropical,Brown,0.5
 84200,Rocks,1,WOD_Rocks_Round_Brown_Large_03,514,377,5143637789,36,89,Ayasofya,514.28125,-377.3046875,7,Subtropical,Brown,0.5
@@ -173,7 +171,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84423,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,480,364,48087364122,87,122,Ayasofya,480.6796875,-364.046875,124,Subtropical,Brown,0.5
 83991,Rocks,1,WOD_Rocks_Round_Brown_Large_06,448,412,44853412125,53,125,Ayasofya,448.4140625,-412.0234375,-158,Desert,Brown,0.5
 83140,Rocks,1,WOD_Rocks_Round_Brown_Small_06,497,387,497121387113,121,113,Ayasofya,497.9453125,-387.1171875,-77,Subtropical,Brown,0.5
-83421,Rocks,1,WOD_Rocks_Round_Brown_Small_02,455,360,4559636008,96,8,Ayasofya,455.75,-360.9375,130,Ocean,Brown,0.5
 84034,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,446,411,4461341183,13,83,Ayasofya,446.1015625,-411.3515625,129,Desert,Brown,0.5
 83734,Rocks,1,WOD_Rocks_Round_Brown_Large_02,468,363,46810436328,104,28,Ayasofya,468.8125,-363.78125,22,Subtropical,Brown,0.5
 83187,Rocks,1,WOD_Rocks_Round_Brown_Small_01,538,386,53811738656,117,56,Ayasofya,538.9140625,-386.5625,76,Subtropical,Brown,0.5
@@ -214,7 +211,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84301,Rocks,1,WOD_Rocks_Round_Brown_Large_03,519,385,51910438510,104,10,Ayasofya,519.8125,-385.921875,94,Subtropical,Brown,0.5
 83909,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,451,394,45112339486,123,86,Ayasofya,451.9609375,-394.328125,160,Desert,Brown,0.5
 83846,Rocks,1,WOD_Rocks_Round_Brown_Small_04,529,384,5297038444,70,44,Ayasofya,529.546875,-384.65625,-11,Subtropical,Brown,0.5
-84064,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,463,362,46392362128,92,128,Ayasofya,463.71875,-362,-64,Subtropical,Brown,0.5
+84064,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,463,362,46392362128,92,128,Ayasofya,463.71875,-362.0,-64,Subtropical,Brown,0.5
 83609,Rocks,1,WOD_Rocks_Round_Brown_Small_05,453,378,4532437893,24,93,Ayasofya,453.1875,-378.2734375,83,Subtropical,Brown,0.5
 83219,Rocks,1,WOD_Rocks_Round_Brown_Small_06,546,377,54611737777,117,77,Ayasofya,546.9140625,-377.3984375,132,Subtropical,Brown,0.5
 84099,Rocks,1,WOD_Rocks_Round_Brown_Large_09,537,382,5375338201,53,1,Ayasofya,537.4140625,-382.9921875,64,Subtropical,Brown,0.5
@@ -245,7 +242,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83736,Rocks,1,WOD_Rocks_Round_Brown_Large_04,456,415,4568241510,82,10,Ayasofya,456.640625,-415.921875,75,Desert,Brown,0.5
 83072,Rocks,1,WOD_Rocks_Round_Brown_Large_03,518,385,51810038519,100,19,Ayasofya,518.78125,-385.8515625,-1,Subtropical,Brown,0.5
 84568,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,512,384,5126638435,66,35,Ayasofya,512.515625,-384.7265625,-4,Subtropical,Brown,0.5
-84149,Rocks,1,WOD_Rocks_Round_Brown_Large_05,459,367,45967367128,67,128,Ayasofya,459.5234375,-367,82,Subtropical,Brown,0.5
+84149,Rocks,1,WOD_Rocks_Round_Brown_Large_05,459,367,45967367128,67,128,Ayasofya,459.5234375,-367.0,82,Subtropical,Brown,0.5
 83955,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,504,388,50410038887,100,87,Ayasofya,504.78125,-388.3203125,174,Subtropical,Brown,0.5
 83343,Rocks,1,WOD_Rocks_Round_Brown_Small_05,490,374,49097374116,97,116,Ayasofya,490.7578125,-374.09375,0,Subtropical,Brown,0.5
 84113,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,458,384,45812738486,127,86,Ayasofya,458.9921875,-384.328125,113,Subtropical,Brown,0.5
@@ -284,7 +281,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84128,Rocks,1,WOD_Rocks_Round_Brown_Large_09,469,392,46910139276,101,76,Ayasofya,469.7890625,-392.40625,71,Desert,Brown,0.5
 83062,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,507,371,5076537167,65,67,Ayasofya,507.5078125,-371.4765625,152,Subtropical,Brown,0.5
 83015,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,528,387,52859387116,59,116,Ayasofya,528.4609375,-387.09375,-135,Subtropical,Brown,0.5
-83005,Rocks,1,WOD_Rocks_Round_Brown_Small_06,524,386,52491386128,91,128,Ayasofya,524.7109375,-386,-110,Subtropical,Brown,0.5
+83005,Rocks,1,WOD_Rocks_Round_Brown_Small_06,524,386,52491386128,91,128,Ayasofya,524.7109375,-386.0,-110,Subtropical,Brown,0.5
 83772,Rocks,1,WOD_Rocks_Round_Brown_Small_09,496,364,4967536425,75,25,Ayasofya,496.5859375,-364.8046875,20,Subtropical,Brown,0.5
 83504,Rocks,1,WOD_Rocks_Round_Brown_Small_08,527,366,5271936623,19,23,Ayasofya,527.1484375,-366.8203125,-133,Subtropical,Brown,0.5
 82824,Rocks,1,WOD_Rocks_Round_Brown_Small_09,526,368,52612536879,125,79,Ayasofya,526.9765625,-368.3828125,-55,Subtropical,Brown,0.5
@@ -292,7 +289,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83409,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,478,368,4788236848,82,48,Ayasofya,478.640625,-368.625,1,Subtropical,Brown,0.5
 83965,Rocks,1,WOD_Rocks_Round_Brown_Large_06,469,394,46912739491,127,91,Ayasofya,469.9921875,-394.2890625,177,Desert,Brown,0.5
 84234,Rocks,1,WOD_Rocks_Round_Brown_Small_01,493,369,49382369108,82,108,Ayasofya,493.640625,-369.15625,116,Subtropical,Brown,0.5
-83316,Rocks,1,WOD_Rocks_Round_Brown_Small_01,486,387,48612838770,128,70,Ayasofya,487,-387.453125,29,Subtropical,Brown,0.5
+83316,Rocks,1,WOD_Rocks_Round_Brown_Small_01,486,387,48612838770,128,70,Ayasofya,487.0,-387.453125,29,Subtropical,Brown,0.5
 84124,Rocks,1,WOD_Rocks_Round_Brown_Large_05,471,386,4717238603,72,3,Ayasofya,471.5625,-386.9765625,-110,Subtropical,Brown,0.5
 83210,Rocks,1,WOD_Rocks_Round_Brown_Large_06,494,363,49412136386,121,86,Ayasofya,494.9453125,-363.328125,167,Subtropical,Brown,0.5
 83309,Rocks,1,WOD_Rocks_Round_Brown_Large_02,524,363,5243436382,34,82,Ayasofya,524.265625,-363.359375,-108,Subtropical,Brown,0.5
@@ -334,7 +331,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83172,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,551,378,55191378120,91,120,Ayasofya,551.7109375,-378.0625,-41,Subtropical,Brown,0.5
 83374,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,518,374,51812637457,126,57,Ayasofya,518.984375,-374.5546875,159,Subtropical,Brown,0.5
 84373,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,518,379,5184437961,44,61,Ayasofya,518.34375,-379.5234375,-36,Subtropical,Brown,0.5
-84323,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,562,376,56201376128,1,128,Ayasofya,562.0078125,-376,63,Subtropical,Brown,0.5
+84323,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,562,376,56201376128,1,128,Ayasofya,562.0078125,-376.0,63,Subtropical,Brown,0.5
 83841,Rocks,1,WOD_Rocks_Round_Brown_Large_06,491,367,4912636779,26,79,Ayasofya,491.203125,-367.3828125,-15,Subtropical,Brown,0.5
 83540,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,449,368,4499736860,97,60,Ayasofya,449.7578125,-368.53125,-176,Subtropical,Brown,0.5
 84181,Rocks,1,WOD_Rocks_Round_Brown_Small_01,553,372,5534637257,46,57,Ayasofya,553.359375,-372.5546875,-33,Subtropical,Brown,0.5
@@ -415,9 +412,8 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83143,Rocks,1,WOD_Rocks_Round_Brown_Small_10,479,385,4793638515,36,15,Ayasofya,479.28125,-385.8828125,152,Subtropical,Brown,0.5
 84456,Rocks,1,WOD_Rocks_Round_Brown_Large_02,491,389,4910138914,1,14,Ayasofya,491.0078125,-389.890625,-126,Desert,Brown,0.5
 83956,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,507,387,50719387123,19,123,Ayasofya,507.1484375,-387.0390625,-70,Subtropical,Brown,0.5
-83347,Rocks,1,WOD_Rocks_Round_Brown_Small_10,531,382,53112838226,128,26,Ayasofya,532,-382.796875,46,Subtropical,Brown,0.5
+83347,Rocks,1,WOD_Rocks_Round_Brown_Small_10,531,382,53112838226,128,26,Ayasofya,532.0,-382.796875,46,Subtropical,Brown,0.5
 84259,Rocks,1,WOD_Rocks_Round_Brown_Small_03,470,386,4709038687,90,87,Ayasofya,470.703125,-386.3203125,172,Subtropical,Brown,0.5
-83666,Rocks,1,WOD_Rocks_Round_Brown_Small_08,448,368,44812636867,126,67,Ayasofya,448.984375,-368.4765625,177,Ocean,Brown,0.5
 83782,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,466,378,4661237838,12,38,Ayasofya,466.09375,-378.703125,180,Subtropical,Brown,0.5
 82985,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,455,378,4554337833,43,33,Ayasofya,455.3359375,-378.7421875,-158,Subtropical,Brown,0.5
 83896,Rocks,1,WOD_Rocks_Round_Brown_Small_08,532,368,53210336855,103,55,Ayasofya,532.8046875,-368.5703125,-53,Subtropical,Brown,0.5
@@ -439,7 +435,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83744,Rocks,1,WOD_Rocks_Round_Brown_Small_05,514,377,5145437791,54,91,Ayasofya,514.421875,-377.2890625,39,Subtropical,Brown,0.5
 82805,Rocks,1,WOD_Rocks_Round_Brown_Large_06,464,378,46412537812,125,12,Ayasofya,464.9765625,-378.90625,-70,Subtropical,Brown,0.5
 84480,Rocks,1,WOD_Rocks_Round_Brown_Large_01,457,412,4570141207,1,7,Ayasofya,457.0078125,-412.9453125,-42,Desert,Brown,0.5
-84071,Rocks,1,WOD_Rocks_Round_Brown_Large_07,522,379,522125379128,125,128,Ayasofya,522.9765625,-379,-158,Subtropical,Brown,0.5
+84071,Rocks,1,WOD_Rocks_Round_Brown_Large_07,522,379,522125379128,125,128,Ayasofya,522.9765625,-379.0,-158,Subtropical,Brown,0.5
 83777,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,472,380,4729238085,92,85,Ayasofya,472.71875,-380.3359375,-30,Subtropical,Brown,0.5
 83778,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,455,361,4550236198,2,98,Ayasofya,455.015625,-361.234375,-35,Subtropical,Brown,0.5
 84107,Rocks,1,WOD_Rocks_Round_Brown_Small_09,444,399,4442239924,22,24,Ayasofya,444.171875,-399.8125,21,Desert,Brown,0.5
@@ -511,7 +507,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83185,Rocks,1,WOD_Rocks_Round_Brown_Large_07,560,379,5605237930,52,30,Ayasofya,560.40625,-379.765625,56,Subtropical,Brown,0.5
 83717,Rocks,1,WOD_Rocks_Round_Brown_Small_05,562,378,56269378101,69,101,Ayasofya,562.5390625,-378.2109375,92,Subtropical,Brown,0.5
 84448,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,498,372,4980537207,5,7,Ayasofya,498.0390625,-372.9453125,94,Subtropical,Brown,0.5
-83101,Rocks,1,WOD_Rocks_Round_Brown_Large_04,498,393,49812839350,128,50,Ayasofya,499,-393.609375,65,Desert,Brown,0.5
+83101,Rocks,1,WOD_Rocks_Round_Brown_Large_04,498,393,49812839350,128,50,Ayasofya,499.0,-393.609375,65,Desert,Brown,0.5
 83599,Rocks,1,WOD_Rocks_Round_Brown_Large_04,459,400,45938400120,38,120,Ayasofya,459.296875,-400.0625,-38,Desert,Brown,0.5
 83806,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,557,377,5575337759,53,59,Ayasofya,557.4140625,-377.5390625,98,Subtropical,Brown,0.5
 83935,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,523,370,5231637036,16,36,Ayasofya,523.125,-370.71875,84,Subtropical,Brown,0.5
@@ -547,7 +543,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83983,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,464,381,464123381105,123,105,Ayasofya,464.9609375,-381.1796875,-96,Subtropical,Brown,0.5
 82794,Rocks,1,WOD_Rocks_Round_Brown_Small_10,516,381,51611438181,114,81,Ayasofya,516.890625,-381.3671875,46,Subtropical,Brown,0.5
 83282,Rocks,1,WOD_Rocks_Round_Brown_Large_01,552,378,5527737854,77,54,Ayasofya,552.6015625,-378.578125,-103,Subtropical,Brown,0.5
-84277,Rocks,1,WOD_Rocks_Round_Brown_Large_05,522,385,52212838592,128,92,Ayasofya,523,-385.28125,-93,Subtropical,Brown,0.5
+84277,Rocks,1,WOD_Rocks_Round_Brown_Large_05,522,385,52212838592,128,92,Ayasofya,523.0,-385.28125,-93,Subtropical,Brown,0.5
 84052,Rocks,1,WOD_Rocks_Round_Brown_Small_05,454,388,45417388102,17,102,Ayasofya,454.1328125,-388.203125,-18,Desert,Brown,0.5
 83820,Rocks,1,WOD_Rocks_Round_Brown_Small_01,507,373,50773373101,73,101,Ayasofya,507.5703125,-373.2109375,-180,Subtropical,Brown,0.5
 83245,Rocks,1,WOD_Rocks_Round_Brown_Small_06,453,385,45311038545,110,45,Ayasofya,453.859375,-385.6484375,47,Subtropical,Brown,0.5
@@ -591,7 +587,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83918,Rocks,1,WOD_Rocks_Round_Brown_Small_03,548,381,5486338131,63,31,Ayasofya,548.4921875,-381.7578125,-42,Subtropical,Brown,0.5
 84552,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,475,394,4755539482,55,82,Ayasofya,475.4296875,-394.359375,34,Desert,Brown,0.5
 83908,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,458,375,45811737537,117,37,Ayasofya,458.9140625,-375.7109375,24,Subtropical,Brown,0.5
-84286,Rocks,1,WOD_Rocks_Round_Brown_Small_06,481,362,48112736222,127,22,Ayasofya,481.9921875,-362.828125,92,Ocean,Brown,0.5
 83541,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,446,391,4465439181,54,81,Ayasofya,446.421875,-391.3671875,62,Desert,Brown,0.5
 83893,Rocks,1,WOD_Rocks_Round_Brown_Small_04,544,376,54484376102,84,102,Ayasofya,544.65625,-376.203125,-166,Subtropical,Brown,0.5
 83401,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,464,411,46412441157,124,57,Ayasofya,464.96875,-411.5546875,160,Desert,Brown,0.5
@@ -631,7 +626,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83636,Rocks,1,WOD_Rocks_Round_Brown_Small_05,446,376,4469937678,99,78,Ayasofya,446.7734375,-376.390625,-140,Subtropical,Brown,0.5
 83978,Rocks,1,WOD_Rocks_Round_Brown_Small_10,529,379,5296937942,69,42,Ayasofya,529.5390625,-379.671875,-76,Subtropical,Brown,0.5
 83340,Rocks,1,WOD_Rocks_Round_Brown_Small_02,507,371,5078237103,82,3,Ayasofya,507.640625,-371.9765625,124,Subtropical,Brown,0.5
-83874,Rocks,1,WOD_Rocks_Round_Brown_Small_08,455,361,45512836114,128,14,Ayasofya,456,-361.890625,-166,Subtropical,Brown,0.5
+83874,Rocks,1,WOD_Rocks_Round_Brown_Small_08,455,361,45512836114,128,14,Ayasofya,456.0,-361.890625,-166,Subtropical,Brown,0.5
 84432,Rocks,1,WOD_Rocks_Round_Brown_Large_07,487,389,4870938995,9,95,Ayasofya,487.0703125,-389.2578125,-140,Desert,Brown,0.5
 83925,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,456,363,4565036326,50,26,Ayasofya,456.390625,-363.796875,-23,Subtropical,Brown,0.5
 84187,Rocks,1,WOD_Rocks_Round_Brown_Small_08,514,371,5143137160,31,60,Ayasofya,514.2421875,-371.53125,100,Subtropical,Brown,0.5
@@ -737,7 +732,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 82846,Rocks,1,WOD_Rocks_Round_Brown_Large_03,539,380,5391638013,16,13,Ayasofya,539.125,-380.8984375,149,Subtropical,Brown,0.5
 83837,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,557,376,55712737630,127,30,Ayasofya,557.9921875,-376.765625,101,Subtropical,Brown,0.5
 82869,Rocks,1,WOD_Rocks_Round_Brown_Large_07,455,375,4557237502,72,2,Ayasofya,455.5625,-375.984375,-19,Subtropical,Brown,0.5
-82940,Rocks,1,WOD_Rocks_Round_Brown_Small_07,450,368,45012836809,128,9,Ayasofya,451,-368.9296875,-146,Subtropical,Brown,0.5
+82940,Rocks,1,WOD_Rocks_Round_Brown_Small_07,450,368,45012836809,128,9,Ayasofya,451.0,-368.9296875,-146,Subtropical,Brown,0.5
 84590,Rocks,1,WOD_Rocks_Round_Brown_Small_07,499,394,4998539407,85,7,Ayasofya,499.6640625,-394.9453125,-150,Desert,Brown,0.5
 83745,Rocks,1,WOD_Rocks_Round_Brown_Small_06,509,385,5093538573,35,73,Ayasofya,509.2734375,-385.4296875,23,Subtropical,Brown,0.5
 84158,Rocks,1,WOD_Rocks_Round_Brown_Small_05,556,378,5562737811,27,11,Ayasofya,556.2109375,-378.9140625,94,Subtropical,Brown,0.5
@@ -793,7 +788,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83939,Rocks,1,WOD_Rocks_Round_Brown_Large_05,457,405,45735405107,35,107,Ayasofya,457.2734375,-405.1640625,-22,Desert,Brown,0.5
 83106,Rocks,1,WOD_Rocks_Round_Brown_Large_09,502,394,5020339454,3,54,Ayasofya,502.0234375,-394.578125,-175,Desert,Brown,0.5
 84006,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,456,383,4563938305,39,5,Ayasofya,456.3046875,-383.9609375,-72,Subtropical,Brown,0.5
-83195,Rocks,1,WOD_Rocks_Round_Brown_Small_10,450,380,450128380127,128,127,Ayasofya,451,-380.0078125,-139,Subtropical,Brown,0.5
+83195,Rocks,1,WOD_Rocks_Round_Brown_Small_10,450,380,450128380127,128,127,Ayasofya,451.0,-380.0078125,-139,Subtropical,Brown,0.5
 84404,Rocks,1,WOD_Rocks_Round_Brown_Large_04,510,389,5108638987,86,87,Ayasofya,510.671875,-389.3203125,148,Subtropical,Brown,0.5
 84216,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,462,385,4622238580,22,80,Ayasofya,462.171875,-385.375,49,Subtropical,Brown,0.5
 83587,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,489,386,48933386101,33,101,Ayasofya,489.2578125,-386.2109375,32,Subtropical,Brown,0.5
@@ -922,7 +917,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83135,Rocks,1,WOD_Rocks_Round_Brown_Large_08,479,382,4790738228,7,28,Ayasofya,479.0546875,-382.78125,-67,Subtropical,Brown,0.5
 84209,Rocks,1,WOD_Rocks_Round_Brown_Small_03,455,408,45550408105,50,105,Ayasofya,455.390625,-408.1796875,28,Desert,Brown,0.5
 83115,Rocks,1,WOD_Rocks_Round_Brown_Small_09,493,366,4931336631,13,31,Ayasofya,493.1015625,-366.7578125,-174,Subtropical,Brown,0.5
-84537,Rocks,1,WOD_Rocks_Round_Brown_Small_03,463,370,463123370128,123,128,Ayasofya,463.9609375,-370,38,Subtropical,Brown,0.5
+84537,Rocks,1,WOD_Rocks_Round_Brown_Small_03,463,370,463123370128,123,128,Ayasofya,463.9609375,-370.0,38,Subtropical,Brown,0.5
 83202,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,460,392,4604739259,47,59,Ayasofya,460.3671875,-392.5390625,46,Desert,Brown,0.5
 84183,Rocks,1,WOD_Rocks_Round_Brown_Small_03,472,406,4720340645,3,45,Ayasofya,472.0234375,-406.6484375,156,Desert,Brown,0.5
 83183,Rocks,1,WOD_Rocks_Round_Brown_Large_03,507,381,5079138138,91,38,Ayasofya,507.7109375,-381.703125,-136,Subtropical,Brown,0.5
@@ -941,7 +936,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83786,Rocks,1,WOD_Rocks_Round_Brown_Large_03,494,382,49410238274,102,74,Ayasofya,494.796875,-382.421875,51,Subtropical,Brown,0.5
 84300,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,499,384,49941384117,41,117,Ayasofya,499.3203125,-384.0859375,25,Subtropical,Brown,0.5
 83712,Rocks,1,WOD_Rocks_Round_Brown_Large_09,466,391,4669439158,94,58,Ayasofya,466.734375,-391.546875,-172,Desert,Brown,0.5
-84556,Rocks,1,WOD_Rocks_Round_Brown_Large_05,463,373,46354373128,54,128,Ayasofya,463.421875,-373,-115,Subtropical,Brown,0.5
+84556,Rocks,1,WOD_Rocks_Round_Brown_Large_05,463,373,46354373128,54,128,Ayasofya,463.421875,-373.0,-115,Subtropical,Brown,0.5
 84036,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,457,381,4571638136,16,36,Ayasofya,457.125,-381.71875,167,Subtropical,Brown,0.5
 83692,Rocks,1,WOD_Rocks_Round_Brown_Small_09,522,377,52211837725,118,25,Ayasofya,522.921875,-377.8046875,-118,Subtropical,Brown,0.5
 83673,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,508,378,5082137847,21,47,Ayasofya,508.1640625,-378.6328125,-98,Subtropical,Brown,0.5
@@ -951,7 +946,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84024,Rocks,1,WOD_Rocks_Round_Brown_Small_06,479,379,47912337926,123,26,Ayasofya,479.9609375,-379.796875,-26,Subtropical,Brown,0.5
 84502,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,493,394,493106394100,106,100,Ayasofya,493.828125,-394.21875,-10,Desert,Brown,0.5
 83250,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,515,369,5151836937,18,37,Ayasofya,515.140625,-369.7109375,140,Subtropical,Brown,0.5
-83844,Rocks,1,WOD_Rocks_Round_Brown_Small_01,490,363,49012836320,128,20,Ayasofya,491,-363.84375,-21,Subtropical,Brown,0.5
+83844,Rocks,1,WOD_Rocks_Round_Brown_Small_01,490,363,49012836320,128,20,Ayasofya,491.0,-363.84375,-21,Subtropical,Brown,0.5
 83249,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,468,379,46865379103,65,103,Ayasofya,468.5078125,-379.1953125,-28,Subtropical,Brown,0.5
 83200,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,532,385,53211838526,118,26,Ayasofya,532.921875,-385.796875,-125,Subtropical,Brown,0.5
 83981,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,507,386,5072538611,25,11,Ayasofya,507.1953125,-386.9140625,-76,Subtropical,Brown,0.5
@@ -1100,7 +1095,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83090,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,493,371,4938737113,87,13,Ayasofya,493.6796875,-371.8984375,147,Subtropical,Brown,0.5
 84605,Rocks,1,WOD_Rocks_Round_Brown_Large_03,525,369,52527369107,27,107,Ayasofya,525.2109375,-369.1640625,141,Subtropical,Brown,0.5
 83626,Rocks,1,WOD_Rocks_Round_Brown_Large_03,470,372,47010937221,109,21,Ayasofya,470.8515625,-372.8359375,30,Subtropical,Brown,0.5
-83903,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,460,372,46082372128,82,128,Ayasofya,460.640625,-372,142,Subtropical,Brown,0.5
+83903,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,460,372,46082372128,82,128,Ayasofya,460.640625,-372.0,142,Subtropical,Brown,0.5
 84167,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,514,371,5144037131,40,31,Ayasofya,514.3125,-371.7578125,60,Subtropical,Brown,0.5
 84073,Rocks,1,WOD_Rocks_Round_Brown_Large_09,494,385,4940338502,3,2,Ayasofya,494.0234375,-385.984375,56,Subtropical,Brown,0.5
 84134,Rocks,1,WOD_Rocks_Round_Brown_Small_07,541,366,54112436644,124,44,Ayasofya,541.96875,-366.65625,-145,Subtropical,Brown,0.5
@@ -1116,7 +1111,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84262,Rocks,1,WOD_Rocks_Round_Brown_Small_06,529,378,52910437895,104,95,Ayasofya,529.8125,-378.2578125,-176,Subtropical,Brown,0.5
 84114,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,459,365,4593336557,33,57,Ayasofya,459.2578125,-365.5546875,-53,Subtropical,Brown,0.5
 83366,Rocks,1,WOD_Rocks_Round_Brown_Small_02,550,375,5508237511,82,11,Ayasofya,550.640625,-375.9140625,-36,Subtropical,Brown,0.5
-84612,Rocks,1,WOD_Rocks_Round_Brown_Small_02,463,404,46312840462,128,62,Ayasofya,464,-404.515625,-115,Desert,Brown,0.5
+84612,Rocks,1,WOD_Rocks_Round_Brown_Small_02,463,404,46312840462,128,62,Ayasofya,464.0,-404.515625,-115,Desert,Brown,0.5
 84566,Rocks,1,WOD_Rocks_Round_Brown_Small_09,542,378,542102378104,102,104,Ayasofya,542.796875,-378.1875,-137,Subtropical,Brown,0.5
 84518,Rocks,1,WOD_Rocks_Round_Brown_Small_10,459,386,4593238692,32,92,Ayasofya,459.25,-386.28125,73,Subtropical,Brown,0.5
 84245,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,521,368,52196368124,96,124,Ayasofya,521.75,-368.03125,-92,Subtropical,Brown,0.5
@@ -1156,7 +1151,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83703,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,469,367,46906367124,6,124,Ayasofya,469.046875,-367.03125,-78,Subtropical,Brown,0.5
 82867,Rocks,1,WOD_Rocks_Round_Brown_Large_01,451,376,45111437622,114,22,Ayasofya,451.890625,-376.828125,83,Subtropical,Brown,0.5
 84011,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,462,382,4626538229,65,29,Ayasofya,462.5078125,-382.7734375,-59,Subtropical,Brown,0.5
-83582,Rocks,1,WOD_Rocks_Round_Brown_Small_07,499,396,499128396122,128,122,Ayasofya,500,-396.046875,-28,Desert,Brown,0.5
+83582,Rocks,1,WOD_Rocks_Round_Brown_Small_07,499,396,499128396122,128,122,Ayasofya,500.0,-396.046875,-28,Desert,Brown,0.5
 83802,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,497,366,49712036665,120,65,Ayasofya,497.9375,-366.4921875,160,Subtropical,Brown,0.5
 83400,Rocks,1,WOD_Rocks_Round_Brown_Small_09,487,377,48730377102,30,102,Ayasofya,487.234375,-377.203125,-156,Subtropical,Brown,0.5
 83924,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,477,375,4778037513,80,13,Ayasofya,477.625,-375.8984375,61,Subtropical,Brown,0.5
@@ -1225,7 +1220,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83982,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,516,364,516100364112,100,112,Ayasofya,516.78125,-364.125,145,Subtropical,Brown,0.5
 83601,Rocks,1,WOD_Rocks_Round_Brown_Large_06,472,398,472109398117,109,117,Ayasofya,472.8515625,-398.0859375,161,Desert,Brown,0.5
 83927,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,446,378,44633378125,33,125,Ayasofya,446.2578125,-378.0234375,104,Subtropical,Brown,0.5
-82878,Rocks,1,WOD_Rocks_Round_Brown_Large_04,520,384,52012838419,128,19,Ayasofya,521,-384.8515625,-75,Subtropical,Brown,0.5
+82878,Rocks,1,WOD_Rocks_Round_Brown_Large_04,520,384,52012838419,128,19,Ayasofya,521.0,-384.8515625,-75,Subtropical,Brown,0.5
 83883,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,488,380,48856380100,56,100,Ayasofya,488.4375,-380.21875,-5,Subtropical,Brown,0.5
 84503,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,499,373,4992437376,24,76,Ayasofya,499.1875,-373.40625,-133,Subtropical,Brown,0.5
 83378,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,501,366,5012336647,23,47,Ayasofya,501.1796875,-366.6328125,43,Subtropical,Brown,0.5
@@ -1261,7 +1256,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83084,Rocks,1,WOD_Rocks_Round_Brown_Small_06,489,388,48911038883,110,83,Ayasofya,489.859375,-388.3515625,31,Desert,Brown,0.5
 84210,Rocks,1,WOD_Rocks_Round_Brown_Small_04,489,364,4893436483,34,83,Ayasofya,489.265625,-364.3515625,84,Subtropical,Brown,0.5
 84072,Rocks,1,WOD_Rocks_Round_Brown_Large_08,464,388,4649838897,98,97,Ayasofya,464.765625,-388.2421875,157,Desert,Brown,0.5
-83113,Rocks,1,WOD_Rocks_Round_Brown_Small_07,448,404,448114404128,114,128,Ayasofya,448.890625,-404,119,Desert,Brown,0.5
+83113,Rocks,1,WOD_Rocks_Round_Brown_Small_07,448,404,448114404128,114,128,Ayasofya,448.890625,-404.0,119,Desert,Brown,0.5
 84593,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,458,362,45883362109,83,109,Ayasofya,458.6484375,-362.1484375,151,Subtropical,Brown,0.5
 84283,Rocks,1,WOD_Rocks_Round_Brown_Small_03,468,394,4688339441,83,41,Ayasofya,468.6484375,-394.6796875,116,Desert,Brown,0.5
 83594,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,497,374,4978437442,84,42,Ayasofya,497.65625,-374.671875,29,Subtropical,Brown,0.5
@@ -1371,12 +1366,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 84254,Rocks,1,WOD_Rocks_Round_Brown_Large_07,486,380,4867538053,75,53,Ayasofya,486.5859375,-380.5859375,-73,Subtropical,Brown,0.5
 83688,Rocks,1,WOD_Rocks_Round_Brown_Small_03,477,398,47710639837,106,37,Ayasofya,477.828125,-398.7109375,-180,Desert,Brown,0.5
 83158,Rocks,1,WOD_Rocks_Round_Brown_Large_03,467,403,46712540307,125,7,Ayasofya,467.9765625,-403.9453125,37,Desert,Brown,0.5
-82875,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,461,372,46146372128,46,128,Ayasofya,461.359375,-372,-69,Subtropical,Brown,0.5
+82875,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,461,372,46146372128,46,128,Ayasofya,461.359375,-372.0,-69,Subtropical,Brown,0.5
 83507,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,471,376,47110337606,103,6,Ayasofya,471.8046875,-376.953125,179,Subtropical,Brown,0.5
 83420,Rocks,1,WOD_Rocks_Round_Brown_Large_09,490,392,4900339221,3,21,Ayasofya,490.0234375,-392.8359375,-1,Desert,Brown,0.5
 84494,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,541,380,5418038001,80,1,Ayasofya,541.625,-380.9921875,-37,Subtropical,Brown,0.5
 84116,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,470,385,4704538596,45,96,Ayasofya,470.3515625,-385.25,49,Subtropical,Brown,0.5
-83953,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,449,415,44905415128,5,128,Ayasofya,449.0390625,-415,21,Desert,Brown,0.5
+83953,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,449,415,44905415128,5,128,Ayasofya,449.0390625,-415.0,21,Desert,Brown,0.5
 83621,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,460,367,4609436711,94,11,Ayasofya,460.734375,-367.9140625,-79,Subtropical,Brown,0.5
 83152,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,478,381,47894381106,94,106,Ayasofya,478.734375,-381.171875,44,Subtropical,Brown,0.5
 84019,Rocks,1,WOD_Rocks_Round_Brown_Large_09,447,388,4477938803,79,3,Ayasofya,447.6171875,-388.9765625,-124,Subtropical,Brown,0.5
@@ -1389,7 +1384,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83088,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,461,383,46110438385,104,85,Ayasofya,461.8125,-383.3359375,76,Subtropical,Brown,0.5
 82988,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,512,387,51215387123,15,123,Ayasofya,512.1171875,-387.0390625,100,Subtropical,Brown,0.5
 83220,Rocks,1,WOD_Rocks_Round_Brown_Small_07,487,384,4871038430,10,30,Ayasofya,487.078125,-384.765625,178,Subtropical,Brown,0.5
-83322,Rocks,1,WOD_Rocks_Round_Brown_Small_07,552,378,55212837830,128,30,Ayasofya,553,-378.765625,7,Subtropical,Brown,0.5
+83322,Rocks,1,WOD_Rocks_Round_Brown_Small_07,552,378,55212837830,128,30,Ayasofya,553.0,-378.765625,7,Subtropical,Brown,0.5
 83511,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,518,367,51812236754,122,54,Ayasofya,518.953125,-367.578125,82,Subtropical,Brown,0.5
 83498,Rocks,1,WOD_Rocks_Round_Brown_Small_02,518,374,5189037454,90,54,Ayasofya,518.703125,-374.578125,-2,Subtropical,Brown,0.5
 84007,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,533,385,5331238585,12,85,Ayasofya,533.09375,-385.3359375,-148,Subtropical,Brown,0.5
@@ -1405,7 +1400,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83722,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,461,365,46112536515,125,15,Ayasofya,461.9765625,-365.8828125,-76,Subtropical,Brown,0.5
 84478,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,486,376,48673376103,73,103,Ayasofya,486.5703125,-376.1953125,146,Subtropical,Brown,0.5
 83233,Rocks,1,WOD_Rocks_Round_Brown_Large_01,472,392,4721239257,12,57,Ayasofya,472.09375,-392.5546875,106,Desert,Brown,0.5
-82809,Rocks,1,WOD_Rocks_Round_Brown_Small_10,457,409,45737409128,37,128,Ayasofya,457.2890625,-409,-121,Desert,Brown,0.5
+82809,Rocks,1,WOD_Rocks_Round_Brown_Small_10,457,409,45737409128,37,128,Ayasofya,457.2890625,-409.0,-121,Desert,Brown,0.5
 83036,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,535,374,53539374111,39,111,Ayasofya,535.3046875,-374.1328125,-131,Subtropical,Brown,0.5
 83462,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,453,413,4537141368,71,68,Ayasofya,453.5546875,-413.46875,135,Desert,Brown,0.5
 83348,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,494,390,49470390104,70,104,Ayasofya,494.546875,-390.1875,136,Desert,Brown,0.5
@@ -1434,7 +1429,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83010,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,521,374,5212237488,22,88,Ayasofya,521.171875,-374.3125,-149,Subtropical,Brown,0.5
 83705,Rocks,1,WOD_Rocks_Round_Brown_Large_01,457,396,45716396113,16,113,Ayasofya,457.125,-396.1171875,53,Desert,Brown,0.5
 82977,Rocks,1,WOD_Rocks_Round_Brown_Small_04,456,368,4562036879,20,79,Ayasofya,456.15625,-368.3828125,12,Subtropical,Brown,0.5
-84481,Rocks,1,WOD_Rocks_Round_Brown_Large_02,506,380,50633380128,33,128,Ayasofya,506.2578125,-380,-97,Subtropical,Brown,0.5
+84481,Rocks,1,WOD_Rocks_Round_Brown_Large_02,506,380,50633380128,33,128,Ayasofya,506.2578125,-380.0,-97,Subtropical,Brown,0.5
 84132,Rocks,1,WOD_Rocks_Round_Brown_Small_05,464,395,46412539501,125,1,Ayasofya,464.9765625,-395.9921875,-180,Desert,Brown,0.5
 82831,Rocks,1,WOD_Rocks_Round_Brown_Large_09,516,366,5165636614,56,14,Ayasofya,516.4375,-366.890625,-145,Subtropical,Brown,0.5
 83654,Rocks,1,WOD_Rocks_Round_Brown_Large_03,457,371,4574937168,49,68,Ayasofya,457.3828125,-371.46875,60,Subtropical,Brown,0.5
@@ -1482,7 +1477,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83889,Rocks,1,WOD_Rocks_Round_Brown_Large_08,456,389,4560938977,9,77,Ayasofya,456.0703125,-389.3984375,49,Desert,Brown,0.5
 83293,Rocks,1,WOD_Rocks_Round_Brown_Small_03,468,383,46831383127,31,127,Ayasofya,468.2421875,-383.0078125,-128,Subtropical,Brown,0.5
 84126,Rocks,1,WOD_Rocks_Round_Brown_Large_07,493,374,49308374103,8,103,Ayasofya,493.0625,-374.1953125,128,Subtropical,Brown,0.5
-83246,Rocks,1,WOD_Rocks_Round_Brown_Small_07,550,381,55008381128,8,128,Ayasofya,550.0625,-381,-6,Subtropical,Brown,0.5
+83246,Rocks,1,WOD_Rocks_Round_Brown_Small_07,550,381,55008381128,8,128,Ayasofya,550.0625,-381.0,-6,Subtropical,Brown,0.5
 83255,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,447,383,4478338348,83,48,Ayasofya,447.6484375,-383.625,150,Subtropical,Brown,0.5
 83638,Rocks,1,WOD_Rocks_Round_Brown_Small_07,539,384,5399038478,90,78,Ayasofya,539.703125,-384.390625,-56,Subtropical,Brown,0.5
 84330,Rocks,1,WOD_Rocks_Round_Brown_Large_08,490,392,4907139270,71,70,Ayasofya,490.5546875,-392.453125,121,Desert,Brown,0.5
@@ -1494,7 +1489,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83464,Rocks,1,WOD_Rocks_Round_Brown_Large_02,451,415,45111641528,116,28,Ayasofya,451.90625,-415.78125,173,Desert,Brown,0.5
 83520,Rocks,1,WOD_Rocks_Round_Brown_Large_06,454,375,4544237559,42,59,Ayasofya,454.328125,-375.5390625,-99,Subtropical,Brown,0.5
 84622,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,477,395,47712039597,120,97,Ayasofya,477.9375,-395.2421875,-81,Desert,Brown,0.5
-83605,Rocks,1,WOD_Rocks_Round_Brown_Small_01,471,369,47107369128,7,128,Ayasofya,471.0546875,-369,117,Subtropical,Brown,0.5
+83605,Rocks,1,WOD_Rocks_Round_Brown_Small_01,471,369,47107369128,7,128,Ayasofya,471.0546875,-369.0,117,Subtropical,Brown,0.5
 84510,Rocks,1,WOD_Rocks_Round_Brown_Large_06,498,379,4980837975,8,75,Ayasofya,498.0625,-379.4140625,170,Subtropical,Brown,0.5
 83329,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,506,381,506102381106,102,106,Ayasofya,506.796875,-381.171875,-93,Subtropical,Brown,0.5
 84508,Rocks,1,WOD_Rocks_Round_Brown_Large_04,453,414,4535941442,59,42,Ayasofya,453.4609375,-414.671875,-78,Desert,Brown,0.5
@@ -1534,7 +1529,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83092,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,522,382,5221238208,12,8,Ayasofya,522.09375,-382.9375,-144,Subtropical,Brown,0.5
 83077,Rocks,1,WOD_Rocks_Round_Brown_Large_08,493,393,49337393107,37,107,Ayasofya,493.2890625,-393.1640625,-21,Desert,Brown,0.5
 82999,Rocks,1,WOD_Rocks_Round_Brown_Large_06,497,369,49762369106,62,106,Ayasofya,497.484375,-369.171875,75,Subtropical,Brown,0.5
-84197,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,462,362,46217362128,17,128,Ayasofya,462.1328125,-362,-20,Subtropical,Brown,0.5
+84197,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,462,362,46217362128,17,128,Ayasofya,462.1328125,-362.0,-20,Subtropical,Brown,0.5
 83353,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,515,366,5159336602,93,2,Ayasofya,515.7265625,-366.984375,-103,Subtropical,Brown,0.5
 82892,Rocks,1,WOD_Rocks_Round_Brown_Small_10,474,382,4742438273,24,73,Ayasofya,474.1875,-382.4296875,10,Subtropical,Brown,0.5
 83486,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,450,396,4501239660,12,60,Ayasofya,450.09375,-396.53125,17,Desert,Brown,0.5
@@ -1547,7 +1542,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83637,Rocks,1,WOD_Rocks_Round_Brown_Small_06,490,388,4909038876,90,76,Ayasofya,490.703125,-388.40625,58,Desert,Brown,0.5
 83967,Rocks,1,WOD_Rocks_Round_Brown_Large_08,466,377,46612037750,120,50,Ayasofya,466.9375,-377.609375,-98,Subtropical,Brown,0.5
 84246,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,461,360,4615236005,52,5,Ayasofya,461.40625,-360.9609375,161,Subtropical,Brown,0.5
-83274,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,472,365,47228365128,28,128,Ayasofya,472.21875,-365,82,Subtropical,Brown,0.5
+83274,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,472,365,47228365128,28,128,Ayasofya,472.21875,-365.0,82,Subtropical,Brown,0.5
 84039,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,538,385,5383838579,38,79,Ayasofya,538.296875,-385.3828125,11,Subtropical,Brown,0.5
 83875,Rocks,1,WOD_Rocks_Round_Brown_Small_09,478,385,4782038535,20,35,Ayasofya,478.15625,-385.7265625,-48,Subtropical,Brown,0.5
 84611,Rocks,1,WOD_Rocks_Round_Brown_Small_01,465,393,4656539376,65,76,Ayasofya,465.5078125,-393.40625,160,Desert,Brown,0.5
@@ -1669,7 +1664,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 83266,Rocks,1,WOD_Rocks_Round_Brown_Small_04,489,383,4897538311,75,11,Ayasofya,489.5859375,-383.9140625,20,Subtropical,Brown,0.5
 83110,Rocks,1,WOD_Rocks_Round_Brown_Small_04,476,372,4768037230,80,30,Ayasofya,476.625,-372.765625,-112,Subtropical,Brown,0.5
 83410,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,464,384,4647038443,70,43,Ayasofya,464.546875,-384.6640625,88,Subtropical,Brown,0.5
-83521,Rocks,1,WOD_Rocks_Round_Brown_Large_07,547,380,54712838079,128,79,Ayasofya,548,-380.3828125,-77,Subtropical,Brown,0.5
+83521,Rocks,1,WOD_Rocks_Round_Brown_Large_07,547,380,54712838079,128,79,Ayasofya,548.0,-380.3828125,-77,Subtropical,Brown,0.5
 84529,Rocks,1,WOD_Rocks_Round_Brown_Large_01,460,362,4608036278,80,78,Ayasofya,460.625,-362.390625,-37,Subtropical,Brown,0.5
 83530,Rocks,1,WOD_Rocks_Round_Brown_Small_08,455,369,45522369123,22,123,Ayasofya,455.171875,-369.0390625,68,Subtropical,Brown,0.5
 83781,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,498,384,4982838441,28,41,Ayasofya,498.21875,-384.6796875,55,Subtropical,Brown,0.5

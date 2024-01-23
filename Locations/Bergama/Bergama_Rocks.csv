@@ -133,7 +133,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116332,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,421,456,42110045675,100,75,Bergama,421.78125,-456.4140625,95,Desert,Brown,0.5
 116216,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,412,453,412117453104,117,104,Bergama,412.9140625,-453.1875,157,Desert,Brown,0.5
 117469,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,434,460,4347646096,76,96,Bergama,434.59375,-460.25,-117,Desert,Brown,0.5
-118433,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,406,457,40610245716,102,16,Bergama,406.796875,-457.875,-113,Ocean,Brown,0.5
 116782,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,415,476,4157347647,73,47,Bergama,415.5703125,-476.6328125,-52,Desert,Brown,0.5
 117202,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,402,462,4029346283,93,83,Bergama,402.7265625,-462.3515625,-48,Desert,Brown,0.5
 116456,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,435,450,435126450106,126,106,Bergama,435.984375,-450.171875,-170,Desert,Brown,0.5
@@ -179,7 +178,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116414,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,434,449,4347844962,78,62,Bergama,434.609375,-449.515625,-31,Desert,Brown,0.5
 117952,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,417,468,4170146848,1,48,Bergama,417.0078125,-468.625,-20,Desert,Brown,0.5
 116894,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,399,455,39910445564,104,64,Bergama,399.8125,-455.5,124,Desert,Brown,0.5
-118420,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,431,458,43160458128,60,128,Bergama,431.46875,-458,82,Desert,Brown,0.5
+118420,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,431,458,43160458128,60,128,Bergama,431.46875,-458.0,82,Desert,Brown,0.5
 116778,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,446,473,4465447364,54,64,Bergama,446.421875,-473.5,0,Desert,Brown,0.5
 117194,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,416,483,4166948384,69,84,Bergama,416.5390625,-483.34375,129,Desert,Brown,0.5
 117687,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,415,470,4154847015,48,15,Bergama,415.375,-470.8828125,-4,Desert,Brown,0.5
@@ -318,7 +317,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117276,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,401,466,40110646684,106,84,Bergama,401.828125,-466.34375,81,Desert,Brown,0.5
 118343,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,418,455,4189745541,97,41,Bergama,418.7578125,-455.6796875,154,Desert,Brown,0.5
 117499,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,407,454,4079545473,95,73,Bergama,407.7421875,-454.4296875,-137,Desert,Brown,0.5
-117780,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,432,465,43264465128,64,128,Bergama,432.5,-465,-109,Desert,Brown,0.5
+117780,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,432,465,43264465128,64,128,Bergama,432.5,-465.0,-109,Desert,Brown,0.5
 117482,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,446,478,4464147820,41,20,Bergama,446.3203125,-478.84375,120,Desert,Brown,0.5
 116210,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,412,452,4124045263,40,63,Bergama,412.3125,-452.5078125,114,Desert,Brown,0.5
 118020,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,411,453,4113645365,36,65,Bergama,411.28125,-453.4921875,-147,Desert,Brown,0.5
@@ -380,7 +379,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117797,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,398,460,39810646003,106,3,Bergama,398.828125,-460.9765625,-52,Desert,Brown,0.5
 116313,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,433,479,4336547933,65,33,Bergama,433.5078125,-479.7421875,164,Desert,Brown,0.5
 116222,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,438,480,43813480124,13,124,Bergama,438.1015625,-480.03125,115,Desert,Brown,0.5
-117381,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,415,479,41511447918,114,18,Bergama,415.890625,-479.859375,130,Ocean,Brown,0.5
 116762,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,406,466,40646466124,46,124,Bergama,406.359375,-466.03125,129,Desert,Brown,0.5
 118048,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,439,458,4391645818,16,18,Bergama,439.125,-458.859375,-62,Desert,Brown,0.5
 118521,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,408,454,4083245491,32,91,Bergama,408.25,-454.2890625,-132,Desert,Brown,0.5
@@ -455,7 +453,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116105,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,444,480,4441148098,11,98,Bergama,444.0859375,-480.234375,-34,Desert,Brown,0.5
 117534,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,431,463,431109463115,109,115,Bergama,431.8515625,-463.1015625,38,Desert,Brown,0.5
 116921,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,430,481,4307548171,75,71,Bergama,430.5859375,-481.4453125,-162,Desert,Brown,0.5
-116955,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,408,462,408128462106,128,106,Bergama,409,-462.171875,170,Desert,Brown,0.5
+116955,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,408,462,408128462106,128,106,Bergama,409.0,-462.171875,170,Desert,Brown,0.5
 116623,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,406,460,40662460127,62,127,Bergama,406.484375,-460.0078125,128,Desert,Brown,0.5
 117417,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,402,452,40271452106,71,106,Bergama,402.5546875,-452.171875,-81,Desert,Brown,0.5
 117122,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,438,462,4387146289,71,89,Bergama,438.5546875,-462.3046875,-21,Desert,Brown,0.5
@@ -531,7 +529,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117386,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,436,463,436117463121,117,121,Bergama,436.9140625,-463.0546875,-147,Desert,Brown,0.5
 117394,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,399,456,3997345609,73,9,Bergama,399.5703125,-456.9296875,-171,Desert,Brown,0.5
 118377,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,447,465,44718465113,18,113,Bergama,447.140625,-465.1171875,-9,Desert,Brown,0.5
-117154,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,429,476,42948476128,48,128,Bergama,429.375,-476,44,Desert,Brown,0.5
+117154,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,429,476,42948476128,48,128,Bergama,429.375,-476.0,44,Desert,Brown,0.5
 117908,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,428,450,4289145086,91,86,Bergama,428.7109375,-450.328125,-33,Desert,Brown,0.5
 117447,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,433,463,4338546308,85,8,Bergama,433.6640625,-463.9375,-141,Desert,Brown,0.5
 116064,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,428,471,42812547104,125,4,Bergama,428.9765625,-471.96875,4,Desert,Brown,0.5
@@ -587,7 +585,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117537,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,415,473,4156347363,63,63,Bergama,415.4921875,-473.5078125,7,Desert,Brown,0.5
 116580,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,430,475,43074475107,74,107,Bergama,430.578125,-475.1640625,116,Desert,Brown,0.5
 116242,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,410,450,41069450122,69,122,Bergama,410.5390625,-450.046875,-1,Desert,Brown,0.5
-117524,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,426,479,42612847914,128,14,Bergama,427,-479.890625,54,Desert,Brown,0.5
+117524,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,426,479,42612847914,128,14,Bergama,427.0,-479.890625,54,Desert,Brown,0.5
 118298,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,413,481,41312348179,123,79,Bergama,413.9609375,-481.3828125,136,Desert,Brown,0.5
 116740,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,446,469,4468846908,88,8,Bergama,446.6875,-469.9375,-164,Desert,Brown,0.5
 116862,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,417,474,41782474126,82,126,Bergama,417.640625,-474.015625,-122,Desert,Brown,0.5
@@ -654,7 +652,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116331,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,425,449,4259644910,96,10,Bergama,425.75,-449.921875,-118,Desert,Brown,0.5
 118036,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,407,451,4074745106,47,6,Bergama,407.3671875,-451.953125,-20,Desert,Brown,0.5
 115948,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,419,476,4197847611,78,11,Bergama,419.609375,-476.9140625,33,Desert,Brown,0.5
-117918,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,410,459,41012845908,128,8,Bergama,411,-459.9375,151,Desert,Brown,0.5
+117918,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,410,459,41012845908,128,8,Bergama,411.0,-459.9375,151,Desert,Brown,0.5
 116502,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,436,452,4367445232,74,32,Bergama,436.578125,-452.75,-12,Desert,Brown,0.5
 116124,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,438,479,4384847911,48,11,Bergama,438.375,-479.9140625,-135,Desert,Brown,0.5
 116606,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,418,456,4181345606,13,6,Bergama,418.1015625,-456.953125,-60,Desert,Brown,0.5
@@ -673,7 +671,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 118373,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,398,460,39810546071,105,71,Bergama,398.8203125,-460.4453125,-2,Desert,Brown,0.5
 116883,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,398,456,3985945697,59,97,Bergama,398.4609375,-456.2421875,-150,Desert,Brown,0.5
 117963,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,435,457,43515457115,15,115,Bergama,435.1171875,-457.1015625,24,Desert,Brown,0.5
-116543,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,412,468,41280468128,80,128,Bergama,412.625,-468,-151,Desert,Brown,0.5
+116543,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,412,468,41280468128,80,128,Bergama,412.625,-468.0,-151,Desert,Brown,0.5
 118313,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,440,465,44064465119,64,119,Bergama,440.5,-465.0703125,139,Desert,Brown,0.5
 117454,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,411,477,4115847796,58,96,Bergama,411.453125,-477.25,156,Desert,Brown,0.5
 117916,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,422,465,4227446539,74,39,Bergama,422.578125,-465.6953125,-107,Desert,Brown,0.5
@@ -706,7 +704,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 118622,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,445,463,44505463113,5,113,Bergama,445.0390625,-463.1171875,31,Desert,Brown,0.5
 116133,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,420,475,42012147566,121,66,Bergama,420.9453125,-475.484375,107,Desert,Brown,0.5
 116515,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,411,466,4119646619,96,19,Bergama,411.75,-466.8515625,32,Desert,Brown,0.5
-116069,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,436,464,436119464128,119,128,Bergama,436.9296875,-464,-20,Desert,Brown,0.5
+116069,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,436,464,436119464128,119,128,Bergama,436.9296875,-464.0,-20,Desert,Brown,0.5
 116733,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,402,458,4024245892,42,92,Bergama,402.328125,-458.28125,-129,Desert,Brown,0.5
 118231,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,433,477,43322477118,22,118,Bergama,433.171875,-477.078125,60,Desert,Brown,0.5
 117861,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,438,471,43861471100,61,100,Bergama,438.4765625,-471.21875,-98,Desert,Brown,0.5
@@ -732,7 +730,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116534,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,436,480,4367448028,74,28,Bergama,436.578125,-480.78125,35,Desert,Brown,0.5
 117837,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,410,449,4107444938,74,38,Bergama,410.578125,-449.703125,83,Desert,Brown,0.5
 117188,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,434,453,4343245317,32,17,Bergama,434.25,-453.8671875,-5,Desert,Brown,0.5
-116877,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,435,455,43512845563,128,63,Bergama,436,-455.5078125,76,Desert,Brown,0.5
+116877,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,435,455,43512845563,128,63,Bergama,436.0,-455.5078125,76,Desert,Brown,0.5
 116770,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,410,463,41011546307,115,7,Bergama,410.8984375,-463.9453125,147,Desert,Brown,0.5
 116072,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,429,471,42912147105,121,5,Bergama,429.9453125,-471.9609375,44,Desert,Brown,0.5
 118259,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,416,461,41607461121,7,121,Bergama,416.0546875,-461.0546875,95,Desert,Brown,0.5
@@ -744,7 +742,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117878,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,442,469,4424546915,45,15,Bergama,442.3515625,-469.8828125,119,Desert,Brown,0.5
 116496,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,401,467,4013746751,37,51,Bergama,401.2890625,-467.6015625,-9,Desert,Brown,0.5
 116670,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,427,464,4275446469,54,69,Bergama,427.421875,-464.4609375,-141,Desert,Brown,0.5
-116650,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,429,455,42944455128,44,128,Bergama,429.34375,-455,118,Desert,Brown,0.5
+116650,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,429,455,42944455128,44,128,Bergama,429.34375,-455.0,118,Desert,Brown,0.5
 117065,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,420,464,4204946403,49,3,Bergama,420.3828125,-464.9765625,58,Desert,Brown,0.5
 118122,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,434,466,4349746654,97,54,Bergama,434.7578125,-466.578125,162,Desert,Brown,0.5
 117950,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,440,474,4407347487,73,87,Bergama,440.5703125,-474.3203125,110,Desert,Brown,0.5
@@ -785,7 +783,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117889,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,405,452,4058745223,87,23,Bergama,405.6796875,-452.8203125,102,Desert,Brown,0.5
 117437,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,441,462,44182462123,82,123,Bergama,441.640625,-462.0390625,53,Desert,Brown,0.5
 117201,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,417,476,41745476104,45,104,Bergama,417.3515625,-476.1875,-90,Desert,Brown,0.5
-118656,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,442,482,44212848235,128,35,Bergama,443,-482.7265625,8,Desert,Brown,0.5
+118656,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,442,482,44212848235,128,35,Bergama,443.0,-482.7265625,8,Desert,Brown,0.5
 118312,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,434,464,43469464105,69,105,Bergama,434.5390625,-464.1796875,128,Desert,Brown,0.5
 116688,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,414,472,4149347256,93,56,Bergama,414.7265625,-472.5625,48,Desert,Brown,0.5
 116097,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,438,480,43862480121,62,121,Bergama,438.484375,-480.0546875,20,Desert,Brown,0.5
@@ -832,7 +830,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116941,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,417,474,4175047419,50,19,Bergama,417.390625,-474.8515625,-96,Desert,Brown,0.5
 118024,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,423,476,4233647697,36,97,Bergama,423.28125,-476.2421875,60,Desert,Brown,0.5
 118612,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,434,475,43496475113,96,113,Bergama,434.75,-475.1171875,-125,Desert,Brown,0.5
-117051,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,413,450,41326450128,26,128,Bergama,413.203125,-450,-3,Desert,Brown,0.5
+117051,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,413,450,41326450128,26,128,Bergama,413.203125,-450.0,-3,Desert,Brown,0.5
 116582,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,431,449,4319844930,98,30,Bergama,431.765625,-449.765625,-149,Desert,Brown,0.5
 118270,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,407,459,4075745977,57,77,Bergama,407.4453125,-459.3984375,35,Desert,Brown,0.5
 117360,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,398,460,3986246077,62,77,Bergama,398.484375,-460.3984375,-23,Desert,Brown,0.5
@@ -870,7 +868,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 118015,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,424,473,4246047330,60,30,Bergama,424.46875,-473.765625,-36,Desert,Brown,0.5
 118550,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,426,455,4265145505,51,5,Bergama,426.3984375,-455.9609375,-165,Desert,Brown,0.5
 118447,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,411,460,4119846032,98,32,Bergama,411.765625,-460.75,-24,Desert,Brown,0.5
-118505,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,448,480,448111480128,111,128,Bergama,448.8671875,-480,-35,Desert,Brown,0.5
+118505,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,448,480,448111480128,111,128,Bergama,448.8671875,-480.0,-35,Desert,Brown,0.5
 118353,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,448,466,44809466100,9,100,Bergama,448.0703125,-466.21875,-102,Desert,Brown,0.5
 117784,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,433,457,4335645729,56,29,Bergama,433.4375,-457.7734375,-33,Desert,Brown,0.5
 117337,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,428,458,4288745878,87,78,Bergama,428.6796875,-458.390625,65,Desert,Brown,0.5
@@ -893,7 +891,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 118035,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,424,453,424111453117,111,117,Bergama,424.8671875,-453.0859375,46,Desert,Brown,0.5
 117858,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,424,468,4249546883,95,83,Bergama,424.7421875,-468.3515625,117,Desert,Brown,0.5
 116308,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,434,476,43412047647,120,47,Bergama,434.9375,-476.6328125,-120,Desert,Brown,0.5
-117624,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,445,469,44512846972,128,72,Bergama,446,-469.4375,168,Desert,Brown,0.5
+117624,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,445,469,44512846972,128,72,Bergama,446.0,-469.4375,168,Desert,Brown,0.5
 118379,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,400,454,4009545489,95,89,Bergama,400.7421875,-454.3046875,-65,Desert,Brown,0.5
 117681,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,440,473,44012547350,125,50,Bergama,440.9765625,-473.609375,11,Desert,Brown,0.5
 116037,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,424,468,4240946809,9,9,Bergama,424.0703125,-468.9296875,-126,Desert,Brown,0.5
@@ -912,8 +910,8 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116714,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,400,452,4003445220,34,20,Bergama,400.265625,-452.84375,-161,Desert,Brown,0.5
 117907,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,430,478,43071478100,71,100,Bergama,430.5546875,-478.21875,1,Desert,Brown,0.5
 118001,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,446,480,4462448070,24,70,Bergama,446.1875,-480.453125,3,Desert,Brown,0.5
-115991,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,430,462,43012846216,128,16,Bergama,431,-462.875,21,Desert,Brown,0.5
-116568,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,421,459,42148459128,48,128,Bergama,421.375,-459,-153,Desert,Brown,0.5
+115991,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,430,462,43012846216,128,16,Bergama,431.0,-462.875,21,Desert,Brown,0.5
+116568,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,421,459,42148459128,48,128,Bergama,421.375,-459.0,-153,Desert,Brown,0.5
 118278,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,400,452,4006545207,65,7,Bergama,400.5078125,-452.9453125,-163,Desert,Brown,0.5
 116976,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,430,464,43010946433,109,33,Bergama,430.8515625,-464.7421875,-169,Desert,Brown,0.5
 117254,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,435,482,4358448282,84,82,Bergama,435.65625,-482.359375,67,Desert,Brown,0.5
@@ -1092,7 +1090,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117933,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,413,449,4133044902,30,2,Bergama,413.234375,-449.984375,-125,Desert,Brown,0.5
 118287,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,443,467,4433046731,30,31,Bergama,443.234375,-467.7578125,88,Desert,Brown,0.5
 118638,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,419,473,41912647393,126,93,Bergama,419.984375,-473.2734375,-164,Desert,Brown,0.5
-118350,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,421,449,42194449128,94,128,Bergama,421.734375,-449,-142,Desert,Brown,0.5
+118350,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,421,449,42194449128,94,128,Bergama,421.734375,-449.0,-142,Desert,Brown,0.5
 118315,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,433,459,43303459115,3,115,Bergama,433.0234375,-459.1015625,-64,Desert,Brown,0.5
 116684,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,429,475,4295447504,54,4,Bergama,429.421875,-475.96875,22,Desert,Brown,0.5
 116516,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,398,462,3987446239,74,39,Bergama,398.578125,-462.6953125,121,Desert,Brown,0.5
@@ -1206,17 +1204,17 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117087,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,439,478,4393747874,37,74,Bergama,439.2890625,-478.421875,29,Desert,Brown,0.5
 117294,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,434,473,4345047337,50,37,Bergama,434.390625,-473.7109375,-136,Desert,Brown,0.5
 118406,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,413,456,4135045637,50,37,Bergama,413.390625,-456.7109375,87,Desert,Brown,0.5
-116460,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,437,449,43771449128,71,128,Bergama,437.5546875,-449,-141,Desert,Brown,0.5
+116460,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,437,449,43771449128,71,128,Bergama,437.5546875,-449.0,-141,Desert,Brown,0.5
 117084,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,433,457,43310645710,106,10,Bergama,433.828125,-457.921875,-61,Desert,Brown,0.5
 117931,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,409,449,40909449102,9,102,Bergama,409.0703125,-449.203125,-1,Desert,Brown,0.5
 118587,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,410,454,4106145483,61,83,Bergama,410.4765625,-454.3515625,110,Desert,Brown,0.5
-117902,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,445,469,44597469128,97,128,Bergama,445.7578125,-469,-90,Desert,Brown,0.5
+117902,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,445,469,44597469128,97,128,Bergama,445.7578125,-469.0,-90,Desert,Brown,0.5
 117450,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,413,462,4136446268,64,68,Bergama,413.5,-462.46875,-167,Desert,Brown,0.5
 118282,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,426,482,42631482109,31,109,Bergama,426.2421875,-482.1484375,-143,Desert,Brown,0.5
 116309,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,411,461,4118446175,84,75,Bergama,411.65625,-461.4140625,-122,Desert,Brown,0.5
 116049,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,442,479,4420147910,1,10,Bergama,442.0078125,-479.921875,2,Desert,Brown,0.5
 118515,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,427,479,42710047957,100,57,Bergama,427.78125,-479.5546875,-49,Desert,Brown,0.5
-116286,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,413,461,41338461128,38,128,Bergama,413.296875,-461,-83,Desert,Brown,0.5
+116286,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,413,461,41338461128,38,128,Bergama,413.296875,-461.0,-83,Desert,Brown,0.5
 116615,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,412,467,41268467114,68,114,Bergama,412.53125,-467.109375,137,Desert,Brown,0.5
 116362,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,419,462,41910146257,101,57,Bergama,419.7890625,-462.5546875,154,Desert,Brown,0.5
 117547,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,425,465,4258846558,88,58,Bergama,425.6875,-465.546875,-34,Desert,Brown,0.5
@@ -1239,7 +1237,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117803,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,438,460,438104460101,104,101,Bergama,438.8125,-460.2109375,-110,Desert,Brown,0.5
 118332,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,438,476,4386247657,62,57,Bergama,438.484375,-476.5546875,-44,Desert,Brown,0.5
 116949,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,430,481,4305748152,57,52,Bergama,430.4453125,-481.59375,-76,Desert,Brown,0.5
-117768,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,419,463,41912846352,128,52,Bergama,420,-463.59375,106,Desert,Brown,0.5
+117768,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,419,463,41912846352,128,52,Bergama,420.0,-463.59375,106,Desert,Brown,0.5
 118139,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,426,460,4266246036,62,36,Bergama,426.484375,-460.71875,63,Desert,Brown,0.5
 117579,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,428,459,4285445917,54,17,Bergama,428.421875,-459.8671875,-6,Desert,Brown,0.5
 118102,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,414,448,41410644850,106,50,Bergama,414.828125,-448.609375,-24,Desert,Brown,0.5
@@ -1267,7 +1265,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 118370,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,412,477,41210047708,100,8,Bergama,412.78125,-477.9375,38,Desert,Brown,0.5
 116122,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,406,450,40664450120,64,120,Bergama,406.5,-450.0625,105,Desert,Brown,0.5
 117643,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,418,477,4185147741,51,41,Bergama,418.3984375,-477.6796875,24,Desert,Brown,0.5
-118243,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,437,460,43726460128,26,128,Bergama,437.203125,-460,105,Desert,Brown,0.5
+118243,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,437,460,43726460128,26,128,Bergama,437.203125,-460.0,105,Desert,Brown,0.5
 116584,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,432,472,4322347229,23,29,Bergama,432.1796875,-472.7734375,151,Desert,Brown,0.5
 117642,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,411,478,411112478124,112,124,Bergama,411.875,-478.03125,-143,Desert,Brown,0.5
 116208,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,401,463,4012546306,25,6,Bergama,401.1953125,-463.953125,-60,Desert,Brown,0.5
@@ -1295,7 +1293,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116110,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,418,457,4184945757,49,57,Bergama,418.3828125,-457.5546875,171,Desert,Brown,0.5
 118151,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,446,479,4465447950,54,50,Bergama,446.421875,-479.609375,-146,Desert,Brown,0.5
 116340,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,441,468,4414246819,42,19,Bergama,441.328125,-468.8515625,-6,Desert,Brown,0.5
-117598,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,424,472,42412847224,128,24,Bergama,425,-472.8125,54,Desert,Brown,0.5
+117598,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,424,472,42412847224,128,24,Bergama,425.0,-472.8125,54,Desert,Brown,0.5
 117849,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,427,451,42744451100,44,100,Bergama,427.34375,-451.21875,137,Desert,Brown,0.5
 116970,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,429,453,4297845336,78,36,Bergama,429.609375,-453.71875,90,Desert,Brown,0.5
 116628,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,407,461,40710046164,100,64,Bergama,407.78125,-461.5,-129,Desert,Brown,0.5
@@ -1310,7 +1308,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116846,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,417,482,4174148233,41,33,Bergama,417.3203125,-482.7421875,-121,Desert,Brown,0.5
 117829,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,436,452,4365045250,50,50,Bergama,436.390625,-452.609375,-105,Desert,Brown,0.5
 117098,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,413,481,41374481106,74,106,Bergama,413.578125,-481.171875,3,Desert,Brown,0.5
-116009,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,401,464,40185464128,85,128,Bergama,401.6640625,-464,-34,Desert,Brown,0.5
+116009,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,401,464,40185464128,85,128,Bergama,401.6640625,-464.0,-34,Desert,Brown,0.5
 117694,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,421,457,4210545740,5,40,Bergama,421.0390625,-457.6875,2,Desert,Brown,0.5
 117182,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,409,472,4099247203,92,3,Bergama,409.71875,-472.9765625,-2,Desert,Brown,0.5
 118397,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,418,470,4189647093,96,93,Bergama,418.75,-470.2734375,92,Desert,Brown,0.5
@@ -1325,7 +1323,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117141,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,438,457,43809457111,9,111,Bergama,438.0703125,-457.1328125,-94,Desert,Brown,0.5
 117509,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,420,465,42058465100,58,100,Bergama,420.453125,-465.21875,-170,Desert,Brown,0.5
 117060,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,413,456,41311245633,112,33,Bergama,413.875,-456.7421875,-80,Desert,Brown,0.5
-118559,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,405,458,405128458104,128,104,Bergama,406,-458.1875,-18,Desert,Brown,0.5
+118559,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,405,458,405128458104,128,104,Bergama,406.0,-458.1875,-18,Desert,Brown,0.5
 118440,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,405,467,40512546726,125,26,Bergama,405.9765625,-467.796875,86,Desert,Brown,0.5
 117347,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,432,450,4328445081,84,81,Bergama,432.65625,-450.3671875,-119,Desert,Brown,0.5
 118323,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,430,471,4302547182,25,82,Bergama,430.1953125,-471.359375,-1,Desert,Brown,0.5
@@ -1371,9 +1369,9 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116748,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,428,475,42811447524,114,24,Bergama,428.890625,-475.8125,-70,Desert,Brown,0.5
 118023,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,426,455,4260845517,8,17,Bergama,426.0625,-455.8671875,77,Desert,Brown,0.5
 116531,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,428,459,4284145939,41,39,Bergama,428.3203125,-459.6953125,-112,Desert,Brown,0.5
-116052,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,432,469,43263469128,63,128,Bergama,432.4921875,-469,19,Desert,Brown,0.5
+116052,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,432,469,43263469128,63,128,Bergama,432.4921875,-469.0,19,Desert,Brown,0.5
 117123,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,403,457,4036745743,67,43,Bergama,403.5234375,-457.6640625,143,Desert,Brown,0.5
-118303,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,436,474,43677474128,77,128,Bergama,436.6015625,-474,114,Desert,Brown,0.5
+118303,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,436,474,43677474128,77,128,Bergama,436.6015625,-474.0,114,Desert,Brown,0.5
 116336,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,402,451,4027145115,71,15,Bergama,402.5546875,-451.8828125,-60,Desert,Brown,0.5
 117818,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,431,467,431105467117,105,117,Bergama,431.8203125,-467.0859375,-79,Desert,Brown,0.5
 118310,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,446,471,4460347190,3,90,Bergama,446.0234375,-471.296875,-9,Desert,Brown,0.5
@@ -1382,7 +1380,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117129,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,412,455,4123145519,31,19,Bergama,412.2421875,-455.8515625,66,Desert,Brown,0.5
 116769,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,411,469,41112546933,125,33,Bergama,411.9765625,-469.7421875,138,Desert,Brown,0.5
 116140,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,441,472,44174472121,74,121,Bergama,441.578125,-472.0546875,20,Desert,Brown,0.5
-118260,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,427,449,42714449128,14,128,Bergama,427.109375,-449,88,Desert,Brown,0.5
+118260,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,427,449,42714449128,14,128,Bergama,427.109375,-449.0,88,Desert,Brown,0.5
 117409,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,426,456,42610545633,105,33,Bergama,426.8203125,-456.7421875,-79,Desert,Brown,0.5
 117177,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,417,482,4171648294,16,94,Bergama,417.125,-482.265625,-72,Desert,Brown,0.5
 118675,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,439,460,43912746017,127,17,Bergama,439.9921875,-460.8671875,92,Desert,Brown,0.5
@@ -1401,7 +1399,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116471,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,427,460,4273246003,32,3,Bergama,427.25,-460.9765625,54,Desert,Brown,0.5
 117272,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,420,451,4204845105,48,5,Bergama,420.375,-451.9609375,25,Desert,Brown,0.5
 116504,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,406,448,40610244834,102,34,Bergama,406.796875,-448.734375,110,Desert,Brown,0.5
-117511,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,413,458,413109458128,109,128,Bergama,413.8515625,-458,153,Desert,Brown,0.5
+117511,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,413,458,413109458128,109,128,Bergama,413.8515625,-458.0,153,Desert,Brown,0.5
 118365,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,424,480,42417480114,17,114,Bergama,424.1328125,-480.109375,111,Desert,Brown,0.5
 117835,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,431,480,4312648062,26,62,Bergama,431.203125,-480.515625,70,Desert,Brown,0.5
 117314,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,410,475,41011847530,118,30,Bergama,410.921875,-475.765625,64,Desert,Brown,0.5
@@ -1415,13 +1413,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117879,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,404,461,4046646189,66,89,Bergama,404.515625,-461.3046875,27,Desert,Brown,0.5
 117739,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,423,454,4232545405,25,5,Bergama,423.1953125,-454.9609375,63,Desert,Brown,0.5
 116151,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,427,450,4274445001,44,1,Bergama,427.34375,-450.9921875,-169,Desert,Brown,0.5
-117491,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,419,468,41918468128,18,128,Bergama,419.140625,-468,126,Desert,Brown,0.5
+117491,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,419,468,41918468128,18,128,Bergama,419.140625,-468.0,126,Desert,Brown,0.5
 117142,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,429,477,42939477107,39,107,Bergama,429.3046875,-477.1640625,-141,Desert,Brown,0.5
 117870,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,402,468,4023646857,36,57,Bergama,402.28125,-468.5546875,131,Desert,Brown,0.5
 116384,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,410,465,410113465104,113,104,Bergama,410.8828125,-465.1875,95,Desert,Brown,0.5
 115960,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,400,464,40048464114,48,114,Bergama,400.375,-464.109375,10,Desert,Brown,0.5
 116657,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,423,458,4232345843,23,43,Bergama,423.1796875,-458.6640625,-9,Desert,Brown,0.5
-118140,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,445,465,44512846518,128,18,Bergama,446,-465.859375,176,Desert,Brown,0.5
+118140,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,445,465,44512846518,128,18,Bergama,446.0,-465.859375,176,Desert,Brown,0.5
 118487,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,423,472,4236347272,63,72,Bergama,423.4921875,-472.4375,103,Desert,Brown,0.5
 117284,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,430,458,43044458123,44,123,Bergama,430.34375,-458.0390625,-87,Desert,Brown,0.5
 117752,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,417,460,4170946082,9,82,Bergama,417.0703125,-460.359375,-42,Desert,Brown,0.5
@@ -1510,7 +1508,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117196,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,439,465,43912246573,122,73,Bergama,439.953125,-465.4296875,39,Desert,Brown,0.5
 116604,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,420,463,4200546368,5,68,Bergama,420.0390625,-463.46875,14,Desert,Brown,0.5
 117126,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,414,468,41411946847,119,47,Bergama,414.9296875,-468.6328125,-94,Desert,Brown,0.5
-117533,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,415,459,415128459107,128,107,Bergama,416,-459.1640625,-144,Desert,Brown,0.5
+117533,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,415,459,415128459107,128,107,Bergama,416.0,-459.1640625,-144,Desert,Brown,0.5
 116896,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,420,481,4209948186,99,86,Bergama,420.7734375,-481.328125,-47,Desert,Brown,0.5
 116268,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,417,456,41728456109,28,109,Bergama,417.21875,-456.1484375,160,Desert,Brown,0.5
 116530,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,402,454,4021545460,15,60,Bergama,402.1171875,-454.53125,-4,Desert,Brown,0.5
@@ -1548,7 +1546,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116472,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,437,473,4374547316,45,16,Bergama,437.3515625,-473.875,-117,Desert,Brown,0.5
 116394,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,442,477,4429947707,99,7,Bergama,442.7734375,-477.9453125,-90,Desert,Brown,0.5
 116511,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,428,455,428104455105,104,105,Bergama,428.8125,-455.1796875,138,Desert,Brown,0.5
-117206,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,425,459,425112459128,112,128,Bergama,425.875,-459,143,Desert,Brown,0.5
+117206,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,425,459,425112459128,112,128,Bergama,425.875,-459.0,143,Desert,Brown,0.5
 116297,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,432,455,43272455114,72,114,Bergama,432.5625,-455.109375,-62,Desert,Brown,0.5
 116505,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,432,455,43256455118,56,118,Bergama,432.4375,-455.078125,-133,Desert,Brown,0.5
 117332,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,416,463,4166246390,62,90,Bergama,416.484375,-463.296875,1,Desert,Brown,0.5
@@ -1725,7 +1723,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117795,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,412,453,4121045307,10,7,Bergama,412.078125,-453.9453125,132,Desert,Brown,0.5
 117026,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,415,470,4150847071,8,71,Bergama,415.0625,-470.4453125,-150,Desert,Brown,0.5
 117295,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,435,457,4358245726,82,26,Bergama,435.640625,-457.796875,135,Desert,Brown,0.5
-117890,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,435,474,43512847416,128,16,Bergama,436,-474.875,-1,Desert,Brown,0.5
+117890,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,435,474,43512847416,128,16,Bergama,436.0,-474.875,-1,Desert,Brown,0.5
 118160,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,418,473,41887473113,87,113,Bergama,418.6796875,-473.1171875,-29,Desert,Brown,0.5
 116856,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,427,449,4271444901,14,1,Bergama,427.109375,-449.9921875,179,Desert,Brown,0.5
 116298,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,420,470,42010847077,108,77,Bergama,420.84375,-470.3984375,-97,Desert,Brown,0.5
@@ -1740,7 +1738,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117844,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,448,469,44820469115,20,115,Bergama,448.15625,-469.1015625,85,Desert,Brown,0.5
 117760,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,439,459,4396745969,67,69,Bergama,439.5234375,-459.4609375,-140,Desert,Brown,0.5
 117611,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,440,481,4407048161,70,61,Bergama,440.546875,-481.5234375,11,Desert,Brown,0.5
-117112,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,420,473,42012847306,128,6,Bergama,421,-473.953125,75,Desert,Brown,0.5
+117112,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,420,473,42012847306,128,6,Bergama,421.0,-473.953125,75,Desert,Brown,0.5
 117043,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,435,451,43511245177,112,77,Bergama,435.875,-451.3984375,-139,Desert,Brown,0.5
 116553,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,431,463,4317046360,70,60,Bergama,431.546875,-463.53125,176,Desert,Brown,0.5
 116685,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,413,472,4131247294,12,94,Bergama,413.09375,-472.265625,35,Desert,Brown,0.5
@@ -1770,7 +1768,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116774,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,419,454,4192645451,26,51,Bergama,419.203125,-454.6015625,7,Desert,Brown,0.5
 117538,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,439,450,4390345031,3,31,Bergama,439.0234375,-450.7578125,108,Desert,Brown,0.5
 118358,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,439,470,4396147041,61,41,Bergama,439.4765625,-470.6796875,168,Desert,Brown,0.5
-118528,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,434,471,4346547124,65,24,Bergama,434.5078125,-471.8125,-43,Ocean,Brown,0.5
 117957,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,437,469,43712546963,125,63,Bergama,437.9765625,-469.5078125,-108,Desert,Brown,0.5
 118570,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,429,470,4295347024,53,24,Bergama,429.4140625,-470.8125,54,Desert,Brown,0.5
 118648,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,425,482,42511148266,111,66,Bergama,425.8671875,-482.484375,-142,Desert,Brown,0.5
@@ -1838,7 +1835,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117239,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,426,449,4269744956,97,56,Bergama,426.7578125,-449.5625,10,Desert,Brown,0.5
 116694,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,409,464,40912246442,122,42,Bergama,409.953125,-464.671875,-60,Desert,Brown,0.5
 116397,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,420,459,4200345956,3,56,Bergama,420.0234375,-459.5625,177,Desert,Brown,0.5
-116424,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,426,455,42612845587,128,87,Bergama,427,-455.3203125,109,Desert,Brown,0.5
+116424,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,426,455,42612845587,128,87,Bergama,427.0,-455.3203125,109,Desert,Brown,0.5
 116581,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,438,469,438118469120,118,120,Bergama,438.921875,-469.0625,-72,Desert,Brown,0.5
 116776,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,422,482,4224448286,44,86,Bergama,422.34375,-482.328125,27,Desert,Brown,0.5
 117926,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,433,463,43310146329,101,29,Bergama,433.7890625,-463.7734375,144,Desert,Brown,0.5
@@ -1924,7 +1921,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 118261,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,440,481,440107481110,107,110,Bergama,440.8359375,-481.140625,-63,Desert,Brown,0.5
 116632,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,409,468,409109468105,109,105,Bergama,409.8515625,-468.1796875,128,Desert,Brown,0.5
 117375,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,399,462,3995046216,50,16,Bergama,399.390625,-462.875,155,Desert,Brown,0.5
-118471,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,434,475,43412847506,128,6,Bergama,435,-475.953125,-156,Desert,Brown,0.5
+118471,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,434,475,43412847506,128,6,Bergama,435.0,-475.953125,-156,Desert,Brown,0.5
 116857,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,419,452,4191245243,12,43,Bergama,419.09375,-452.6640625,38,Desert,Brown,0.5
 117564,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,408,452,40879452105,79,105,Bergama,408.6171875,-452.1796875,-42,Desert,Brown,0.5
 116918,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,438,458,4383645855,36,55,Bergama,438.28125,-458.5703125,-66,Desert,Brown,0.5
@@ -1994,7 +1991,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116169,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,420,451,42068451108,68,108,Bergama,420.53125,-451.15625,-143,Desert,Brown,0.5
 116491,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,421,481,4219048163,90,63,Bergama,421.703125,-481.5078125,-93,Desert,Brown,0.5
 117847,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,434,460,4342746074,27,74,Bergama,434.2109375,-460.421875,-93,Desert,Brown,0.5
-116438,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,421,456,42112845664,128,64,Bergama,422,-456.5,-176,Desert,Brown,0.5
+116438,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,421,456,42112845664,128,64,Bergama,422.0,-456.5,-176,Desert,Brown,0.5
 118419,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,414,470,41409470108,9,108,Bergama,414.0703125,-470.15625,112,Desert,Brown,0.5
 117008,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,415,476,41511447678,114,78,Bergama,415.890625,-476.390625,-39,Desert,Brown,0.5
 117791,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,440,464,4409946491,99,91,Bergama,440.7734375,-464.2890625,114,Desert,Brown,0.5
@@ -2086,7 +2083,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116459,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,439,456,43927456126,27,126,Bergama,439.2109375,-456.015625,99,Desert,Brown,0.5
 118216,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,415,467,4158646755,86,55,Bergama,415.671875,-467.5703125,-51,Desert,Brown,0.5
 117720,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,444,470,44462470120,62,120,Bergama,444.484375,-470.0625,13,Desert,Brown,0.5
-118292,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,413,477,41312847753,128,53,Bergama,414,-477.5859375,29,Desert,Brown,0.5
+118292,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,413,477,41312847753,128,53,Bergama,414.0,-477.5859375,29,Desert,Brown,0.5
 118669,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,435,479,43556479126,56,126,Bergama,435.4375,-479.015625,-68,Desert,Brown,0.5
 117667,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,408,452,4082745272,27,72,Bergama,408.2109375,-452.4375,-170,Desert,Brown,0.5
 118183,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,434,457,43446457125,46,125,Bergama,434.359375,-457.0234375,82,Desert,Brown,0.5
@@ -2135,7 +2132,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116571,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,430,477,4302947796,29,96,Bergama,430.2265625,-477.25,81,Desert,Brown,0.5
 118634,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,437,449,4374944966,49,66,Bergama,437.3828125,-449.484375,-144,Desert,Brown,0.5
 117160,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,430,469,430115469119,115,119,Bergama,430.8984375,-469.0703125,139,Desert,Brown,0.5
-118435,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,430,477,43012847705,128,5,Bergama,431,-477.9609375,-94,Desert,Brown,0.5
+118435,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,430,477,43012847705,128,5,Bergama,431.0,-477.9609375,-94,Desert,Brown,0.5
 118002,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,413,480,4136748057,67,57,Bergama,413.5234375,-480.5546875,54,Desert,Brown,0.5
 118094,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,411,462,4115946261,59,61,Bergama,411.4609375,-462.5234375,-97,Desert,Brown,0.5
 116109,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,443,479,44311647911,116,11,Bergama,443.90625,-479.9140625,-75,Desert,Brown,0.5
@@ -2376,7 +2373,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117331,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,430,459,4307045945,70,45,Bergama,430.546875,-459.6484375,-52,Desert,Brown,0.5
 118367,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,418,462,4184546283,45,83,Bergama,418.3515625,-462.3515625,-71,Desert,Brown,0.5
 117557,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,416,455,41611545578,115,78,Bergama,416.8984375,-455.390625,123,Desert,Brown,0.5
-117923,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,445,468,44512846846,128,46,Bergama,446,-468.640625,148,Desert,Brown,0.5
+117923,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,445,468,44512846846,128,46,Bergama,446.0,-468.640625,148,Desert,Brown,0.5
 116806,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,409,470,40911647007,116,7,Bergama,409.90625,-470.9453125,-60,Desert,Brown,0.5
 116973,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,414,450,4142345030,23,30,Bergama,414.1796875,-450.765625,-6,Desert,Brown,0.5
 117529,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,423,458,4238945877,89,77,Bergama,423.6953125,-458.3984375,-97,Desert,Brown,0.5
@@ -2392,7 +2389,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116729,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,421,453,42111745373,117,73,Bergama,421.9140625,-453.4296875,111,Desert,Brown,0.5
 118012,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,432,475,43212547576,125,76,Bergama,432.9765625,-475.40625,23,Desert,Brown,0.5
 118346,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,425,452,4251245221,12,21,Bergama,425.09375,-452.8359375,55,Desert,Brown,0.5
-116709,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,440,477,44012847799,128,99,Bergama,441,-477.2265625,32,Desert,Brown,0.5
+116709,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,440,477,44012847799,128,99,Bergama,441.0,-477.2265625,32,Desert,Brown,0.5
 118291,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,435,480,4357648076,76,76,Bergama,435.59375,-480.40625,-102,Desert,Brown,0.5
 118126,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,412,463,41266463112,66,112,Bergama,412.515625,-463.125,-77,Desert,Brown,0.5
 116142,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,406,451,4063845160,38,60,Bergama,406.296875,-451.53125,78,Desert,Brown,0.5
@@ -2447,7 +2444,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116136,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,412,470,4124347047,43,47,Bergama,412.3359375,-470.6328125,-74,Desert,Brown,0.5
 117899,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,406,466,4068146603,81,3,Bergama,406.6328125,-466.9765625,52,Desert,Brown,0.5
 116347,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,444,473,44410147391,101,91,Bergama,444.7890625,-473.2890625,-118,Desert,Brown,0.5
-116985,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,418,463,41812846385,128,85,Bergama,419,-463.3359375,-71,Desert,Brown,0.5
+116985,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,418,463,41812846385,128,85,Bergama,419.0,-463.3359375,-71,Desert,Brown,0.5
 116575,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,419,478,4193647868,36,68,Bergama,419.28125,-478.46875,43,Desert,Brown,0.5
 117373,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,423,458,4238445842,84,42,Bergama,423.65625,-458.671875,-32,Desert,Brown,0.5
 118439,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,421,457,4214245734,42,34,Bergama,421.328125,-457.734375,72,Desert,Brown,0.5
@@ -2511,7 +2508,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 116443,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,438,483,4382848397,28,97,Bergama,438.21875,-483.2421875,109,Desert,Brown,0.5
 118418,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,415,482,4158548244,85,44,Bergama,415.6640625,-482.65625,-115,Desert,Brown,0.5
 116065,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,428,466,4282846694,28,94,Bergama,428.21875,-466.265625,109,Desert,Brown,0.5
-117740,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,411,475,41112847578,128,78,Bergama,412,-475.390625,-24,Desert,Brown,0.5
+117740,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,411,475,41112847578,128,78,Bergama,412.0,-475.390625,-24,Desert,Brown,0.5
 116011,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,412,452,41210145201,101,1,Bergama,412.7890625,-452.9921875,103,Desert,Brown,0.5
 118081,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,420,481,4202948111,29,11,Bergama,420.2265625,-481.9140625,-151,Desert,Brown,0.5
 116737,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,416,470,4161847001,18,1,Bergama,416.140625,-470.9921875,-30,Desert,Brown,0.5
@@ -2543,7 +2540,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 117876,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,442,481,4428248102,82,2,Bergama,442.640625,-481.984375,87,Desert,Brown,0.5
 118238,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,419,464,4195646491,56,91,Bergama,419.4375,-464.2890625,143,Desert,Brown,0.5
 116043,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,430,462,43010546229,105,29,Bergama,430.8203125,-462.7734375,-124,Desert,Brown,0.5
-117100,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,416,467,41681467128,81,128,Bergama,416.6328125,-467,-79,Desert,Brown,0.5
+117100,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,416,467,41681467128,81,128,Bergama,416.6328125,-467.0,-79,Desert,Brown,0.5
 118507,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,418,464,4186646453,66,53,Bergama,418.515625,-464.5859375,-150,Desert,Brown,0.5
 118199,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,418,475,4184647594,46,94,Bergama,418.359375,-475.265625,-39,Desert,Brown,0.5
 118263,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,438,452,438114452119,114,119,Bergama,438.890625,-452.0703125,23,Desert,Brown,0.5

@@ -218,7 +218,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67457,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,751,328,75111432894,114,94,Totambu,751.890625,-328.265625,115,Rainforest,Brown,0.5
 67592,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,855,322,8556932233,69,33,Totambu,855.5390625,-322.7421875,84,Rainforest,Brown,0.5
 67470,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,815,365,8151936559,19,59,Totambu,815.1484375,-365.5390625,146,Rainforest,Brown,0.5
-68018,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,741,369,74112836941,128,41,Totambu,742,-369.6796875,51,Rainforest,Brown,0.5
+68018,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,741,369,74112836941,128,41,Totambu,742.0,-369.6796875,51,Rainforest,Brown,0.5
 67088,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,909,337,90943337125,43,125,Totambu,909.3359375,-337.0234375,-107,Rainforest,Brown,0.5
 67288,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,808,374,8085437405,54,5,Totambu,808.421875,-374.9609375,-161,Rainforest,Brown,0.5
 67576,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,838,324,8381332419,13,19,Totambu,838.1015625,-324.8515625,42,Rainforest,Brown,0.5
@@ -343,7 +343,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66833,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,777,316,7771131667,11,67,Totambu,777.0859375,-316.4765625,-29,Rainforest,Brown,0.5
 66616,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,794,368,79411836828,118,28,Totambu,794.921875,-368.78125,28,Rainforest,Brown,0.5
 68001,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,736,339,73610433935,104,35,Totambu,736.8125,-339.7265625,117,Rainforest,Brown,0.5
-66006,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,885,370,88519370128,19,128,Totambu,885.1484375,-370,177,Rainforest,Brown,0.5
+66006,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,885,370,88519370128,19,128,Totambu,885.1484375,-370.0,177,Rainforest,Brown,0.5
 68044,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,814,377,81468377105,68,105,Totambu,814.53125,-377.1796875,63,Rainforest,Brown,0.5
 67403,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,811,335,8119133555,91,55,Totambu,811.7109375,-335.5703125,144,Rainforest,Brown,0.5
 65408,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,798,367,7985936792,59,92,Totambu,798.4609375,-367.28125,-172,Rainforest,Brown,0.5
@@ -390,7 +390,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65152,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,927,362,92750362121,50,121,Totambu,927.390625,-362.0546875,-108,Rainforest,Brown,0.5
 67680,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,799,332,7994033259,40,59,Totambu,799.3125,-332.5390625,5,Rainforest,Brown,0.5
 66214,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,810,364,8108936468,89,68,Totambu,810.6953125,-364.46875,134,Rainforest,Brown,0.5
-66787,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,751,373,75177373128,77,128,Totambu,751.6015625,-373,-62,Rainforest,Brown,0.5
+66787,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,751,373,75177373128,77,128,Totambu,751.6015625,-373.0,-62,Rainforest,Brown,0.5
 66232,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,832,372,8320137258,1,58,Totambu,832.0078125,-372.546875,148,Rainforest,Brown,0.5
 66264,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,762,365,7626836539,68,39,Totambu,762.53125,-365.6953125,-100,Rainforest,Brown,0.5
 67245,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,882,391,88210039179,100,79,Totambu,882.78125,-391.3828125,-20,Rainforest,Brown,0.5
@@ -440,7 +440,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65403,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,758,328,7581732823,17,23,Totambu,758.1328125,-328.8203125,177,Rainforest,Brown,0.5
 66498,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,815,339,8150233916,2,16,Totambu,815.015625,-339.875,102,Rainforest,Brown,0.5
 65795,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,753,357,75310835799,108,99,Totambu,753.84375,-357.2265625,21,Rainforest,Brown,0.5
-65936,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,768,362,76812836273,128,73,Totambu,769,-362.4296875,-162,Rainforest,Brown,0.5
+65936,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,768,362,76812836273,128,73,Totambu,769.0,-362.4296875,-162,Rainforest,Brown,0.5
 67686,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,814,360,81411236052,112,52,Totambu,814.875,-360.59375,58,Rainforest,Brown,0.5
 67286,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,777,340,7775934076,59,76,Totambu,777.4609375,-340.40625,-41,Rainforest,Brown,0.5
 67379,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,781,371,78110537114,105,14,Totambu,781.8203125,-371.890625,107,Rainforest,Brown,0.5
@@ -595,7 +595,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67448,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,844,318,8441431822,14,22,Totambu,844.109375,-318.828125,128,Rainforest,Brown,0.5
 65673,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,759,371,7590137168,1,68,Totambu,759.0078125,-371.46875,88,Rainforest,Brown,0.5
 66340,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,743,328,7432932881,29,81,Totambu,743.2265625,-328.3671875,5,Rainforest,Brown,0.5
-67633,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,778,346,77841346128,41,128,Totambu,778.3203125,-346,60,Rainforest,Brown,0.5
+67633,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,778,346,77841346128,41,128,Totambu,778.3203125,-346.0,60,Rainforest,Brown,0.5
 67982,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,832,325,8324732584,47,84,Totambu,832.3671875,-325.34375,35,Rainforest,Brown,0.5
 65345,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,830,325,8305832579,58,79,Totambu,830.453125,-325.3828125,-129,Rainforest,Brown,0.5
 67920,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,937,360,93731360110,31,110,Totambu,937.2421875,-360.140625,121,Rainforest,Brown,0.5
@@ -691,7 +691,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66674,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,788,340,7885834099,58,99,Totambu,788.453125,-340.2265625,-36,Rainforest,Brown,0.5
 67133,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,906,376,9069037684,90,84,Totambu,906.703125,-376.34375,-48,Rainforest,Brown,0.5
 66289,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,778,324,7789832431,98,31,Totambu,778.765625,-324.7578125,-75,Rainforest,Brown,0.5
-66865,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,778,367,77812836770,128,70,Totambu,779,-367.453125,23,Rainforest,Brown,0.5
+66865,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,778,367,77812836770,128,70,Totambu,779.0,-367.453125,23,Rainforest,Brown,0.5
 65686,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,884,350,8849235001,92,1,Totambu,884.71875,-350.9921875,0,Rainforest,Brown,0.5
 66171,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,849,317,84919317119,19,119,Totambu,849.1484375,-317.0703125,-70,Rainforest,Brown,0.5
 66242,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,780,369,78011036909,110,9,Totambu,780.859375,-369.9296875,112,Rainforest,Brown,0.5
@@ -735,14 +735,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67926,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,894,385,8943138522,31,22,Totambu,894.2421875,-385.828125,169,Rainforest,Brown,0.5
 67681,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,727,356,7274835686,48,86,Totambu,727.375,-356.328125,78,Rainforest,Brown,0.5
 66315,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,934,360,9343036063,30,63,Totambu,934.234375,-360.5078125,13,Rainforest,Brown,0.5
-66529,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,913,338,9136533825,65,25,Totambu,913.5078125,-338.8046875,12,Ocean,Brown,0.5
 67334,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,886,347,8866334745,63,45,Totambu,886.4921875,-347.6484375,-70,Rainforest,Brown,0.5
 68114,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,935,350,93510535007,105,7,Totambu,935.8203125,-350.9453125,146,Rainforest,Brown,0.5
 67484,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,824,325,82411432512,114,12,Totambu,824.890625,-325.90625,-101,Rainforest,Brown,0.5
 65841,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,804,341,8048234195,82,95,Totambu,804.640625,-341.2578125,151,Rainforest,Brown,0.5
 65442,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,844,344,844111344101,111,101,Totambu,844.8671875,-344.2109375,-146,Rainforest,Brown,0.5
 65455,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,895,380,89575380102,75,102,Totambu,895.5859375,-380.203125,-103,Rainforest,Brown,0.5
-66385,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,914,388,91412838814,128,14,Totambu,915,-388.890625,126,Rainforest,Brown,0.5
+66385,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,914,388,91412838814,128,14,Totambu,915.0,-388.890625,126,Rainforest,Brown,0.5
 66653,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,912,345,9123534550,35,50,Totambu,912.2734375,-345.609375,19,Rainforest,Brown,0.5
 66571,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,846,328,8469632818,96,18,Totambu,846.75,-328.859375,-55,Rainforest,Brown,0.5
 65083,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,821,345,82111034580,110,80,Totambu,821.859375,-345.375,-62,Rainforest,Brown,0.5
@@ -936,14 +935,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65122,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,882,384,882104384123,104,123,Totambu,882.8125,-384.0390625,-174,Rainforest,Brown,0.5
 67202,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,882,377,8828237724,82,24,Totambu,882.640625,-377.8125,51,Rainforest,Brown,0.5
 67591,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,910,359,9103135925,31,25,Totambu,910.2421875,-359.8046875,-115,Rainforest,Brown,0.5
-67669,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,800,332,80012833275,128,75,Totambu,801,-332.4140625,5,Rainforest,Brown,0.5
+67669,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,800,332,80012833275,128,75,Totambu,801.0,-332.4140625,5,Rainforest,Brown,0.5
 65515,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,815,334,8156333461,63,61,Totambu,815.4921875,-334.5234375,-33,Rainforest,Brown,0.5
 67377,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,778,354,77883354117,83,117,Totambu,778.6484375,-354.0859375,13,Rainforest,Brown,0.5
 68006,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,850,318,8501031897,10,97,Totambu,850.078125,-318.2421875,150,Rainforest,Brown,0.5
 67332,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,745,346,7450834602,8,2,Totambu,745.0625,-346.984375,-111,Rainforest,Brown,0.5
 65525,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,750,373,7508437357,84,57,Totambu,750.65625,-373.5546875,79,Rainforest,Brown,0.5
 65863,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,855,324,8559332493,93,93,Totambu,855.7265625,-324.2734375,-30,Rainforest,Brown,0.5
-66230,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_08,914,334,91411533468,115,68,Totambu,914.8984375,-334.46875,44,Ocean,Brown,0.5
 65638,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,808,319,8088431967,84,67,Totambu,808.65625,-319.4765625,-18,Rainforest,Brown,0.5
 67168,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,935,390,93511939073,119,73,Totambu,935.9296875,-390.4296875,15,Rainforest,Brown,0.5
 66909,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,837,375,8374637523,46,23,Totambu,837.359375,-375.8203125,-33,Rainforest,Brown,0.5
@@ -1110,7 +1108,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67624,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,850,341,8504734149,47,49,Totambu,850.3671875,-341.6171875,12,Rainforest,Brown,0.5
 66196,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,773,362,77310436292,104,92,Totambu,773.8125,-362.28125,-41,Rainforest,Brown,0.5
 66029,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,742,366,7422936626,29,26,Totambu,742.2265625,-366.796875,28,Rainforest,Brown,0.5
-65177,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,924,383,924109383128,109,128,Totambu,924.8515625,-383,-22,Rainforest,Brown,0.5
+65177,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,924,383,924109383128,109,128,Totambu,924.8515625,-383.0,-22,Rainforest,Brown,0.5
 66617,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,746,332,7469633285,96,85,Totambu,746.75,-332.3359375,34,Rainforest,Brown,0.5
 65158,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,810,336,81010833621,108,21,Totambu,810.84375,-336.8359375,-3,Rainforest,Brown,0.5
 67498,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,799,329,79944329107,44,107,Totambu,799.34375,-329.1640625,156,Rainforest,Brown,0.5
@@ -1176,7 +1174,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68039,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,757,373,75759373123,59,123,Totambu,757.4609375,-373.0390625,-130,Rainforest,Brown,0.5
 68038,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,826,342,8261934204,19,4,Totambu,826.1484375,-342.96875,144,Rainforest,Brown,0.5
 67097,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,922,341,9223434179,34,79,Totambu,922.265625,-341.3828125,-133,Rainforest,Brown,0.5
-67900,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,910,331,91093331128,93,128,Totambu,910.7265625,-331,11,Rainforest,Brown,0.5
+67900,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,910,331,91093331128,93,128,Totambu,910.7265625,-331.0,11,Rainforest,Brown,0.5
 66250,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,933,383,9334038349,40,49,Totambu,933.3125,-383.6171875,89,Rainforest,Brown,0.5
 65164,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,751,339,75126339118,26,118,Totambu,751.203125,-339.078125,-5,Rainforest,Brown,0.5
 68053,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,919,374,91978374103,78,103,Totambu,919.609375,-374.1953125,3,Rainforest,Brown,0.5
@@ -1194,7 +1192,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66514,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,797,355,7974135540,41,40,Totambu,797.3203125,-355.6875,156,Rainforest,Brown,0.5
 66447,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,896,334,8964733474,47,74,Totambu,896.3671875,-334.421875,-60,Rainforest,Brown,0.5
 65864,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,767,357,7676635721,66,21,Totambu,767.515625,-357.8359375,165,Rainforest,Brown,0.5
-67357,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,760,341,76018341128,18,128,Totambu,760.140625,-341,-19,Rainforest,Brown,0.5
+67357,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,760,341,76018341128,18,128,Totambu,760.140625,-341.0,-19,Rainforest,Brown,0.5
 65817,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,880,366,88011636650,116,50,Totambu,880.90625,-366.609375,-146,Rainforest,Brown,0.5
 66572,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,922,364,9225936469,59,69,Totambu,922.4609375,-364.4609375,179,Rainforest,Brown,0.5
 66590,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,920,391,9201839133,18,33,Totambu,920.140625,-391.7421875,-85,Rainforest,Brown,0.5
@@ -1223,7 +1221,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65146,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,902,370,9027237018,72,18,Totambu,902.5625,-370.859375,-31,Rainforest,Brown,0.5
 66611,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,838,320,838118320106,118,106,Totambu,838.921875,-320.171875,129,Rainforest,Brown,0.5
 67134,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,746,325,74610132531,101,31,Totambu,746.7890625,-325.7578125,-38,Rainforest,Brown,0.5
-66474,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,925,351,925110351128,110,128,Totambu,925.859375,-351,-144,Rainforest,Brown,0.5
+66474,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,925,351,925110351128,110,128,Totambu,925.859375,-351.0,-144,Rainforest,Brown,0.5
 66115,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,847,318,847102318111,102,111,Totambu,847.796875,-318.1328125,-71,Rainforest,Brown,0.5
 66851,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,798,358,7988835883,88,83,Totambu,798.6875,-358.3515625,-12,Rainforest,Brown,0.5
 66622,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,767,321,7671632124,16,24,Totambu,767.125,-321.8125,-10,Rainforest,Brown,0.5
@@ -1238,7 +1236,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65882,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,816,319,8164831999,48,99,Totambu,816.375,-319.2265625,93,Rainforest,Brown,0.5
 65364,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,909,387,90911338768,113,68,Totambu,909.8828125,-387.46875,126,Rainforest,Brown,0.5
 65648,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,900,371,9006337172,63,72,Totambu,900.4921875,-371.4375,-114,Rainforest,Brown,0.5
-65970,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,750,345,750105345128,105,128,Totambu,750.8203125,-345,140,Rainforest,Brown,0.5
+65970,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,750,345,750105345128,105,128,Totambu,750.8203125,-345.0,140,Rainforest,Brown,0.5
 67121,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,936,379,9364537989,45,89,Totambu,936.3515625,-379.3046875,24,Rainforest,Brown,0.5
 65833,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,923,353,9236235302,62,2,Totambu,923.484375,-353.984375,156,Rainforest,Brown,0.5
 66104,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,756,326,7565432689,54,89,Totambu,756.421875,-326.3046875,140,Rainforest,Brown,0.5
@@ -1254,7 +1252,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66181,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,834,366,8345636601,56,1,Totambu,834.4375,-366.9921875,56,Rainforest,Brown,0.5
 66175,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,916,376,9165537689,55,89,Totambu,916.4296875,-376.3046875,-110,Rainforest,Brown,0.5
 65129,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,814,346,8144334697,43,97,Totambu,814.3359375,-346.2421875,64,Rainforest,Brown,0.5
-65212,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,919,380,91987380128,87,128,Totambu,919.6796875,-380,-168,Rainforest,Brown,0.5
+65212,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,919,380,91987380128,87,128,Totambu,919.6796875,-380.0,-168,Rainforest,Brown,0.5
 65838,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,870,320,87012632080,126,80,Totambu,870.984375,-320.375,-118,Rainforest,Brown,0.5
 67494,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,865,354,86512535463,125,63,Totambu,865.9765625,-354.5078125,-180,Rainforest,Brown,0.5
 66712,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,818,344,8188834476,88,76,Totambu,818.6875,-344.40625,-54,Rainforest,Brown,0.5
@@ -1341,7 +1339,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67547,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,783,329,78311532986,115,86,Totambu,783.8984375,-329.328125,65,Rainforest,Brown,0.5
 66982,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,791,318,7915131808,51,8,Totambu,791.3984375,-318.9375,-148,Rainforest,Brown,0.5
 65458,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,860,328,8606832870,68,70,Totambu,860.53125,-328.453125,156,Rainforest,Brown,0.5
-65201,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,887,377,88724377128,24,128,Totambu,887.1875,-377,-178,Rainforest,Brown,0.5
+65201,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,887,377,88724377128,24,128,Totambu,887.1875,-377.0,-178,Rainforest,Brown,0.5
 67423,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,854,373,85412637303,126,3,Totambu,854.984375,-373.9765625,-145,Rainforest,Brown,0.5
 65428,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,767,342,7678034249,80,49,Totambu,767.625,-342.6171875,141,Rainforest,Brown,0.5
 66207,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,800,346,80011734663,117,63,Totambu,800.9140625,-346.5078125,123,Rainforest,Brown,0.5
@@ -1418,7 +1416,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67739,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,787,348,7877034828,70,28,Totambu,787.546875,-348.78125,109,Rainforest,Brown,0.5
 68109,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,751,344,7513434458,34,58,Totambu,751.265625,-344.546875,-54,Rainforest,Brown,0.5
 67454,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,767,334,76710233497,102,97,Totambu,767.796875,-334.2421875,-58,Rainforest,Brown,0.5
-66194,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,767,320,767112320128,112,128,Totambu,767.875,-320,-48,Rainforest,Brown,0.5
+66194,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,767,320,767112320128,112,128,Totambu,767.875,-320.0,-48,Rainforest,Brown,0.5
 66065,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,747,355,74712435589,124,89,Totambu,747.96875,-355.3046875,130,Rainforest,Brown,0.5
 67668,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,903,339,9037633956,76,56,Totambu,903.59375,-339.5625,156,Rainforest,Brown,0.5
 66651,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,803,365,8032236552,22,52,Totambu,803.171875,-365.59375,155,Rainforest,Brown,0.5
@@ -1450,7 +1448,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67622,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,869,387,8693338750,33,50,Totambu,869.2578125,-387.609375,50,Rainforest,Brown,0.5
 65436,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,771,334,77110133454,101,54,Totambu,771.7890625,-334.578125,-61,Rainforest,Brown,0.5
 65384,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,829,326,8298332642,83,42,Totambu,829.6484375,-326.671875,66,Rainforest,Brown,0.5
-65773,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,755,354,75512835464,128,64,Totambu,756,-354.5,4,Rainforest,Brown,0.5
+65773,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,755,354,75512835464,128,64,Totambu,756.0,-354.5,4,Rainforest,Brown,0.5
 66179,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,791,351,79179351124,79,124,Totambu,791.6171875,-351.03125,168,Rainforest,Brown,0.5
 67493,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,764,369,76408369126,8,126,Totambu,764.0625,-369.015625,-86,Rainforest,Brown,0.5
 67520,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,737,369,73719369120,19,120,Totambu,737.1484375,-369.0625,-63,Rainforest,Brown,0.5
@@ -1563,7 +1561,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65502,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,777,315,7770631513,6,13,Totambu,777.046875,-315.8984375,106,Rainforest,Brown,0.5
 66255,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,743,360,74311536007,115,7,Totambu,743.8984375,-360.9453125,-93,Rainforest,Brown,0.5
 67652,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,880,346,8802934665,29,65,Totambu,880.2265625,-346.4921875,-125,Rainforest,Brown,0.5
-65632,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,848,351,84812835113,128,13,Totambu,849,-351.8984375,-75,Rainforest,Brown,0.5
+65632,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,848,351,84812835113,128,13,Totambu,849.0,-351.8984375,-75,Rainforest,Brown,0.5
 66233,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,809,346,8092134620,21,20,Totambu,809.1640625,-346.84375,-38,Rainforest,Brown,0.5
 67434,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,815,337,8158833741,88,41,Totambu,815.6875,-337.6796875,-155,Rainforest,Brown,0.5
 68122,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,809,374,8095637407,56,7,Totambu,809.4375,-374.9453125,77,Rainforest,Brown,0.5
@@ -1727,7 +1725,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65333,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,801,366,8012936635,29,35,Totambu,801.2265625,-366.7265625,120,Rainforest,Brown,0.5
 66047,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,909,395,90982395111,82,111,Totambu,909.640625,-395.1328125,-164,Rainforest,Brown,0.5
 67896,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,906,362,9061736262,17,62,Totambu,906.1328125,-362.515625,111,Rainforest,Brown,0.5
-66393,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,878,374,87805374128,5,128,Totambu,878.0390625,-374,38,Rainforest,Brown,0.5
+66393,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,878,374,87805374128,5,128,Totambu,878.0390625,-374.0,38,Rainforest,Brown,0.5
 67999,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,802,347,802116347108,116,108,Totambu,802.90625,-347.15625,83,Rainforest,Brown,0.5
 67939,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,864,330,8640933019,9,19,Totambu,864.0703125,-330.8515625,-14,Rainforest,Brown,0.5
 66890,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,889,390,8895339064,53,64,Totambu,889.4140625,-390.5,7,Rainforest,Brown,0.5
@@ -1743,7 +1741,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67364,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,734,360,73410036003,100,3,Totambu,734.78125,-360.9765625,101,Rainforest,Brown,0.5
 66159,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,879,335,87945335125,45,125,Totambu,879.3515625,-335.0234375,-94,Rainforest,Brown,0.5
 66938,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,927,388,9273738885,37,85,Totambu,927.2890625,-388.3359375,-70,Rainforest,Brown,0.5
-66644,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,904,364,904103364128,103,128,Totambu,904.8046875,-364,-145,Rainforest,Brown,0.5
+66644,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,904,364,904103364128,103,128,Totambu,904.8046875,-364.0,-145,Rainforest,Brown,0.5
 67105,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,811,322,81114322100,14,100,Totambu,811.109375,-322.21875,84,Rainforest,Brown,0.5
 67414,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,754,335,75494335114,94,114,Totambu,754.734375,-335.109375,-109,Rainforest,Brown,0.5
 67905,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,757,326,7570432697,4,97,Totambu,757.03125,-326.2421875,126,Rainforest,Brown,0.5
@@ -1839,7 +1837,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65405,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,839,343,8393634396,36,96,Totambu,839.28125,-343.25,-64,Rainforest,Brown,0.5
 66425,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,736,355,73683355122,83,122,Totambu,736.6484375,-355.046875,-176,Rainforest,Brown,0.5
 66499,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,872,354,8729935425,99,25,Totambu,872.7734375,-354.8046875,116,Rainforest,Brown,0.5
-65144,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,834,350,83491350128,91,128,Totambu,834.7109375,-350,-64,Rainforest,Brown,0.5
+65144,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,834,350,83491350128,91,128,Totambu,834.7109375,-350.0,-64,Rainforest,Brown,0.5
 65943,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,790,361,7901936110,19,10,Totambu,790.1484375,-361.921875,91,Rainforest,Brown,0.5
 65337,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,826,347,8267634773,76,73,Totambu,826.59375,-347.4296875,-54,Rainforest,Brown,0.5
 66932,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,871,337,8714633705,46,5,Totambu,871.359375,-337.9609375,5,Rainforest,Brown,0.5
@@ -1860,7 +1858,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67079,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,758,340,7585934055,59,55,Totambu,758.4609375,-340.5703125,148,Rainforest,Brown,0.5
 65896,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,926,372,9263537242,35,42,Totambu,926.2734375,-372.671875,-13,Rainforest,Brown,0.5
 68026,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,816,332,8167633277,76,77,Totambu,816.59375,-332.3984375,31,Rainforest,Brown,0.5
-66027,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,884,382,88410382128,10,128,Totambu,884.078125,-382,107,Rainforest,Brown,0.5
+66027,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,884,382,88410382128,10,128,Totambu,884.078125,-382.0,107,Rainforest,Brown,0.5
 67445,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,844,343,8447134378,71,78,Totambu,844.5546875,-343.390625,53,Rainforest,Brown,0.5
 65877,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,861,351,86110435144,104,44,Totambu,861.8125,-351.65625,-152,Rainforest,Brown,0.5
 67643,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,901,333,90111933354,119,54,Totambu,901.9296875,-333.578125,-18,Rainforest,Brown,0.5
@@ -1894,7 +1892,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67460,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,742,373,7427737387,77,87,Totambu,742.6015625,-373.3203125,-51,Rainforest,Brown,0.5
 66947,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,832,374,8327537403,75,3,Totambu,832.5859375,-374.9765625,-170,Rainforest,Brown,0.5
 67411,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,781,343,78156343118,56,118,Totambu,781.4375,-343.078125,-53,Rainforest,Brown,0.5
-67063,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,854,346,854128346128,128,128,Totambu,855,-346,94,Rainforest,Brown,0.5
+67063,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,854,346,854128346128,128,128,Totambu,855.0,-346.0,94,Rainforest,Brown,0.5
 67114,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,881,341,88123341122,23,122,Totambu,881.1796875,-341.046875,-90,Rainforest,Brown,0.5
 67176,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,812,372,8127737244,77,44,Totambu,812.6015625,-372.65625,175,Rainforest,Brown,0.5
 65453,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,896,367,8966036773,60,73,Totambu,896.46875,-367.4296875,18,Rainforest,Brown,0.5
@@ -1908,7 +1906,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66779,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,739,350,73942350103,42,103,Totambu,739.328125,-350.1953125,-82,Rainforest,Brown,0.5
 67710,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,815,360,81510836097,108,97,Totambu,815.84375,-360.2421875,172,Rainforest,Brown,0.5
 67111,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,934,346,93410534697,105,97,Totambu,934.8203125,-346.2421875,167,Rainforest,Brown,0.5
-65280,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,833,348,83340348128,40,128,Totambu,833.3125,-348,-62,Rainforest,Brown,0.5
+65280,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,833,348,83340348128,40,128,Totambu,833.3125,-348.0,-62,Rainforest,Brown,0.5
 67750,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,774,324,7741232435,12,35,Totambu,774.09375,-324.7265625,-55,Rainforest,Brown,0.5
 66957,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,789,355,789119355125,119,125,Totambu,789.9296875,-355.0234375,-100,Rainforest,Brown,0.5
 65255,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,856,325,8561932503,19,3,Totambu,856.1484375,-325.9765625,-33,Rainforest,Brown,0.5
@@ -1933,7 +1931,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66095,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_08,795,360,7955936088,59,88,Totambu,795.4609375,-360.3125,108,Rainforest,Brown,0.5
 65937,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,930,355,9308835527,88,27,Totambu,930.6875,-355.7890625,79,Rainforest,Brown,0.5
 65956,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,860,372,8609837227,98,27,Totambu,860.765625,-372.7890625,164,Rainforest,Brown,0.5
-66189,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,903,350,90312835010,128,10,Totambu,904,-350.921875,120,Rainforest,Brown,0.5
+66189,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,903,350,90312835010,128,10,Totambu,904.0,-350.921875,120,Rainforest,Brown,0.5
 66986,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,924,386,92412738641,127,41,Totambu,924.9921875,-386.6796875,-64,Rainforest,Brown,0.5
 68123,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,865,380,86512038032,120,32,Totambu,865.9375,-380.75,99,Rainforest,Brown,0.5
 68078,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,846,359,8466235983,62,83,Totambu,846.484375,-359.3515625,-63,Rainforest,Brown,0.5
@@ -2009,7 +2007,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67047,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,891,336,89112633624,126,24,Totambu,891.984375,-336.8125,116,Rainforest,Brown,0.5
 66829,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,857,353,8578535323,85,23,Totambu,857.6640625,-353.8203125,-108,Rainforest,Brown,0.5
 66348,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,877,349,8770934975,9,75,Totambu,877.0703125,-349.4140625,93,Rainforest,Brown,0.5
-67759,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,842,348,84264348128,64,128,Totambu,842.5,-348,-163,Rainforest,Brown,0.5
+67759,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,842,348,84264348128,64,128,Totambu,842.5,-348.0,-163,Rainforest,Brown,0.5
 66956,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,809,329,8096232901,62,1,Totambu,809.484375,-329.9921875,-28,Rainforest,Brown,0.5
 67424,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,787,370,7875637060,56,60,Totambu,787.4375,-370.53125,-77,Rainforest,Brown,0.5
 67778,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,861,330,8612633004,26,4,Totambu,861.203125,-330.96875,173,Rainforest,Brown,0.5
@@ -2035,8 +2033,8 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66303,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,877,347,877114347117,114,117,Totambu,877.890625,-347.0859375,167,Rainforest,Brown,0.5
 68113,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,862,386,86205386105,5,105,Totambu,862.0390625,-386.1796875,-110,Rainforest,Brown,0.5
 65287,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,936,380,9364538071,45,71,Totambu,936.3515625,-380.4453125,-73,Rainforest,Brown,0.5
-65254,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,770,356,77025356128,25,128,Totambu,770.1953125,-356,173,Rainforest,Brown,0.5
-66259,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,855,351,85509351128,9,128,Totambu,855.0703125,-351,-120,Rainforest,Brown,0.5
+65254,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,770,356,77025356128,25,128,Totambu,770.1953125,-356.0,173,Rainforest,Brown,0.5
+66259,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,855,351,85509351128,9,128,Totambu,855.0703125,-351.0,-120,Rainforest,Brown,0.5
 66860,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,788,321,78822321118,22,118,Totambu,788.171875,-321.078125,40,Rainforest,Brown,0.5
 67514,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,812,324,81212732442,127,42,Totambu,812.9921875,-324.671875,47,Rainforest,Brown,0.5
 67692,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_08,771,325,7715732521,57,21,Totambu,771.4453125,-325.8359375,-84,Rainforest,Brown,0.5
@@ -2080,7 +2078,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67796,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,931,342,9311034283,10,83,Totambu,931.078125,-342.3515625,63,Rainforest,Brown,0.5
 65219,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,928,361,92810136108,101,8,Totambu,928.7890625,-361.9375,-127,Rainforest,Brown,0.5
 66406,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,843,372,8437037202,70,2,Totambu,843.546875,-372.984375,51,Rainforest,Brown,0.5
-67234,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,767,362,76726362128,26,128,Totambu,767.203125,-362,130,Rainforest,Brown,0.5
+67234,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,767,362,76726362128,26,128,Totambu,767.203125,-362.0,130,Rainforest,Brown,0.5
 66428,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,735,340,7356034045,60,45,Totambu,735.46875,-340.6484375,-98,Rainforest,Brown,0.5
 66407,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,763,323,7634932382,49,82,Totambu,763.3828125,-323.359375,-72,Rainforest,Brown,0.5
 67719,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,733,359,73311335977,113,77,Totambu,733.8828125,-359.3984375,88,Rainforest,Brown,0.5
@@ -2155,7 +2153,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67608,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,868,341,86819341117,19,117,Totambu,868.1484375,-341.0859375,-18,Rainforest,Brown,0.5
 67907,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,929,381,9298838188,88,88,Totambu,929.6875,-381.3125,-103,Rainforest,Brown,0.5
 67931,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,770,365,7709236527,92,27,Totambu,770.71875,-365.7890625,-109,Rainforest,Brown,0.5
-65371,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,834,320,83453320128,53,128,Totambu,834.4140625,-320,72,Rainforest,Brown,0.5
+65371,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,834,320,83453320128,53,128,Totambu,834.4140625,-320.0,72,Rainforest,Brown,0.5
 66148,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,822,322,8225032237,50,37,Totambu,822.390625,-322.7109375,139,Rainforest,Brown,0.5
 67189,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,808,372,80855372115,55,115,Totambu,808.4296875,-372.1015625,-47,Rainforest,Brown,0.5
 67782,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,795,364,7954036424,40,24,Totambu,795.3125,-364.8125,116,Rainforest,Brown,0.5
@@ -2178,14 +2176,14 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66251,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,833,353,8333635368,36,68,Totambu,833.28125,-353.46875,-149,Rainforest,Brown,0.5
 66183,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,748,324,74897324105,97,105,Totambu,748.7578125,-324.1796875,-14,Rainforest,Brown,0.5
 65852,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,843,377,8432537758,25,58,Totambu,843.1953125,-377.546875,99,Rainforest,Brown,0.5
-66609,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,805,370,805128370128,128,128,Totambu,806,-370,-40,Rainforest,Brown,0.5
+66609,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,805,370,805128370128,128,128,Totambu,806.0,-370.0,-40,Rainforest,Brown,0.5
 65342,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,850,327,8505732708,57,8,Totambu,850.4453125,-327.9375,-55,Rainforest,Brown,0.5
 66038,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,759,368,7594536806,45,6,Totambu,759.3515625,-368.953125,-57,Rainforest,Brown,0.5
 65891,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,910,364,9109436452,94,52,Totambu,910.734375,-364.59375,-90,Rainforest,Brown,0.5
 67476,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,875,350,8757335066,73,66,Totambu,875.5703125,-350.484375,77,Rainforest,Brown,0.5
 67720,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,861,327,8613932774,39,74,Totambu,861.3046875,-327.421875,-117,Rainforest,Brown,0.5
 66811,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,796,374,7967437481,74,81,Totambu,796.578125,-374.3671875,86,Rainforest,Brown,0.5
-65879,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,754,347,75412834791,128,91,Totambu,755,-347.2890625,-168,Rainforest,Brown,0.5
+65879,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,754,347,75412834791,128,91,Totambu,755.0,-347.2890625,-168,Rainforest,Brown,0.5
 65110,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,749,350,74970350113,70,113,Totambu,749.546875,-350.1171875,157,Rainforest,Brown,0.5
 66701,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,727,358,72773358111,73,111,Totambu,727.5703125,-358.1328125,-63,Rainforest,Brown,0.5
 67351,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,920,365,9200436558,4,58,Totambu,920.03125,-365.546875,-168,Rainforest,Brown,0.5
@@ -2252,7 +2250,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 67928,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,819,338,81935338115,35,115,Totambu,819.2734375,-338.1015625,-6,Rainforest,Brown,0.5
 65594,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,768,354,7688335438,83,38,Totambu,768.6484375,-354.703125,-99,Rainforest,Brown,0.5
 66864,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,889,383,88936383105,36,105,Totambu,889.28125,-383.1796875,-110,Rainforest,Brown,0.5
-67506,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,918,353,91845353128,45,128,Totambu,918.3515625,-353,126,Rainforest,Brown,0.5
+67506,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,918,353,91845353128,45,128,Totambu,918.3515625,-353.0,126,Rainforest,Brown,0.5
 66759,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,868,324,868119324102,119,102,Totambu,868.9296875,-324.203125,-168,Rainforest,Brown,0.5
 66796,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,881,359,88111135947,111,47,Totambu,881.8671875,-359.6328125,151,Rainforest,Brown,0.5
 65321,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,743,357,74310735753,107,53,Totambu,743.8359375,-357.5859375,-166,Rainforest,Brown,0.5
@@ -2286,7 +2284,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65194,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,756,338,75645338103,45,103,Totambu,756.3515625,-338.1953125,71,Rainforest,Brown,0.5
 67965,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,767,332,7679033264,90,64,Totambu,767.703125,-332.5,90,Rainforest,Brown,0.5
 65359,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,860,383,8603438388,34,88,Totambu,860.265625,-383.3125,144,Rainforest,Brown,0.5
-66513,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,899,369,89960369128,60,128,Totambu,899.46875,-369,115,Rainforest,Brown,0.5
+66513,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,899,369,89960369128,60,128,Totambu,899.46875,-369.0,115,Rainforest,Brown,0.5
 67366,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,750,327,75099327109,99,109,Totambu,750.7734375,-327.1484375,39,Rainforest,Brown,0.5
 66882,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,764,353,76410935347,109,47,Totambu,764.8515625,-353.6328125,-95,Rainforest,Brown,0.5
 65454,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,829,368,82973368100,73,100,Totambu,829.5703125,-368.21875,-66,Rainforest,Brown,0.5
@@ -2388,7 +2386,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65866,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,851,355,851116355122,116,122,Totambu,851.90625,-355.046875,-131,Rainforest,Brown,0.5
 66645,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,794,368,794119368125,119,125,Totambu,794.9296875,-368.0234375,37,Rainforest,Brown,0.5
 67956,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,867,339,8677133934,71,34,Totambu,867.5546875,-339.734375,92,Rainforest,Brown,0.5
-65237,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,869,323,86970323128,70,128,Totambu,869.546875,-323,118,Rainforest,Brown,0.5
+65237,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,869,323,86970323128,70,128,Totambu,869.546875,-323.0,118,Rainforest,Brown,0.5
 66069,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,754,374,75481374101,81,101,Totambu,754.6328125,-374.2109375,-38,Rainforest,Brown,0.5
 66358,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,807,340,8070434049,4,49,Totambu,807.03125,-340.6171875,82,Rainforest,Brown,0.5
 65399,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,767,359,7671135988,11,88,Totambu,767.0859375,-359.3125,-119,Rainforest,Brown,0.5
@@ -2422,7 +2420,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 65631,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,833,369,8335836962,58,62,Totambu,833.453125,-369.515625,-24,Rainforest,Brown,0.5
 67866,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,908,331,9082433164,24,64,Totambu,908.1875,-331.5,-170,Rainforest,Brown,0.5
 66182,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,936,358,9366135846,61,46,Totambu,936.4765625,-358.640625,-96,Rainforest,Brown,0.5
-66845,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,808,351,80867351128,67,128,Totambu,808.5234375,-351,-154,Rainforest,Brown,0.5
+66845,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,808,351,80867351128,67,128,Totambu,808.5234375,-351.0,-154,Rainforest,Brown,0.5
 67477,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,849,337,84912033711,120,11,Totambu,849.9375,-337.9140625,178,Rainforest,Brown,0.5
 68066,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,853,347,8534734748,47,48,Totambu,853.3671875,-347.625,-129,Rainforest,Brown,0.5
 65786,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,891,361,89110436195,104,95,Totambu,891.8125,-361.2578125,163,Rainforest,Brown,0.5
@@ -2774,7 +2772,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 66417,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,878,382,87848382102,48,102,Totambu,878.375,-382.203125,-22,Rainforest,Brown,0.5
 67696,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,873,388,873126388112,126,112,Totambu,873.984375,-388.125,-40,Rainforest,Brown,0.5
 65803,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,873,376,8734937610,49,10,Totambu,873.3828125,-376.921875,0,Rainforest,Brown,0.5
-66053,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,936,388,93612838826,128,26,Totambu,937,-388.796875,62,Rainforest,Brown,0.5
+66053,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,936,388,93612838826,128,26,Totambu,937.0,-388.796875,62,Rainforest,Brown,0.5
 66717,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,911,335,9115933542,59,42,Totambu,911.4609375,-335.671875,-61,Rainforest,Brown,0.5
 65802,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,800,357,80011035717,110,17,Totambu,800.859375,-357.8671875,34,Rainforest,Brown,0.5
 68023,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,826,375,82681375106,81,106,Totambu,826.6328125,-375.171875,-116,Rainforest,Brown,0.5

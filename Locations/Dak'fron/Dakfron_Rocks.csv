@@ -83,7 +83,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45835,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,711,477,7119347798,93,98,Dak'fron,711.7265625,-477.234375,-17,Deep Desert,Brown,0.5
 46544,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,658,447,6588344777,83,77,Dak'fron,658.6484375,-447.3984375,-123,Deep Desert,Brown,0.5
 44993,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,685,460,6854246072,42,72,Dak'fron,685.328125,-460.4375,13,Deep Desert,Brown,0.5
-43816,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,565,471,56537471128,37,128,Dak'fron,565.2890625,-471,-127,Deep Desert,Brown,0.5
+43816,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,565,471,56537471128,37,128,Dak'fron,565.2890625,-471.0,-127,Deep Desert,Brown,0.5
 47120,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,528,465,5289446520,94,20,Dak'fron,528.734375,-465.84375,-159,Deep Desert,Brown,0.5
 44973,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,499,478,49977478125,77,125,Dak'fron,499.6015625,-478.0234375,144,Deep Desert,Brown,0.5
 45342,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,704,478,70412147896,121,96,Dak'fron,704.9453125,-478.25,-122,Deep Desert,Brown,0.5
@@ -164,7 +164,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47557,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,713,478,7136447841,64,41,Dak'fron,713.5,-478.6796875,151,Deep Desert,Brown,0.5
 43570,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,503,473,50387473108,87,108,Dak'fron,503.6796875,-473.15625,3,Deep Desert,Brown,0.5
 47251,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,624,475,6243447524,34,24,Dak'fron,624.265625,-475.8125,97,Deep Desert,Brown,0.5
-45306,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,540,463,54012846362,128,62,Dak'fron,541,-463.515625,53,Deep Desert,Brown,0.5
+45306,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,540,463,54012846362,128,62,Dak'fron,541.0,-463.515625,53,Deep Desert,Brown,0.5
 47544,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,597,439,59712443966,124,66,Dak'fron,597.96875,-439.484375,38,Deep Desert,Brown,0.5
 47545,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,622,491,62211049115,110,15,Dak'fron,622.859375,-491.8828125,28,Deep Desert,Brown,0.5
 45056,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,574,450,57434450112,34,112,Dak'fron,574.265625,-450.125,161,Deep Desert,Brown,0.5
@@ -309,7 +309,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44244,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,535,454,53588454126,88,126,Dak'fron,535.6875,-454.015625,-124,Desert,Brown,0.5
 46860,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,520,495,5207349507,73,7,Dak'fron,520.5703125,-495.9453125,174,Deep Desert,Brown,0.5
 44532,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,650,456,6507045673,70,73,Dak'fron,650.546875,-456.4296875,13,Deep Desert,Brown,0.5
-45774,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,580,461,58021461128,21,128,Dak'fron,580.1640625,-461,-39,Deep Desert,Brown,0.5
+45774,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,580,461,58021461128,21,128,Dak'fron,580.1640625,-461.0,-39,Deep Desert,Brown,0.5
 47321,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,683,459,68310145934,101,34,Dak'fron,683.7890625,-459.734375,72,Deep Desert,Brown,0.5
 43664,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,637,493,6377949374,79,74,Dak'fron,637.6171875,-493.421875,46,Deep Desert,Brown,0.5
 43661,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,600,452,60012245263,122,63,Dak'fron,600.953125,-452.5078125,176,Deep Desert,Brown,0.5
@@ -367,12 +367,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47271,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,658,479,65831479109,31,109,Dak'fron,658.2421875,-479.1484375,162,Deep Desert,Brown,0.5
 46223,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,701,499,70188499114,88,114,Dak'fron,701.6875,-499.109375,107,Deep Desert,Brown,0.5
 47517,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,607,499,60768499120,68,120,Dak'fron,607.53125,-499.0625,44,Deep Desert,Brown,0.5
-46380,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,695,467,69541467128,41,128,Dak'fron,695.3203125,-467,107,,Brown,0.5
+46380,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,695,467,69541467128,41,128,Dak'fron,695.3203125,-467.0,107,,Brown,0.5
 45638,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,511,478,5112847890,28,90,Dak'fron,511.21875,-478.296875,5,Deep Desert,Brown,0.5
 47037,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,714,494,71496494118,96,118,Dak'fron,714.75,-494.078125,154,Deep Desert,Brown,0.5
 45725,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,505,461,50510246153,102,53,Dak'fron,505.796875,-461.5859375,-103,Desert,Brown,0.5
 45486,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,623,439,6231843903,18,3,Dak'fron,623.140625,-439.9765625,69,Deep Desert,Brown,0.5
-46867,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,627,434,627128434109,128,109,Dak'fron,628,-434.1484375,174,Deep Desert,Brown,0.5
+46867,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,627,434,627128434109,128,109,Dak'fron,628.0,-434.1484375,174,Deep Desert,Brown,0.5
 43614,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,506,473,50601473115,1,115,Dak'fron,506.0078125,-473.1015625,22,Deep Desert,Brown,0.5
 43849,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,637,493,6373649346,36,46,Dak'fron,637.28125,-493.640625,19,Deep Desert,Brown,0.5
 46977,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,592,488,5926648824,66,24,Dak'fron,592.515625,-488.8125,120,Deep Desert,Brown,0.5
@@ -412,7 +412,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44708,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,619,468,6199046820,90,20,Dak'fron,619.703125,-468.84375,-173,Deep Desert,Brown,0.5
 45751,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,662,460,6628746022,87,22,Dak'fron,662.6796875,-460.828125,72,Deep Desert,Brown,0.5
 46126,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,499,485,4993648507,36,7,Dak'fron,499.28125,-485.9453125,-27,Deep Desert,Brown,0.5
-46566,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,679,490,679116490128,116,128,Dak'fron,679.90625,-490,165,Deep Desert,Brown,0.5
+46566,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,679,490,679116490128,116,128,Dak'fron,679.90625,-490.0,165,Deep Desert,Brown,0.5
 44347,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,575,482,5752248242,22,42,Dak'fron,575.171875,-482.671875,36,Deep Desert,Brown,0.5
 47289,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,565,495,5658649538,86,38,Dak'fron,565.671875,-495.703125,-171,Deep Desert,Brown,0.5
 44396,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,649,476,6496747691,67,91,Dak'fron,649.5234375,-476.2890625,-47,Deep Desert,Brown,0.5
@@ -473,7 +473,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44375,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,671,495,6716449504,64,4,Dak'fron,671.5,-495.96875,-98,Deep Desert,Brown,0.5
 47293,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,598,489,59810148950,101,50,Dak'fron,598.7890625,-489.609375,167,Deep Desert,Brown,0.5
 44939,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,610,492,6107649297,76,97,Dak'fron,610.59375,-492.2421875,66,Deep Desert,Brown,0.5
-45363,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,607,498,60773498128,73,128,Dak'fron,607.5703125,-498,-94,Deep Desert,Brown,0.5
+45363,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,607,498,60773498128,73,128,Dak'fron,607.5703125,-498.0,-94,Deep Desert,Brown,0.5
 46830,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,533,488,53312248824,122,24,Dak'fron,533.953125,-488.8125,-95,Deep Desert,Brown,0.5
 46019,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,547,457,5473545754,35,54,Dak'fron,547.2734375,-457.578125,56,Deep Desert,Brown,0.5
 46543,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,629,479,62910347923,103,23,Dak'fron,629.8046875,-479.8203125,33,Deep Desert,Brown,0.5
@@ -556,7 +556,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46296,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,669,451,66912345189,123,89,Dak'fron,669.9609375,-451.3046875,99,Deep Desert,Brown,0.5
 44278,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,657,461,6571446111,14,11,Dak'fron,657.109375,-461.9140625,-15,Deep Desert,Brown,0.5
 47577,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,674,497,67449497114,49,114,Dak'fron,674.3828125,-497.109375,-16,Deep Desert,Brown,0.5
-45442,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,608,467,60849467128,49,128,Dak'fron,608.3828125,-467,25,Deep Desert,Brown,0.5
+45442,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,608,467,60849467128,49,128,Dak'fron,608.3828125,-467.0,25,Deep Desert,Brown,0.5
 44316,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,696,469,69612646960,126,60,Dak'fron,696.984375,-469.53125,-60,Deep Desert,Brown,0.5
 44124,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,623,457,62310445702,104,2,Dak'fron,623.8125,-457.984375,-81,Deep Desert,Brown,0.5
 44917,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,506,486,5068048699,80,99,Dak'fron,506.625,-486.2265625,-151,Deep Desert,Brown,0.5
@@ -628,7 +628,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44106,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,602,456,6022245652,22,52,Dak'fron,602.171875,-456.59375,-138,Deep Desert,Brown,0.5
 46269,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,640,479,6405747996,57,96,Dak'fron,640.4453125,-479.25,136,Deep Desert,Brown,0.5
 47140,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,649,446,6496244613,62,13,Dak'fron,649.484375,-446.8984375,-77,Deep Desert,Brown,0.5
-44538,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,702,474,70212847495,128,95,Dak'fron,703,-474.2578125,41,Deep Desert,Brown,0.5
+44538,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,702,474,70212847495,128,95,Dak'fron,703.0,-474.2578125,41,Deep Desert,Brown,0.5
 44028,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,664,446,66463446101,63,101,Dak'fron,664.4921875,-446.2109375,-88,Deep Desert,Brown,0.5
 47575,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,478,483,4785048336,50,36,Dak'fron,478.390625,-483.71875,-60,Desert,Brown,0.5
 46540,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,624,453,6243945364,39,64,Dak'fron,624.3046875,-453.5,42,Deep Desert,Brown,0.5
@@ -672,7 +672,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44223,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,583,462,5830646278,6,78,Dak'fron,583.046875,-462.390625,-156,Deep Desert,Brown,0.5
 44484,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,677,462,67773462110,73,110,Dak'fron,677.5703125,-462.140625,-95,Deep Desert,Brown,0.5
 45554,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,615,483,6154948390,49,90,Dak'fron,615.3828125,-483.296875,-101,Deep Desert,Brown,0.5
-47000,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,553,487,553115487128,115,128,Dak'fron,553.8984375,-487,-106,Deep Desert,Brown,0.5
+47000,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,553,487,553115487128,115,128,Dak'fron,553.8984375,-487.0,-106,Deep Desert,Brown,0.5
 43650,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,668,459,668115459124,115,124,Dak'fron,668.8984375,-459.03125,22,Deep Desert,Brown,0.5
 47286,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,520,464,52010646427,106,27,Dak'fron,520.828125,-464.7890625,-154,Deep Desert,Brown,0.5
 46405,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,527,464,5278146408,81,8,Dak'fron,527.6328125,-464.9375,1,Deep Desert,Brown,0.5
@@ -717,7 +717,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45173,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,680,457,6802545790,25,90,Dak'fron,680.1953125,-457.296875,-86,Deep Desert,Brown,0.5
 44274,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,644,455,64412045559,120,59,Dak'fron,644.9375,-455.5390625,100,Deep Desert,Brown,0.5
 44575,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,593,490,5935749099,57,99,Dak'fron,593.4453125,-490.2265625,-61,Deep Desert,Brown,0.5
-45764,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,618,434,618124434128,124,128,Dak'fron,618.96875,-434,178,Deep Desert,Brown,0.5
+45764,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,618,434,618124434128,124,128,Dak'fron,618.96875,-434.0,178,Deep Desert,Brown,0.5
 45230,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,528,498,5282049825,20,25,Dak'fron,528.15625,-498.8046875,-43,Deep Desert,Brown,0.5
 46770,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,572,453,57284453113,84,113,Dak'fron,572.65625,-453.1171875,-24,Deep Desert,Brown,0.5
 44101,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,716,482,7165748221,57,21,Dak'fron,716.4453125,-482.8359375,-9,Deep Desert,Brown,0.5
@@ -728,7 +728,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44961,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,645,447,6450744707,7,7,Dak'fron,645.0546875,-447.9453125,73,Deep Desert,Brown,0.5
 44071,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,579,461,57912246137,122,37,Dak'fron,579.953125,-461.7109375,-82,Deep Desert,Brown,0.5
 44189,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,657,463,65712646338,126,38,Dak'fron,657.984375,-463.703125,170,Deep Desert,Brown,0.5
-46710,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,542,484,54212848459,128,59,Dak'fron,543,-484.5390625,104,Deep Desert,Brown,0.5
+46710,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,542,484,54212848459,128,59,Dak'fron,543.0,-484.5390625,104,Deep Desert,Brown,0.5
 44111,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,659,477,6592247701,22,1,Dak'fron,659.171875,-477.9921875,19,Deep Desert,Brown,0.5
 43839,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,535,466,5355846611,58,11,Dak'fron,535.453125,-466.9140625,142,Deep Desert,Brown,0.5
 47318,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,684,472,68412472104,12,104,Dak'fron,684.09375,-472.1875,-148,Deep Desert,Brown,0.5
@@ -791,7 +791,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47124,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,611,459,61112645921,126,21,Dak'fron,611.984375,-459.8359375,123,Deep Desert,Brown,0.5
 44227,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,509,488,5090248860,2,60,Dak'fron,509.015625,-488.53125,1,Deep Desert,Brown,0.5
 46742,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,489,478,4895147801,51,1,Dak'fron,489.3984375,-478.9921875,69,Deep Desert,Brown,0.5
-46203,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,539,472,53912847228,128,28,Dak'fron,540,-472.78125,133,Deep Desert,Brown,0.5
+46203,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,539,472,53912847228,128,28,Dak'fron,540.0,-472.78125,133,Deep Desert,Brown,0.5
 46599,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,495,494,4951649404,16,4,Dak'fron,495.125,-494.96875,-146,Deep Desert,Brown,0.5
 46054,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,566,497,56610949750,109,50,Dak'fron,566.8515625,-497.609375,156,Deep Desert,Brown,0.5
 46408,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,590,448,59012344822,123,22,Dak'fron,590.9609375,-448.828125,-27,Deep Desert,Brown,0.5
@@ -871,10 +871,10 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44845,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,562,485,56210548569,105,69,Dak'fron,562.8203125,-485.4609375,73,Deep Desert,Brown,0.5
 46547,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,467,495,4673049551,30,51,Dak'fron,467.234375,-495.6015625,153,Deep Desert,Brown,0.5
 44673,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,670,462,6707946202,79,2,Dak'fron,670.6171875,-462.984375,66,Deep Desert,Brown,0.5
-44348,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,689,468,68912846837,128,37,Dak'fron,690,-468.7109375,-9,Deep Desert,Brown,0.5
+44348,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,689,468,68912846837,128,37,Dak'fron,690.0,-468.7109375,-9,Deep Desert,Brown,0.5
 45837,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,536,496,53612649636,126,36,Dak'fron,536.984375,-496.71875,158,Deep Desert,Brown,0.5
 46631,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,562,455,5620745549,7,49,Dak'fron,562.0546875,-455.6171875,46,Deep Desert,Brown,0.5
-44346,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,562,486,56270486128,70,128,Dak'fron,562.546875,-486,-31,Deep Desert,Brown,0.5
+44346,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,562,486,56270486128,70,128,Dak'fron,562.546875,-486.0,-31,Deep Desert,Brown,0.5
 45655,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,681,465,68186465117,86,117,Dak'fron,681.671875,-465.0859375,-142,Deep Desert,Brown,0.5
 47422,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,688,491,6882049184,20,84,Dak'fron,688.15625,-491.34375,-124,Deep Desert,Brown,0.5
 44693,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,717,481,71777481124,77,124,Dak'fron,717.6015625,-481.03125,-31,Deep Desert,Brown,0.5
@@ -893,10 +893,10 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46657,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,652,495,6523749557,37,57,Dak'fron,652.2890625,-495.5546875,160,Deep Desert,Brown,0.5
 45214,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,642,495,6420249528,2,28,Dak'fron,642.015625,-495.78125,-55,Deep Desert,Brown,0.5
 46062,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,497,487,4973648745,36,45,Dak'fron,497.28125,-487.6484375,-49,Deep Desert,Brown,0.5
-43929,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,534,466,53439466128,39,128,Dak'fron,534.3046875,-466,146,Deep Desert,Brown,0.5
+43929,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,534,466,53439466128,39,128,Dak'fron,534.3046875,-466.0,146,Deep Desert,Brown,0.5
 45893,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,543,451,5432345168,23,68,Dak'fron,543.1796875,-451.46875,-45,Deep Desert,Brown,0.5
 44791,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,619,440,6190944064,9,64,Dak'fron,619.0703125,-440.5,133,Deep Desert,Brown,0.5
-44518,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,675,470,67524470128,24,128,Dak'fron,675.1875,-470,-17,Deep Desert,Brown,0.5
+44518,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,675,470,67524470128,24,128,Dak'fron,675.1875,-470.0,-17,Deep Desert,Brown,0.5
 44476,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,564,492,5649949280,99,80,Dak'fron,564.7734375,-492.375,-70,Deep Desert,Brown,0.5
 44659,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,668,476,6689247604,92,4,Dak'fron,668.71875,-476.96875,140,Deep Desert,Brown,0.5
 45914,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,563,475,56395475127,95,127,Dak'fron,563.7421875,-475.0078125,33,Deep Desert,Brown,0.5
@@ -959,7 +959,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45298,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,569,488,5694048866,40,66,Dak'fron,569.3125,-488.484375,113,Deep Desert,Brown,0.5
 46964,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,568,441,5687844178,78,78,Dak'fron,568.609375,-441.390625,96,Desert,Brown,0.5
 45507,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,664,485,6646648579,66,79,Dak'fron,664.515625,-485.3828125,145,Deep Desert,Brown,0.5
-46383,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,683,475,68312847511,128,11,Dak'fron,684,-475.9140625,166,Deep Desert,Brown,0.5
+46383,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,683,475,68312847511,128,11,Dak'fron,684.0,-475.9140625,166,Deep Desert,Brown,0.5
 43961,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,522,458,52210745889,107,89,Dak'fron,522.8359375,-458.3046875,-86,Desert,Brown,0.5
 45482,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,630,495,63010249588,102,88,Dak'fron,630.796875,-495.3125,-60,Deep Desert,Brown,0.5
 47536,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,643,485,64367485107,67,107,Dak'fron,643.5234375,-485.1640625,36,Deep Desert,Brown,0.5
@@ -1043,7 +1043,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44557,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,633,466,63312546649,125,49,Dak'fron,633.9765625,-466.6171875,134,Deep Desert,Brown,0.5
 44756,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,565,464,5657646480,76,80,Dak'fron,565.59375,-464.375,30,Deep Desert,Brown,0.5
 47547,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,534,459,53435459115,35,115,Dak'fron,534.2734375,-459.1015625,-20,Deep Desert,Brown,0.5
-46748,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,621,429,62112842910,128,10,Dak'fron,622,-429.921875,2,Desert,Brown,0.5
+46748,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,621,429,62112842910,128,10,Dak'fron,622.0,-429.921875,2,Desert,Brown,0.5
 47069,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,597,476,5974547611,45,11,Dak'fron,597.3515625,-476.9140625,136,Deep Desert,Brown,0.5
 46602,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,597,442,5973444273,34,73,Dak'fron,597.265625,-442.4296875,-150,Deep Desert,Brown,0.5
 46460,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,707,483,7073048337,30,37,Dak'fron,707.234375,-483.7109375,78,Deep Desert,Brown,0.5
@@ -1198,7 +1198,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45726,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,681,490,6814549081,45,81,Dak'fron,681.3515625,-490.3671875,33,Deep Desert,Brown,0.5
 45016,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,663,482,66311048262,110,62,Dak'fron,663.859375,-482.515625,-67,Deep Desert,Brown,0.5
 46878,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,648,473,6483647394,36,94,Dak'fron,648.28125,-473.265625,-105,Deep Desert,Brown,0.5
-47246,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,637,498,63712849852,128,52,Dak'fron,638,-498.59375,34,Deep Desert,Brown,0.5
+47246,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,637,498,63712849852,128,52,Dak'fron,638.0,-498.59375,34,Deep Desert,Brown,0.5
 45303,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,519,490,51943490112,43,112,Dak'fron,519.3359375,-490.125,-88,Deep Desert,Brown,0.5
 45500,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,484,486,4845948610,59,10,Dak'fron,484.4609375,-486.921875,-141,Deep Desert,Brown,0.5
 44850,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,499,477,49992477124,92,124,Dak'fron,499.71875,-477.03125,48,Deep Desert,Brown,0.5
@@ -1251,7 +1251,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47237,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,588,455,5887645532,76,32,Dak'fron,588.59375,-455.75,-73,Deep Desert,Brown,0.5
 46945,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,668,483,6683048385,30,85,Dak'fron,668.234375,-483.3359375,-48,Deep Desert,Brown,0.5
 46497,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,539,495,53912549539,125,39,Dak'fron,539.9765625,-495.6953125,-168,Deep Desert,Brown,0.5
-45273,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,621,455,62151455128,51,128,Dak'fron,621.3984375,-455,94,Deep Desert,Brown,0.5
+45273,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,621,455,62151455128,51,128,Dak'fron,621.3984375,-455.0,94,Deep Desert,Brown,0.5
 45120,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,586,498,58630498124,30,124,Dak'fron,586.234375,-498.03125,-14,Deep Desert,Brown,0.5
 45244,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,565,455,5655845596,58,96,Dak'fron,565.453125,-455.25,-154,Deep Desert,Brown,0.5
 44456,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,660,455,6605245596,52,96,Dak'fron,660.40625,-455.25,-26,Deep Desert,Brown,0.5
@@ -1315,14 +1315,14 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47362,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,680,483,6808248364,82,64,Dak'fron,680.640625,-483.5,9,Deep Desert,Brown,0.5
 45576,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,610,452,6104545292,45,92,Dak'fron,610.3515625,-452.28125,91,Deep Desert,Brown,0.5
 47403,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,682,495,6828049576,80,76,Dak'fron,682.625,-495.40625,21,Deep Desert,Brown,0.5
-43704,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,548,474,54812847473,128,73,Dak'fron,549,-474.4296875,-39,Deep Desert,Brown,0.5
+43704,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,548,474,54812847473,128,73,Dak'fron,549.0,-474.4296875,-39,Deep Desert,Brown,0.5
 44638,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,598,465,59851465101,51,101,Dak'fron,598.3984375,-465.2109375,-19,Deep Desert,Brown,0.5
 46253,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,619,457,61918457103,18,103,Dak'fron,619.140625,-457.1953125,92,Deep Desert,Brown,0.5
 46505,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,660,482,66011748269,117,69,Dak'fron,660.9140625,-482.4609375,-156,Deep Desert,Brown,0.5
 47013,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,563,463,56308463112,8,112,Dak'fron,563.0625,-463.125,74,Deep Desert,Brown,0.5
 44179,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,506,483,5069648311,96,11,Dak'fron,506.75,-483.9140625,-161,Deep Desert,Brown,0.5
 46233,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,661,477,6612747794,27,94,Dak'fron,661.2109375,-477.265625,136,Deep Desert,Brown,0.5
-46874,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,606,439,60674439128,74,128,Dak'fron,606.578125,-439,-110,Deep Desert,Brown,0.5
+46874,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,606,439,60674439128,74,128,Dak'fron,606.578125,-439.0,-110,Deep Desert,Brown,0.5
 47367,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,487,482,48705482103,5,103,Dak'fron,487.0390625,-482.1953125,77,Deep Desert,Brown,0.5
 45122,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,651,483,6510548399,5,99,Dak'fron,651.0390625,-483.2265625,97,Deep Desert,Brown,0.5
 46618,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,705,491,705103491122,103,122,Dak'fron,705.8046875,-491.046875,51,Deep Desert,Brown,0.5
@@ -1334,7 +1334,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47407,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,569,454,5695545411,55,11,Dak'fron,569.4296875,-454.9140625,135,Deep Desert,Brown,0.5
 44570,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,572,478,57211947810,119,10,Dak'fron,572.9296875,-478.921875,108,Deep Desert,Brown,0.5
 46108,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,576,479,57611147936,111,36,Dak'fron,576.8671875,-479.71875,-134,Deep Desert,Brown,0.5
-47415,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,537,490,53770490128,70,128,Dak'fron,537.546875,-490,-74,Deep Desert,Brown,0.5
+47415,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,537,490,53770490128,70,128,Dak'fron,537.546875,-490.0,-74,Deep Desert,Brown,0.5
 45073,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,541,473,5412047391,20,91,Dak'fron,541.15625,-473.2890625,-121,Deep Desert,Brown,0.5
 43969,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,645,474,6455647490,56,90,Dak'fron,645.4375,-474.296875,-20,Deep Desert,Brown,0.5
 45426,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,617,492,6173749262,37,62,Dak'fron,617.2890625,-492.515625,78,Deep Desert,Brown,0.5
@@ -1420,7 +1420,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46106,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,711,491,71112449193,124,93,Dak'fron,711.96875,-491.2734375,78,Deep Desert,Brown,0.5
 44536,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,677,456,67711045690,110,90,Dak'fron,677.859375,-456.296875,123,Deep Desert,Brown,0.5
 47296,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,664,489,6647548950,75,50,Dak'fron,664.5859375,-489.609375,-169,Deep Desert,Brown,0.5
-46745,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,505,490,505123490128,123,128,Dak'fron,505.9609375,-490,123,Deep Desert,Brown,0.5
+46745,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,505,490,505123490128,123,128,Dak'fron,505.9609375,-490.0,123,Deep Desert,Brown,0.5
 46931,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,558,494,55890494127,90,127,Dak'fron,558.703125,-494.0078125,-71,Deep Desert,Brown,0.5
 45857,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,678,466,6787146647,71,47,Dak'fron,678.5546875,-466.6328125,-83,Deep Desert,Brown,0.5
 46541,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,684,478,68412347883,123,83,Dak'fron,684.9609375,-478.3515625,-161,Deep Desert,Brown,0.5
@@ -1430,7 +1430,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46678,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,485,481,4851548153,15,53,Dak'fron,485.1171875,-481.5859375,-16,Desert,Brown,0.5
 47546,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,621,436,6218243696,82,96,Dak'fron,621.640625,-436.25,12,Deep Desert,Brown,0.5
 47499,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,653,453,65310945386,109,86,Dak'fron,653.8515625,-453.328125,140,Deep Desert,Brown,0.5
-45677,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,669,495,66912849553,128,53,Dak'fron,670,-495.5859375,12,Deep Desert,Brown,0.5
+45677,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,669,495,66912849553,128,53,Dak'fron,670.0,-495.5859375,12,Deep Desert,Brown,0.5
 46916,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,666,470,6660647068,6,68,Dak'fron,666.046875,-470.46875,-123,Deep Desert,Brown,0.5
 45831,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,594,496,59480496101,80,101,Dak'fron,594.625,-496.2109375,-172,Deep Desert,Brown,0.5
 45721,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,612,480,6127748055,77,55,Dak'fron,612.6015625,-480.5703125,-22,Deep Desert,Brown,0.5
@@ -1531,7 +1531,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46980,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,566,456,5661445610,14,10,Dak'fron,566.109375,-456.921875,103,Deep Desert,Brown,0.5
 47307,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,723,498,7233949832,39,32,Dak'fron,723.3046875,-498.75,-114,Deep Desert,Brown,0.5
 45790,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,603,489,6034848931,48,31,Dak'fron,603.375,-489.7578125,176,Deep Desert,Brown,0.5
-44481,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,662,445,66212844547,128,47,Dak'fron,663,-445.6328125,-168,Deep Desert,Brown,0.5
+44481,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,662,445,66212844547,128,47,Dak'fron,663.0,-445.6328125,-168,Deep Desert,Brown,0.5
 44930,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,459,496,45968496125,68,125,Dak'fron,459.53125,-496.0234375,-101,Desert,Brown,0.5
 45913,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,572,440,5727944035,79,35,Dak'fron,572.6171875,-440.7265625,-40,Desert,Brown,0.5
 46191,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,556,498,55610349816,103,16,Dak'fron,556.8046875,-498.875,-141,Deep Desert,Brown,0.5
@@ -1578,7 +1578,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47392,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,525,480,5254248035,42,35,Dak'fron,525.328125,-480.7265625,-5,Deep Desert,Brown,0.5
 46089,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,616,466,6167246661,72,61,Dak'fron,616.5625,-466.5234375,-88,Deep Desert,Brown,0.5
 44098,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,538,476,53879476113,79,113,Dak'fron,538.6171875,-476.1171875,65,Deep Desert,Brown,0.5
-45441,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,648,471,648127471128,127,128,Dak'fron,648.9921875,-471,-154,Deep Desert,Brown,0.5
+45441,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,648,471,648127471128,127,128,Dak'fron,648.9921875,-471.0,-154,Deep Desert,Brown,0.5
 46471,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,591,492,5910949244,9,44,Dak'fron,591.0703125,-492.65625,169,Deep Desert,Brown,0.5
 45961,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,678,475,6787947585,79,85,Dak'fron,678.6171875,-475.3359375,122,Deep Desert,Brown,0.5
 46327,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,580,468,58079468109,79,109,Dak'fron,580.6171875,-468.1484375,97,Deep Desert,Brown,0.5
@@ -1605,7 +1605,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46444,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,671,487,6711748782,17,82,Dak'fron,671.1328125,-487.359375,73,Deep Desert,Brown,0.5
 45334,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,663,497,6636749743,67,43,Dak'fron,663.5234375,-497.6640625,63,Deep Desert,Brown,0.5
 45355,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,665,488,6658748847,87,47,Dak'fron,665.6796875,-488.6328125,176,Deep Desert,Brown,0.5
-45944,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,636,442,63650442128,50,128,Dak'fron,636.390625,-442,-48,Deep Desert,Brown,0.5
+45944,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,636,442,63650442128,50,128,Dak'fron,636.390625,-442.0,-48,Deep Desert,Brown,0.5
 46366,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,520,456,5204145675,41,75,Dak'fron,520.3203125,-456.4140625,93,Desert,Brown,0.5
 47284,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,679,460,67971460118,71,118,Dak'fron,679.5546875,-460.078125,116,Deep Desert,Brown,0.5
 47082,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,622,439,6223843986,38,86,Dak'fron,622.296875,-439.328125,-54,Deep Desert,Brown,0.5
@@ -1655,7 +1655,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45553,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,635,449,635103449101,103,101,Dak'fron,635.8046875,-449.2109375,81,Deep Desert,Brown,0.5
 45155,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,590,488,5903848844,38,44,Dak'fron,590.296875,-488.65625,69,Deep Desert,Brown,0.5
 47144,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,504,487,5042148719,21,19,Dak'fron,504.1640625,-487.8515625,42,Deep Desert,Brown,0.5
-44832,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,626,460,62653460128,53,128,Dak'fron,626.4140625,-460,72,Deep Desert,Brown,0.5
+44832,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,626,460,62653460128,53,128,Dak'fron,626.4140625,-460.0,72,Deep Desert,Brown,0.5
 47085,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,534,487,5342648752,26,52,Dak'fron,534.203125,-487.59375,37,Deep Desert,Brown,0.5
 47341,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,620,453,6206345377,63,77,Dak'fron,620.4921875,-453.3984375,144,Deep Desert,Brown,0.5
 44817,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,504,473,5047847390,78,90,Dak'fron,504.609375,-473.296875,90,Deep Desert,Brown,0.5
@@ -1773,7 +1773,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46038,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,624,480,6241848081,18,81,Dak'fron,624.140625,-480.3671875,32,Deep Desert,Brown,0.5
 43566,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,623,430,6239543041,95,41,Dak'fron,623.7421875,-430.6796875,-174,Desert,Brown,0.5
 44722,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,524,493,5248949317,89,17,Dak'fron,524.6953125,-493.8671875,18,Deep Desert,Brown,0.5
-47156,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,637,470,63712847087,128,87,Dak'fron,638,-470.3203125,-8,Deep Desert,Brown,0.5
+47156,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,637,470,63712847087,128,87,Dak'fron,638.0,-470.3203125,-8,Deep Desert,Brown,0.5
 46320,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,703,471,7033547168,35,68,Dak'fron,703.2734375,-471.46875,110,Deep Desert,Brown,0.5
 46635,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,605,444,60569444126,69,126,Dak'fron,605.5390625,-444.015625,109,Deep Desert,Brown,0.5
 45484,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,604,480,604124480118,124,118,Dak'fron,604.96875,-480.078125,10,Deep Desert,Brown,0.5
@@ -1782,7 +1782,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45684,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,574,460,57479460120,79,120,Dak'fron,574.6171875,-460.0625,107,Deep Desert,Brown,0.5
 43732,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,571,487,5713648772,36,72,Dak'fron,571.28125,-487.4375,112,Deep Desert,Brown,0.5
 44972,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,668,480,6685248060,52,60,Dak'fron,668.40625,-480.53125,41,Deep Desert,Brown,0.5
-44497,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,621,469,62112846930,128,30,Dak'fron,622,-469.765625,57,Deep Desert,Brown,0.5
+44497,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,621,469,62112846930,128,30,Dak'fron,622.0,-469.765625,57,Deep Desert,Brown,0.5
 45405,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,625,492,6253349255,33,55,Dak'fron,625.2578125,-492.5703125,125,Deep Desert,Brown,0.5
 45928,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,556,480,5565248087,52,87,Dak'fron,556.40625,-480.3203125,18,Deep Desert,Brown,0.5
 43850,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,667,467,66705467104,5,104,Dak'fron,667.0390625,-467.1875,30,Deep Desert,Brown,0.5
@@ -1828,7 +1828,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46705,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,672,452,6721445281,14,81,Dak'fron,672.109375,-452.3671875,42,Deep Desert,Brown,0.5
 47182,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,550,488,5505148837,51,37,Dak'fron,550.3984375,-488.7109375,-19,Deep Desert,Brown,0.5
 46583,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,642,484,6423448444,34,44,Dak'fron,642.265625,-484.65625,-116,Deep Desert,Brown,0.5
-44934,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,690,492,69012849202,128,2,Dak'fron,691,-492.984375,75,Deep Desert,Brown,0.5
+44934,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,690,492,69012849202,128,2,Dak'fron,691.0,-492.984375,75,Deep Desert,Brown,0.5
 46364,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,663,448,6636044861,60,61,Dak'fron,663.46875,-448.5234375,45,Deep Desert,Brown,0.5
 45174,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,595,471,59511347156,113,56,Dak'fron,595.8828125,-471.5625,66,Deep Desert,Brown,0.5
 44537,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,567,473,56786473116,86,116,Dak'fron,567.671875,-473.09375,-13,Deep Desert,Brown,0.5
@@ -1915,7 +1915,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 43636,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,537,477,5373947789,39,89,Dak'fron,537.3046875,-477.3046875,-53,Deep Desert,Brown,0.5
 44140,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,575,454,575101454104,101,104,Dak'fron,575.7890625,-454.1875,-96,Deep Desert,Brown,0.5
 46237,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,599,463,59936463117,36,117,Dak'fron,599.28125,-463.0859375,84,Deep Desert,Brown,0.5
-45548,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,570,450,570111450128,111,128,Dak'fron,570.8671875,-450,131,Deep Desert,Brown,0.5
+45548,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,570,450,570111450128,111,128,Dak'fron,570.8671875,-450.0,131,Deep Desert,Brown,0.5
 46958,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,606,443,6065344356,53,56,Dak'fron,606.4140625,-443.5625,127,Deep Desert,Brown,0.5
 45078,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,580,477,58010747780,107,80,Dak'fron,580.8359375,-477.375,-53,Deep Desert,Brown,0.5
 45129,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,501,471,5013747132,37,32,Dak'fron,501.2890625,-471.75,156,Deep Desert,Brown,0.5
@@ -1930,13 +1930,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45814,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,532,451,53211245129,112,29,Dak'fron,532.875,-451.7734375,100,Desert,Brown,0.5
 45925,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,686,464,6864546438,45,38,Dak'fron,686.3515625,-464.703125,32,Deep Desert,Brown,0.5
 47434,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,595,458,5957345804,73,4,Dak'fron,595.5703125,-458.96875,118,Deep Desert,Brown,0.5
-47153,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,652,495,65252495128,52,128,Dak'fron,652.40625,-495,-173,Deep Desert,Brown,0.5
+47153,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,652,495,65252495128,52,128,Dak'fron,652.40625,-495.0,-173,Deep Desert,Brown,0.5
 44342,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,574,450,5748345045,83,45,Dak'fron,574.6484375,-450.6484375,174,Deep Desert,Brown,0.5
 45265,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,678,471,6785447164,54,64,Dak'fron,678.421875,-471.5,33,Deep Desert,Brown,0.5
 44822,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,609,442,6098944231,89,31,Dak'fron,609.6953125,-442.7578125,-63,Deep Desert,Brown,0.5
 46129,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,684,470,6844847085,48,85,Dak'fron,684.375,-470.3359375,-95,Deep Desert,Brown,0.5
 45544,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,535,466,5359246605,92,5,Dak'fron,535.71875,-466.9609375,-91,Deep Desert,Brown,0.5
-44097,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,603,497,60312849749,128,49,Dak'fron,604,-497.6171875,-6,Deep Desert,Brown,0.5
+44097,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,603,497,60312849749,128,49,Dak'fron,604.0,-497.6171875,-6,Deep Desert,Brown,0.5
 44685,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,664,444,6644544486,45,86,Dak'fron,664.3515625,-444.328125,98,Deep Desert,Brown,0.5
 44521,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,654,465,6546046583,60,83,Dak'fron,654.46875,-465.3515625,-135,Deep Desert,Brown,0.5
 46995,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,603,447,6037244754,72,54,Dak'fron,603.5625,-447.578125,146,Deep Desert,Brown,0.5
@@ -1984,7 +1984,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44848,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,620,486,6205348686,53,86,Dak'fron,620.4140625,-486.328125,29,Deep Desert,Brown,0.5
 44923,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,626,472,6261247206,12,6,Dak'fron,626.09375,-472.953125,130,Deep Desert,Brown,0.5
 47049,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,619,462,61911946205,119,5,Dak'fron,619.9296875,-462.9609375,-101,Deep Desert,Brown,0.5
-47005,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,523,471,52361471128,61,128,Dak'fron,523.4765625,-471,-83,Deep Desert,Brown,0.5
+47005,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,523,471,52361471128,61,128,Dak'fron,523.4765625,-471.0,-83,Deep Desert,Brown,0.5
 43994,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,554,478,5541247806,12,6,Dak'fron,554.09375,-478.953125,-28,Deep Desert,Brown,0.5
 45206,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,701,496,7018849677,88,77,Dak'fron,701.6875,-496.3984375,29,Deep Desert,Brown,0.5
 45804,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,522,490,52210349069,103,69,Dak'fron,522.8046875,-490.4609375,52,Deep Desert,Brown,0.5
@@ -2005,7 +2005,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45956,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,663,457,6631045727,10,27,Dak'fron,663.078125,-457.7890625,158,Deep Desert,Brown,0.5
 44620,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,625,467,6259546763,95,63,Dak'fron,625.7421875,-467.5078125,-121,Deep Desert,Brown,0.5
 45621,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,708,488,7089048829,90,29,Dak'fron,708.703125,-488.7734375,133,Deep Desert,Brown,0.5
-44208,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,634,441,63412844135,128,35,Dak'fron,635,-441.7265625,122,Deep Desert,Brown,0.5
+44208,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,634,441,63412844135,128,35,Dak'fron,635.0,-441.7265625,122,Deep Desert,Brown,0.5
 44569,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,468,490,4686449068,64,68,Dak'fron,468.5,-490.46875,-45,Desert,Brown,0.5
 44328,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,511,456,5119945636,99,36,Dak'fron,511.7734375,-456.71875,-83,Desert,Brown,0.5
 45787,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,628,480,62810148004,101,4,Dak'fron,628.7890625,-480.96875,94,Deep Desert,Brown,0.5
@@ -2024,7 +2024,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46098,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,667,472,66710472121,10,121,Dak'fron,667.078125,-472.0546875,44,Deep Desert,Brown,0.5
 46322,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,507,480,5070648006,6,6,Dak'fron,507.046875,-480.953125,-158,Deep Desert,Brown,0.5
 45682,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,695,487,69558487100,58,100,Dak'fron,695.453125,-487.21875,71,Deep Desert,Brown,0.5
-45065,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,511,477,51112847737,128,37,Dak'fron,512,-477.7109375,-179,Deep Desert,Brown,0.5
+45065,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,511,477,51112847737,128,37,Dak'fron,512.0,-477.7109375,-179,Deep Desert,Brown,0.5
 43726,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,516,476,5169847638,98,38,Dak'fron,516.765625,-476.703125,143,Deep Desert,Brown,0.5
 47223,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,683,481,6833548173,35,73,Dak'fron,683.2734375,-481.4296875,-107,Deep Desert,Brown,0.5
 46967,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,708,497,7083949797,39,97,Dak'fron,708.3046875,-497.2421875,92,Deep Desert,Brown,0.5
@@ -2117,7 +2117,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 43721,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,626,485,62670485120,70,120,Dak'fron,626.546875,-485.0625,-113,Deep Desert,Brown,0.5
 44134,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,556,494,55610149431,101,31,Dak'fron,556.7890625,-494.7578125,-16,Deep Desert,Brown,0.5
 43769,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,553,468,5538646808,86,8,Dak'fron,553.671875,-468.9375,-78,Deep Desert,Brown,0.5
-45093,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,553,463,553128463101,128,101,Dak'fron,554,-463.2109375,28,Deep Desert,Brown,0.5
+45093,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,553,463,553128463101,128,101,Dak'fron,554.0,-463.2109375,28,Deep Desert,Brown,0.5
 45010,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,615,441,61512744102,127,2,Dak'fron,615.9921875,-441.984375,-159,Deep Desert,Brown,0.5
 44525,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,544,453,54445453106,45,106,Dak'fron,544.3515625,-453.171875,-29,Deep Desert,Brown,0.5
 44165,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,628,481,62810648197,106,97,Dak'fron,628.828125,-481.2421875,176,Deep Desert,Brown,0.5
@@ -2319,7 +2319,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46726,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,618,486,61812448651,124,51,Dak'fron,618.96875,-486.6015625,-84,Deep Desert,Brown,0.5
 44065,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,570,479,57010147946,101,46,Dak'fron,570.7890625,-479.640625,-1,Deep Desert,Brown,0.5
 46526,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,624,480,6240648055,6,55,Dak'fron,624.046875,-480.5703125,-35,Deep Desert,Brown,0.5
-44702,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,478,489,478105489128,105,128,Dak'fron,478.8203125,-489,116,Deep Desert,Brown,0.5
+44702,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,478,489,478105489128,105,128,Dak'fron,478.8203125,-489.0,116,Deep Desert,Brown,0.5
 45714,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,496,471,49666471126,66,126,Dak'fron,496.515625,-471.015625,37,Desert,Brown,0.5
 46449,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,632,436,6323643601,36,1,Dak'fron,632.28125,-436.9921875,71,Deep Desert,Brown,0.5
 46308,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,670,464,67044464103,44,103,Dak'fron,670.34375,-464.1953125,-61,Deep Desert,Brown,0.5
@@ -2328,7 +2328,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47216,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,548,463,5484546322,45,22,Dak'fron,548.3515625,-463.828125,-170,Deep Desert,Brown,0.5
 44085,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,559,473,55938473120,38,120,Dak'fron,559.296875,-473.0625,-2,Deep Desert,Brown,0.5
 46173,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,646,481,64625481119,25,119,Dak'fron,646.1953125,-481.0703125,-94,Deep Desert,Brown,0.5
-46051,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,688,484,688128484100,128,100,Dak'fron,689,-484.21875,91,Deep Desert,Brown,0.5
+46051,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,688,484,688128484100,128,100,Dak'fron,689.0,-484.21875,91,Deep Desert,Brown,0.5
 46623,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,629,461,629109461101,109,101,Dak'fron,629.8515625,-461.2109375,172,Deep Desert,Brown,0.5
 43644,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,634,485,63493485122,93,122,Dak'fron,634.7265625,-485.046875,-113,Deep Desert,Brown,0.5
 45456,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,557,496,557119496115,119,115,Dak'fron,557.9296875,-496.1015625,89,Deep Desert,Brown,0.5
@@ -2391,7 +2391,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45409,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,689,486,6894948647,49,47,Dak'fron,689.3828125,-486.6328125,-4,Deep Desert,Brown,0.5
 45906,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,634,480,6348548035,85,35,Dak'fron,634.6640625,-480.7265625,13,Deep Desert,Brown,0.5
 43790,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,655,463,6558246325,82,25,Dak'fron,655.640625,-463.8046875,-158,Deep Desert,Brown,0.5
-46426,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,561,444,561128444126,128,126,Dak'fron,562,-444.015625,139,Desert,Brown,0.5
+46426,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,561,444,561128444126,128,126,Dak'fron,562.0,-444.015625,139,Desert,Brown,0.5
 45294,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,628,451,6285745125,57,25,Dak'fron,628.4453125,-451.8046875,-124,Deep Desert,Brown,0.5
 47099,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,576,459,57616459107,16,107,Dak'fron,576.125,-459.1640625,-165,Deep Desert,Brown,0.5
 43890,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,573,472,57337472125,37,125,Dak'fron,573.2890625,-472.0234375,-156,Deep Desert,Brown,0.5
@@ -2423,7 +2423,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 43882,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,498,473,4986747315,67,15,Dak'fron,498.5234375,-473.8828125,173,Deep Desert,Brown,0.5
 47377,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,556,479,5564647936,46,36,Dak'fron,556.359375,-479.71875,27,Deep Desert,Brown,0.5
 45423,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,541,451,54110045180,100,80,Dak'fron,541.78125,-451.375,-97,Desert,Brown,0.5
-45497,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,500,470,50056470128,56,128,Dak'fron,500.4375,-470,-138,,Brown,0.5
+45497,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,500,470,50056470128,56,128,Dak'fron,500.4375,-470.0,-138,,Brown,0.5
 44988,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,504,487,50474487119,74,119,Dak'fron,504.578125,-487.0703125,-81,Deep Desert,Brown,0.5
 46411,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,536,492,5368349216,83,16,Dak'fron,536.6484375,-492.875,0,Deep Desert,Brown,0.5
 43575,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,638,494,6385449425,54,25,Dak'fron,638.421875,-494.8046875,-96,Deep Desert,Brown,0.5
@@ -2470,7 +2470,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46263,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,553,475,5537847572,78,72,Dak'fron,553.609375,-475.4375,-13,Deep Desert,Brown,0.5
 43945,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,687,487,6873748726,37,26,Dak'fron,687.2890625,-487.796875,9,Deep Desert,Brown,0.5
 44522,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,542,465,5422046598,20,98,Dak'fron,542.15625,-465.234375,148,Deep Desert,Brown,0.5
-45275,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,477,494,47727494128,27,128,Dak'fron,477.2109375,-494,-154,Deep Desert,Brown,0.5
+45275,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,477,494,47727494128,27,128,Dak'fron,477.2109375,-494.0,-154,Deep Desert,Brown,0.5
 47611,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,536,481,5369548108,95,8,Dak'fron,536.7421875,-481.9375,-67,Deep Desert,Brown,0.5
 44772,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,722,497,72211749735,117,35,Dak'fron,722.9140625,-497.7265625,-125,Deep Desert,Brown,0.5
 47512,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,469,494,46910349446,103,46,Dak'fron,469.8046875,-494.640625,-169,Deep Desert,Brown,0.5
@@ -2493,7 +2493,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47384,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,658,464,65811546403,115,3,Dak'fron,658.8984375,-464.9765625,-45,Deep Desert,Brown,0.5
 46382,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,587,477,587106477102,106,102,Dak'fron,587.828125,-477.203125,9,Deep Desert,Brown,0.5
 44418,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,690,466,690116466103,116,103,Dak'fron,690.90625,-466.1953125,-46,Deep Desert,Brown,0.5
-45653,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,673,469,673128469115,128,115,Dak'fron,674,-469.1015625,37,Deep Desert,Brown,0.5
+45653,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,673,469,673128469115,128,115,Dak'fron,674.0,-469.1015625,37,Deep Desert,Brown,0.5
 43806,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,552,479,5523247923,32,23,Dak'fron,552.25,-479.8203125,50,Deep Desert,Brown,0.5
 45328,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,673,467,6731746786,17,86,Dak'fron,673.1328125,-467.328125,-60,Deep Desert,Brown,0.5
 46437,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,711,493,71163493100,63,100,Dak'fron,711.4921875,-493.21875,-88,Deep Desert,Brown,0.5
@@ -2634,7 +2634,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46039,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,472,495,4722149573,21,73,Dak'fron,472.1640625,-495.4296875,-17,Deep Desert,Brown,0.5
 44082,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,523,490,52344490120,44,120,Dak'fron,523.34375,-490.0625,-126,Deep Desert,Brown,0.5
 44821,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,604,454,6043245487,32,87,Dak'fron,604.25,-454.3203125,-41,Deep Desert,Brown,0.5
-44707,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,547,444,547108444128,108,128,Dak'fron,547.84375,-444,-92,Desert,Brown,0.5
+44707,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,547,444,547108444128,108,128,Dak'fron,547.84375,-444.0,-92,Desert,Brown,0.5
 46662,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,645,454,64535454100,35,100,Dak'fron,645.2734375,-454.21875,123,Deep Desert,Brown,0.5
 43972,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,557,496,55784496107,84,107,Dak'fron,557.65625,-496.1640625,-93,Deep Desert,Brown,0.5
 45040,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,584,477,5845447745,54,45,Dak'fron,584.421875,-477.6484375,-139,Deep Desert,Brown,0.5
@@ -2678,7 +2678,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45386,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,610,438,61010043806,100,6,Dak'fron,610.78125,-438.953125,-122,Deep Desert,Brown,0.5
 45020,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,681,491,68191491114,91,114,Dak'fron,681.7109375,-491.109375,-69,Deep Desert,Brown,0.5
 47311,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,519,457,5196645785,66,85,Dak'fron,519.515625,-457.3359375,13,Desert,Brown,0.5
-43922,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,647,448,64792448128,92,128,Dak'fron,647.71875,-448,-151,Deep Desert,Brown,0.5
+43922,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,647,448,64792448128,92,128,Dak'fron,647.71875,-448.0,-151,Deep Desert,Brown,0.5
 47233,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,617,491,6175449180,54,80,Dak'fron,617.421875,-491.375,82,Deep Desert,Brown,0.5
 46067,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,597,440,59711444042,114,42,Dak'fron,597.890625,-440.671875,78,Deep Desert,Brown,0.5
 43860,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,667,467,6671246783,12,83,Dak'fron,667.09375,-467.3515625,-95,Deep Desert,Brown,0.5
@@ -2702,7 +2702,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 43564,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,629,471,62931471112,31,112,Dak'fron,629.2421875,-471.125,-40,Deep Desert,Brown,0.5
 46752,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,704,477,7044847727,48,27,Dak'fron,704.375,-477.7890625,-164,Deep Desert,Brown,0.5
 46151,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,559,444,5591144448,11,48,Dak'fron,559.0859375,-444.625,-159,Desert,Brown,0.5
-44843,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,493,481,49302481128,2,128,Dak'fron,493.015625,-481,82,Deep Desert,Brown,0.5
+44843,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,493,481,49302481128,2,128,Dak'fron,493.015625,-481.0,82,Deep Desert,Brown,0.5
 45588,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,583,492,5838049290,80,90,Dak'fron,583.625,-492.296875,58,Deep Desert,Brown,0.5
 46355,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,648,482,648118482109,118,109,Dak'fron,648.921875,-482.1484375,-59,Deep Desert,Brown,0.5
 47034,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,553,486,5533048615,30,15,Dak'fron,553.234375,-486.8828125,150,Deep Desert,Brown,0.5
@@ -2770,12 +2770,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45614,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,609,496,6094249678,42,78,Dak'fron,609.328125,-496.390625,-10,Deep Desert,Brown,0.5
 46528,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,536,452,5362245269,22,69,Dak'fron,536.171875,-452.4609375,-142,Desert,Brown,0.5
 44997,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,507,497,5078949779,89,79,Dak'fron,507.6953125,-497.3828125,-174,Deep Desert,Brown,0.5
-46947,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,639,438,63912843848,128,48,Dak'fron,640,-438.625,-41,Deep Desert,Brown,0.5
+46947,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,639,438,63912843848,128,48,Dak'fron,640.0,-438.625,-41,Deep Desert,Brown,0.5
 47104,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,635,471,6354847199,48,99,Dak'fron,635.375,-471.2265625,75,Deep Desert,Brown,0.5
-45733,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,585,452,58545452128,45,128,Dak'fron,585.3515625,-452,-52,Deep Desert,Brown,0.5
+45733,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,585,452,58545452128,45,128,Dak'fron,585.3515625,-452.0,-52,Deep Desert,Brown,0.5
 43748,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,612,444,6126944417,69,17,Dak'fron,612.5390625,-444.8671875,14,Deep Desert,Brown,0.5
 47169,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,516,470,5161547025,15,25,Dak'fron,516.1171875,-470.8046875,-132,Deep Desert,Brown,0.5
-45616,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,541,498,541111498128,111,128,Dak'fron,541.8671875,-498,6,Deep Desert,Brown,0.5
+45616,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,541,498,541111498128,111,128,Dak'fron,541.8671875,-498.0,6,Deep Desert,Brown,0.5
 45447,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,558,499,5585949985,59,85,Dak'fron,558.4609375,-499.3359375,114,Deep Desert,Brown,0.5
 43792,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,524,482,5241848298,18,98,Dak'fron,524.140625,-482.234375,-106,Deep Desert,Brown,0.5
 43734,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,571,440,57110644015,106,15,Dak'fron,571.828125,-440.8828125,-148,Desert,Brown,0.5
@@ -2794,7 +2794,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 43889,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,615,469,6156846902,68,2,Dak'fron,615.53125,-469.984375,-74,Deep Desert,Brown,0.5
 44099,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,471,492,47182492100,82,100,Dak'fron,471.640625,-492.21875,122,Deep Desert,Brown,0.5
 45495,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,664,468,6642046812,20,12,Dak'fron,664.15625,-468.90625,-165,Deep Desert,Brown,0.5
-46828,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,653,466,65312846683,128,83,Dak'fron,654,-466.3515625,145,Deep Desert,Brown,0.5
+46828,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,653,466,65312846683,128,83,Dak'fron,654.0,-466.3515625,145,Deep Desert,Brown,0.5
 47553,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,508,477,5085847718,58,18,Dak'fron,508.453125,-477.859375,145,Deep Desert,Brown,0.5
 43851,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,551,471,55110347122,103,22,Dak'fron,551.8046875,-471.828125,-140,Deep Desert,Brown,0.5
 45600,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,535,472,5356447269,64,69,Dak'fron,535.5,-472.4609375,-115,Deep Desert,Brown,0.5
@@ -2854,7 +2854,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47111,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,550,494,5501249476,12,76,Dak'fron,550.09375,-494.40625,39,Deep Desert,Brown,0.5
 46989,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,565,458,56512045873,120,73,Dak'fron,565.9375,-458.4296875,41,Deep Desert,Brown,0.5
 47323,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_03,653,486,65311048602,110,2,Dak'fron,653.859375,-486.984375,128,Deep Desert,Brown,0.5
-45568,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,608,440,60812844047,128,47,Dak'fron,609,-440.6328125,1,Deep Desert,Brown,0.5
+45568,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,608,440,60812844047,128,47,Dak'fron,609.0,-440.6328125,1,Deep Desert,Brown,0.5
 45210,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,664,474,66408474115,8,115,Dak'fron,664.0625,-474.1015625,14,Deep Desert,Brown,0.5
 43695,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,598,474,598108474116,108,116,Dak'fron,598.84375,-474.09375,-130,Deep Desert,Brown,0.5
 44591,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,723,486,72311948614,119,14,Dak'fron,723.9296875,-486.890625,27,Deep Desert,Brown,0.5
@@ -2879,7 +2879,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47528,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,632,484,6329248476,92,76,Dak'fron,632.71875,-484.40625,3,Deep Desert,Brown,0.5
 43642,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,597,473,5979347304,93,4,Dak'fron,597.7265625,-473.96875,179,Deep Desert,Brown,0.5
 46777,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,629,496,62965496109,65,109,Dak'fron,629.5078125,-496.1484375,-16,Deep Desert,Brown,0.5
-47328,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,651,458,65112845822,128,22,Dak'fron,652,-458.828125,176,Deep Desert,Brown,0.5
+47328,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,651,458,65112845822,128,22,Dak'fron,652.0,-458.828125,176,Deep Desert,Brown,0.5
 45017,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,592,449,5926044933,60,33,Dak'fron,592.46875,-449.7421875,52,Deep Desert,Brown,0.5
 46843,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_02,559,444,5599244432,92,32,Dak'fron,559.71875,-444.75,-136,Desert,Brown,0.5
 46081,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,576,480,57610848069,108,69,Dak'fron,576.84375,-480.4609375,53,Deep Desert,Brown,0.5
@@ -2942,7 +2942,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45793,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,606,471,6064547134,45,34,Dak'fron,606.3515625,-471.734375,-103,Deep Desert,Brown,0.5
 45671,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,477,485,4777948525,79,25,Dak'fron,477.6171875,-485.8046875,-132,Desert,Brown,0.5
 44186,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,572,448,5726144803,61,3,Dak'fron,572.4765625,-448.9765625,168,Deep Desert,Brown,0.5
-43820,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,594,491,59412849132,128,32,Dak'fron,595,-491.75,117,Deep Desert,Brown,0.5
+43820,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,594,491,59412849132,128,32,Dak'fron,595.0,-491.75,117,Deep Desert,Brown,0.5
 45869,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,598,444,5987144477,71,77,Dak'fron,598.5546875,-444.3984375,-104,Deep Desert,Brown,0.5
 45510,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,499,483,4992148327,21,27,Dak'fron,499.1640625,-483.7890625,116,Deep Desert,Brown,0.5
 44306,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,628,490,6288949019,89,19,Dak'fron,628.6953125,-490.8515625,147,Deep Desert,Brown,0.5
@@ -2962,7 +2962,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44572,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,590,466,5906046697,60,97,Dak'fron,590.46875,-466.2421875,-147,Deep Desert,Brown,0.5
 45631,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,693,482,6937448246,74,46,Dak'fron,693.578125,-482.640625,-8,Deep Desert,Brown,0.5
 45784,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,472,499,4727749973,77,73,Dak'fron,472.6015625,-499.4296875,129,Deep Desert,Brown,0.5
-46162,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,704,482,70499482128,99,128,Dak'fron,704.7734375,-482,75,Deep Desert,Brown,0.5
+46162,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,704,482,70499482128,99,128,Dak'fron,704.7734375,-482.0,75,Deep Desert,Brown,0.5
 45844,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,605,465,60522465123,22,123,Dak'fron,605.171875,-465.0390625,-103,Deep Desert,Brown,0.5
 47303,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,575,473,57507473113,7,113,Dak'fron,575.0546875,-473.1171875,85,Deep Desert,Brown,0.5
 45121,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,703,473,7035547382,55,82,Dak'fron,703.4296875,-473.359375,92,Deep Desert,Brown,0.5
@@ -2980,7 +2980,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 43766,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,633,484,63312348408,123,8,Dak'fron,633.9609375,-484.9375,-168,Deep Desert,Brown,0.5
 44503,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,689,472,68920472116,20,116,Dak'fron,689.15625,-472.09375,118,Deep Desert,Brown,0.5
 45931,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,668,451,6688445123,84,23,Dak'fron,668.65625,-451.8203125,63,Deep Desert,Brown,0.5
-43995,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,671,499,67112849937,128,37,Dak'fron,672,-499.7109375,72,Deep Desert,Brown,0.5
+43995,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,671,499,67112849937,128,37,Dak'fron,672.0,-499.7109375,72,Deep Desert,Brown,0.5
 45735,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,597,487,5978848707,88,7,Dak'fron,597.6875,-487.9453125,-145,Deep Desert,Brown,0.5
 44554,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,636,497,6363349704,33,4,Dak'fron,636.2578125,-497.96875,-73,Deep Desert,Brown,0.5
 46775,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,587,477,5870847773,8,73,Dak'fron,587.0625,-477.4296875,159,Deep Desert,Brown,0.5
@@ -3077,7 +3077,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45640,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,572,491,5729249189,92,89,Dak'fron,572.71875,-491.3046875,-37,Deep Desert,Brown,0.5
 46790,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,588,474,58829474102,29,102,Dak'fron,588.2265625,-474.203125,13,Deep Desert,Brown,0.5
 44033,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,604,459,60466459109,66,109,Dak'fron,604.515625,-459.1484375,139,Deep Desert,Brown,0.5
-44667,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,670,487,67012848772,128,72,Dak'fron,671,-487.4375,131,Deep Desert,Brown,0.5
+44667,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,670,487,67012848772,128,72,Dak'fron,671.0,-487.4375,131,Deep Desert,Brown,0.5
 46831,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,573,472,5731847205,18,5,Dak'fron,573.140625,-472.9609375,156,Deep Desert,Brown,0.5
 47308,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,627,491,6270249161,2,61,Dak'fron,627.015625,-491.5234375,1,Deep Desert,Brown,0.5
 47383,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,628,495,6282249579,22,79,Dak'fron,628.171875,-495.3828125,152,Deep Desert,Brown,0.5
@@ -3155,14 +3155,14 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45254,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,600,448,60059448119,59,119,Dak'fron,600.4609375,-448.0703125,40,Deep Desert,Brown,0.5
 45599,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,560,484,5601248405,12,5,Dak'fron,560.09375,-484.9609375,-112,Deep Desert,Brown,0.5
 44781,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_06,607,497,6078149701,81,1,Dak'fron,607.6328125,-497.9921875,-28,Deep Desert,Brown,0.5
-44048,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,722,491,72264491128,64,128,Dak'fron,722.5,-491,-17,Deep Desert,Brown,0.5
+44048,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,722,491,72264491128,64,128,Dak'fron,722.5,-491.0,-17,Deep Desert,Brown,0.5
 45974,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,621,492,62111149240,111,40,Dak'fron,621.8671875,-492.6875,-74,Deep Desert,Brown,0.5
 47370,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,562,497,562102497123,102,123,Dak'fron,562.796875,-497.0390625,-29,Deep Desert,Brown,0.5
 47418,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,601,497,6011349753,13,53,Dak'fron,601.1015625,-497.5859375,37,Deep Desert,Brown,0.5
 44507,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_09,638,480,6389448008,94,8,Dak'fron,638.734375,-480.9375,-71,Deep Desert,Brown,0.5
 46055,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,619,443,61972443113,72,113,Dak'fron,619.5625,-443.1171875,20,Deep Desert,Brown,0.5
 44431,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,638,490,63810049010,100,10,Dak'fron,638.78125,-490.921875,83,Deep Desert,Brown,0.5
-43660,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,585,475,585106475128,106,128,Dak'fron,585.828125,-475,14,Deep Desert,Brown,0.5
+43660,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,585,475,585106475128,106,128,Dak'fron,585.828125,-475.0,14,Deep Desert,Brown,0.5
 44948,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,604,479,60410147964,101,64,Dak'fron,604.7890625,-479.5,151,Deep Desert,Brown,0.5
 45299,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,658,487,6582948774,29,74,Dak'fron,658.2265625,-487.421875,83,Deep Desert,Brown,0.5
 46276,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,512,463,5122246323,22,23,Dak'fron,512.171875,-463.8203125,69,Desert,Brown,0.5
@@ -3175,7 +3175,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44009,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,561,470,5612147012,21,12,Dak'fron,561.1640625,-470.90625,-171,Deep Desert,Brown,0.5
 46735,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,676,495,6768049507,80,7,Dak'fron,676.625,-495.9453125,89,Deep Desert,Brown,0.5
 44000,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,630,485,63052485104,52,104,Dak'fron,630.40625,-485.1875,-137,Deep Desert,Brown,0.5
-44613,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,631,478,63112847892,128,92,Dak'fron,632,-478.28125,-127,Deep Desert,Brown,0.5
+44613,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_04,631,478,63112847892,128,92,Dak'fron,632.0,-478.28125,-127,Deep Desert,Brown,0.5
 45307,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,553,462,55310846273,108,73,Dak'fron,553.84375,-462.4296875,82,Deep Desert,Brown,0.5
 45782,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_05,638,456,6387345637,73,37,Dak'fron,638.5703125,-456.7109375,34,Deep Desert,Brown,0.5
 43677,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,580,447,580116447120,116,120,Dak'fron,580.90625,-447.0625,-2,Deep Desert,Brown,0.5
@@ -3190,7 +3190,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46516,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,541,475,5419947522,99,22,Dak'fron,541.7734375,-475.828125,-87,Deep Desert,Brown,0.5
 45414,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_02,647,495,6477249563,72,63,Dak'fron,647.5625,-495.5078125,-177,Deep Desert,Brown,0.5
 44936,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,510,498,5106949887,69,87,Dak'fron,510.5390625,-498.3203125,15,Deep Desert,Brown,0.5
-44449,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,567,455,56712845589,128,89,Dak'fron,568,-455.3046875,30,Deep Desert,Brown,0.5
+44449,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,567,455,56712845589,128,89,Dak'fron,568.0,-455.3046875,30,Deep Desert,Brown,0.5
 44647,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_09,608,447,60810144761,101,61,Dak'fron,608.7890625,-447.5234375,13,Deep Desert,Brown,0.5
 44842,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,598,484,59894484106,94,106,Dak'fron,598.734375,-484.171875,140,Deep Desert,Brown,0.5
 45438,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_09,668,491,6689249152,92,52,Dak'fron,668.71875,-491.59375,-154,Deep Desert,Brown,0.5
@@ -3251,7 +3251,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44084,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_10,664,496,6647249681,72,81,Dak'fron,664.5625,-496.3671875,70,Deep Desert,Brown,0.5
 44061,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,687,462,6872846220,28,20,Dak'fron,687.21875,-462.84375,87,Deep Desert,Brown,0.5
 47051,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,478,495,478114495121,114,121,Dak'fron,478.890625,-495.0546875,60,Deep Desert,Brown,0.5
-44336,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,605,469,60529469128,29,128,Dak'fron,605.2265625,-469,49,Deep Desert,Brown,0.5
+44336,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,605,469,60529469128,29,128,Dak'fron,605.2265625,-469.0,49,Deep Desert,Brown,0.5
 44681,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,554,466,55411046687,110,87,Dak'fron,554.859375,-466.3203125,164,Deep Desert,Brown,0.5
 45823,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,678,498,6789249883,92,83,Dak'fron,678.71875,-498.3515625,-57,Deep Desert,Brown,0.5
 44829,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_08,634,451,6344045151,40,51,Dak'fron,634.3125,-451.6015625,-124,Deep Desert,Brown,0.5
@@ -3273,7 +3273,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44180,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,512,494,5126249404,62,4,Dak'fron,512.484375,-494.96875,167,Deep Desert,Brown,0.5
 45531,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,643,476,6434747615,47,15,Dak'fron,643.3671875,-476.8828125,-177,Deep Desert,Brown,0.5
 46479,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,694,482,6941148214,11,14,Dak'fron,694.0859375,-482.890625,16,Deep Desert,Brown,0.5
-47044,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,599,487,59953487128,53,128,Dak'fron,599.4140625,-487,172,Deep Desert,Brown,0.5
+47044,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_07,599,487,59953487128,53,128,Dak'fron,599.4140625,-487.0,172,Deep Desert,Brown,0.5
 45425,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,487,483,48711348390,113,90,Dak'fron,487.8828125,-483.296875,-99,Deep Desert,Brown,0.5
 46876,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,615,431,6151343166,13,66,Dak'fron,615.1015625,-431.484375,49,Desert,Brown,0.5
 47458,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_07,535,498,53512749871,127,71,Dak'fron,535.9921875,-498.4453125,-165,Deep Desert,Brown,0.5
@@ -3405,7 +3405,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45469,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,563,480,56311148048,111,48,Dak'fron,563.8671875,-480.625,-39,Deep Desert,Brown,0.5
 44220,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_02,533,454,53350454113,50,113,Dak'fron,533.390625,-454.1171875,-131,Desert,Brown,0.5
 45973,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_01,609,443,6098944330,89,30,Dak'fron,609.6953125,-443.765625,22,Deep Desert,Brown,0.5
-44632,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,644,470,64412847065,128,65,Dak'fron,645,-470.4921875,-100,Deep Desert,Brown,0.5
+44632,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,644,470,64412847065,128,65,Dak'fron,645.0,-470.4921875,-100,Deep Desert,Brown,0.5
 47276,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,663,488,6636548827,65,27,Dak'fron,663.5078125,-488.7890625,-64,Deep Desert,Brown,0.5
 44022,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_05,619,438,6192343828,23,28,Dak'fron,619.1796875,-438.78125,135,Deep Desert,Brown,0.5
 46666,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,640,446,6409344650,93,50,Dak'fron,640.7265625,-446.609375,-47,Deep Desert,Brown,0.5
@@ -3482,7 +3482,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44459,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_07,652,466,65233466109,33,109,Dak'fron,652.2578125,-466.1484375,-136,Deep Desert,Brown,0.5
 45117,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,582,476,58284476119,84,119,Dak'fron,582.65625,-476.0703125,161,Deep Desert,Brown,0.5
 47531,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_04,530,493,5300749327,7,27,Dak'fron,530.0546875,-493.7890625,77,Deep Desert,Brown,0.5
-45357,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,534,484,53412848446,128,46,Dak'fron,535,-484.640625,15,Deep Desert,Brown,0.5
+45357,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_11,534,484,53412848446,128,46,Dak'fron,535.0,-484.640625,15,Deep Desert,Brown,0.5
 44266,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,511,494,5118149494,81,94,Dak'fron,511.6328125,-494.265625,-152,Deep Desert,Brown,0.5
 47060,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_03,531,466,5318846653,88,53,Dak'fron,531.6875,-466.5859375,97,Deep Desert,Brown,0.5
 44602,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_05,464,495,4645749575,57,75,Dak'fron,464.4453125,-495.4140625,77,Deep Desert,Brown,0.5
@@ -3533,7 +3533,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 45927,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_01,655,495,6551949570,19,70,Dak'fron,655.1484375,-495.453125,-12,Deep Desert,Brown,0.5
 44892,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,671,459,671116459107,116,107,Dak'fron,671.90625,-459.1640625,111,Deep Desert,Brown,0.5
 47265,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_04,698,490,69862490116,62,116,Dak'fron,698.484375,-490.09375,118,Deep Desert,Brown,0.5
-46313,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,513,479,51312847972,128,72,Dak'fron,514,-479.4375,-165,Deep Desert,Brown,0.5
+46313,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_12,513,479,51312847972,128,72,Dak'fron,514.0,-479.4375,-165,Deep Desert,Brown,0.5
 45583,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,593,488,593115488115,115,115,Dak'fron,593.8984375,-488.1015625,65,Deep Desert,Brown,0.5
 44454,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_01,527,499,52711749980,117,80,Dak'fron,527.9140625,-499.375,-171,Deep Desert,Brown,0.5
 45897,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Large_08,508,498,50874498100,74,100,Dak'fron,508.578125,-498.21875,-126,Deep Desert,Brown,0.5
@@ -3564,7 +3564,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46342,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_10,699,477,69971477111,71,111,Dak'fron,699.5546875,-477.1328125,100,Deep Desert,Brown,0.5
 46568,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_06,600,473,6006847337,68,37,Dak'fron,600.53125,-473.7109375,-113,Deep Desert,Brown,0.5
 45569,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_06,631,488,63111348840,113,40,Dak'fron,631.8828125,-488.6875,126,Deep Desert,Brown,0.5
-45988,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,639,440,63912844035,128,35,Dak'fron,640,-440.7265625,25,Deep Desert,Brown,0.5
+45988,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,639,440,63912844035,128,35,Dak'fron,640.0,-440.7265625,25,Deep Desert,Brown,0.5
 45850,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,502,486,5021448652,14,52,Dak'fron,502.109375,-486.59375,180,Deep Desert,Brown,0.5
 46365,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Medium_03,674,464,67479464101,79,101,Dak'fron,674.6171875,-464.2109375,62,Deep Desert,Brown,0.5
 44792,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Small_08,602,489,6024448978,44,78,Dak'fron,602.34375,-489.390625,95,Deep Desert,Brown,0.5
@@ -3638,14 +3638,14 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 46788,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,681,439,6818643925,86,25,Dak'fron,681.671875,-439.8046875,-90,Mountains,Gray,0.5
 44893,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_01,721,474,7214647435,46,35,Dak'fron,721.359375,-474.7265625,-175,Mountains,Gray,0.5
 46439,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_07,690,448,6905044821,50,21,Dak'fron,690.390625,-448.8359375,-129,Mountains,Gray,0.5
-47047,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,723,475,723128475115,128,115,Dak'fron,724,-475.1015625,-18,Mountains,Gray,0.5
+47047,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,723,475,723128475115,128,115,Dak'fron,724.0,-475.1015625,-18,Mountains,Gray,0.5
 44739,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_01,694,459,6942545930,25,30,Dak'fron,694.1953125,-459.765625,-76,Mountains,Gray,0.5
 44168,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,715,475,7158547521,85,21,Dak'fron,715.6640625,-475.8359375,169,Mountains,Gray,0.5
 45889,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_12,714,478,7149847859,98,59,Dak'fron,714.765625,-478.5390625,80,Mountains,Gray,0.5
 44723,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_02,710,463,7108846308,88,8,Dak'fron,710.6875,-463.9375,163,Mountains,Gray,0.5
 45728,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_08,718,474,7188447447,84,47,Dak'fron,718.65625,-474.6328125,-176,Mountains,Gray,0.5
 46525,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,696,467,69615467113,15,113,Dak'fron,696.1171875,-467.1171875,-56,Mountains,Gray,0.5
-46390,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_08,670,445,67012844590,128,90,Dak'fron,671,-445.296875,-95,Mountains,Gray,0.5
+46390,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_08,670,445,67012844590,128,90,Dak'fron,671.0,-445.296875,-95,Mountains,Gray,0.5
 43657,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,673,447,673114447126,114,126,Dak'fron,673.890625,-447.015625,-86,Mountains,Gray,0.5
 47426,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_03,730,484,7308548462,85,62,Dak'fron,730.6640625,-484.515625,-167,Mountains,Gray,0.5
 45736,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_08,738,497,7385649732,56,32,Dak'fron,738.4375,-497.75,-91,Mountains,Gray,0.5
@@ -3712,7 +3712,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47529,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_02,732,484,73212048429,120,29,Dak'fron,732.9375,-484.7734375,47,Mountains,Gray,0.5
 47123,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_01,679,440,67980440116,80,116,Dak'fron,679.625,-440.09375,-17,Mountains,Gray,0.5
 44546,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_10,730,487,7304648751,46,51,Dak'fron,730.359375,-487.6015625,87,Mountains,Gray,0.5
-45331,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,691,451,69112845112,128,12,Dak'fron,692,-451.90625,40,Mountains,Gray,0.5
+45331,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_04,691,451,69112845112,128,12,Dak'fron,692.0,-451.90625,40,Mountains,Gray,0.5
 45975,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_03,714,466,7142046636,20,36,Dak'fron,714.15625,-466.71875,-90,Mountains,Gray,0.5
 44193,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_04,683,443,6839344393,93,93,Dak'fron,683.7265625,-443.2734375,83,Mountains,Gray,0.5
 45492,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_04,707,466,7071446692,14,92,Dak'fron,707.109375,-466.28125,45,Mountains,Gray,0.5
@@ -3813,7 +3813,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 44761,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_06,732,487,73222487109,22,109,Dak'fron,732.171875,-487.1484375,76,Mountains,Gray,0.5
 45309,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_04,687,449,6873744952,37,52,Dak'fron,687.2890625,-449.59375,-49,Mountains,Gray,0.5
 47016,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_09,696,449,6964944960,49,60,Dak'fron,696.3828125,-449.53125,-174,Mountains,Gray,0.5
-46375,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_01,721,483,72112848327,128,27,Dak'fron,722,-483.7890625,173,Mountains,Gray,0.5
+46375,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_01,721,483,72112848327,128,27,Dak'fron,722.0,-483.7890625,173,Mountains,Gray,0.5
 45346,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Small_10,685,443,6855644309,56,9,Dak'fron,685.4375,-443.9296875,180,Mountains,Gray,0.5
 46890,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Large_09,694,453,6940545369,5,69,Dak'fron,694.0390625,-453.4609375,-180,Mountains,Gray,0.5
 46627,Rocks,1,WOD_Rocks_RoundSpiky_DarkBrown_Medium_08,700,467,7007146759,71,59,Dak'fron,700.5546875,-467.5390625,-176,Mountains,Gray,0.5

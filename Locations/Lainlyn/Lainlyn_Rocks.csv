@@ -75,7 +75,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137491,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,719,297,7198529718,85,18,Lainlyn,719.6640625,-297.859375,-50,Rainforest,Brown,0.5
 138068,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,672,285,67266285119,66,119,Lainlyn,672.515625,-285.0703125,108,Rainforest,Brown,0.5
 137667,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,724,301,72412530193,125,93,Lainlyn,724.9765625,-301.2734375,-57,Rainforest,Brown,0.5
-137647,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,679,313,67912831384,128,84,Lainlyn,680,-313.34375,54,Rainforest,Brown,0.5
+137647,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,679,313,67912831384,128,84,Lainlyn,680.0,-313.34375,54,Rainforest,Brown,0.5
 137937,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,717,283,7179128325,91,25,Lainlyn,717.7109375,-283.8046875,-122,Rainforest,Brown,0.5
 137833,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,731,304,7311830416,18,16,Lainlyn,731.140625,-304.875,96,Rainforest,Brown,0.5
 137456,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,767,305,7674530543,45,43,Lainlyn,767.3515625,-305.6640625,-138,Rainforest,Brown,0.5
@@ -101,12 +101,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137778,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,768,281,76812028147,120,47,Lainlyn,768.9375,-281.6328125,-169,Rainforest,Brown,0.5
 137286,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,735,287,73510328721,103,21,Lainlyn,735.8046875,-287.8359375,70,Rainforest,Brown,0.5
 137955,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,751,293,7516629352,66,52,Lainlyn,751.515625,-293.59375,124,Rainforest,Brown,0.5
-137967,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,698,291,69812829124,128,24,Lainlyn,699,-291.8125,152,Rainforest,Brown,0.5
+137967,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,698,291,69812829124,128,24,Lainlyn,699.0,-291.8125,152,Rainforest,Brown,0.5
 137464,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,686,313,68612331304,123,4,Lainlyn,686.9609375,-313.96875,-10,Rainforest,Brown,0.5
-137791,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,738,309,73891309128,91,128,Lainlyn,738.7109375,-309,-49,Rainforest,Brown,0.5
+137791,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,738,309,73891309128,91,128,Lainlyn,738.7109375,-309.0,-49,Rainforest,Brown,0.5
 137578,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,764,305,7644530554,45,54,Lainlyn,764.3515625,-305.578125,-27,Rainforest,Brown,0.5
 137441,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,770,286,7709128605,91,5,Lainlyn,770.7109375,-286.9609375,-50,Rainforest,Brown,0.5
-137850,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,749,283,74993283128,93,128,Lainlyn,749.7265625,-283,119,Rainforest,Brown,0.5
+137850,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,749,283,74993283128,93,128,Lainlyn,749.7265625,-283.0,119,Rainforest,Brown,0.5
 137666,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,731,309,7318330903,83,3,Lainlyn,731.6484375,-309.9765625,179,Rainforest,Brown,0.5
 137801,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,750,288,7506428837,64,37,Lainlyn,750.5,-288.7109375,131,Rainforest,Brown,0.5
 137372,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,725,301,7255030121,50,21,Lainlyn,725.390625,-301.8359375,98,Rainforest,Brown,0.5
@@ -313,7 +313,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137984,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,684,293,6845029307,50,7,Lainlyn,684.390625,-293.9453125,102,Rainforest,Brown,0.5
 137380,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,690,315,69012631532,126,32,Lainlyn,690.984375,-315.75,-145,Rainforest,Brown,0.5
 137247,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,734,286,7341628649,16,49,Lainlyn,734.125,-286.6171875,125,Rainforest,Brown,0.5
-137218,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,676,285,6768828509,88,9,Lainlyn,676.6875,-285.9296875,-169,Ocean,Brown,0.5
 137419,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,755,302,7555330291,53,91,Lainlyn,755.4140625,-302.2890625,62,Rainforest,Brown,0.5
 137368,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,677,306,67711430696,114,96,Lainlyn,677.890625,-306.25,-158,Rainforest,Brown,0.5
 137747,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,687,311,6870631106,6,6,Lainlyn,687.046875,-311.953125,77,Rainforest,Brown,0.5
@@ -346,7 +345,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137255,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,681,287,6815628742,56,42,Lainlyn,681.4375,-287.671875,103,Rainforest,Brown,0.5
 137217,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,682,290,6820429001,4,1,Lainlyn,682.03125,-290.9921875,-122,Rainforest,Brown,0.5
 137659,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,762,298,7624429836,44,36,Lainlyn,762.34375,-298.71875,-163,Rainforest,Brown,0.5
-137439,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,677,297,67769297128,69,128,Lainlyn,677.5390625,-297,-147,Rainforest,Brown,0.5
+137439,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,677,297,67769297128,69,128,Lainlyn,677.5390625,-297.0,-147,Rainforest,Brown,0.5
 137725,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,685,299,6859829905,98,5,Lainlyn,685.765625,-299.9609375,71,Rainforest,Brown,0.5
 137771,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,719,307,719112307109,112,109,Lainlyn,719.875,-307.1484375,4,Rainforest,Brown,0.5
 137446,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,741,305,7413930561,39,61,Lainlyn,741.3046875,-305.5234375,-142,Rainforest,Brown,0.5
@@ -394,7 +393,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 138019,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,681,306,68123306125,23,125,Lainlyn,681.1796875,-306.0234375,159,Rainforest,Brown,0.5
 137803,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,679,294,6792829419,28,19,Lainlyn,679.21875,-294.8515625,134,Rainforest,Brown,0.5
 137363,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,764,290,7641529022,15,22,Lainlyn,764.1171875,-290.828125,77,Rainforest,Brown,0.5
-137284,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,716,310,71698310128,98,128,Lainlyn,716.765625,-310,-41,Rainforest,Brown,0.5
+137284,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,716,310,71698310128,98,128,Lainlyn,716.765625,-310.0,-41,Rainforest,Brown,0.5
 138071,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,703,288,7038428801,84,1,Lainlyn,703.65625,-288.9921875,49,Rainforest,Brown,0.5
 137289,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,708,292,70812629280,126,80,Lainlyn,708.984375,-292.375,94,Rainforest,Brown,0.5
 137893,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,768,292,76845292123,45,123,Lainlyn,768.3515625,-292.0390625,-103,Rainforest,Brown,0.5
@@ -423,7 +422,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137428,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,739,307,7399430754,94,54,Lainlyn,739.734375,-307.578125,-26,Rainforest,Brown,0.5
 137704,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,763,288,7633928831,39,31,Lainlyn,763.3046875,-288.7578125,120,Rainforest,Brown,0.5
 138000,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,677,302,6779430209,94,9,Lainlyn,677.734375,-302.9296875,53,Rainforest,Brown,0.5
-137312,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,763,278,7637227819,72,19,Lainlyn,763.5625,-278.8515625,3,Ocean,Brown,0.5
 137513,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,754,281,7541928197,19,97,Lainlyn,754.1484375,-281.2421875,144,Rainforest,Brown,0.5
 137660,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,707,298,7079029846,90,46,Lainlyn,707.703125,-298.640625,-174,Rainforest,Brown,0.5
 137242,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,697,298,69705298122,5,122,Lainlyn,697.0390625,-298.046875,38,Rainforest,Brown,0.5
@@ -446,11 +444,10 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137414,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,745,309,74504309117,4,117,Lainlyn,745.03125,-309.0859375,-88,Rainforest,Brown,0.5
 137453,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,768,294,7688029408,80,8,Lainlyn,768.625,-294.9375,-27,Rainforest,Brown,0.5
 137619,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,676,289,6761028980,10,80,Lainlyn,676.078125,-289.375,-33,Rainforest,Brown,0.5
-137909,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,672,284,6727228418,72,18,Lainlyn,672.5625,-284.859375,26,Ocean,Brown,0.5
 138049,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,696,287,69635287122,35,122,Lainlyn,696.2734375,-287.046875,76,Rainforest,Brown,0.5
 137612,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,760,313,7609931357,99,57,Lainlyn,760.7734375,-313.5546875,-167,Rainforest,Brown,0.5
 137693,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,692,302,6920630236,6,36,Lainlyn,692.046875,-302.71875,-53,Rainforest,Brown,0.5
-137684,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,682,298,682128298106,128,106,Lainlyn,683,-298.171875,114,Rainforest,Brown,0.5
+137684,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,682,298,682128298106,128,106,Lainlyn,683.0,-298.171875,114,Rainforest,Brown,0.5
 137977,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,735,287,7356928724,69,24,Lainlyn,735.5390625,-287.8125,0,Rainforest,Brown,0.5
 137618,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,683,312,6831231226,12,26,Lainlyn,683.09375,-312.796875,170,Rainforest,Brown,0.5
 137709,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,708,290,7085729029,57,29,Lainlyn,708.4453125,-290.7734375,2,Rainforest,Brown,0.5
@@ -523,7 +520,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137913,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,763,290,76353290122,53,122,Lainlyn,763.4140625,-290.046875,-131,Rainforest,Brown,0.5
 137537,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,697,288,6971328881,13,81,Lainlyn,697.1015625,-288.3671875,132,Rainforest,Brown,0.5
 137411,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,756,295,75695295117,95,117,Lainlyn,756.7421875,-295.0859375,-130,Rainforest,Brown,0.5
-138025,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,706,313,70692313128,92,128,Lainlyn,706.71875,-313,-40,Rainforest,Brown,0.5
+138025,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,706,313,70692313128,92,128,Lainlyn,706.71875,-313.0,-40,Rainforest,Brown,0.5
 137882,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,716,305,7161230591,12,91,Lainlyn,716.09375,-305.2890625,7,Rainforest,Brown,0.5
 138029,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,746,298,7464629828,46,28,Lainlyn,746.359375,-298.78125,-68,Rainforest,Brown,0.5
 137654,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,686,296,6868629636,86,36,Lainlyn,686.671875,-296.71875,37,Rainforest,Brown,0.5
@@ -553,7 +550,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137385,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,677,300,67712530064,125,64,Lainlyn,677.9765625,-300.5,-11,Rainforest,Brown,0.5
 137964,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,689,295,68911229592,112,92,Lainlyn,689.875,-295.28125,108,Rainforest,Brown,0.5
 137579,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,709,294,7095429474,54,74,Lainlyn,709.421875,-294.421875,-32,Rainforest,Brown,0.5
-137734,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,690,288,69012828809,128,9,Lainlyn,691,-288.9296875,-151,Rainforest,Brown,0.5
+137734,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,690,288,69012828809,128,9,Lainlyn,691.0,-288.9296875,-151,Rainforest,Brown,0.5
 137688,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,675,301,6753730198,37,98,Lainlyn,675.2890625,-301.234375,154,Rainforest,Brown,0.5
 138021,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,731,285,73132285122,32,122,Lainlyn,731.25,-285.046875,67,Rainforest,Brown,0.5
 137630,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,679,315,6794231570,42,70,Lainlyn,679.328125,-315.453125,180,Rainforest,Brown,0.5
@@ -618,7 +615,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137845,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,754,312,7546331287,63,87,Lainlyn,754.4921875,-312.3203125,-156,Rainforest,Brown,0.5
 137257,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,673,303,67370303113,70,113,Lainlyn,673.546875,-303.1171875,-78,Rainforest,Brown,0.5
 137314,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,770,309,77010130906,101,6,Lainlyn,770.7890625,-309.953125,-40,Rainforest,Brown,0.5
-137477,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,697,303,69766303128,66,128,Lainlyn,697.515625,-303,86,Rainforest,Brown,0.5
+137477,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,697,303,69766303128,66,128,Lainlyn,697.515625,-303.0,86,Rainforest,Brown,0.5
 137562,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,730,285,73068285112,68,112,Lainlyn,730.53125,-285.125,33,Rainforest,Brown,0.5
 137398,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,770,287,7705228740,52,40,Lainlyn,770.40625,-287.6875,-34,Rainforest,Brown,0.5
 137219,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,730,284,73045284107,45,107,Lainlyn,730.3515625,-284.1640625,-150,Rainforest,Brown,0.5
@@ -643,11 +640,11 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137796,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,735,292,73582292118,82,118,Lainlyn,735.640625,-292.078125,-18,Rainforest,Brown,0.5
 137400,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,694,308,6945530823,55,23,Lainlyn,694.4296875,-308.8203125,-99,Rainforest,Brown,0.5
 137425,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,733,289,7337728963,77,63,Lainlyn,733.6015625,-289.5078125,-51,Rainforest,Brown,0.5
-137381,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,751,304,75112830448,128,48,Lainlyn,752,-304.625,-55,Rainforest,Brown,0.5
+137381,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,751,304,75112830448,128,48,Lainlyn,752.0,-304.625,-55,Rainforest,Brown,0.5
 137665,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,739,301,7398030188,80,88,Lainlyn,739.625,-301.3125,9,Rainforest,Brown,0.5
 137294,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,690,306,69012330670,123,70,Lainlyn,690.9609375,-306.453125,50,Rainforest,Brown,0.5
 138038,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,684,308,6840930847,9,47,Lainlyn,684.0703125,-308.6328125,86,Rainforest,Brown,0.5
-137613,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,679,300,67977300128,77,128,Lainlyn,679.6015625,-300,145,Rainforest,Brown,0.5
+137613,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,679,300,67977300128,77,128,Lainlyn,679.6015625,-300.0,145,Rainforest,Brown,0.5
 137616,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,760,318,7601431879,14,79,Lainlyn,760.109375,-318.3828125,-93,Rainforest,Brown,0.5
 137466,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,696,287,6967128765,71,65,Lainlyn,696.5546875,-287.4921875,-74,Rainforest,Brown,0.5
 137497,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,677,298,67710729853,107,53,Lainlyn,677.8359375,-298.5859375,-97,Rainforest,Brown,0.5
@@ -757,7 +754,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137614,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Small_05,654,285,6546828546,68,46,Lainlyn,654.53125,-285.640625,155,Mountains,Gray,0.5
 137522,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_05,661,298,66168298119,68,119,Lainlyn,661.53125,-298.0703125,79,Mountains,Gray,0.5
 138057,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Small_07,655,289,6558128928,81,28,Lainlyn,655.6328125,-289.78125,82,Mountains,Gray,0.5
-137585,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_05,652,280,65212828004,128,4,Lainlyn,653,-280.96875,132,Mountains,Gray,0.5
+137585,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_05,652,280,65212828004,128,4,Lainlyn,653.0,-280.96875,132,Mountains,Gray,0.5
 137377,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_09,652,291,65252291115,52,115,Lainlyn,652.40625,-291.1015625,-90,Mountains,Gray,0.5
 137454,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_08,663,286,6630428610,4,10,Lainlyn,663.03125,-286.921875,-162,Mountains,Gray,0.5
 137568,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Small_03,665,301,6654130123,41,23,Lainlyn,665.3203125,-301.8203125,-71,Mountains,Gray,0.5
@@ -771,6 +768,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 137391,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_01,663,285,66392285108,92,108,Lainlyn,663.71875,-285.15625,119,Mountains,Gray,0.5
 137457,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Small_03,657,296,65710429695,104,95,Lainlyn,657.8125,-296.2578125,-127,Mountains,Gray,0.5
 137275,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_07,663,301,6636430117,64,17,Lainlyn,663.5,-301.8671875,-143,Mountains,Gray,0.5
-137960,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Small_04,665,285,665108285128,108,128,Lainlyn,665.84375,-285,-39,Mountains,Gray,0.5
+137960,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Small_04,665,285,665108285128,108,128,Lainlyn,665.84375,-285.0,-39,Mountains,Gray,0.5
 137879,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Large_07,649,289,6499928916,99,16,Lainlyn,649.7734375,-289.875,-91,Mountains,Gray,0.5
 137658,Rocks,1,WOD_Rocks_Round_DarkBrown_Grass_Small_08,643,282,64374282105,74,105,Lainlyn,643.578125,-282.1796875,-109,Mountains,Gray,0.5

@@ -15,7 +15,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 53996,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,714,320,71468320104,68,104,Kozanset,714.53125,-320.1875,-62,Rainforest,Brown,0.5
 54997,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,738,327,73807327117,7,117,Kozanset,738.0546875,-327.0859375,-75,Rainforest,Brown,0.5
 55417,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,688,320,68811732054,117,54,Kozanset,688.9140625,-320.578125,20,Rainforest,Brown,0.5
-54294,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,736,326,73669326128,69,128,Kozanset,736.5390625,-326,-50,Rainforest,Brown,0.5
+54294,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,736,326,73669326128,69,128,Kozanset,736.5390625,-326.0,-50,Rainforest,Brown,0.5
 55000,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,723,346,723105346100,105,100,Kozanset,723.8203125,-346.21875,138,Rainforest,Brown,0.5
 53942,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,715,332,71512133208,121,8,Kozanset,715.9453125,-332.9375,138,Rainforest,Brown,0.5
 54220,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,720,336,7206233679,62,79,Kozanset,720.484375,-336.3828125,-178,Rainforest,Brown,0.5
@@ -45,7 +45,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55086,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,707,335,7079633568,96,68,Kozanset,707.75,-335.46875,-35,Rainforest,Brown,0.5
 54268,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,694,333,6940233320,2,20,Kozanset,694.015625,-333.84375,-6,Rainforest,Brown,0.5
 54949,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,720,326,7206332618,63,18,Kozanset,720.4921875,-326.859375,109,Rainforest,Brown,0.5
-54973,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,728,336,72812833603,128,3,Kozanset,729,-336.9765625,98,Rainforest,Brown,0.5
+54973,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,728,336,72812833603,128,3,Kozanset,729.0,-336.9765625,98,Rainforest,Brown,0.5
 54578,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,714,344,71424344115,24,115,Kozanset,714.1875,-344.1015625,58,Rainforest,Brown,0.5
 55045,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,703,324,7035132425,51,25,Kozanset,703.3984375,-324.8046875,-153,Rainforest,Brown,0.5
 54722,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,729,330,72910633008,106,8,Kozanset,729.828125,-330.9375,139,Rainforest,Brown,0.5
@@ -80,7 +80,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55372,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,722,326,7228332676,83,76,Kozanset,722.6484375,-326.40625,109,Rainforest,Brown,0.5
 54701,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,728,315,7280231533,2,33,Kozanset,728.015625,-315.7421875,35,Rainforest,Brown,0.5
 54838,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,720,317,72096317117,96,117,Kozanset,720.75,-317.0859375,-39,Rainforest,Brown,0.5
-55374,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,697,333,69712833371,128,71,Kozanset,698,-333.4453125,12,Rainforest,Brown,0.5
+55374,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,697,333,69712833371,128,71,Kozanset,698.0,-333.4453125,12,Rainforest,Brown,0.5
 54129,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_12,733,314,73321314123,21,123,Kozanset,733.1640625,-314.0390625,158,Rainforest,Brown,0.5
 54488,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,712,350,7128035042,80,42,Kozanset,712.625,-350.671875,34,Rainforest,Brown,0.5
 54710,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,729,340,7292234032,22,32,Kozanset,729.171875,-340.75,-16,Rainforest,Brown,0.5
@@ -181,7 +181,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55138,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,698,317,6985831768,58,68,Kozanset,698.453125,-317.46875,125,Rainforest,Brown,0.5
 55119,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,734,314,7346031412,60,12,Kozanset,734.46875,-314.90625,150,Rainforest,Brown,0.5
 53945,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,697,332,69711332105,11,105,Kozanset,697.0859375,-332.1796875,178,Rainforest,Brown,0.5
-54412,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,711,327,711105327128,105,128,Kozanset,711.8203125,-327,-102,Rainforest,Brown,0.5
+54412,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,711,327,711105327128,105,128,Kozanset,711.8203125,-327.0,-102,Rainforest,Brown,0.5
 54853,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_08,736,320,7363932062,39,62,Kozanset,736.3046875,-320.515625,48,Rainforest,Brown,0.5
 55416,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,720,324,7209332429,93,29,Kozanset,720.7265625,-324.7734375,-171,Rainforest,Brown,0.5
 55609,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,689,328,68986328112,86,112,Kozanset,689.671875,-328.125,-133,Rainforest,Brown,0.5
@@ -199,7 +199,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 53990,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,696,336,6969133607,91,7,Kozanset,696.7109375,-336.9453125,79,Rainforest,Brown,0.5
 54523,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,710,324,7106832490,68,90,Kozanset,710.53125,-324.296875,-18,Rainforest,Brown,0.5
 55506,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,708,336,7088233601,82,1,Kozanset,708.640625,-336.9921875,106,Rainforest,Brown,0.5
-54562,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,710,347,71012834765,128,65,Kozanset,711,-347.4921875,161,Rainforest,Brown,0.5
+54562,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,710,347,71012834765,128,65,Kozanset,711.0,-347.4921875,161,Rainforest,Brown,0.5
 54243,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,731,319,731115319125,115,125,Kozanset,731.8984375,-319.0234375,-128,Rainforest,Brown,0.5
 54310,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,725,333,7250433313,4,13,Kozanset,725.03125,-333.8984375,-49,Rainforest,Brown,0.5
 55127,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,726,316,72611631642,116,42,Kozanset,726.90625,-316.671875,25,Rainforest,Brown,0.5
@@ -408,7 +408,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55104,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,724,352,7249635282,96,82,Kozanset,724.75,-352.359375,2,Rainforest,Brown,0.5
 54305,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,689,327,6898032749,80,49,Kozanset,689.625,-327.6171875,-177,Rainforest,Brown,0.5
 55306,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,701,333,7011533337,15,37,Kozanset,701.1171875,-333.7109375,179,Rainforest,Brown,0.5
-55221,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,716,334,716128334108,128,108,Kozanset,717,-334.15625,65,Rainforest,Brown,0.5
+55221,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,716,334,716128334108,128,108,Kozanset,717.0,-334.15625,65,Rainforest,Brown,0.5
 54834,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,697,331,6978033195,80,95,Kozanset,697.625,-331.2578125,-77,Rainforest,Brown,0.5
 55466,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,731,325,73111332559,113,59,Kozanset,731.8828125,-325.5390625,-136,Rainforest,Brown,0.5
 54285,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,711,324,711121324106,121,106,Kozanset,711.9453125,-324.171875,-90,Rainforest,Brown,0.5
@@ -488,7 +488,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 54542,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,735,330,7357333066,73,66,Kozanset,735.5703125,-330.484375,-173,Rainforest,Brown,0.5
 54202,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,734,324,73410732411,107,11,Kozanset,734.8359375,-324.9140625,-134,Rainforest,Brown,0.5
 55279,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_02,733,330,73319330109,19,109,Kozanset,733.1484375,-330.1484375,-30,Rainforest,Brown,0.5
-55094,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,734,327,734128327105,128,105,Kozanset,735,-327.1796875,-2,Rainforest,Brown,0.5
+55094,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,734,327,734128327105,128,105,Kozanset,735.0,-327.1796875,-2,Rainforest,Brown,0.5
 54181,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,730,339,7304133982,41,82,Kozanset,730.3203125,-339.359375,81,Rainforest,Brown,0.5
 54871,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,703,345,7039734573,97,73,Kozanset,703.7578125,-345.4296875,94,Rainforest,Brown,0.5
 55560,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,725,317,7256231722,62,22,Kozanset,725.484375,-317.828125,127,Rainforest,Brown,0.5
@@ -496,7 +496,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 54132,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,712,334,7122733410,27,10,Kozanset,712.2109375,-334.921875,-141,Rainforest,Brown,0.5
 54889,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,739,323,7395032387,50,87,Kozanset,739.390625,-323.3203125,-109,Rainforest,Brown,0.5
 55459,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,725,332,72517332117,17,117,Kozanset,725.1328125,-332.0859375,-153,Rainforest,Brown,0.5
-54397,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,695,328,695100328128,100,128,Kozanset,695.78125,-328,-153,Rainforest,Brown,0.5
+54397,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,695,328,695100328128,100,128,Kozanset,695.78125,-328.0,-153,Rainforest,Brown,0.5
 54325,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,719,329,7192332992,23,92,Kozanset,719.1796875,-329.28125,-20,Rainforest,Brown,0.5
 54093,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,719,313,71912531341,125,41,Kozanset,719.9765625,-313.6796875,-4,Rainforest,Brown,0.5
 55270,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,690,321,6907032104,70,4,Kozanset,690.546875,-321.96875,20,Rainforest,Brown,0.5
@@ -596,8 +596,8 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55545,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,718,322,71820322117,20,117,Kozanset,718.15625,-322.0859375,-80,Rainforest,Brown,0.5
 54429,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,721,337,7210333710,3,10,Kozanset,721.0234375,-337.921875,-75,Rainforest,Brown,0.5
 54010,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_09,706,321,706119321122,119,122,Kozanset,706.9296875,-321.046875,41,Rainforest,Brown,0.5
-54409,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,710,339,71012833978,128,78,Kozanset,711,-339.390625,-5,Rainforest,Brown,0.5
-54519,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,707,333,707128333111,128,111,Kozanset,708,-333.1328125,-172,Rainforest,Brown,0.5
+54409,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,710,339,71012833978,128,78,Kozanset,711.0,-339.390625,-5,Rainforest,Brown,0.5
+54519,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,707,333,707128333111,128,111,Kozanset,708.0,-333.1328125,-172,Rainforest,Brown,0.5
 54255,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_04,703,339,70311033993,110,93,Kozanset,703.859375,-339.2734375,49,Rainforest,Brown,0.5
 55473,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,708,325,7086332505,63,5,Kozanset,708.4921875,-325.9609375,-110,Rainforest,Brown,0.5
 54680,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,733,324,73312732455,127,55,Kozanset,733.9921875,-324.5703125,-113,Rainforest,Brown,0.5
@@ -777,9 +777,9 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 54938,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_05,689,327,6892032744,20,44,Kozanset,689.15625,-327.65625,-50,Rainforest,Brown,0.5
 54707,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,701,335,70116335109,16,109,Kozanset,701.125,-335.1484375,10,Rainforest,Brown,0.5
 54971,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,706,347,7064534731,45,31,Kozanset,706.3515625,-347.7578125,62,Rainforest,Brown,0.5
-53975,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,723,333,72312833323,128,23,Kozanset,724,-333.8203125,7,Rainforest,Brown,0.5
+53975,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,723,333,72312833323,128,23,Kozanset,724.0,-333.8203125,7,Rainforest,Brown,0.5
 54348,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,717,343,7179134322,91,22,Kozanset,717.7109375,-343.828125,68,Rainforest,Brown,0.5
-54957,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,726,346,72612834666,128,66,Kozanset,727,-346.484375,19,Rainforest,Brown,0.5
+54957,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_07,726,346,72612834666,128,66,Kozanset,727.0,-346.484375,19,Rainforest,Brown,0.5
 53896,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,694,329,69411532935,115,35,Kozanset,694.8984375,-329.7265625,56,Rainforest,Brown,0.5
 54735,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,725,326,72510432697,104,97,Kozanset,725.8125,-326.2421875,139,Rainforest,Brown,0.5
 54601,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,717,327,71711132718,111,18,Kozanset,717.8671875,-327.859375,-171,Rainforest,Brown,0.5
@@ -822,7 +822,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55370,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,718,326,71810732663,107,63,Kozanset,718.8359375,-326.5078125,161,Rainforest,Brown,0.5
 55184,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,709,342,7094634260,46,60,Kozanset,709.359375,-342.53125,146,Rainforest,Brown,0.5
 54606,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,698,330,6988233006,82,6,Kozanset,698.640625,-330.953125,-172,Rainforest,Brown,0.5
-55177,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,690,323,69012832373,128,73,Kozanset,691,-323.4296875,-122,Rainforest,Brown,0.5
+55177,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,690,323,69012832373,128,73,Kozanset,691.0,-323.4296875,-122,Rainforest,Brown,0.5
 55292,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,692,325,69212032557,120,57,Kozanset,692.9375,-325.5546875,121,Rainforest,Brown,0.5
 55070,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,720,338,7202333833,23,33,Kozanset,720.1796875,-338.7421875,7,Rainforest,Brown,0.5
 55605,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,718,342,7189834265,98,65,Kozanset,718.765625,-342.4921875,135,Rainforest,Brown,0.5
@@ -847,7 +847,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 54778,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,721,339,7219933975,99,75,Kozanset,721.7734375,-339.4140625,43,Rainforest,Brown,0.5
 55188,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_06,711,345,7119034585,90,85,Kozanset,711.703125,-345.3359375,84,Rainforest,Brown,0.5
 55572,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,704,319,7046231926,62,26,Kozanset,704.484375,-319.796875,121,Rainforest,Brown,0.5
-54470,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,722,316,72212831699,128,99,Kozanset,723,-316.2265625,107,Rainforest,Brown,0.5
+54470,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,722,316,72212831699,128,99,Kozanset,723.0,-316.2265625,107,Rainforest,Brown,0.5
 54050,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_01,703,325,7031932537,19,37,Kozanset,703.1484375,-325.7109375,83,Rainforest,Brown,0.5
 54552,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,695,318,69512431886,124,86,Kozanset,695.96875,-318.328125,70,Rainforest,Brown,0.5
 55300,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,731,317,7311931783,19,83,Kozanset,731.1484375,-317.3515625,174,Rainforest,Brown,0.5
@@ -926,7 +926,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 54191,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,738,322,7385032236,50,36,Kozanset,738.390625,-322.71875,166,Rainforest,Brown,0.5
 54897,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,716,340,716122340101,122,101,Kozanset,716.953125,-340.2109375,-149,Rainforest,Brown,0.5
 55050,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_06,702,319,7022131907,21,7,Kozanset,702.1640625,-319.9453125,110,Rainforest,Brown,0.5
-55537,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,714,353,71494353128,94,128,Kozanset,714.734375,-353,118,Rainforest,Brown,0.5
+55537,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_07,714,353,71494353128,94,128,Kozanset,714.734375,-353.0,118,Rainforest,Brown,0.5
 55357,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,742,314,7428431448,84,48,Kozanset,742.65625,-314.625,-99,Rainforest,Brown,0.5
 54726,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,722,326,7223232649,32,49,Kozanset,722.25,-326.6171875,-86,Rainforest,Brown,0.5
 54622,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,716,323,7161932360,19,60,Kozanset,716.1484375,-323.53125,64,Rainforest,Brown,0.5
@@ -1148,7 +1148,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 54148,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,708,326,70859326125,59,125,Kozanset,708.4609375,-326.0234375,-92,Rainforest,Brown,0.5
 55458,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,722,342,7220834286,8,86,Kozanset,722.0625,-342.328125,83,Rainforest,Brown,0.5
 55029,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,714,335,71456335102,56,102,Kozanset,714.4375,-335.203125,5,Rainforest,Brown,0.5
-54609,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,712,334,71212833408,128,8,Kozanset,713,-334.9375,-105,Rainforest,Brown,0.5
+54609,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_06,712,334,71212833408,128,8,Kozanset,713.0,-334.9375,-105,Rainforest,Brown,0.5
 55020,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,690,326,6901532697,15,97,Kozanset,690.1171875,-326.2421875,-142,Rainforest,Brown,0.5
 54442,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,743,320,74311432066,114,66,Kozanset,743.890625,-320.484375,110,Rainforest,Brown,0.5
 54278,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_08,735,315,73510031516,100,16,Kozanset,735.78125,-315.875,88,Rainforest,Brown,0.5
@@ -1165,7 +1165,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 54077,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,712,334,7128133451,81,51,Kozanset,712.6328125,-334.6015625,92,Rainforest,Brown,0.5
 54281,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,724,329,7242432923,24,23,Kozanset,724.1875,-329.8203125,156,Rainforest,Brown,0.5
 55193,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,695,319,69512231931,122,31,Kozanset,695.953125,-319.7578125,36,Rainforest,Brown,0.5
-53869,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,706,337,706128337116,128,116,Kozanset,707,-337.09375,142,Rainforest,Brown,0.5
+53869,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,706,337,706128337116,128,116,Kozanset,707.0,-337.09375,142,Rainforest,Brown,0.5
 55016,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,722,318,7229531850,95,50,Kozanset,722.7421875,-318.609375,-37,Rainforest,Brown,0.5
 55060,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_08,700,337,700103337107,103,107,Kozanset,700.8046875,-337.1640625,-72,Rainforest,Brown,0.5
 54327,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,728,346,7285534602,55,2,Kozanset,728.4296875,-346.984375,137,Rainforest,Brown,0.5
@@ -1334,7 +1334,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55442,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,732,314,73206314101,6,101,Kozanset,732.046875,-314.2109375,-48,Rainforest,Brown,0.5
 54880,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,715,328,71512532860,125,60,Kozanset,715.9765625,-328.53125,-65,Rainforest,Brown,0.5
 55397,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,729,330,7296033060,60,60,Kozanset,729.46875,-330.53125,149,Rainforest,Brown,0.5
-54339,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,695,317,69512831714,128,14,Kozanset,696,-317.890625,148,Rainforest,Brown,0.5
+54339,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,695,317,69512831714,128,14,Kozanset,696.0,-317.890625,148,Rainforest,Brown,0.5
 55204,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_08,700,333,7007233388,72,88,Kozanset,700.5625,-333.3125,38,Rainforest,Brown,0.5
 55558,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_01,735,320,73510732094,107,94,Kozanset,735.8359375,-320.265625,56,Rainforest,Brown,0.5
 54561,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_10,728,340,7288034047,80,47,Kozanset,728.625,-340.6328125,-46,Rainforest,Brown,0.5
@@ -1379,7 +1379,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 53898,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_03,717,353,71709353103,9,103,Kozanset,717.0703125,-353.1953125,95,Rainforest,Brown,0.5
 54546,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,704,341,7040934164,9,64,Kozanset,704.0703125,-341.5,-37,Rainforest,Brown,0.5
 54790,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_04,733,329,7337432921,74,21,Kozanset,733.578125,-329.8359375,126,Rainforest,Brown,0.5
-53859,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,702,337,70288337128,88,128,Kozanset,702.6875,-337,-157,Rainforest,Brown,0.5
+53859,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_02,702,337,70288337128,88,128,Kozanset,702.6875,-337.0,-157,Rainforest,Brown,0.5
 53840,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_09,713,331,71351331121,51,121,Kozanset,713.3984375,-331.0546875,95,Rainforest,Brown,0.5
 54169,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,705,324,70542324113,42,113,Kozanset,705.328125,-324.1171875,-145,Rainforest,Brown,0.5
 54772,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_05,714,318,71485318103,85,103,Kozanset,714.6640625,-318.1953125,170,Rainforest,Brown,0.5
@@ -1388,7 +1388,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55400,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,728,321,728107321119,107,119,Kozanset,728.8359375,-321.0703125,155,Rainforest,Brown,0.5
 54776,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,726,325,726101325100,101,100,Kozanset,726.7890625,-325.21875,-110,Rainforest,Brown,0.5
 55390,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,715,322,7155732253,57,53,Kozanset,715.4453125,-322.5859375,38,Rainforest,Brown,0.5
-54681,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,715,313,715113313128,113,128,Kozanset,715.8828125,-313,-176,Rainforest,Brown,0.5
+54681,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,715,313,715113313128,113,128,Kozanset,715.8828125,-313.0,-176,Rainforest,Brown,0.5
 54416,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,701,337,7016233771,62,71,Kozanset,701.484375,-337.4453125,139,Rainforest,Brown,0.5
 54684,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,720,350,72084350113,84,113,Kozanset,720.65625,-350.1171875,-2,Rainforest,Brown,0.5
 54454,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_09,718,316,71811031682,110,82,Kozanset,718.859375,-316.359375,-75,Rainforest,Brown,0.5
@@ -1578,7 +1578,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 55394,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_04,696,330,6967033026,70,26,Kozanset,696.546875,-330.796875,160,Rainforest,Brown,0.5
 55199,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_01,711,346,7117734647,77,47,Kozanset,711.6015625,-346.6328125,152,Rainforest,Brown,0.5
 54263,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,722,333,7222233385,22,85,Kozanset,722.171875,-333.3359375,-129,Rainforest,Brown,0.5
-55404,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,702,328,70278328128,78,128,Kozanset,702.609375,-328,162,Rainforest,Brown,0.5
+55404,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,702,328,70278328128,78,128,Kozanset,702.609375,-328.0,162,Rainforest,Brown,0.5
 54087,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_08,738,320,73830320100,30,100,Kozanset,738.234375,-320.21875,98,Rainforest,Brown,0.5
 53919,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_02,705,340,70510334093,103,93,Kozanset,705.8046875,-340.2734375,-124,Rainforest,Brown,0.5
 55118,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_08,727,313,7270131350,1,50,Kozanset,727.0078125,-313.609375,129,Rainforest,Brown,0.5
@@ -1675,7 +1675,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 53864,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_03,694,331,6949633160,96,60,Kozanset,694.75,-331.53125,114,Rainforest,Brown,0.5
 55137,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_03,710,342,7105434277,54,77,Kozanset,710.421875,-342.3984375,134,Rainforest,Brown,0.5
 54065,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_10,727,336,7270333612,3,12,Kozanset,727.0234375,-336.90625,-43,Rainforest,Brown,0.5
-55428,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,696,320,69612832037,128,37,Kozanset,697,-320.7109375,-160,Rainforest,Brown,0.5
+55428,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,696,320,69612832037,128,37,Kozanset,697.0,-320.7109375,-160,Rainforest,Brown,0.5
 54692,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Medium_11,717,314,7173331460,33,60,Kozanset,717.2578125,-314.53125,12,Rainforest,Brown,0.5
 54520,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Small_05,724,331,7242433196,24,96,Kozanset,724.1875,-331.25,-147,Rainforest,Brown,0.5
 54079,Rocks,1,WOD_Rocks_RoundSpiky_Brown_Grass_Large_07,720,344,720114344118,114,118,Kozanset,720.890625,-344.078125,-173,Rainforest,Brown,0.5

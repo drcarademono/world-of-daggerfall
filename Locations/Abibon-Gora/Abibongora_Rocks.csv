@@ -23,7 +23,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129383,Rocks,1,WOD_Rocks_Round_Brown_Small_02,186,452,18610545278,105,78,Abibon-gora,186.8203125,-452.390625,-112,Subtropical,Brown,0.5
 128798,Rocks,1,WOD_Rocks_Round_Brown_Large_05,182,454,1820445481,4,81,Abibon-gora,182.03125,-454.3671875,1,Subtropical,Brown,0.5
 129327,Rocks,1,WOD_Rocks_Round_Brown_Large_02,191,455,1919745513,97,13,Abibon-gora,191.7578125,-455.8984375,-69,Subtropical,Brown,0.5
-128257,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,187,458,18796458128,96,128,Abibon-gora,187.75,-458,112,Subtropical,Brown,0.5
+128257,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,187,458,18796458128,96,128,Abibon-gora,187.75,-458.0,112,Subtropical,Brown,0.5
 128626,Rocks,1,WOD_Rocks_Round_Brown_Large_02,197,466,19705466106,5,106,Abibon-gora,197.0390625,-466.171875,127,Subtropical,Brown,0.5
 128830,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,159,484,159118484119,118,119,Abibon-gora,159.921875,-484.0703125,28,Subtropical,Brown,0.5
 128273,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,159,492,1598349236,83,36,Abibon-gora,159.6484375,-492.71875,152,Subtropical,Brown,0.5
@@ -49,7 +49,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129325,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,146,499,14609499105,9,105,Abibon-gora,146.0703125,-499.1796875,-52,Subtropical,Brown,0.5
 129394,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,192,455,1929145552,91,52,Abibon-gora,192.7109375,-455.59375,-152,Subtropical,Brown,0.5
 128366,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,194,456,1948245604,82,4,Abibon-gora,194.640625,-456.96875,172,Subtropical,Brown,0.5
-129572,Rocks,1,WOD_Rocks_Round_Brown_Small_07,140,496,14012849651,128,51,Abibon-gora,141,-496.6015625,-77,Subtropical,Brown,0.5
+129572,Rocks,1,WOD_Rocks_Round_Brown_Small_07,140,496,14012849651,128,51,Abibon-gora,141.0,-496.6015625,-77,Subtropical,Brown,0.5
 128423,Rocks,1,WOD_Rocks_Round_Brown_Small_04,166,490,1665249036,52,36,Abibon-gora,166.40625,-490.71875,-51,Subtropical,Brown,0.5
 128848,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,167,495,1677549598,75,98,Abibon-gora,167.5859375,-495.234375,88,Subtropical,Brown,0.5
 128709,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,176,469,17610746995,107,95,Abibon-gora,176.8359375,-469.2578125,175,Subtropical,Brown,0.5
@@ -57,7 +57,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129372,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,179,490,17912749072,127,72,Abibon-gora,179.9921875,-490.4375,141,Subtropical,Brown,0.5
 128852,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,181,462,1817946286,79,86,Abibon-gora,181.6171875,-462.328125,66,Subtropical,Brown,0.5
 129336,Rocks,1,WOD_Rocks_Round_Brown_Small_06,170,490,17072490100,72,100,Abibon-gora,170.5625,-490.21875,66,Subtropical,Brown,0.5
-128563,Rocks,1,WOD_Rocks_Round_Brown_Small_06,173,499,17326499128,26,128,Abibon-gora,173.203125,-499,-107,Subtropical,Brown,0.5
+128563,Rocks,1,WOD_Rocks_Round_Brown_Small_06,173,499,17326499128,26,128,Abibon-gora,173.203125,-499.0,-107,Subtropical,Brown,0.5
 128533,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,203,496,2030949686,9,86,Abibon-gora,203.0703125,-496.328125,118,Subtropical,Brown,0.5
 129348,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,212,495,21211349521,113,21,Abibon-gora,212.8828125,-495.8359375,169,Subtropical,Brown,0.5
 129441,Rocks,1,WOD_Rocks_Round_Brown_Large_02,166,491,16688491121,88,121,Abibon-gora,166.6875,-491.0546875,147,Subtropical,Brown,0.5
@@ -89,7 +89,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129238,Rocks,1,WOD_Rocks_Round_Brown_Small_09,167,480,1671748098,17,98,Abibon-gora,167.1328125,-480.234375,15,Subtropical,Brown,0.5
 128342,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,179,472,1793547249,35,49,Abibon-gora,179.2734375,-472.6171875,-166,Subtropical,Brown,0.5
 129439,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,172,482,17246482124,46,124,Abibon-gora,172.359375,-482.03125,-135,Subtropical,Brown,0.5
-128793,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,167,477,1676447714,64,14,Abibon-gora,167.5,-477.890625,-99,Ocean,Brown,0.5
 129423,Rocks,1,WOD_Rocks_Round_Brown_Large_09,137,499,1370149980,1,80,Abibon-gora,137.0078125,-499.375,-87,Subtropical,Brown,0.5
 129366,Rocks,1,WOD_Rocks_Round_Brown_Small_10,196,497,1965849740,58,40,Abibon-gora,196.453125,-497.6875,-54,Subtropical,Brown,0.5
 128551,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,172,479,172107479112,107,112,Abibon-gora,172.8359375,-479.125,65,Subtropical,Brown,0.5
@@ -98,7 +97,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129553,Rocks,1,WOD_Rocks_Round_Brown_Small_06,181,475,18116475118,16,118,Abibon-gora,181.125,-475.078125,-135,Subtropical,Brown,0.5
 129124,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,176,451,1763445189,34,89,Abibon-gora,176.265625,-451.3046875,-77,Subtropical,Brown,0.5
 128842,Rocks,1,WOD_Rocks_Round_Brown_Small_06,186,478,1869447891,94,91,Abibon-gora,186.734375,-478.2890625,-7,Subtropical,Brown,0.5
-129099,Rocks,1,WOD_Rocks_Round_Brown_Small_03,171,496,17112849679,128,79,Abibon-gora,172,-496.3828125,-115,Subtropical,Brown,0.5
+129099,Rocks,1,WOD_Rocks_Round_Brown_Small_03,171,496,17112849679,128,79,Abibon-gora,172.0,-496.3828125,-115,Subtropical,Brown,0.5
 128707,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,212,487,21208487108,8,108,Abibon-gora,212.0625,-487.15625,-106,Subtropical,Brown,0.5
 128511,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,200,494,2008749457,87,57,Abibon-gora,200.6796875,-494.5546875,98,Subtropical,Brown,0.5
 129362,Rocks,1,WOD_Rocks_Round_Brown_Small_06,199,467,19954467117,54,117,Abibon-gora,199.421875,-467.0859375,8,Subtropical,Brown,0.5
@@ -168,11 +167,11 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129524,Rocks,1,WOD_Rocks_Round_Brown_Large_08,197,496,1971349654,13,54,Abibon-gora,197.1015625,-496.578125,-97,Subtropical,Brown,0.5
 129361,Rocks,1,WOD_Rocks_Round_Brown_Small_05,185,498,1854049872,40,72,Abibon-gora,185.3125,-498.4375,-24,Subtropical,Brown,0.5
 128444,Rocks,1,WOD_Rocks_Round_Brown_Small_06,212,485,2129648594,96,94,Abibon-gora,212.75,-485.265625,-68,Subtropical,Brown,0.5
-128340,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,193,491,19337491128,37,128,Abibon-gora,193.2890625,-491,-98,Subtropical,Brown,0.5
+128340,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,193,491,19337491128,37,128,Abibon-gora,193.2890625,-491.0,-98,Subtropical,Brown,0.5
 129417,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,212,497,2125649749,56,49,Abibon-gora,212.4375,-497.6171875,-2,Subtropical,Brown,0.5
 128902,Rocks,1,WOD_Rocks_Round_Brown_Small_10,176,499,1769149987,91,87,Abibon-gora,176.7109375,-499.3203125,-42,Subtropical,Brown,0.5
 129284,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,179,464,1795546415,55,15,Abibon-gora,179.4296875,-464.8828125,-147,Subtropical,Brown,0.5
-129528,Rocks,1,WOD_Rocks_Round_Brown_Small_04,168,499,168125499128,125,128,Abibon-gora,168.9765625,-499,133,Subtropical,Brown,0.5
+129528,Rocks,1,WOD_Rocks_Round_Brown_Small_04,168,499,168125499128,125,128,Abibon-gora,168.9765625,-499.0,133,Subtropical,Brown,0.5
 128749,Rocks,1,WOD_Rocks_Round_Brown_Large_04,212,488,21205488102,5,102,Abibon-gora,212.0390625,-488.203125,169,Subtropical,Brown,0.5
 128506,Rocks,1,WOD_Rocks_Round_Brown_Small_07,191,456,1915145668,51,68,Abibon-gora,191.3984375,-456.46875,83,Subtropical,Brown,0.5
 128734,Rocks,1,WOD_Rocks_Round_Brown_Large_09,187,489,1873748969,37,69,Abibon-gora,187.2890625,-489.4609375,180,Subtropical,Brown,0.5
@@ -225,7 +224,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128434,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,205,481,20557481102,57,102,Abibon-gora,205.4453125,-481.203125,-123,Subtropical,Brown,0.5
 128634,Rocks,1,WOD_Rocks_Round_Brown_Small_06,176,474,1769247414,92,14,Abibon-gora,176.71875,-474.890625,-167,Subtropical,Brown,0.5
 129562,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,160,484,1609148484,91,84,Abibon-gora,160.7109375,-484.34375,53,Subtropical,Brown,0.5
-129329,Rocks,1,WOD_Rocks_Round_Brown_Large_05,145,491,14510549108,105,8,Abibon-gora,145.8203125,-491.9375,174,Ocean,Brown,0.5
 128229,Rocks,1,WOD_Rocks_Round_Brown_Small_06,180,486,1804648626,46,26,Abibon-gora,180.359375,-486.796875,-61,Subtropical,Brown,0.5
 129199,Rocks,1,WOD_Rocks_Round_Brown_Small_10,200,469,2002746938,27,38,Abibon-gora,200.2109375,-469.703125,-120,Subtropical,Brown,0.5
 128890,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,173,482,1739648211,96,11,Abibon-gora,173.75,-482.9140625,46,Subtropical,Brown,0.5
@@ -234,7 +232,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129586,Rocks,1,WOD_Rocks_Round_Brown_Large_07,174,462,1746346224,63,24,Abibon-gora,174.4921875,-462.8125,6,Subtropical,Brown,0.5
 128394,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,190,455,1909745524,97,24,Abibon-gora,190.7578125,-455.8125,-25,Subtropical,Brown,0.5
 128601,Rocks,1,WOD_Rocks_Round_Brown_Small_10,199,498,19912249864,122,64,Abibon-gora,199.953125,-498.5,117,Subtropical,Brown,0.5
-128264,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,148,494,148106494128,106,128,Abibon-gora,148.828125,-494,178,Subtropical,Brown,0.5
+128264,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,148,494,148106494128,106,128,Abibon-gora,148.828125,-494.0,178,Subtropical,Brown,0.5
 128727,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,176,484,1767348422,73,22,Abibon-gora,176.5703125,-484.828125,-94,Subtropical,Brown,0.5
 128948,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,201,484,2011648461,16,61,Abibon-gora,201.125,-484.5234375,135,Subtropical,Brown,0.5
 129393,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,199,469,19989469112,89,112,Abibon-gora,199.6953125,-469.125,163,Subtropical,Brown,0.5
@@ -295,7 +293,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128405,Rocks,1,WOD_Rocks_Round_Brown_Small_09,194,465,1943046584,30,84,Abibon-gora,194.234375,-465.34375,49,Subtropical,Brown,0.5
 128368,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,168,487,1680648773,6,73,Abibon-gora,168.046875,-487.4296875,-37,Subtropical,Brown,0.5
 129049,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,152,490,15212449018,124,18,Abibon-gora,152.96875,-490.859375,-131,Subtropical,Brown,0.5
-128857,Rocks,1,WOD_Rocks_Round_Brown_Large_04,160,476,16011747655,117,55,Abibon-gora,160.9140625,-476.5703125,122,Ocean,Brown,0.5
 128244,Rocks,1,WOD_Rocks_Round_Brown_Small_07,182,451,1820445108,4,8,Abibon-gora,182.03125,-451.9375,116,Subtropical,Brown,0.5
 128370,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,179,465,17919465116,19,116,Abibon-gora,179.1484375,-465.09375,-56,Subtropical,Brown,0.5
 129282,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,171,480,171109480109,109,109,Abibon-gora,171.8515625,-480.1484375,71,Subtropical,Brown,0.5
@@ -354,7 +351,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128832,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,205,479,2058347906,83,6,Abibon-gora,205.6484375,-479.953125,-43,Subtropical,Brown,0.5
 128605,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,201,470,201121470105,121,105,Abibon-gora,201.9453125,-470.1796875,-80,Subtropical,Brown,0.5
 129551,Rocks,1,WOD_Rocks_Round_Brown_Small_04,196,477,1968847725,88,25,Abibon-gora,196.6875,-477.8046875,127,Subtropical,Brown,0.5
-129139,Rocks,1,WOD_Rocks_Round_Brown_Small_08,195,472,19515472128,15,128,Abibon-gora,195.1171875,-472,144,Subtropical,Brown,0.5
+129139,Rocks,1,WOD_Rocks_Round_Brown_Small_08,195,472,19515472128,15,128,Abibon-gora,195.1171875,-472.0,144,Subtropical,Brown,0.5
 129600,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,185,494,18511049442,110,42,Abibon-gora,185.859375,-494.671875,-8,Subtropical,Brown,0.5
 129184,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,177,480,17704480109,4,109,Abibon-gora,177.03125,-480.1484375,2,Subtropical,Brown,0.5
 128920,Rocks,1,WOD_Rocks_Round_Brown_Small_07,151,487,1519548756,95,56,Abibon-gora,151.7421875,-487.5625,-16,Subtropical,Brown,0.5
@@ -456,7 +453,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128467,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,205,466,20511646673,116,73,Abibon-gora,205.90625,-466.4296875,127,Subtropical,Brown,0.5
 129115,Rocks,1,WOD_Rocks_Round_Brown_Small_03,180,475,1804647561,46,61,Abibon-gora,180.359375,-475.5234375,24,Subtropical,Brown,0.5
 128694,Rocks,1,WOD_Rocks_Round_Brown_Large_01,159,497,15910349792,103,92,Abibon-gora,159.8046875,-497.28125,-170,Subtropical,Brown,0.5
-128618,Rocks,1,WOD_Rocks_Round_Brown_Small_06,188,474,18812847435,128,35,Abibon-gora,189,-474.7265625,113,Subtropical,Brown,0.5
+128618,Rocks,1,WOD_Rocks_Round_Brown_Small_06,188,474,18812847435,128,35,Abibon-gora,189.0,-474.7265625,113,Subtropical,Brown,0.5
 128332,Rocks,1,WOD_Rocks_Round_Brown_Large_07,200,495,20012549590,125,90,Abibon-gora,200.9765625,-495.296875,165,Subtropical,Brown,0.5
 128781,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,196,457,19610945759,109,59,Abibon-gora,196.8515625,-457.5390625,-142,Subtropical,Brown,0.5
 128788,Rocks,1,WOD_Rocks_Round_Brown_Small_05,174,494,17410949472,109,72,Abibon-gora,174.8515625,-494.4375,60,Subtropical,Brown,0.5
@@ -466,7 +463,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129294,Rocks,1,WOD_Rocks_Round_Brown_Small_01,162,478,1626047828,60,28,Abibon-gora,162.46875,-478.78125,-159,Subtropical,Brown,0.5
 129554,Rocks,1,WOD_Rocks_Round_Brown_Small_08,200,490,2000949017,9,17,Abibon-gora,200.0703125,-490.8671875,9,Subtropical,Brown,0.5
 129186,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,183,477,1838847713,88,13,Abibon-gora,183.6875,-477.8984375,-71,Subtropical,Brown,0.5
-128453,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,193,459,193115459128,115,128,Abibon-gora,193.8984375,-459,1,Subtropical,Brown,0.5
+128453,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,193,459,193115459128,115,128,Abibon-gora,193.8984375,-459.0,1,Subtropical,Brown,0.5
 129085,Rocks,1,WOD_Rocks_Round_Brown_Small_09,205,494,2052149445,21,45,Abibon-gora,205.1640625,-494.6484375,-38,Subtropical,Brown,0.5
 128771,Rocks,1,WOD_Rocks_Round_Brown_Small_02,152,497,1521749762,17,62,Abibon-gora,152.1328125,-497.515625,45,Subtropical,Brown,0.5
 128944,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,179,471,17910047116,100,16,Abibon-gora,179.78125,-471.875,101,Subtropical,Brown,0.5
@@ -507,14 +504,14 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128739,Rocks,1,WOD_Rocks_Round_Brown_Small_07,157,486,1572448633,24,33,Abibon-gora,157.1875,-486.7421875,-45,Subtropical,Brown,0.5
 129408,Rocks,1,WOD_Rocks_Round_Brown_Small_07,173,483,1732448376,24,76,Abibon-gora,173.1875,-483.40625,83,Subtropical,Brown,0.5
 129292,Rocks,1,WOD_Rocks_Round_Brown_Large_06,181,481,1810248163,2,63,Abibon-gora,181.015625,-481.5078125,80,Subtropical,Brown,0.5
-128580,Rocks,1,WOD_Rocks_Round_Brown_Small_05,153,490,15355490128,55,128,Abibon-gora,153.4296875,-490,119,Subtropical,Brown,0.5
+128580,Rocks,1,WOD_Rocks_Round_Brown_Small_05,153,490,15355490128,55,128,Abibon-gora,153.4296875,-490.0,119,Subtropical,Brown,0.5
 129576,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,198,497,1982849795,28,95,Abibon-gora,198.21875,-497.2578125,-180,Subtropical,Brown,0.5
 128289,Rocks,1,WOD_Rocks_Round_Brown_Small_09,186,478,1862247858,22,58,Abibon-gora,186.171875,-478.546875,153,Subtropical,Brown,0.5
 128415,Rocks,1,WOD_Rocks_Round_Brown_Large_02,152,485,15212048538,120,38,Abibon-gora,152.9375,-485.703125,-179,Subtropical,Brown,0.5
 129364,Rocks,1,WOD_Rocks_Round_Brown_Small_08,184,487,1847148774,71,74,Abibon-gora,184.5546875,-487.421875,-42,Subtropical,Brown,0.5
 129167,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,205,481,20511148188,111,88,Abibon-gora,205.8671875,-481.3125,26,Subtropical,Brown,0.5
 128558,Rocks,1,WOD_Rocks_Round_Brown_Large_08,192,487,19210948788,109,88,Abibon-gora,192.8515625,-487.3125,-136,Subtropical,Brown,0.5
-128569,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,213,490,21312849083,128,83,Abibon-gora,214,-490.3515625,-115,,Brown,0.5
+128569,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,213,490,21312849083,128,83,Abibon-gora,214.0,-490.3515625,-115,,Brown,0.5
 129112,Rocks,1,WOD_Rocks_Round_Brown_Large_08,180,489,1804148969,41,69,Abibon-gora,180.3203125,-489.4609375,-12,Subtropical,Brown,0.5
 129090,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,189,452,1894645288,46,88,Abibon-gora,189.359375,-452.3125,-34,Subtropical,Brown,0.5
 129443,Rocks,1,WOD_Rocks_Round_Brown_Large_04,174,454,1745645455,56,55,Abibon-gora,174.4375,-454.5703125,105,Subtropical,Brown,0.5
@@ -525,7 +522,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128468,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,174,488,1745248870,52,70,Abibon-gora,174.40625,-488.453125,74,Subtropical,Brown,0.5
 129447,Rocks,1,WOD_Rocks_Round_Brown_Small_01,186,478,1868747836,87,36,Abibon-gora,186.6796875,-478.71875,134,Subtropical,Brown,0.5
 129140,Rocks,1,WOD_Rocks_Round_Brown_Small_09,184,466,1844746612,47,12,Abibon-gora,184.3671875,-466.90625,117,Subtropical,Brown,0.5
-128932,Rocks,1,WOD_Rocks_Round_Brown_Large_01,153,493,15312849396,128,96,Abibon-gora,154,-493.25,-157,Subtropical,Brown,0.5
+128932,Rocks,1,WOD_Rocks_Round_Brown_Large_01,153,493,15312849396,128,96,Abibon-gora,154.0,-493.25,-157,Subtropical,Brown,0.5
 128989,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,199,499,1994349993,43,93,Abibon-gora,199.3359375,-499.2734375,93,Subtropical,Brown,0.5
 129052,Rocks,1,WOD_Rocks_Round_Brown_Large_04,151,487,15110248737,102,37,Abibon-gora,151.796875,-487.7109375,46,Subtropical,Brown,0.5
 129314,Rocks,1,WOD_Rocks_Round_Brown_Small_03,160,490,1602249047,22,47,Abibon-gora,160.171875,-490.6328125,16,Subtropical,Brown,0.5
@@ -606,7 +603,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129445,Rocks,1,WOD_Rocks_Round_Brown_Large_07,185,462,1855046220,50,20,Abibon-gora,185.390625,-462.84375,60,Subtropical,Brown,0.5
 129095,Rocks,1,WOD_Rocks_Round_Brown_Large_07,179,453,179122453114,122,114,Abibon-gora,179.953125,-453.109375,-48,Subtropical,Brown,0.5
 128620,Rocks,1,WOD_Rocks_Round_Brown_Small_09,191,470,19111247001,112,1,Abibon-gora,191.875,-470.9921875,-12,Subtropical,Brown,0.5
-128999,Rocks,1,WOD_Rocks_Round_Brown_Small_04,186,461,18662461128,62,128,Abibon-gora,186.484375,-461,-129,Subtropical,Brown,0.5
+128999,Rocks,1,WOD_Rocks_Round_Brown_Small_04,186,461,18662461128,62,128,Abibon-gora,186.484375,-461.0,-129,Subtropical,Brown,0.5
 129200,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,180,479,18010747971,107,71,Abibon-gora,180.8359375,-479.4453125,72,Subtropical,Brown,0.5
 128430,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,183,469,1834246928,42,28,Abibon-gora,183.328125,-469.78125,161,Subtropical,Brown,0.5
 129533,Rocks,1,WOD_Rocks_Round_Brown_Small_10,178,455,1789145596,91,96,Abibon-gora,178.7109375,-455.25,-86,Subtropical,Brown,0.5
@@ -645,7 +642,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128657,Rocks,1,WOD_Rocks_Round_Brown_Small_07,166,493,16611349365,113,65,Abibon-gora,166.8828125,-493.4921875,104,Subtropical,Brown,0.5
 129081,Rocks,1,WOD_Rocks_Round_Brown_Small_03,176,494,1764449415,44,15,Abibon-gora,176.34375,-494.8828125,-142,Subtropical,Brown,0.5
 128925,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,182,488,1822048857,20,57,Abibon-gora,182.15625,-488.5546875,10,Subtropical,Brown,0.5
-128451,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,203,466,20325466128,25,128,Abibon-gora,203.1953125,-466,-69,Subtropical,Brown,0.5
+128451,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,203,466,20325466128,25,128,Abibon-gora,203.1953125,-466.0,-69,Subtropical,Brown,0.5
 129319,Rocks,1,WOD_Rocks_Round_Brown_Small_08,205,462,2059446207,94,7,Abibon-gora,205.734375,-462.9453125,-75,Subtropical,Brown,0.5
 128253,Rocks,1,WOD_Rocks_Round_Brown_Small_02,168,480,1680848087,8,87,Abibon-gora,168.0625,-480.3203125,146,Subtropical,Brown,0.5
 128884,Rocks,1,WOD_Rocks_Round_Brown_Small_09,203,480,2033948024,39,24,Abibon-gora,203.3046875,-480.8125,61,Subtropical,Brown,0.5
@@ -740,7 +737,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128312,Rocks,1,WOD_Rocks_Round_Brown_Large_04,195,478,19512247870,122,70,Abibon-gora,195.953125,-478.453125,175,Subtropical,Brown,0.5
 129402,Rocks,1,WOD_Rocks_Round_Brown_Large_09,206,464,20611546434,115,34,Abibon-gora,206.8984375,-464.734375,-4,Subtropical,Brown,0.5
 128829,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,187,476,1877747692,77,92,Abibon-gora,187.6015625,-476.28125,-180,Subtropical,Brown,0.5
-128640,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,206,468,20612846865,128,65,Abibon-gora,207,-468.4921875,133,Subtropical,Brown,0.5
+128640,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,206,468,20612846865,128,65,Abibon-gora,207.0,-468.4921875,133,Subtropical,Brown,0.5
 129490,Rocks,1,WOD_Rocks_Round_Brown_Small_07,164,489,1643048978,30,78,Abibon-gora,164.234375,-489.390625,125,Subtropical,Brown,0.5
 128294,Rocks,1,WOD_Rocks_Round_Brown_Small_03,200,459,2006245902,62,2,Abibon-gora,200.484375,-459.984375,-60,Subtropical,Brown,0.5
 129413,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,170,467,17048467116,48,116,Abibon-gora,170.375,-467.09375,106,Subtropical,Brown,0.5
@@ -762,7 +759,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129424,Rocks,1,WOD_Rocks_Round_Brown_Small_01,191,499,1913449970,34,70,Abibon-gora,191.265625,-499.453125,7,Subtropical,Brown,0.5
 128566,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,141,499,1417949976,79,76,Abibon-gora,141.6171875,-499.40625,-130,Subtropical,Brown,0.5
 129469,Rocks,1,WOD_Rocks_Round_Brown_Small_03,187,494,18711749425,117,25,Abibon-gora,187.9140625,-494.8046875,-48,Subtropical,Brown,0.5
-128433,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,147,491,147117491128,117,128,Abibon-gora,147.9140625,-491,20,,Brown,0.5
+128433,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,147,491,147117491128,117,128,Abibon-gora,147.9140625,-491.0,20,,Brown,0.5
 129418,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,198,491,19811049126,110,26,Abibon-gora,198.859375,-491.796875,28,Subtropical,Brown,0.5
 128872,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,195,492,1956049290,60,90,Abibon-gora,195.46875,-492.296875,-49,Subtropical,Brown,0.5
 128282,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,198,469,1980146980,1,80,Abibon-gora,198.0078125,-469.375,-85,Subtropical,Brown,0.5
@@ -870,7 +867,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129187,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,162,495,1623549516,35,16,Abibon-gora,162.2734375,-495.875,29,Subtropical,Brown,0.5
 128824,Rocks,1,WOD_Rocks_Round_Brown_Small_05,187,487,1870548737,5,37,Abibon-gora,187.0390625,-487.7109375,55,Subtropical,Brown,0.5
 128442,Rocks,1,WOD_Rocks_Round_Brown_Small_03,195,489,1955748966,57,66,Abibon-gora,195.4453125,-489.484375,-134,Subtropical,Brown,0.5
-129565,Rocks,1,WOD_Rocks_Round_Brown_Large_08,173,494,17386494128,86,128,Abibon-gora,173.671875,-494,83,Subtropical,Brown,0.5
+129565,Rocks,1,WOD_Rocks_Round_Brown_Large_08,173,494,17386494128,86,128,Abibon-gora,173.671875,-494.0,83,Subtropical,Brown,0.5
 128432,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,213,484,2132548494,25,94,Abibon-gora,213.1953125,-484.265625,-133,Subtropical,Brown,0.5
 128790,Rocks,1,WOD_Rocks_Round_Brown_Small_08,206,485,2060348591,3,91,Abibon-gora,206.0234375,-485.2890625,169,Subtropical,Brown,0.5
 129148,Rocks,1,WOD_Rocks_Round_Brown_Large_06,200,469,20011646965,116,65,Abibon-gora,200.90625,-469.4921875,-171,Subtropical,Brown,0.5
@@ -880,7 +877,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129482,Rocks,1,WOD_Rocks_Round_Brown_Large_06,206,488,2068848870,88,70,Abibon-gora,206.6875,-488.453125,-22,Subtropical,Brown,0.5
 129285,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,173,479,1734747951,47,51,Abibon-gora,173.3671875,-479.6015625,-167,Subtropical,Brown,0.5
 128461,Rocks,1,WOD_Rocks_Round_Brown_Large_09,184,463,18447463108,47,108,Abibon-gora,184.3671875,-463.15625,121,Subtropical,Brown,0.5
-129069,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,198,466,19812846615,128,15,Abibon-gora,199,-466.8828125,23,Subtropical,Brown,0.5
+129069,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,198,466,19812846615,128,15,Abibon-gora,199.0,-466.8828125,23,Subtropical,Brown,0.5
 129213,Rocks,1,WOD_Rocks_Round_Brown_Small_01,189,495,1898849560,88,60,Abibon-gora,189.6875,-495.53125,104,Subtropical,Brown,0.5
 128452,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,156,483,1564748321,47,21,Abibon-gora,156.3671875,-483.8359375,136,Subtropical,Brown,0.5
 128776,Rocks,1,WOD_Rocks_Round_Brown_Small_10,205,481,2051848160,18,60,Abibon-gora,205.140625,-481.53125,45,Subtropical,Brown,0.5
@@ -989,7 +986,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129582,Rocks,1,WOD_Rocks_Round_Brown_Large_01,184,468,1847146805,71,5,Abibon-gora,184.5546875,-468.9609375,90,Subtropical,Brown,0.5
 128770,Rocks,1,WOD_Rocks_Round_Brown_Small_01,141,497,14112149791,121,91,Abibon-gora,141.9453125,-497.2890625,120,Subtropical,Brown,0.5
 129064,Rocks,1,WOD_Rocks_Round_Brown_Small_09,191,456,1914545653,45,53,Abibon-gora,191.3515625,-456.5859375,166,Subtropical,Brown,0.5
-128937,Rocks,1,WOD_Rocks_Round_Brown_Small_03,188,464,18845464128,45,128,Abibon-gora,188.3515625,-464,97,Subtropical,Brown,0.5
+128937,Rocks,1,WOD_Rocks_Round_Brown_Small_03,188,464,18845464128,45,128,Abibon-gora,188.3515625,-464.0,97,Subtropical,Brown,0.5
 129369,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,189,481,18911048152,110,52,Abibon-gora,189.859375,-481.59375,-154,Subtropical,Brown,0.5
 128242,Rocks,1,WOD_Rocks_Round_Brown_Small_04,181,494,1819649456,96,56,Abibon-gora,181.75,-494.5625,-6,Subtropical,Brown,0.5
 129499,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,173,476,1731247697,12,97,Abibon-gora,173.09375,-476.2421875,-87,Subtropical,Brown,0.5
@@ -1068,7 +1065,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128807,Rocks,1,WOD_Rocks_Round_Brown_Small_08,146,492,14611449271,114,71,Abibon-gora,146.890625,-492.4453125,-72,Subtropical,Brown,0.5
 129389,Rocks,1,WOD_Rocks_Round_Brown_Small_10,169,475,16964475113,64,113,Abibon-gora,169.5,-475.1171875,156,Subtropical,Brown,0.5
 128392,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,182,474,1824447485,44,85,Abibon-gora,182.34375,-474.3359375,37,Subtropical,Brown,0.5
-129152,Rocks,1,WOD_Rocks_Round_Brown_Small_01,151,486,15112048668,120,68,Abibon-gora,151.9375,-486.46875,56,Ocean,Brown,0.5
 129547,Rocks,1,WOD_Rocks_Round_Brown_Large_06,201,466,2018646640,86,40,Abibon-gora,201.671875,-466.6875,-44,Subtropical,Brown,0.5
 129584,Rocks,1,WOD_Rocks_Round_Brown_Large_05,186,454,1869545486,95,86,Abibon-gora,186.7421875,-454.328125,60,Subtropical,Brown,0.5
 129274,Rocks,1,WOD_Rocks_Round_Brown_Small_02,181,497,1810349744,3,44,Abibon-gora,181.0234375,-497.65625,82,Subtropical,Brown,0.5
@@ -1092,7 +1088,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129512,Rocks,1,WOD_Rocks_Round_Brown_Small_08,166,480,16617480115,17,115,Abibon-gora,166.1328125,-480.1015625,174,Subtropical,Brown,0.5
 128744,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,197,465,1973646507,36,7,Abibon-gora,197.28125,-465.9453125,169,Subtropical,Brown,0.5
 129067,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,201,499,20111549969,115,69,Abibon-gora,201.8984375,-499.4609375,153,Subtropical,Brown,0.5
-128942,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,164,479,16435479128,35,128,Abibon-gora,164.2734375,-479,162,Subtropical,Brown,0.5
+128942,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,164,479,16435479128,35,128,Abibon-gora,164.2734375,-479.0,162,Subtropical,Brown,0.5
 129437,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,202,491,2023449149,34,49,Abibon-gora,202.265625,-491.6171875,-172,Subtropical,Brown,0.5
 128521,Rocks,1,WOD_Rocks_Round_Brown_Small_02,168,487,16811648764,116,64,Abibon-gora,168.90625,-487.5,97,Subtropical,Brown,0.5
 129484,Rocks,1,WOD_Rocks_Round_Brown_Large_09,201,478,2018047825,80,25,Abibon-gora,201.625,-478.8046875,-10,Subtropical,Brown,0.5
@@ -1242,11 +1238,11 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 129486,Rocks,1,WOD_Rocks_Round_Brown_Small_02,208,499,2084549993,45,93,Abibon-gora,208.3515625,-499.2734375,158,Subtropical,Brown,0.5
 128698,Rocks,1,WOD_Rocks_Round_Brown_Large_05,208,473,2085947371,59,71,Abibon-gora,208.4609375,-473.4453125,-50,Subtropical,Brown,0.5
 128420,Rocks,1,WOD_Rocks_Round_Brown_Large_09,162,491,1626549103,65,3,Abibon-gora,162.5078125,-491.9765625,-7,Subtropical,Brown,0.5
-128421,Rocks,1,WOD_Rocks_Round_Brown_Small_02,187,454,18712845480,128,80,Abibon-gora,188,-454.375,-13,Subtropical,Brown,0.5
+128421,Rocks,1,WOD_Rocks_Round_Brown_Small_02,187,454,18712845480,128,80,Abibon-gora,188.0,-454.375,-13,Subtropical,Brown,0.5
 129089,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,205,498,2053749802,37,2,Abibon-gora,205.2890625,-498.984375,-113,Subtropical,Brown,0.5
 129467,Rocks,1,WOD_Rocks_Round_Brown_Large_09,177,472,17720472101,20,101,Abibon-gora,177.15625,-472.2109375,120,Subtropical,Brown,0.5
 129613,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,166,480,1667448038,74,38,Abibon-gora,166.578125,-480.703125,103,Subtropical,Brown,0.5
-128953,Rocks,1,WOD_Rocks_Round_Brown_Large_04,200,470,20012847019,128,19,Abibon-gora,201,-470.8515625,145,Subtropical,Brown,0.5
+128953,Rocks,1,WOD_Rocks_Round_Brown_Large_04,200,470,20012847019,128,19,Abibon-gora,201.0,-470.8515625,145,Subtropical,Brown,0.5
 128548,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,197,458,1970445898,4,98,Abibon-gora,197.03125,-458.234375,169,Subtropical,Brown,0.5
 129320,Rocks,1,WOD_Rocks_Round_Brown_Small_09,206,493,20697493103,97,103,Abibon-gora,206.7578125,-493.1953125,67,Subtropical,Brown,0.5
 129333,Rocks,1,WOD_Rocks_Round_Brown_Small_03,194,495,194113495121,113,121,Abibon-gora,194.8828125,-495.0546875,116,Subtropical,Brown,0.5
@@ -1258,7 +1254,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128957,Rocks,1,WOD_Rocks_Round_Brown_Small_01,156,498,1561649842,16,42,Abibon-gora,156.125,-498.671875,-19,Subtropical,Brown,0.5
 128922,Rocks,1,WOD_Rocks_Round_Brown_Small_10,178,487,1786548755,65,55,Abibon-gora,178.5078125,-487.5703125,55,Subtropical,Brown,0.5
 129420,Rocks,1,WOD_Rocks_Round_Brown_Large_03,190,477,1903547768,35,68,Abibon-gora,190.2734375,-477.46875,107,Subtropical,Brown,0.5
-129261,Rocks,1,WOD_Rocks_Round_Brown_Small_10,154,498,15445498128,45,128,Abibon-gora,154.3515625,-498,142,Subtropical,Brown,0.5
+129261,Rocks,1,WOD_Rocks_Round_Brown_Small_10,154,498,15445498128,45,128,Abibon-gora,154.3515625,-498.0,142,Subtropical,Brown,0.5
 128735,Rocks,1,WOD_Rocks_Round_Brown_Small_01,176,488,17606488112,6,112,Abibon-gora,176.046875,-488.125,-115,Subtropical,Brown,0.5
 129435,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,204,487,2044548764,45,64,Abibon-gora,204.3515625,-487.5,71,Subtropical,Brown,0.5
 129317,Rocks,1,WOD_Rocks_Round_Brown_Small_06,200,459,20011445995,114,95,Abibon-gora,200.890625,-459.2578125,160,Subtropical,Brown,0.5
@@ -1269,7 +1265,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 128446,Rocks,1,WOD_Rocks_Round_Brown_Small_08,191,459,1910745987,7,87,Abibon-gora,191.0546875,-459.3203125,38,Subtropical,Brown,0.5
 128313,Rocks,1,WOD_Rocks_Round_Brown_Large_06,200,476,20099476116,99,116,Abibon-gora,200.7734375,-476.09375,-72,Subtropical,Brown,0.5
 129078,Rocks,1,WOD_Rocks_Round_Brown_Large_08,199,459,1995445975,54,75,Abibon-gora,199.421875,-459.4140625,-141,Subtropical,Brown,0.5
-129541,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,197,466,19712846622,128,22,Abibon-gora,198,-466.828125,180,Subtropical,Brown,0.5
+129541,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,197,466,19712846622,128,22,Abibon-gora,198.0,-466.828125,180,Subtropical,Brown,0.5
 128417,Rocks,1,WOD_Rocks_Round_Brown_Large_05,205,478,2058047853,80,53,Abibon-gora,205.625,-478.5859375,120,Subtropical,Brown,0.5
 129050,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,179,492,17912349272,123,72,Abibon-gora,179.9609375,-492.4375,-15,Subtropical,Brown,0.5
 128740,Rocks,1,WOD_Rocks_Round_Brown_Small_08,167,485,16763485118,63,118,Abibon-gora,167.4921875,-485.078125,-29,Subtropical,Brown,0.5

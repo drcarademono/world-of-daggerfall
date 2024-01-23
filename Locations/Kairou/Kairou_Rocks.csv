@@ -97,7 +97,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68429,Rocks,1,WOD_Rocks_Round_Brown_Large_02,201,450,20149450106,49,106,Kairou,201.3828125,-450.171875,61,Subtropical,Brown,0.5
 69126,Rocks,1,WOD_Rocks_Round_Brown_Small_10,195,442,19510944213,109,13,Kairou,195.8515625,-442.8984375,63,Subtropical,Brown,0.5
 68723,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,244,451,2444745116,47,16,Kairou,244.3671875,-451.875,120,Subtropical,Brown,0.5
-69386,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,212,427,21212842723,128,23,Kairou,213,-427.8203125,87,Subtropical,Brown,0.5
+69386,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,212,427,21212842723,128,23,Kairou,213.0,-427.8203125,87,Subtropical,Brown,0.5
 68961,Rocks,1,WOD_Rocks_Round_Brown_Small_08,233,427,2334742741,47,41,Kairou,233.3671875,-427.6796875,-178,Subtropical,Brown,0.5
 68600,Rocks,1,WOD_Rocks_Round_Brown_Small_06,209,438,2093143889,31,89,Kairou,209.2421875,-438.3046875,-47,Subtropical,Brown,0.5
 68333,Rocks,1,WOD_Rocks_Round_Brown_Large_05,240,430,24011743043,117,43,Kairou,240.9140625,-430.6640625,105,Subtropical,Brown,0.5
@@ -173,10 +173,10 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69277,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,224,448,2249244845,92,45,Kairou,224.71875,-448.6484375,85,Subtropical,Brown,0.5
 68128,Rocks,1,WOD_Rocks_Round_Brown_Small_02,234,430,23476430117,76,117,Kairou,234.59375,-430.0859375,94,Subtropical,Brown,0.5
 68502,Rocks,1,WOD_Rocks_Round_Brown_Large_01,211,480,2117148046,71,46,Kairou,211.5546875,-480.640625,108,Subtropical,Brown,0.5
-69328,Rocks,1,WOD_Rocks_Round_Brown_Large_08,202,454,20211454128,11,128,Kairou,202.0859375,-454,-135,Subtropical,Brown,0.5
+69328,Rocks,1,WOD_Rocks_Round_Brown_Large_08,202,454,20211454128,11,128,Kairou,202.0859375,-454.0,-135,Subtropical,Brown,0.5
 68742,Rocks,1,WOD_Rocks_Round_Brown_Small_05,232,436,2320543624,5,24,Kairou,232.0390625,-436.8125,171,Subtropical,Brown,0.5
 69166,Rocks,1,WOD_Rocks_Round_Brown_Large_09,222,422,22211642220,116,20,Kairou,222.90625,-422.84375,144,Subtropical,Brown,0.5
-68960,Rocks,1,WOD_Rocks_Round_Brown_Small_07,225,431,22572431128,72,128,Kairou,225.5625,-431,142,Subtropical,Brown,0.5
+68960,Rocks,1,WOD_Rocks_Round_Brown_Small_07,225,431,22572431128,72,128,Kairou,225.5625,-431.0,142,Subtropical,Brown,0.5
 68354,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,218,464,218120464107,120,107,Kairou,218.9375,-464.1640625,7,Subtropical,Brown,0.5
 68309,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,212,429,2128942996,89,96,Kairou,212.6953125,-429.25,167,Subtropical,Brown,0.5
 69198,Rocks,1,WOD_Rocks_Round_Brown_Small_09,228,437,22816437122,16,122,Kairou,228.125,-437.046875,169,Subtropical,Brown,0.5
@@ -243,7 +243,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69104,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,212,471,2127547107,75,7,Kairou,212.5859375,-471.9453125,-172,Subtropical,Brown,0.5
 69362,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,224,444,22411844404,118,4,Kairou,224.921875,-444.96875,38,Subtropical,Brown,0.5
 69226,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,227,455,2272845522,28,22,Kairou,227.21875,-455.828125,157,Subtropical,Brown,0.5
-68917,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,240,459,24012845964,128,64,Kairou,241,-459.5,124,,Brown,0.5
+68917,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,240,459,24012845964,128,64,Kairou,241.0,-459.5,124,,Brown,0.5
 68397,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,216,452,2162645274,26,74,Kairou,216.203125,-452.421875,81,Subtropical,Brown,0.5
 68669,Rocks,1,WOD_Rocks_Round_Brown_Large_09,215,462,21511646222,116,22,Kairou,215.90625,-462.828125,-103,Subtropical,Brown,0.5
 68158,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,221,424,2214442471,44,71,Kairou,221.34375,-424.4453125,-34,Subtropical,Brown,0.5
@@ -355,10 +355,10 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68587,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,217,461,21792461102,92,102,Kairou,217.71875,-461.203125,-108,Subtropical,Brown,0.5
 69092,Rocks,1,WOD_Rocks_Round_Brown_Small_01,223,452,2238745268,87,68,Kairou,223.6796875,-452.46875,168,Subtropical,Brown,0.5
 69487,Rocks,1,WOD_Rocks_Round_Brown_Large_05,222,432,22211243280,112,80,Kairou,222.875,-432.375,119,Subtropical,Brown,0.5
-68400,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,224,439,22433439128,33,128,Kairou,224.2578125,-439,-58,Subtropical,Brown,0.5
+68400,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,224,439,22433439128,33,128,Kairou,224.2578125,-439.0,-58,Subtropical,Brown,0.5
 68308,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,218,463,21884463117,84,117,Kairou,218.65625,-463.0859375,152,Subtropical,Brown,0.5
 69446,Rocks,1,WOD_Rocks_Round_Brown_Small_02,221,436,2217743646,77,46,Kairou,221.6015625,-436.640625,133,Subtropical,Brown,0.5
-68412,Rocks,1,WOD_Rocks_Round_Brown_Large_09,217,436,21712843605,128,5,Kairou,218,-436.9609375,-155,Subtropical,Brown,0.5
+68412,Rocks,1,WOD_Rocks_Round_Brown_Large_09,217,436,21712843605,128,5,Kairou,218.0,-436.9609375,-155,Subtropical,Brown,0.5
 69421,Rocks,1,WOD_Rocks_Round_Brown_Small_02,202,448,2025344854,53,54,Kairou,202.4140625,-448.578125,-95,Subtropical,Brown,0.5
 68790,Rocks,1,WOD_Rocks_Round_Brown_Large_08,233,470,23375470105,75,105,Kairou,233.5859375,-470.1796875,109,Subtropical,Brown,0.5
 68919,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,213,442,21332442127,32,127,Kairou,213.25,-442.0078125,0,Subtropical,Brown,0.5
@@ -371,7 +371,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68830,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,220,476,2206647699,66,99,Kairou,220.515625,-476.2265625,-64,Subtropical,Brown,0.5
 68313,Rocks,1,WOD_Rocks_Round_Brown_Large_06,223,436,2239343639,93,39,Kairou,223.7265625,-436.6953125,150,Subtropical,Brown,0.5
 68156,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,225,455,22512445560,124,60,Kairou,225.96875,-455.53125,-76,Subtropical,Brown,0.5
-69239,Rocks,1,WOD_Rocks_Round_Brown_Small_02,225,464,22545464128,45,128,Kairou,225.3515625,-464,19,Subtropical,Brown,0.5
+69239,Rocks,1,WOD_Rocks_Round_Brown_Small_02,225,464,22545464128,45,128,Kairou,225.3515625,-464.0,19,Subtropical,Brown,0.5
 69346,Rocks,1,WOD_Rocks_Round_Brown_Large_05,217,461,21796461110,96,110,Kairou,217.75,-461.140625,98,Subtropical,Brown,0.5
 68376,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,219,467,21910467112,10,112,Kairou,219.078125,-467.125,-165,Subtropical,Brown,0.5
 68411,Rocks,1,WOD_Rocks_Round_Brown_Large_08,199,438,19971438101,71,101,Kairou,199.5546875,-438.2109375,-18,Subtropical,Brown,0.5
@@ -386,7 +386,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68672,Rocks,1,WOD_Rocks_Round_Brown_Small_03,234,446,23411844622,118,22,Kairou,234.921875,-446.828125,-180,Subtropical,Brown,0.5
 68836,Rocks,1,WOD_Rocks_Round_Brown_Large_01,245,435,2457243572,72,72,Kairou,245.5625,-435.4375,-50,Subtropical,Brown,0.5
 68373,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,207,456,2079645647,96,47,Kairou,207.75,-456.6328125,-3,Subtropical,Brown,0.5
-69147,Rocks,1,WOD_Rocks_Round_Brown_Small_04,218,428,21875428128,75,128,Kairou,218.5859375,-428,79,Subtropical,Brown,0.5
+69147,Rocks,1,WOD_Rocks_Round_Brown_Small_04,218,428,21875428128,75,128,Kairou,218.5859375,-428.0,79,Subtropical,Brown,0.5
 68693,Rocks,1,WOD_Rocks_Round_Brown_Small_03,237,448,2371444860,14,60,Kairou,237.109375,-448.53125,-104,Subtropical,Brown,0.5
 68702,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,212,444,21212044424,120,24,Kairou,212.9375,-444.8125,120,Subtropical,Brown,0.5
 68441,Rocks,1,WOD_Rocks_Round_Brown_Small_09,225,446,2258444649,84,49,Kairou,225.65625,-446.6171875,34,Subtropical,Brown,0.5
@@ -405,7 +405,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68805,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,234,441,23479441106,79,106,Kairou,234.6171875,-441.171875,-72,Subtropical,Brown,0.5
 69279,Rocks,1,WOD_Rocks_Round_Brown_Large_03,222,437,2222743745,27,45,Kairou,222.2109375,-437.6484375,142,Subtropical,Brown,0.5
 68538,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,219,451,21911345175,113,75,Kairou,219.8828125,-451.4140625,-8,Subtropical,Brown,0.5
-69373,Rocks,1,WOD_Rocks_Round_Brown_Small_05,216,444,21661444128,61,128,Kairou,216.4765625,-444,103,Subtropical,Brown,0.5
+69373,Rocks,1,WOD_Rocks_Round_Brown_Small_05,216,444,21661444128,61,128,Kairou,216.4765625,-444.0,103,Subtropical,Brown,0.5
 68753,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,234,446,23410944606,109,6,Kairou,234.8515625,-446.953125,-18,Subtropical,Brown,0.5
 68385,Rocks,1,WOD_Rocks_Round_Brown_Large_07,196,441,1967244161,72,61,Kairou,196.5625,-441.5234375,-171,Subtropical,Brown,0.5
 68223,Rocks,1,WOD_Rocks_Round_Brown_Small_08,204,458,204127458117,127,117,Kairou,204.9921875,-458.0859375,131,Subtropical,Brown,0.5
@@ -486,7 +486,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68636,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,209,459,2092145986,21,86,Kairou,209.1640625,-459.328125,-119,Subtropical,Brown,0.5
 68180,Rocks,1,WOD_Rocks_Round_Brown_Small_10,215,430,2155443088,54,88,Kairou,215.421875,-430.3125,-16,Subtropical,Brown,0.5
 69608,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,222,454,2221345430,13,30,Kairou,222.1015625,-454.765625,-68,Subtropical,Brown,0.5
-68839,Rocks,1,WOD_Rocks_Round_Brown_Large_05,226,469,22612846918,128,18,Kairou,227,-469.859375,-86,Subtropical,Brown,0.5
+68839,Rocks,1,WOD_Rocks_Round_Brown_Large_05,226,469,22612846918,128,18,Kairou,227.0,-469.859375,-86,Subtropical,Brown,0.5
 69320,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,203,444,2030644482,6,82,Kairou,203.046875,-444.359375,39,Subtropical,Brown,0.5
 68938,Rocks,1,WOD_Rocks_Round_Brown_Small_09,225,443,2258344301,83,1,Kairou,225.6484375,-443.9921875,122,Subtropical,Brown,0.5
 69060,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,221,467,2211546715,15,15,Kairou,221.1171875,-467.8828125,-1,Subtropical,Brown,0.5
@@ -564,7 +564,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68549,Rocks,1,WOD_Rocks_Round_Brown_Large_09,215,473,2156647301,66,1,Kairou,215.515625,-473.9921875,142,Subtropical,Brown,0.5
 69254,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,214,458,214105458119,105,119,Kairou,214.8203125,-458.0703125,-77,Subtropical,Brown,0.5
 69456,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,224,475,2245947538,59,38,Kairou,224.4609375,-475.703125,-50,Subtropical,Brown,0.5
-69543,Rocks,1,WOD_Rocks_Round_Brown_Large_09,220,460,22012846063,128,63,Kairou,221,-460.5078125,-176,Subtropical,Brown,0.5
+69543,Rocks,1,WOD_Rocks_Round_Brown_Large_09,220,460,22012846063,128,63,Kairou,221.0,-460.5078125,-176,Subtropical,Brown,0.5
 68801,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,243,430,2439043081,90,81,Kairou,243.703125,-430.3671875,106,Subtropical,Brown,0.5
 68928,Rocks,1,WOD_Rocks_Round_Brown_Large_06,237,432,2373643258,36,58,Kairou,237.28125,-432.546875,86,Subtropical,Brown,0.5
 69369,Rocks,1,WOD_Rocks_Round_Brown_Small_01,212,429,2124242914,42,14,Kairou,212.328125,-429.890625,6,Subtropical,Brown,0.5
@@ -666,7 +666,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68249,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,234,464,2347946483,79,83,Kairou,234.6171875,-464.3515625,150,Subtropical,Brown,0.5
 68625,Rocks,1,WOD_Rocks_Round_Brown_Small_09,220,452,22010045215,100,15,Kairou,220.78125,-452.8828125,27,Subtropical,Brown,0.5
 68926,Rocks,1,WOD_Rocks_Round_Brown_Large_04,229,440,2291544054,15,54,Kairou,229.1171875,-440.578125,-170,Subtropical,Brown,0.5
-69592,Rocks,1,WOD_Rocks_Round_Brown_Large_07,223,424,22334424128,34,128,Kairou,223.265625,-424,59,Subtropical,Brown,0.5
+69592,Rocks,1,WOD_Rocks_Round_Brown_Large_07,223,424,22334424128,34,128,Kairou,223.265625,-424.0,59,Subtropical,Brown,0.5
 69520,Rocks,1,WOD_Rocks_Round_Brown_Small_06,203,438,20311843886,118,86,Kairou,203.921875,-438.328125,142,Subtropical,Brown,0.5
 68589,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,228,431,22811343152,113,52,Kairou,228.8828125,-431.59375,-150,Subtropical,Brown,0.5
 69584,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,233,447,2332244761,22,61,Kairou,233.171875,-447.5234375,-122,Subtropical,Brown,0.5
@@ -793,7 +793,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69467,Rocks,1,WOD_Rocks_Round_Brown_Large_09,234,448,2346944895,69,95,Kairou,234.5390625,-448.2578125,-115,Subtropical,Brown,0.5
 68997,Rocks,1,WOD_Rocks_Round_Brown_Large_05,233,464,2338146439,81,39,Kairou,233.6328125,-464.6953125,-2,Subtropical,Brown,0.5
 68518,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,222,437,2222143739,21,39,Kairou,222.1640625,-437.6953125,-13,Subtropical,Brown,0.5
-69163,Rocks,1,WOD_Rocks_Round_Brown_Large_05,205,440,20512844018,128,18,Kairou,206,-440.859375,30,Subtropical,Brown,0.5
+69163,Rocks,1,WOD_Rocks_Round_Brown_Large_05,205,440,20512844018,128,18,Kairou,206.0,-440.859375,30,Subtropical,Brown,0.5
 68317,Rocks,1,WOD_Rocks_Round_Brown_Small_02,214,433,2145843359,58,59,Kairou,214.453125,-433.5390625,-34,Subtropical,Brown,0.5
 69215,Rocks,1,WOD_Rocks_Round_Brown_Small_06,220,428,22012142881,121,81,Kairou,220.9453125,-428.3671875,8,Subtropical,Brown,0.5
 69470,Rocks,1,WOD_Rocks_Round_Brown_Small_06,231,461,2318746126,87,26,Kairou,231.6796875,-461.796875,179,Subtropical,Brown,0.5
@@ -802,7 +802,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68965,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,218,454,2188045407,80,7,Kairou,218.625,-454.9453125,-13,Subtropical,Brown,0.5
 68591,Rocks,1,WOD_Rocks_Round_Brown_Large_05,208,451,2087345104,73,4,Kairou,208.5703125,-451.96875,157,Subtropical,Brown,0.5
 69528,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,204,437,2046243760,62,60,Kairou,204.484375,-437.53125,84,Subtropical,Brown,0.5
-69164,Rocks,1,WOD_Rocks_Round_Brown_Large_07,241,453,241117453128,117,128,Kairou,241.9140625,-453,-175,Subtropical,Brown,0.5
+69164,Rocks,1,WOD_Rocks_Round_Brown_Large_07,241,453,241117453128,117,128,Kairou,241.9140625,-453.0,-175,Subtropical,Brown,0.5
 68266,Rocks,1,WOD_Rocks_Round_Brown_Small_04,207,437,2079743744,97,44,Kairou,207.7578125,-437.65625,-134,Subtropical,Brown,0.5
 68221,Rocks,1,WOD_Rocks_Round_Brown_Small_06,212,440,21257440103,57,103,Kairou,212.4453125,-440.1953125,-48,Subtropical,Brown,0.5
 68303,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,233,470,2337547019,75,19,Kairou,233.5859375,-470.8515625,100,Subtropical,Brown,0.5
@@ -859,7 +859,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69186,Rocks,1,WOD_Rocks_Round_Brown_Large_05,243,435,2430243586,2,86,Kairou,243.015625,-435.328125,78,Subtropical,Brown,0.5
 69568,Rocks,1,WOD_Rocks_Round_Brown_Large_08,218,466,21827466107,27,107,Kairou,218.2109375,-466.1640625,-50,Subtropical,Brown,0.5
 68146,Rocks,1,WOD_Rocks_Round_Brown_Large_05,231,435,2317543578,75,78,Kairou,231.5859375,-435.390625,-81,Subtropical,Brown,0.5
-68164,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,220,478,22026478128,26,128,Kairou,220.203125,-478,-123,Subtropical,Brown,0.5
+68164,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,220,478,22026478128,26,128,Kairou,220.203125,-478.0,-123,Subtropical,Brown,0.5
 68230,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,227,462,2276646296,66,96,Kairou,227.515625,-462.25,87,Subtropical,Brown,0.5
 69050,Rocks,1,WOD_Rocks_Round_Brown_Small_06,196,443,1967844304,78,4,Kairou,196.609375,-443.96875,-28,Subtropical,Brown,0.5
 68185,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,229,437,229102437100,102,100,Kairou,229.796875,-437.21875,76,Subtropical,Brown,0.5
@@ -886,7 +886,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69073,Rocks,1,WOD_Rocks_Round_Brown_Small_03,213,444,21302444100,2,100,Kairou,213.015625,-444.21875,60,Subtropical,Brown,0.5
 68238,Rocks,1,WOD_Rocks_Round_Brown_Large_06,233,471,23311547122,115,22,Kairou,233.8984375,-471.828125,-9,Subtropical,Brown,0.5
 69330,Rocks,1,WOD_Rocks_Round_Brown_Small_03,234,424,2345042451,50,51,Kairou,234.390625,-424.6015625,-73,Subtropical,Brown,0.5
-69223,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,242,439,242128439100,128,100,Kairou,243,-439.21875,77,Subtropical,Brown,0.5
+69223,Rocks,1,WOD_Rocks_Round_Brown_Medium_06,242,439,242128439100,128,100,Kairou,243.0,-439.21875,77,Subtropical,Brown,0.5
 69206,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,218,478,21811847821,118,21,Kairou,218.921875,-478.8359375,-72,Subtropical,Brown,0.5
 68893,Rocks,1,WOD_Rocks_Round_Brown_Small_05,225,423,22592423116,92,116,Kairou,225.71875,-423.09375,-123,Subtropical,Brown,0.5
 69039,Rocks,1,WOD_Rocks_Round_Brown_Large_01,226,441,2268244177,82,77,Kairou,226.640625,-441.3984375,85,Subtropical,Brown,0.5
@@ -938,7 +938,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68352,Rocks,1,WOD_Rocks_Round_Brown_Medium_08,246,433,246107433123,107,123,Kairou,246.8359375,-433.0390625,28,Subtropical,Brown,0.5
 68974,Rocks,1,WOD_Rocks_Round_Brown_Large_09,216,472,2164247263,42,63,Kairou,216.328125,-472.5078125,-170,Subtropical,Brown,0.5
 68147,Rocks,1,WOD_Rocks_Round_Brown_Large_09,239,436,2390243651,2,51,Kairou,239.015625,-436.6015625,172,Subtropical,Brown,0.5
-69265,Rocks,1,WOD_Rocks_Round_Brown_Small_05,224,449,22412844999,128,99,Kairou,225,-449.2265625,110,Subtropical,Brown,0.5
+69265,Rocks,1,WOD_Rocks_Round_Brown_Small_05,224,449,22412844999,128,99,Kairou,225.0,-449.2265625,110,Subtropical,Brown,0.5
 68970,Rocks,1,WOD_Rocks_Round_Brown_Large_02,212,439,21287439111,87,111,Kairou,212.6796875,-439.1328125,157,Subtropical,Brown,0.5
 68948,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,230,460,2304446026,44,26,Kairou,230.34375,-460.796875,-55,Subtropical,Brown,0.5
 68550,Rocks,1,WOD_Rocks_Round_Brown_Small_01,207,449,2071944909,19,9,Kairou,207.1484375,-449.9296875,144,Subtropical,Brown,0.5
@@ -1066,13 +1066,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69004,Rocks,1,WOD_Rocks_Round_Brown_Small_06,223,473,2233947398,39,98,Kairou,223.3046875,-473.234375,-89,Subtropical,Brown,0.5
 68192,Rocks,1,WOD_Rocks_Round_Brown_Large_02,202,447,2022744779,27,79,Kairou,202.2109375,-447.3828125,-5,Subtropical,Brown,0.5
 68512,Rocks,1,WOD_Rocks_Round_Brown_Small_06,222,451,2220745180,7,80,Kairou,222.0546875,-451.375,86,Subtropical,Brown,0.5
-69611,Rocks,1,WOD_Rocks_Round_Brown_Large_01,199,444,19944444128,44,128,Kairou,199.34375,-444,-74,Subtropical,Brown,0.5
+69611,Rocks,1,WOD_Rocks_Round_Brown_Large_01,199,444,19944444128,44,128,Kairou,199.34375,-444.0,-74,Subtropical,Brown,0.5
 68493,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,219,453,2197445327,74,27,Kairou,219.578125,-453.7890625,79,Subtropical,Brown,0.5
 69038,Rocks,1,WOD_Rocks_Round_Brown_Medium_12,241,443,2413144350,31,50,Kairou,241.2421875,-443.609375,149,Subtropical,Brown,0.5
 69128,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,219,460,2195846059,58,59,Kairou,219.453125,-460.5390625,176,Subtropical,Brown,0.5
 68132,Rocks,1,WOD_Rocks_Round_Brown_Small_08,210,435,21082435119,82,119,Kairou,210.640625,-435.0703125,-29,Subtropical,Brown,0.5
 68344,Rocks,1,WOD_Rocks_Round_Brown_Small_08,203,447,2038744704,87,4,Kairou,203.6796875,-447.96875,-20,Subtropical,Brown,0.5
-69556,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,243,439,24357439128,57,128,Kairou,243.4453125,-439,-144,Subtropical,Brown,0.5
+69556,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,243,439,24357439128,57,128,Kairou,243.4453125,-439.0,-144,Subtropical,Brown,0.5
 69313,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,217,440,2171244020,12,20,Kairou,217.09375,-440.84375,146,Subtropical,Brown,0.5
 69216,Rocks,1,WOD_Rocks_Round_Brown_Small_07,238,427,23862427110,62,110,Kairou,238.484375,-427.140625,115,Subtropical,Brown,0.5
 68239,Rocks,1,WOD_Rocks_Round_Brown_Large_07,223,473,22361473120,61,120,Kairou,223.4765625,-473.0625,-167,Subtropical,Brown,0.5
@@ -1116,7 +1116,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68623,Rocks,1,WOD_Rocks_Round_Brown_Small_06,221,473,22148473104,48,104,Kairou,221.375,-473.1875,-11,Subtropical,Brown,0.5
 69441,Rocks,1,WOD_Rocks_Round_Brown_Large_02,226,451,22610545129,105,29,Kairou,226.8203125,-451.7734375,-164,Subtropical,Brown,0.5
 68674,Rocks,1,WOD_Rocks_Round_Brown_Small_05,221,461,2216146137,61,37,Kairou,221.4765625,-461.7109375,-104,Subtropical,Brown,0.5
-68935,Rocks,1,WOD_Rocks_Round_Brown_Small_05,217,438,21737438128,37,128,Kairou,217.2890625,-438,49,Subtropical,Brown,0.5
+68935,Rocks,1,WOD_Rocks_Round_Brown_Small_05,217,438,21737438128,37,128,Kairou,217.2890625,-438.0,49,Subtropical,Brown,0.5
 68328,Rocks,1,WOD_Rocks_Round_Brown_Medium_10,221,444,22139444100,39,100,Kairou,221.3046875,-444.21875,-176,Subtropical,Brown,0.5
 68617,Rocks,1,WOD_Rocks_Round_Brown_Large_08,227,439,22711043966,110,66,Kairou,227.859375,-439.484375,158,Subtropical,Brown,0.5
 68690,Rocks,1,WOD_Rocks_Round_Brown_Large_08,215,431,21570431111,70,111,Kairou,215.546875,-431.1328125,118,Subtropical,Brown,0.5
@@ -1132,7 +1132,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68198,Rocks,1,WOD_Rocks_Round_Brown_Small_02,216,452,2165245267,52,67,Kairou,216.40625,-452.4765625,130,Subtropical,Brown,0.5
 69083,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,227,472,22755472117,55,117,Kairou,227.4296875,-472.0859375,-166,Subtropical,Brown,0.5
 69044,Rocks,1,WOD_Rocks_Round_Brown_Large_09,230,454,2300945440,9,40,Kairou,230.0703125,-454.6875,96,Subtropical,Brown,0.5
-68506,Rocks,1,WOD_Rocks_Round_Brown_Large_07,247,456,24721456128,21,128,Kairou,247.1640625,-456,-27,Subtropical,Brown,0.5
+68506,Rocks,1,WOD_Rocks_Round_Brown_Large_07,247,456,24721456128,21,128,Kairou,247.1640625,-456.0,-27,Subtropical,Brown,0.5
 69244,Rocks,1,WOD_Rocks_Round_Brown_Small_07,224,456,2248845686,88,86,Kairou,224.6875,-456.328125,-69,Subtropical,Brown,0.5
 68605,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,219,471,2198647111,86,11,Kairou,219.671875,-471.9140625,28,Subtropical,Brown,0.5
 68251,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,225,452,225107452117,107,117,Kairou,225.8359375,-452.0859375,-52,Subtropical,Brown,0.5
@@ -1268,7 +1268,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68256,Rocks,1,WOD_Rocks_Round_Brown_Medium_11,214,446,2145244683,52,83,Kairou,214.40625,-446.3515625,171,Subtropical,Brown,0.5
 68826,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,203,443,20311444331,114,31,Kairou,203.890625,-443.7578125,0,Subtropical,Brown,0.5
 68576,Rocks,1,WOD_Rocks_Round_Brown_Small_05,214,471,2146447101,64,1,Kairou,214.5,-471.9921875,-85,Subtropical,Brown,0.5
-68879,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,212,429,21250429128,50,128,Kairou,212.390625,-429,45,Subtropical,Brown,0.5
+68879,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,212,429,21250429128,50,128,Kairou,212.390625,-429.0,45,Subtropical,Brown,0.5
 68844,Rocks,1,WOD_Rocks_Round_Brown_Small_02,214,445,214108445127,108,127,Kairou,214.84375,-445.0078125,139,Subtropical,Brown,0.5
 68627,Rocks,1,WOD_Rocks_Round_Brown_Medium_01,230,446,23012644671,126,71,Kairou,230.984375,-446.4453125,-177,Subtropical,Brown,0.5
 68211,Rocks,1,WOD_Rocks_Round_Brown_Large_04,233,454,23368454104,68,104,Kairou,233.53125,-454.1875,35,Subtropical,Brown,0.5
@@ -1291,7 +1291,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69191,Rocks,1,WOD_Rocks_Round_Brown_Small_01,201,450,2013645093,36,93,Kairou,201.28125,-450.2734375,-92,Subtropical,Brown,0.5
 68306,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,203,454,20364454102,64,102,Kairou,203.5,-454.203125,78,Subtropical,Brown,0.5
 68741,Rocks,1,WOD_Rocks_Round_Brown_Small_04,236,429,23636429108,36,108,Kairou,236.28125,-429.15625,91,Subtropical,Brown,0.5
-68898,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,226,431,22638431128,38,128,Kairou,226.296875,-431,-69,Subtropical,Brown,0.5
+68898,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,226,431,22638431128,38,128,Kairou,226.296875,-431.0,-69,Subtropical,Brown,0.5
 69355,Rocks,1,WOD_Rocks_Round_Brown_Small_10,233,468,23310446817,104,17,Kairou,233.8125,-468.8671875,-36,Subtropical,Brown,0.5
 68468,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,229,460,2298446055,84,55,Kairou,229.65625,-460.5703125,-90,Subtropical,Brown,0.5
 68884,Rocks,1,WOD_Rocks_Round_Brown_Large_01,213,468,2134246823,42,23,Kairou,213.328125,-468.8203125,146,Subtropical,Brown,0.5
@@ -1308,7 +1308,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 69275,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,195,447,1951444729,14,29,Kairou,195.109375,-447.7734375,146,Subtropical,Brown,0.5
 68205,Rocks,1,WOD_Rocks_Round_Brown_Medium_07,217,446,21797446107,97,107,Kairou,217.7578125,-446.1640625,-96,Subtropical,Brown,0.5
 68958,Rocks,1,WOD_Rocks_Round_Brown_Small_05,209,426,2098342687,83,87,Kairou,209.6484375,-426.3203125,-47,Subtropical,Brown,0.5
-69087,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,214,451,21449451128,49,128,Kairou,214.3828125,-451,53,Subtropical,Brown,0.5
+69087,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,214,451,21449451128,49,128,Kairou,214.3828125,-451.0,53,Subtropical,Brown,0.5
 68979,Rocks,1,WOD_Rocks_Round_Brown_Small_05,231,427,23110742760,107,60,Kairou,231.8359375,-427.53125,96,Subtropical,Brown,0.5
 68392,Rocks,1,WOD_Rocks_Round_Brown_Small_06,217,447,21763447109,63,109,Kairou,217.4921875,-447.1484375,32,Subtropical,Brown,0.5
 69010,Rocks,1,WOD_Rocks_Round_Brown_Medium_04,221,471,2211147178,11,78,Kairou,221.0859375,-471.390625,-142,Subtropical,Brown,0.5
@@ -1427,7 +1427,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68876,Rocks,1,WOD_Rocks_Round_Brown_Medium_02,210,436,2108143686,81,86,Kairou,210.6328125,-436.328125,32,Subtropical,Brown,0.5
 69646,Rocks,1,WOD_Rocks_Round_Brown_Small_05,232,440,2325044020,50,20,Kairou,232.390625,-440.84375,-85,Subtropical,Brown,0.5
 68452,Rocks,1,WOD_Rocks_Round_Brown_Large_03,224,468,2245446819,54,19,Kairou,224.421875,-468.8515625,-108,Subtropical,Brown,0.5
-69196,Rocks,1,WOD_Rocks_Round_Brown_Small_07,203,455,203103455128,103,128,Kairou,203.8046875,-455,2,Subtropical,Brown,0.5
+69196,Rocks,1,WOD_Rocks_Round_Brown_Small_07,203,455,203103455128,103,128,Kairou,203.8046875,-455.0,2,Subtropical,Brown,0.5
 69593,Rocks,1,WOD_Rocks_Round_Brown_Large_08,215,464,21520464101,20,101,Kairou,215.15625,-464.2109375,-53,Subtropical,Brown,0.5
 68182,Rocks,1,WOD_Rocks_Round_Brown_Medium_03,230,460,2304846030,48,30,Kairou,230.375,-460.765625,-160,Subtropical,Brown,0.5
 69295,Rocks,1,WOD_Rocks_Round_Brown_Medium_09,228,451,22810945135,109,35,Kairou,228.8515625,-451.7265625,65,Subtropical,Brown,0.5
@@ -1460,6 +1460,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 68555,Rocks,1,WOD_Rocks_Round_Brown_Small_06,240,457,2400345787,3,87,Kairou,240.0234375,-457.3203125,-95,Subtropical,Brown,0.5
 69619,Rocks,1,WOD_Rocks_Round_Brown_Small_01,227,452,22720452121,20,121,Kairou,227.15625,-452.0546875,111,Subtropical,Brown,0.5
 68804,Rocks,1,WOD_Rocks_Round_Brown_Medium_05,240,435,24010343555,103,55,Kairou,240.8046875,-435.5703125,59,Subtropical,Brown,0.5
-68413,Rocks,1,WOD_Rocks_Round_Brown_Small_01,212,431,21271431128,71,128,Kairou,212.5546875,-431,120,Subtropical,Brown,0.5
+68413,Rocks,1,WOD_Rocks_Round_Brown_Small_01,212,431,21271431128,71,128,Kairou,212.5546875,-431.0,120,Subtropical,Brown,0.5
 69076,Rocks,1,WOD_Rocks_Round_Brown_Small_07,213,440,21311044067,110,67,Kairou,213.859375,-440.4765625,-137,Subtropical,Brown,0.5
 69173,Rocks,1,WOD_Rocks_Round_Brown_Small_07,199,438,1995643886,56,86,Kairou,199.4375,-438.328125,-47,Subtropical,Brown,0.5

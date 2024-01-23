@@ -1,6 +1,6 @@
 fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY,rotYaxis,climate,color,sink
 49469,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,840,312,84008312100,8,100,Satakalaam,840.0625,-312.21875,34,Rainforest,Brown,0.5
-48016,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,815,306,81512830646,128,46,Satakalaam,816,-306.640625,96,Rainforest,Brown,0.5
+48016,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,815,306,81512830646,128,46,Satakalaam,816.0,-306.640625,96,Rainforest,Brown,0.5
 48564,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,782,307,78210130781,101,81,Satakalaam,782.7890625,-307.3671875,-107,Rainforest,Brown,0.5
 48385,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,790,314,79005314106,5,106,Satakalaam,790.0390625,-314.171875,72,Rainforest,Brown,0.5
 50002,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,813,296,8134129676,41,76,Satakalaam,813.3203125,-296.40625,173,Rainforest,Brown,0.5
@@ -40,7 +40,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 50125,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,864,315,8641031501,10,1,Satakalaam,864.078125,-315.9921875,-116,Rainforest,Brown,0.5
 48617,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,841,299,8418229923,82,23,Satakalaam,841.640625,-299.8203125,63,Rainforest,Brown,0.5
 48929,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,786,307,78601307106,1,106,Satakalaam,786.0078125,-307.171875,-132,Rainforest,Brown,0.5
-49452,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,809,283,80912828393,128,93,Satakalaam,810,-283.2734375,101,Rainforest,Brown,0.5
+49452,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,809,283,80912828393,128,93,Satakalaam,810.0,-283.2734375,101,Rainforest,Brown,0.5
 49263,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,816,300,8167330052,73,52,Satakalaam,816.5703125,-300.59375,172,Rainforest,Brown,0.5
 49745,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,819,304,8197030493,70,93,Satakalaam,819.546875,-304.2734375,-30,Rainforest,Brown,0.5
 50070,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,821,294,82111529483,115,83,Satakalaam,821.8984375,-294.3515625,-5,Rainforest,Brown,0.5
@@ -82,7 +82,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48774,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,814,316,81441316107,41,107,Satakalaam,814.3203125,-316.1640625,-71,Rainforest,Brown,0.5
 47735,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,822,289,822107289112,107,112,Satakalaam,822.8359375,-289.125,176,Rainforest,Brown,0.5
 48003,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,854,315,85410031587,100,87,Satakalaam,854.78125,-315.3203125,-147,Rainforest,Brown,0.5
-49690,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,857,300,85714300128,14,128,Satakalaam,857.109375,-300,-73,Rainforest,Brown,0.5
+49690,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,857,300,85714300128,14,128,Satakalaam,857.109375,-300.0,-73,Rainforest,Brown,0.5
 47881,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,817,287,8174328706,43,6,Satakalaam,817.3359375,-287.953125,-110,Rainforest,Brown,0.5
 49971,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,775,299,77512129932,121,32,Satakalaam,775.9453125,-299.75,-91,Rainforest,Brown,0.5
 47838,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,796,279,79611327958,113,58,Satakalaam,796.8828125,-279.546875,180,Rainforest,Brown,0.5
@@ -207,7 +207,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48482,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,776,298,7763929811,39,11,Satakalaam,776.3046875,-298.9140625,110,Rainforest,Brown,0.5
 48470,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,858,304,8586130406,61,6,Satakalaam,858.4765625,-304.953125,107,Rainforest,Brown,0.5
 49151,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,810,305,8103430543,34,43,Satakalaam,810.265625,-305.6640625,144,Rainforest,Brown,0.5
-48519,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,791,282,79110028263,100,63,Satakalaam,791.78125,-282.5078125,2,Ocean,Brown,0.5
 48674,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,862,292,86233292119,33,119,Satakalaam,862.2578125,-292.0703125,43,Rainforest,Brown,0.5
 50035,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,849,302,8491630259,16,59,Satakalaam,849.125,-302.5390625,92,Rainforest,Brown,0.5
 48496,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,866,295,8664829525,48,25,Satakalaam,866.375,-295.8046875,-23,Rainforest,Brown,0.5
@@ -325,7 +324,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 50008,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,809,287,80999287114,99,114,Satakalaam,809.7734375,-287.109375,37,Rainforest,Brown,0.5
 49647,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,800,310,8000931023,9,23,Satakalaam,800.0703125,-310.8203125,93,Rainforest,Brown,0.5
 49725,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,824,315,8247731570,77,70,Satakalaam,824.6015625,-315.453125,-158,Rainforest,Brown,0.5
-50032,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,782,305,78212830570,128,70,Satakalaam,783,-305.453125,111,Rainforest,Brown,0.5
+50032,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,782,305,78212830570,128,70,Satakalaam,783.0,-305.453125,111,Rainforest,Brown,0.5
 48423,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,805,280,8051028012,10,12,Satakalaam,805.078125,-280.90625,-156,Rainforest,Brown,0.5
 48539,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,847,300,8474330060,43,60,Satakalaam,847.3359375,-300.53125,-79,Rainforest,Brown,0.5
 47714,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,822,288,82205288104,5,104,Satakalaam,822.0390625,-288.1875,108,Rainforest,Brown,0.5
@@ -340,7 +339,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48128,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,829,292,8294329234,43,34,Satakalaam,829.3359375,-292.734375,-106,Rainforest,Brown,0.5
 47831,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,829,308,82911630810,116,10,Satakalaam,829.90625,-308.921875,-145,Rainforest,Brown,0.5
 47830,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,856,283,85618283124,18,124,Satakalaam,856.140625,-283.03125,135,Rainforest,Brown,0.5
-49103,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,789,289,78912828955,128,55,Satakalaam,790,-289.5703125,134,Rainforest,Brown,0.5
+49103,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,789,289,78912828955,128,55,Satakalaam,790.0,-289.5703125,134,Rainforest,Brown,0.5
 49189,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,844,313,84454313110,54,110,Satakalaam,844.421875,-313.140625,-171,Rainforest,Brown,0.5
 49424,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,841,301,84179301102,79,102,Satakalaam,841.6171875,-301.203125,-38,Rainforest,Brown,0.5
 48644,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,808,287,8086028735,60,35,Satakalaam,808.46875,-287.7265625,24,Rainforest,Brown,0.5
@@ -447,7 +446,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47777,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,862,313,86210131369,101,69,Satakalaam,862.7890625,-313.4609375,-81,Rainforest,Brown,0.5
 49918,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,789,292,7899929214,99,14,Satakalaam,789.7734375,-292.890625,57,Rainforest,Brown,0.5
 49873,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,803,317,8037831782,78,82,Satakalaam,803.609375,-317.359375,-119,Rainforest,Brown,0.5
-49430,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,798,311,79803311128,3,128,Satakalaam,798.0234375,-311,-6,Rainforest,Brown,0.5
+49430,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,798,311,79803311128,3,128,Satakalaam,798.0234375,-311.0,-6,Rainforest,Brown,0.5
 48595,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,829,301,8291830103,18,3,Satakalaam,829.140625,-301.9765625,153,Rainforest,Brown,0.5
 49798,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,806,309,8064230980,42,80,Satakalaam,806.328125,-309.375,-92,Rainforest,Brown,0.5
 49924,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,789,297,7897229716,72,16,Satakalaam,789.5625,-297.875,-61,Rainforest,Brown,0.5
@@ -496,7 +495,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49581,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,826,279,8260927937,9,37,Satakalaam,826.0703125,-279.7109375,140,Rainforest,Brown,0.5
 48294,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,832,277,8329927768,99,68,Satakalaam,832.7734375,-277.46875,165,Rainforest,Brown,0.5
 48871,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,839,304,8390730467,7,67,Satakalaam,839.0546875,-304.4765625,-62,Rainforest,Brown,0.5
-48742,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,802,314,80212831404,128,4,Satakalaam,803,-314.96875,58,Rainforest,Brown,0.5
+48742,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,802,314,80212831404,128,4,Satakalaam,803.0,-314.96875,58,Rainforest,Brown,0.5
 47931,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,799,311,79960311115,60,115,Satakalaam,799.46875,-311.1015625,110,Rainforest,Brown,0.5
 48253,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,801,280,80116280126,16,126,Satakalaam,801.125,-280.015625,-151,Rainforest,Brown,0.5
 49305,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,774,286,7745028684,50,84,Satakalaam,774.390625,-286.34375,-104,Rainforest,Brown,0.5
@@ -523,7 +522,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48649,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,781,285,7814228504,42,4,Satakalaam,781.328125,-285.96875,12,Rainforest,Brown,0.5
 49887,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,833,294,8338729414,87,14,Satakalaam,833.6796875,-294.890625,-71,Rainforest,Brown,0.5
 48621,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,852,295,8529629506,96,6,Satakalaam,852.75,-295.953125,123,Rainforest,Brown,0.5
-50044,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,854,305,8548530543,85,43,Satakalaam,854.6640625,-305.6640625,-124,Ocean,Brown,0.5
 49196,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,825,299,82510029987,100,87,Satakalaam,825.78125,-299.3203125,-44,Rainforest,Brown,0.5
 48880,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,860,295,86075295121,75,121,Satakalaam,860.5859375,-295.0546875,-20,Rainforest,Brown,0.5
 48616,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,790,290,790116290100,116,100,Satakalaam,790.90625,-290.21875,-4,Rainforest,Brown,0.5
@@ -547,7 +545,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48636,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,819,284,81912528435,125,35,Satakalaam,819.9765625,-284.7265625,7,Rainforest,Brown,0.5
 49698,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,837,314,83712231487,122,87,Satakalaam,837.953125,-314.3203125,-130,Rainforest,Brown,0.5
 48641,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,860,300,8605130013,51,13,Satakalaam,860.3984375,-300.8984375,-117,Rainforest,Brown,0.5
-49529,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,858,298,85803298128,3,128,Satakalaam,858.0234375,-298,46,Rainforest,Brown,0.5
+49529,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,858,298,85803298128,3,128,Satakalaam,858.0234375,-298.0,46,Rainforest,Brown,0.5
 47939,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,804,314,80410431427,104,27,Satakalaam,804.8125,-314.7890625,-141,Rainforest,Brown,0.5
 49006,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,824,307,8247130790,71,90,Satakalaam,824.5546875,-307.296875,-119,Rainforest,Brown,0.5
 48481,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,773,296,7735829653,58,53,Satakalaam,773.453125,-296.5859375,35,Rainforest,Brown,0.5
@@ -584,8 +582,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48957,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,868,299,86811429936,114,36,Satakalaam,868.890625,-299.71875,83,Rainforest,Brown,0.5
 48154,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,804,278,8043927849,39,49,Satakalaam,804.3046875,-278.6171875,-65,Rainforest,Brown,0.5
 49782,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,850,295,8501129598,11,98,Satakalaam,850.0859375,-295.234375,16,Rainforest,Brown,0.5
-49789,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,810,300,81012300128,12,128,Satakalaam,810.09375,-300,-125,Rainforest,Brown,0.5
-49533,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,829,267,82910326772,103,72,Satakalaam,829.8046875,-267.4375,-68,Ocean,Brown,0.5
+49789,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,810,300,81012300128,12,128,Satakalaam,810.09375,-300.0,-125,Rainforest,Brown,0.5
 47933,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,808,297,8085429718,54,18,Satakalaam,808.421875,-297.859375,-146,Rainforest,Brown,0.5
 48216,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,819,284,8197728471,77,71,Satakalaam,819.6015625,-284.4453125,20,Rainforest,Brown,0.5
 49289,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,828,282,82810528283,105,83,Satakalaam,828.8203125,-282.3515625,73,Rainforest,Brown,0.5
@@ -610,12 +607,11 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49589,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,802,296,80211429642,114,42,Satakalaam,802.890625,-296.671875,162,Rainforest,Brown,0.5
 48725,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,827,314,8273631464,36,64,Satakalaam,827.28125,-314.5,-133,Rainforest,Brown,0.5
 49080,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,774,307,7741930761,19,61,Satakalaam,774.1484375,-307.5234375,-92,Rainforest,Brown,0.5
-49111,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,842,304,84203304128,3,128,Satakalaam,842.0234375,-304,-156,Rainforest,Brown,0.5
+49111,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,842,304,84203304128,3,128,Satakalaam,842.0234375,-304.0,-156,Rainforest,Brown,0.5
 49946,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,833,275,8330727507,7,7,Satakalaam,833.0546875,-275.9453125,-43,Rainforest,Brown,0.5
 49509,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,780,297,7804229738,42,38,Satakalaam,780.328125,-297.703125,165,Rainforest,Brown,0.5
 50067,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,872,303,87218303103,18,103,Satakalaam,872.140625,-303.1953125,-165,Rainforest,Brown,0.5
 49051,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,849,307,849118307102,118,102,Satakalaam,849.921875,-307.203125,9,Rainforest,Brown,0.5
-47704,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,852,282,8525828214,58,14,Satakalaam,852.453125,-282.890625,-126,Ocean,Brown,0.5
 49069,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,771,284,7711328428,13,28,Satakalaam,771.1015625,-284.78125,-76,Rainforest,Brown,0.5
 49975,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,776,311,77691311122,91,122,Satakalaam,776.7109375,-311.046875,69,Rainforest,Brown,0.5
 48555,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,830,281,83010528184,105,84,Satakalaam,830.8203125,-281.34375,178,Rainforest,Brown,0.5
@@ -630,7 +626,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48058,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,785,301,7854230106,42,6,Satakalaam,785.328125,-301.953125,32,Rainforest,Brown,0.5
 49408,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,799,289,7993728954,37,54,Satakalaam,799.2890625,-289.578125,-56,Rainforest,Brown,0.5
 48176,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,778,290,7788629049,86,49,Satakalaam,778.671875,-290.6171875,-53,Rainforest,Brown,0.5
-48103,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,780,298,78068298128,68,128,Satakalaam,780.53125,-298,-86,Rainforest,Brown,0.5
+48103,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,780,298,78068298128,68,128,Satakalaam,780.53125,-298.0,-86,Rainforest,Brown,0.5
 49547,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,817,281,8179328142,93,42,Satakalaam,817.7265625,-281.671875,169,Rainforest,Brown,0.5
 49326,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,851,312,85185312100,85,100,Satakalaam,851.6640625,-312.21875,-152,Rainforest,Brown,0.5
 48459,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,846,298,84612429816,124,16,Satakalaam,846.96875,-298.875,98,Rainforest,Brown,0.5
@@ -655,14 +651,13 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48075,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,829,282,82912628275,126,75,Satakalaam,829.984375,-282.4140625,35,Rainforest,Brown,0.5
 50068,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,864,309,86410930957,109,57,Satakalaam,864.8515625,-309.5546875,-112,Rainforest,Brown,0.5
 47918,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,818,307,8189330701,93,1,Satakalaam,818.7265625,-307.9921875,110,Rainforest,Brown,0.5
-48056,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,817,306,81712830605,128,5,Satakalaam,818,-306.9609375,170,Rainforest,Brown,0.5
+48056,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,817,306,81712830605,128,5,Satakalaam,818.0,-306.9609375,170,Rainforest,Brown,0.5
 48259,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,800,297,80053297123,53,123,Satakalaam,800.4140625,-297.0390625,0,Rainforest,Brown,0.5
 49419,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,836,313,83622313100,22,100,Satakalaam,836.171875,-313.21875,47,Rainforest,Brown,0.5
 48563,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,809,291,80910329166,103,66,Satakalaam,809.8046875,-291.484375,-137,Rainforest,Brown,0.5
 49221,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,804,303,80410230341,102,41,Satakalaam,804.796875,-303.6796875,-157,Rainforest,Brown,0.5
 48126,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,816,305,8161730595,17,95,Satakalaam,816.1328125,-305.2578125,-71,Rainforest,Brown,0.5
 48847,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,849,302,8493530210,35,10,Satakalaam,849.2734375,-302.921875,-37,Rainforest,Brown,0.5
-48630,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,864,277,8648027720,80,20,Satakalaam,864.625,-277.84375,-74,Ocean,Brown,0.5
 49642,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,839,316,83929316110,29,110,Satakalaam,839.2265625,-316.140625,-2,Rainforest,Brown,0.5
 48464,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,809,292,8097429295,74,95,Satakalaam,809.578125,-292.2578125,68,Rainforest,Brown,0.5
 48488,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,818,283,8181828361,18,61,Satakalaam,818.140625,-283.5234375,-45,Rainforest,Brown,0.5
@@ -754,7 +749,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48697,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,870,313,8700731346,7,46,Satakalaam,870.0546875,-313.640625,-66,Rainforest,Brown,0.5
 49802,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,817,282,81711428214,114,14,Satakalaam,817.890625,-282.890625,102,Rainforest,Brown,0.5
 47810,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,783,283,783115283124,115,124,Satakalaam,783.8984375,-283.03125,-105,Rainforest,Brown,0.5
-49890,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,803,304,803102304128,102,128,Satakalaam,803.796875,-304,36,Rainforest,Brown,0.5
+49890,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,803,304,803102304128,102,128,Satakalaam,803.796875,-304.0,36,Rainforest,Brown,0.5
 49519,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,841,305,84110830522,108,22,Satakalaam,841.84375,-305.828125,160,Rainforest,Brown,0.5
 48620,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,795,312,79506312120,6,120,Satakalaam,795.046875,-312.0625,-129,Rainforest,Brown,0.5
 47717,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,870,300,8702130010,21,10,Satakalaam,870.1640625,-300.921875,6,Rainforest,Brown,0.5
@@ -771,7 +766,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48018,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,841,315,8415131555,51,55,Satakalaam,841.3984375,-315.5703125,-90,Rainforest,Brown,0.5
 49349,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,839,281,8397528104,75,4,Satakalaam,839.5859375,-281.96875,-1,Rainforest,Brown,0.5
 48609,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,864,294,8640629425,6,25,Satakalaam,864.046875,-294.8046875,-76,Rainforest,Brown,0.5
-48008,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,778,291,77812829167,128,67,Satakalaam,779,-291.4765625,113,Rainforest,Brown,0.5
+48008,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,778,291,77812829167,128,67,Satakalaam,779.0,-291.4765625,113,Rainforest,Brown,0.5
 49085,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,855,298,8550329841,3,41,Satakalaam,855.0234375,-298.6796875,-17,Rainforest,Brown,0.5
 49187,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,847,301,8477330149,73,49,Satakalaam,847.5703125,-301.6171875,-70,Rainforest,Brown,0.5
 47769,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,814,285,81477285103,77,103,Satakalaam,814.6015625,-285.1953125,31,Rainforest,Brown,0.5
@@ -781,7 +776,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49775,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,857,299,857120299112,120,112,Satakalaam,857.9375,-299.125,131,Rainforest,Brown,0.5
 48813,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,870,299,87086299109,86,109,Satakalaam,870.671875,-299.1484375,77,Rainforest,Brown,0.5
 49774,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,815,296,81511329615,113,15,Satakalaam,815.8828125,-296.8828125,-170,Rainforest,Brown,0.5
-49462,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,789,316,78912831652,128,52,Satakalaam,790,-316.59375,-161,Rainforest,Brown,0.5
+49462,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,789,316,78912831652,128,52,Satakalaam,790.0,-316.59375,-161,Rainforest,Brown,0.5
 48574,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,849,307,8495130793,51,93,Satakalaam,849.3984375,-307.2734375,15,Rainforest,Brown,0.5
 49962,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,826,284,8269228449,92,49,Satakalaam,826.71875,-284.6171875,46,Rainforest,Brown,0.5
 47693,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,812,289,8126128926,61,26,Satakalaam,812.4765625,-289.796875,-132,Rainforest,Brown,0.5
@@ -837,9 +832,8 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49831,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,779,303,77910830332,108,32,Satakalaam,779.84375,-303.75,-97,Rainforest,Brown,0.5
 48347,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,864,309,8643330945,33,45,Satakalaam,864.2578125,-309.6484375,-156,Rainforest,Brown,0.5
 48022,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,841,300,84141300126,41,126,Satakalaam,841.3203125,-300.015625,128,Rainforest,Brown,0.5
-48885,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,783,302,783128302114,128,114,Satakalaam,784,-302.109375,-153,Rainforest,Brown,0.5
+48885,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,783,302,783128302114,128,114,Satakalaam,784.0,-302.109375,-153,Rainforest,Brown,0.5
 48737,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,810,314,81041314111,41,111,Satakalaam,810.3203125,-314.1328125,112,Rainforest,Brown,0.5
-47731,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,825,276,82511227622,112,22,Satakalaam,825.875,-276.828125,50,Ocean,Brown,0.5
 50062,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,784,309,78410130919,101,19,Satakalaam,784.7890625,-309.8515625,-74,Rainforest,Brown,0.5
 49451,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,848,307,8481130791,11,91,Satakalaam,848.0859375,-307.2890625,-45,Rainforest,Brown,0.5
 48451,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,782,292,7829429212,94,12,Satakalaam,782.734375,-292.90625,32,Rainforest,Brown,0.5
@@ -908,12 +902,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49432,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,807,287,8072628786,26,86,Satakalaam,807.203125,-287.328125,29,Rainforest,Brown,0.5
 50020,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,804,296,80410529620,105,20,Satakalaam,804.8203125,-296.84375,-61,Rainforest,Brown,0.5
 47886,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,772,283,7722728363,27,63,Satakalaam,772.2109375,-283.5078125,66,Rainforest,Brown,0.5
-48756,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,869,290,86955290128,55,128,Satakalaam,869.4296875,-290,77,Rainforest,Brown,0.5
+48756,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,869,290,86955290128,55,128,Satakalaam,869.4296875,-290.0,77,Rainforest,Brown,0.5
 48728,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,839,298,83912729895,127,95,Satakalaam,839.9921875,-298.2578125,45,Rainforest,Brown,0.5
 49348,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,817,304,8170230482,2,82,Satakalaam,817.015625,-304.359375,-100,Rainforest,Brown,0.5
 48588,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,784,292,7849629203,96,3,Satakalaam,784.75,-292.9765625,-177,Rainforest,Brown,0.5
 48612,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,860,301,86018301123,18,123,Satakalaam,860.140625,-301.0390625,-108,Rainforest,Brown,0.5
-48892,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,808,305,80812830541,128,41,Satakalaam,809,-305.6796875,134,Rainforest,Brown,0.5
+48892,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,808,305,80812830541,128,41,Satakalaam,809.0,-305.6796875,134,Rainforest,Brown,0.5
 49440,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,827,290,8273229024,32,24,Satakalaam,827.25,-290.8125,-160,Rainforest,Brown,0.5
 47960,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,852,303,8522130336,21,36,Satakalaam,852.1640625,-303.71875,127,Rainforest,Brown,0.5
 48819,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,808,300,8082430040,24,40,Satakalaam,808.1875,-300.6875,-85,Rainforest,Brown,0.5
@@ -957,7 +951,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47944,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,820,311,82012231114,122,14,Satakalaam,820.953125,-311.890625,-121,Rainforest,Brown,0.5
 47782,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,787,313,7879431330,94,30,Satakalaam,787.734375,-313.765625,-32,Rainforest,Brown,0.5
 49548,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,859,302,8593630230,36,30,Satakalaam,859.28125,-302.765625,-65,Rainforest,Brown,0.5
-48525,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,832,294,83274294128,74,128,Satakalaam,832.578125,-294,147,Rainforest,Brown,0.5
+48525,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,832,294,83274294128,74,128,Satakalaam,832.578125,-294.0,147,Rainforest,Brown,0.5
 49209,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,801,313,8010331309,3,9,Satakalaam,801.0234375,-313.9296875,-47,Rainforest,Brown,0.5
 50087,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,823,310,8234631032,46,32,Satakalaam,823.359375,-310.75,169,Rainforest,Brown,0.5
 49628,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,793,318,7939531803,95,3,Satakalaam,793.7421875,-318.9765625,-85,Rainforest,Brown,0.5
@@ -975,7 +969,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49613,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,782,286,7825228696,52,96,Satakalaam,782.40625,-286.25,-84,Rainforest,Brown,0.5
 48382,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,808,310,8085531028,55,28,Satakalaam,808.4296875,-310.78125,-1,Rainforest,Brown,0.5
 49559,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,802,284,80212728432,127,32,Satakalaam,802.9921875,-284.75,-36,Rainforest,Brown,0.5
-47922,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,853,293,85348293127,48,127,Satakalaam,853.375,-293.0078125,-180,Ocean,Brown,0.5
 49002,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,820,289,8206228939,62,39,Satakalaam,820.484375,-289.6953125,-4,Rainforest,Brown,0.5
 47736,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,780,295,7806929504,69,4,Satakalaam,780.5390625,-295.96875,-99,Rainforest,Brown,0.5
 49891,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,836,294,8361729401,17,1,Satakalaam,836.1328125,-294.9921875,62,Rainforest,Brown,0.5
@@ -992,7 +985,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49192,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,837,314,8379831488,98,88,Satakalaam,837.765625,-314.3125,53,Rainforest,Brown,0.5
 47772,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,870,300,8707330004,73,4,Satakalaam,870.5703125,-300.96875,-83,Rainforest,Brown,0.5
 47963,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,827,286,8278128627,81,27,Satakalaam,827.6328125,-286.7890625,-138,Rainforest,Brown,0.5
-49591,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,846,301,84632301128,32,128,Satakalaam,846.25,-301,-54,Rainforest,Brown,0.5
+49591,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,846,301,84632301128,32,128,Satakalaam,846.25,-301.0,-54,Rainforest,Brown,0.5
 47887,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,863,296,8639329603,93,3,Satakalaam,863.7265625,-296.9765625,11,Rainforest,Brown,0.5
 48131,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,826,283,8263928361,39,61,Satakalaam,826.3046875,-283.5234375,-161,Rainforest,Brown,0.5
 50054,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,798,296,7986129634,61,34,Satakalaam,798.4765625,-296.734375,160,Rainforest,Brown,0.5
@@ -1009,9 +1002,8 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 50120,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,861,293,8618129393,81,93,Satakalaam,861.6328125,-293.2734375,-164,Rainforest,Brown,0.5
 49609,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,812,306,8128030648,80,48,Satakalaam,812.625,-306.625,126,Rainforest,Brown,0.5
 48710,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,844,301,8440930143,9,43,Satakalaam,844.0703125,-301.6640625,-125,Rainforest,Brown,0.5
-47958,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,810,290,810128290126,128,126,Satakalaam,811,-290.015625,-63,Rainforest,Brown,0.5
+47958,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,810,290,810128290126,128,126,Satakalaam,811.0,-290.015625,-63,Rainforest,Brown,0.5
 49646,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,783,311,783123311121,123,121,Satakalaam,783.9609375,-311.0546875,-96,Rainforest,Brown,0.5
-48441,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,846,270,84612127054,121,54,Satakalaam,846.9453125,-270.578125,-179,Ocean,Brown,0.5
 48138,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,871,300,871101300124,101,124,Satakalaam,871.7890625,-300.03125,-82,Rainforest,Brown,0.5
 49573,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,825,315,8258831548,88,48,Satakalaam,825.6875,-315.625,-139,Rainforest,Brown,0.5
 49453,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,790,290,7907429044,74,44,Satakalaam,790.578125,-290.65625,-131,Rainforest,Brown,0.5
@@ -1063,7 +1055,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47897,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,772,288,7728528811,85,11,Satakalaam,772.6640625,-288.9140625,145,Rainforest,Brown,0.5
 48820,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,838,305,8380730559,7,59,Satakalaam,838.0546875,-305.5390625,-53,Rainforest,Brown,0.5
 47989,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,799,285,7990528547,5,47,Satakalaam,799.0390625,-285.6328125,143,Rainforest,Brown,0.5
-48503,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,787,300,78741300128,41,128,Satakalaam,787.3203125,-300,55,Rainforest,Brown,0.5
+48503,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,787,300,78741300128,41,128,Satakalaam,787.3203125,-300.0,55,Rainforest,Brown,0.5
 50039,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,804,303,8041730303,17,3,Satakalaam,804.1328125,-303.9765625,36,Rainforest,Brown,0.5
 48827,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,834,278,8346727882,67,82,Satakalaam,834.5234375,-278.359375,33,Rainforest,Brown,0.5
 48413,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,831,280,8311128068,11,68,Satakalaam,831.0859375,-280.46875,34,Rainforest,Brown,0.5
@@ -1332,7 +1324,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 50123,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,868,297,86811329725,113,25,Satakalaam,868.8828125,-297.8046875,30,Rainforest,Brown,0.5
 48500,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,813,283,8131028368,10,68,Satakalaam,813.078125,-283.46875,-126,Rainforest,Brown,0.5
 49393,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,809,287,8098328742,83,42,Satakalaam,809.6484375,-287.671875,68,Rainforest,Brown,0.5
-50116,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,856,298,85637298128,37,128,Satakalaam,856.2890625,-298,-75,Rainforest,Brown,0.5
+50116,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,856,298,85637298128,37,128,Satakalaam,856.2890625,-298.0,-75,Rainforest,Brown,0.5
 49989,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,821,306,8217030694,70,94,Satakalaam,821.546875,-306.265625,136,Rainforest,Brown,0.5
 50093,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,782,303,7825930368,59,68,Satakalaam,782.4609375,-303.46875,-76,Rainforest,Brown,0.5
 49351,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,869,305,8692730591,27,91,Satakalaam,869.2109375,-305.2890625,1,Rainforest,Brown,0.5
@@ -1366,7 +1358,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48335,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,799,315,7996031568,60,68,Satakalaam,799.46875,-315.46875,-98,Rainforest,Brown,0.5
 47722,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,793,306,7934730603,47,3,Satakalaam,793.3671875,-306.9765625,83,Rainforest,Brown,0.5
 47949,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,803,286,8038328620,83,20,Satakalaam,803.6484375,-286.84375,-67,Rainforest,Brown,0.5
-49104,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,774,313,774128313100,128,100,Satakalaam,775,-313.21875,97,Rainforest,Brown,0.5
+49104,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,774,313,774128313100,128,100,Satakalaam,775.0,-313.21875,97,Rainforest,Brown,0.5
 48412,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,793,293,7932929350,29,50,Satakalaam,793.2265625,-293.609375,-177,Rainforest,Brown,0.5
 49566,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,817,303,81711330319,113,19,Satakalaam,817.8828125,-303.8515625,137,Rainforest,Brown,0.5
 49200,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,855,305,8556530573,65,73,Satakalaam,855.5078125,-305.4296875,16,Rainforest,Brown,0.5
@@ -1415,7 +1407,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 50127,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,778,286,7783628634,36,34,Satakalaam,778.28125,-286.734375,8,Rainforest,Brown,0.5
 49771,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,788,311,78811031106,110,6,Satakalaam,788.859375,-311.953125,114,Rainforest,Brown,0.5
 48553,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,826,292,82611329222,113,22,Satakalaam,826.8828125,-292.828125,-73,Rainforest,Brown,0.5
-48264,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,819,288,81941288128,41,128,Satakalaam,819.3203125,-288,113,Rainforest,Brown,0.5
+48264,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,819,288,81941288128,41,128,Satakalaam,819.3203125,-288.0,113,Rainforest,Brown,0.5
 48350,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,859,310,8594231091,42,91,Satakalaam,859.328125,-310.2890625,-13,Rainforest,Brown,0.5
 49622,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,847,279,8477227949,72,49,Satakalaam,847.5625,-279.6171875,152,Rainforest,Brown,0.5
 48948,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,861,291,8611429119,14,19,Satakalaam,861.109375,-291.8515625,-68,Rainforest,Brown,0.5
@@ -1427,7 +1419,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49778,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,806,298,80611129804,111,4,Satakalaam,806.8671875,-298.96875,48,Rainforest,Brown,0.5
 48084,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,798,316,7984731602,47,2,Satakalaam,798.3671875,-316.984375,-143,Rainforest,Brown,0.5
 48999,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,782,299,7828129927,81,27,Satakalaam,782.6328125,-299.7890625,62,Rainforest,Brown,0.5
-49383,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,835,308,83513308128,13,128,Satakalaam,835.1015625,-308,137,Rainforest,Brown,0.5
+49383,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,835,308,83513308128,13,128,Satakalaam,835.1015625,-308.0,137,Rainforest,Brown,0.5
 47993,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,799,314,7996231415,62,15,Satakalaam,799.484375,-314.8828125,149,Rainforest,Brown,0.5
 49686,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,849,298,84912429836,124,36,Satakalaam,849.96875,-298.71875,-91,Rainforest,Brown,0.5
 49345,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,813,303,8131330357,13,57,Satakalaam,813.1015625,-303.5546875,-86,Rainforest,Brown,0.5
@@ -1441,7 +1433,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49882,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,814,297,8143829724,38,24,Satakalaam,814.296875,-297.8125,-133,Rainforest,Brown,0.5
 49752,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,840,305,8407730561,77,61,Satakalaam,840.6015625,-305.5234375,-149,Rainforest,Brown,0.5
 50143,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,795,309,7957030901,70,1,Satakalaam,795.546875,-309.9921875,-65,Rainforest,Brown,0.5
-48572,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,836,299,83612829946,128,46,Satakalaam,837,-299.640625,-167,Rainforest,Brown,0.5
+48572,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_03,836,299,83612829946,128,46,Satakalaam,837.0,-299.640625,-167,Rainforest,Brown,0.5
 49375,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,861,289,8615228954,52,54,Satakalaam,861.40625,-289.578125,-112,Rainforest,Brown,0.5
 48758,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,825,301,8255330176,53,76,Satakalaam,825.4140625,-301.40625,-163,Rainforest,Brown,0.5
 49978,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,781,290,7817929068,79,68,Satakalaam,781.6171875,-290.46875,-30,Rainforest,Brown,0.5
@@ -1476,11 +1468,11 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49353,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,802,316,8021731696,17,96,Satakalaam,802.1328125,-316.25,13,Rainforest,Brown,0.5
 49639,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,788,284,7883928409,39,9,Satakalaam,788.3046875,-284.9296875,139,Rainforest,Brown,0.5
 48239,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,864,314,8647731426,77,26,Satakalaam,864.6015625,-314.796875,70,Rainforest,Brown,0.5
-49762,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,803,307,80301307128,1,128,Satakalaam,803.0078125,-307,45,Rainforest,Brown,0.5
+49762,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,803,307,80301307128,1,128,Satakalaam,803.0078125,-307.0,45,Rainforest,Brown,0.5
 49316,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,787,305,7877130513,71,13,Satakalaam,787.5546875,-305.8984375,171,Rainforest,Brown,0.5
 48017,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,850,310,8506531006,65,6,Satakalaam,850.5078125,-310.953125,-125,Rainforest,Brown,0.5
 49319,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,848,293,84856293109,56,109,Satakalaam,848.4375,-293.1484375,-169,Rainforest,Brown,0.5
-48590,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,806,318,80678318128,78,128,Satakalaam,806.609375,-318,160,Rainforest,Brown,0.5
+48590,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,806,318,80678318128,78,128,Satakalaam,806.609375,-318.0,160,Rainforest,Brown,0.5
 49776,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,833,279,83353279125,53,125,Satakalaam,833.4140625,-279.0234375,-122,Rainforest,Brown,0.5
 49536,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,817,279,8170327917,3,17,Satakalaam,817.0234375,-279.8671875,87,Rainforest,Brown,0.5
 48477,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,776,313,7761431373,14,73,Satakalaam,776.109375,-313.4296875,-155,Rainforest,Brown,0.5
@@ -1502,17 +1494,16 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48502,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,868,313,86811331376,113,76,Satakalaam,868.8828125,-313.40625,-130,Rainforest,Brown,0.5
 49059,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,789,290,7896929070,69,70,Satakalaam,789.5390625,-290.453125,-11,Rainforest,Brown,0.5
 48865,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,832,283,8328228307,82,7,Satakalaam,832.640625,-283.9453125,96,Rainforest,Brown,0.5
-48399,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,814,292,814128292101,128,101,Satakalaam,815,-292.2109375,91,Rainforest,Brown,0.5
+48399,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,814,292,814128292101,128,101,Satakalaam,815.0,-292.2109375,91,Rainforest,Brown,0.5
 49225,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,805,313,8058831336,88,36,Satakalaam,805.6875,-313.71875,58,Rainforest,Brown,0.5
 48139,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,796,284,7968228449,82,49,Satakalaam,796.640625,-284.6171875,-179,Rainforest,Brown,0.5
 50045,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,838,304,83810630466,106,66,Satakalaam,838.828125,-304.484375,32,Rainforest,Brown,0.5
 48755,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,773,308,7735830894,58,94,Satakalaam,773.453125,-308.265625,153,Rainforest,Brown,0.5
 49021,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,845,299,8457929919,79,19,Satakalaam,845.6171875,-299.8515625,60,Rainforest,Brown,0.5
 48968,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,858,313,85879313119,79,119,Satakalaam,858.6171875,-313.0703125,-84,Rainforest,Brown,0.5
-48695,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,809,278,8096327816,63,16,Satakalaam,809.4921875,-278.875,95,Ocean,Brown,0.5
 47912,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,827,301,8275330157,53,57,Satakalaam,827.4140625,-301.5546875,75,Rainforest,Brown,0.5
 47730,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,814,303,81410030362,100,62,Satakalaam,814.78125,-303.515625,-104,Rainforest,Brown,0.5
-49422,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,860,284,86012828456,128,56,Satakalaam,861,-284.5625,-143,Rainforest,Brown,0.5
+49422,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,860,284,86012828456,128,56,Satakalaam,861.0,-284.5625,-143,Rainforest,Brown,0.5
 50071,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,829,303,8294430361,44,61,Satakalaam,829.34375,-303.5234375,145,Rainforest,Brown,0.5
 49409,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,843,295,84374295124,74,124,Satakalaam,843.578125,-295.03125,-136,Rainforest,Brown,0.5
 48323,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,798,304,7980930497,9,97,Satakalaam,798.0703125,-304.2421875,88,Rainforest,Brown,0.5
@@ -1525,7 +1516,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48163,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,827,310,82762310119,62,119,Satakalaam,827.484375,-310.0703125,35,Rainforest,Brown,0.5
 48505,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,808,288,8086328891,63,91,Satakalaam,808.4921875,-288.2890625,165,Rainforest,Brown,0.5
 47711,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,800,278,80012327881,123,81,Satakalaam,800.9609375,-278.3671875,83,Rainforest,Brown,0.5
-47853,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,853,309,85327309128,27,128,Satakalaam,853.2109375,-309,-54,Rainforest,Brown,0.5
+47853,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,853,309,85327309128,27,128,Satakalaam,853.2109375,-309.0,-54,Rainforest,Brown,0.5
 49445,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,826,292,8265229279,52,79,Satakalaam,826.40625,-292.3828125,3,Rainforest,Brown,0.5
 48796,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,783,289,7832728983,27,83,Satakalaam,783.2109375,-289.3515625,162,Rainforest,Brown,0.5
 50042,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,806,289,8064328955,43,55,Satakalaam,806.3359375,-289.5703125,-179,Rainforest,Brown,0.5
@@ -1553,7 +1544,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 50028,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,789,309,7899430981,94,81,Satakalaam,789.734375,-309.3671875,104,Rainforest,Brown,0.5
 48370,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,836,313,8368431327,84,27,Satakalaam,836.65625,-313.7890625,163,Rainforest,Brown,0.5
 47900,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,856,308,8561330818,13,18,Satakalaam,856.1015625,-308.859375,142,Rainforest,Brown,0.5
-48808,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,825,284,82512828493,128,93,Satakalaam,826,-284.2734375,-76,Rainforest,Brown,0.5
+48808,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,825,284,82512828493,128,93,Satakalaam,826.0,-284.2734375,-76,Rainforest,Brown,0.5
 47907,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,858,312,8586431218,64,18,Satakalaam,858.5,-312.859375,168,Rainforest,Brown,0.5
 49835,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,821,283,8219928367,99,67,Satakalaam,821.7734375,-283.4765625,27,Rainforest,Brown,0.5
 48797,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,820,297,8208829728,88,28,Satakalaam,820.6875,-297.78125,-73,Rainforest,Brown,0.5
@@ -1610,7 +1601,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48397,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,773,296,77318296126,18,126,Satakalaam,773.140625,-296.015625,149,Rainforest,Brown,0.5
 48714,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,794,287,79430287108,30,108,Satakalaam,794.234375,-287.15625,-31,Rainforest,Brown,0.5
 48411,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,774,297,7742029708,20,8,Satakalaam,774.15625,-297.9375,-53,Rainforest,Brown,0.5
-47635,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,820,277,8209727711,97,11,Satakalaam,820.7578125,-277.9140625,45,Ocean,Brown,0.5
 49201,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,781,299,7815329999,53,99,Satakalaam,781.4140625,-299.2265625,-13,Rainforest,Brown,0.5
 49637,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,819,290,8197829012,78,12,Satakalaam,819.609375,-290.90625,-112,Rainforest,Brown,0.5
 48227,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,771,293,7715029331,50,31,Satakalaam,771.390625,-293.7578125,132,Rainforest,Brown,0.5
@@ -1656,7 +1646,6 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48998,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,810,288,8105328872,53,72,Satakalaam,810.4140625,-288.4375,-48,Rainforest,Brown,0.5
 48303,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,824,289,8245628953,56,53,Satakalaam,824.4375,-289.5859375,-175,Rainforest,Brown,0.5
 49582,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,849,310,8494431041,44,41,Satakalaam,849.34375,-310.6796875,-178,Rainforest,Brown,0.5
-48785,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,847,277,8476227705,62,5,Satakalaam,847.484375,-277.9609375,-47,Ocean,Brown,0.5
 48900,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,804,287,80438287124,38,124,Satakalaam,804.296875,-287.03125,-111,Rainforest,Brown,0.5
 49367,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,828,292,8289029288,90,88,Satakalaam,828.703125,-292.3125,134,Rainforest,Brown,0.5
 48546,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,832,265,8325626596,56,96,Satakalaam,832.4375,-265.25,-166,Rainforest,Brown,0.5
@@ -1790,7 +1779,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49145,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,812,293,8120629385,6,85,Satakalaam,812.046875,-293.3359375,74,Rainforest,Brown,0.5
 47953,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,857,307,85723307101,23,101,Satakalaam,857.1796875,-307.2109375,-145,Rainforest,Brown,0.5
 47859,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,870,309,87011330963,113,63,Satakalaam,870.8828125,-309.5078125,-20,Rainforest,Brown,0.5
-49809,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,801,285,80112828528,128,28,Satakalaam,802,-285.78125,172,Rainforest,Brown,0.5
+49809,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,801,285,80112828528,128,28,Satakalaam,802.0,-285.78125,172,Rainforest,Brown,0.5
 49315,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,834,314,8341731484,17,84,Satakalaam,834.1328125,-314.34375,-47,Rainforest,Brown,0.5
 48144,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,797,310,7972031074,20,74,Satakalaam,797.15625,-310.421875,-95,Rainforest,Brown,0.5
 48169,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,826,313,826123313121,123,121,Satakalaam,826.9609375,-313.0546875,-131,Rainforest,Brown,0.5
@@ -1804,7 +1793,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48188,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,845,297,8453329714,33,14,Satakalaam,845.2578125,-297.890625,174,Rainforest,Brown,0.5
 49899,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,801,293,8014429386,44,86,Satakalaam,801.34375,-293.328125,13,Rainforest,Brown,0.5
 49673,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,861,281,8618828122,88,22,Satakalaam,861.6875,-281.828125,-49,Rainforest,Brown,0.5
-47775,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,865,305,86532305128,32,128,Satakalaam,865.25,-305,-74,Rainforest,Brown,0.5
+47775,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,865,305,86532305128,32,128,Satakalaam,865.25,-305.0,-74,Rainforest,Brown,0.5
 50006,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,844,298,844107298111,107,111,Satakalaam,844.8359375,-298.1328125,-86,Rainforest,Brown,0.5
 49985,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,803,283,80338283100,38,100,Satakalaam,803.296875,-283.21875,-174,Rainforest,Brown,0.5
 49572,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_07,833,286,83311028651,110,51,Satakalaam,833.859375,-286.6015625,-89,Rainforest,Brown,0.5
@@ -1883,7 +1872,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 47855,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,808,306,8085230642,52,42,Satakalaam,808.40625,-306.671875,-16,Rainforest,Brown,0.5
 48296,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,809,306,80967306108,67,108,Satakalaam,809.5234375,-306.15625,-87,Rainforest,Brown,0.5
 48182,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,803,283,80311028382,110,82,Satakalaam,803.859375,-283.359375,-114,Rainforest,Brown,0.5
-48657,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,798,284,798110284128,110,128,Satakalaam,798.859375,-284,141,Rainforest,Brown,0.5
+48657,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,798,284,798110284128,110,128,Satakalaam,798.859375,-284.0,141,Rainforest,Brown,0.5
 49682,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,865,278,86526278104,26,104,Satakalaam,865.203125,-278.1875,-19,Rainforest,Brown,0.5
 48019,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,830,279,8309727947,97,47,Satakalaam,830.7578125,-279.6328125,100,Rainforest,Brown,0.5
 48809,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,807,281,80779281102,79,102,Satakalaam,807.6171875,-281.203125,144,Rainforest,Brown,0.5
@@ -1911,7 +1900,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48219,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,837,312,8377931221,79,21,Satakalaam,837.6171875,-312.8359375,-70,Rainforest,Brown,0.5
 48331,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,793,311,79310631147,106,47,Satakalaam,793.828125,-311.6328125,174,Rainforest,Brown,0.5
 50012,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,861,304,86168304108,68,108,Satakalaam,861.53125,-304.15625,-128,Rainforest,Brown,0.5
-49485,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,789,309,78912830974,128,74,Satakalaam,790,-309.421875,-128,Rainforest,Brown,0.5
+49485,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,789,309,78912830974,128,74,Satakalaam,790.0,-309.421875,-128,Rainforest,Brown,0.5
 49597,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,801,312,80184312121,84,121,Satakalaam,801.65625,-312.0546875,60,Rainforest,Brown,0.5
 48570,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,788,299,78811529949,115,49,Satakalaam,788.8984375,-299.6171875,36,Rainforest,Brown,0.5
 49097,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,847,300,8477730065,77,65,Satakalaam,847.6015625,-300.4921875,-172,Rainforest,Brown,0.5
@@ -1923,13 +1912,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49060,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,852,307,8523630718,36,18,Satakalaam,852.28125,-307.859375,-164,Rainforest,Brown,0.5
 49987,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,793,295,7938629539,86,39,Satakalaam,793.671875,-295.6953125,-158,Rainforest,Brown,0.5
 49068,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,822,283,8223328303,33,3,Satakalaam,822.2578125,-283.9765625,27,Rainforest,Brown,0.5
-49892,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,773,287,77394287128,94,128,Satakalaam,773.734375,-287,-62,Rainforest,Brown,0.5
+49892,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,773,287,77394287128,94,128,Satakalaam,773.734375,-287.0,-62,Rainforest,Brown,0.5
 49988,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,805,300,8050930004,9,4,Satakalaam,805.0703125,-300.96875,-167,Rainforest,Brown,0.5
 48705,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_10,833,314,8334731469,47,69,Satakalaam,833.3671875,-314.4609375,114,Rainforest,Brown,0.5
 49844,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,821,305,82181305105,81,105,Satakalaam,821.6328125,-305.1796875,102,Rainforest,Brown,0.5
 48279,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,845,278,84512527867,125,67,Satakalaam,845.9765625,-278.4765625,115,Rainforest,Brown,0.5
 50092,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,858,304,8581230455,12,55,Satakalaam,858.09375,-304.5703125,134,Rainforest,Brown,0.5
-47941,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,821,277,8215327716,53,16,Satakalaam,821.4140625,-277.875,-20,Ocean,Brown,0.5
 48047,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,813,316,8134231656,42,56,Satakalaam,813.328125,-316.5625,104,Rainforest,Brown,0.5
 49638,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,822,311,8224331101,43,1,Satakalaam,822.3359375,-311.9921875,174,Rainforest,Brown,0.5
 49652,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,847,307,847104307126,104,126,Satakalaam,847.8125,-307.015625,-38,Rainforest,Brown,0.5
@@ -1945,12 +1933,12 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49125,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,865,297,86510729709,107,9,Satakalaam,865.8359375,-297.9296875,11,Rainforest,Brown,0.5
 47868,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,843,309,84311930996,119,96,Satakalaam,843.9296875,-309.25,-78,Rainforest,Brown,0.5
 48514,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,792,297,79211729704,117,4,Satakalaam,792.9140625,-297.96875,-58,Rainforest,Brown,0.5
-48543,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,809,298,809116298128,116,128,Satakalaam,809.90625,-298,7,Rainforest,Brown,0.5
+48543,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,809,298,809116298128,116,128,Satakalaam,809.90625,-298.0,7,Rainforest,Brown,0.5
 48177,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,847,311,84727311121,27,121,Satakalaam,847.2109375,-311.0546875,-110,Rainforest,Brown,0.5
 48220,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,792,288,79213288109,13,109,Satakalaam,792.1015625,-288.1484375,147,Rainforest,Brown,0.5
 49728,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_02,854,300,8545030038,50,38,Satakalaam,854.390625,-300.703125,161,Rainforest,Brown,0.5
 47699,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_04,870,300,8703430011,34,11,Satakalaam,870.265625,-300.9140625,135,Rainforest,Brown,0.5
-48909,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,819,310,81922310128,22,128,Satakalaam,819.171875,-310,-138,Rainforest,Brown,0.5
+48909,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,819,310,81922310128,22,128,Satakalaam,819.171875,-310.0,-138,Rainforest,Brown,0.5
 47795,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,830,263,8300626313,6,13,Satakalaam,830.046875,-263.8984375,84,Rainforest,Brown,0.5
 47652,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,786,317,78610731746,107,46,Satakalaam,786.8359375,-317.640625,95,Rainforest,Brown,0.5
 48353,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,855,294,8556729414,67,14,Satakalaam,855.5234375,-294.890625,125,Rainforest,Brown,0.5
@@ -1958,7 +1946,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48905,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,865,312,8657131235,71,35,Satakalaam,865.5546875,-312.7265625,19,Rainforest,Brown,0.5
 47851,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,866,300,8661630045,16,45,Satakalaam,866.125,-300.6484375,24,Rainforest,Brown,0.5
 49738,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_04,835,317,83569317115,69,115,Satakalaam,835.5390625,-317.1015625,79,Rainforest,Brown,0.5
-48142,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,793,301,79367301128,67,128,Satakalaam,793.5234375,-301,123,Rainforest,Brown,0.5
+48142,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,793,301,79367301128,67,128,Satakalaam,793.5234375,-301.0,123,Rainforest,Brown,0.5
 48781,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,817,280,8177528059,75,59,Satakalaam,817.5859375,-280.5390625,-52,Rainforest,Brown,0.5
 49793,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_04,826,292,8266029259,60,59,Satakalaam,826.46875,-292.5390625,170,Rainforest,Brown,0.5
 47757,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,843,309,84333309124,33,124,Satakalaam,843.2578125,-309.03125,5,Rainforest,Brown,0.5
@@ -2053,11 +2041,11 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48734,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,822,291,8221329170,13,70,Satakalaam,822.1015625,-291.453125,-33,Rainforest,Brown,0.5
 48454,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,820,289,8208628923,86,23,Satakalaam,820.671875,-289.8203125,-171,Rainforest,Brown,0.5
 49240,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,792,297,7929829740,98,40,Satakalaam,792.765625,-297.6875,18,Rainforest,Brown,0.5
-49691,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,785,295,78512829577,128,77,Satakalaam,786,-295.3984375,-173,Rainforest,Brown,0.5
+49691,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,785,295,78512829577,128,77,Satakalaam,786.0,-295.3984375,-173,Rainforest,Brown,0.5
 49193,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,841,301,8411130173,11,73,Satakalaam,841.0859375,-301.4296875,-161,Rainforest,Brown,0.5
 49729,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,775,302,7759030265,90,65,Satakalaam,775.703125,-302.4921875,173,Rainforest,Brown,0.5
 49704,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_09,860,294,8607629449,76,49,Satakalaam,860.59375,-294.6171875,82,Rainforest,Brown,0.5
-49124,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,783,285,783128285101,128,101,Satakalaam,784,-285.2109375,-166,Rainforest,Brown,0.5
+49124,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,783,285,783128285101,128,101,Satakalaam,784.0,-285.2109375,-166,Rainforest,Brown,0.5
 48993,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,848,296,8488729692,87,92,Satakalaam,848.6796875,-296.28125,-10,Rainforest,Brown,0.5
 48210,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_05,802,286,80277286121,77,121,Satakalaam,802.6015625,-286.0546875,-155,Rainforest,Brown,0.5
 48910,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,829,276,8296527659,65,59,Satakalaam,829.5078125,-276.5390625,-4,Rainforest,Brown,0.5
@@ -2113,7 +2101,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48263,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,805,281,80510328156,103,56,Satakalaam,805.8046875,-281.5625,-53,Rainforest,Brown,0.5
 48524,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,777,288,77787288116,87,116,Satakalaam,777.6796875,-288.09375,32,Rainforest,Brown,0.5
 48349,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,852,268,8529626855,96,55,Satakalaam,852.75,-268.5703125,-69,Rainforest,Brown,0.5
-48297,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,782,285,782111285128,111,128,Satakalaam,782.8671875,-285,-160,Rainforest,Brown,0.5
+48297,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,782,285,782111285128,111,128,Satakalaam,782.8671875,-285.0,-160,Rainforest,Brown,0.5
 48769,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_06,786,306,7860630695,6,95,Satakalaam,786.046875,-306.2578125,-52,Rainforest,Brown,0.5
 49897,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,816,317,8160731788,7,88,Satakalaam,816.0546875,-317.3125,7,Rainforest,Brown,0.5
 48489,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,846,293,84698293106,98,106,Satakalaam,846.765625,-293.171875,109,Rainforest,Brown,0.5
@@ -2146,7 +2134,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48799,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,832,264,8320326453,3,53,Satakalaam,832.0234375,-264.5859375,-149,Rainforest,Brown,0.5
 49337,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_02,794,315,7940731518,7,18,Satakalaam,794.0546875,-315.859375,79,Rainforest,Brown,0.5
 48592,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,784,303,7842430388,24,88,Satakalaam,784.1875,-303.3125,-159,Rainforest,Brown,0.5
-49932,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,825,315,82512831552,128,52,Satakalaam,826,-315.59375,68,Rainforest,Brown,0.5
+49932,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_08,825,315,82512831552,128,52,Satakalaam,826.0,-315.59375,68,Rainforest,Brown,0.5
 49836,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,866,310,8664131045,41,45,Satakalaam,866.3203125,-310.6484375,131,Rainforest,Brown,0.5
 49706,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_01,812,314,8125131444,51,44,Satakalaam,812.3984375,-314.65625,20,Rainforest,Brown,0.5
 50010,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_07,831,279,83112327964,123,64,Satakalaam,831.9609375,-279.5,10,Rainforest,Brown,0.5
@@ -2261,8 +2249,8 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 49466,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_11,866,292,86623292108,23,108,Satakalaam,866.1796875,-292.15625,-109,Rainforest,Brown,0.5
 48591,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,871,303,87159303108,59,108,Satakalaam,871.4609375,-303.15625,164,Rainforest,Brown,0.5
 48208,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_02,795,305,79511830513,118,13,Satakalaam,795.921875,-305.8984375,-109,Rainforest,Brown,0.5
-48791,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,829,304,829128304108,128,108,Satakalaam,830,-304.15625,-24,Rainforest,Brown,0.5
-49037,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,813,288,81312828809,128,9,Satakalaam,814,-288.9296875,53,Rainforest,Brown,0.5
+48791,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_09,829,304,829128304108,128,108,Satakalaam,830.0,-304.15625,-24,Rainforest,Brown,0.5
+49037,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_03,813,288,81312828809,128,9,Satakalaam,814.0,-288.9296875,53,Rainforest,Brown,0.5
 50069,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,772,295,77254295109,54,109,Satakalaam,772.421875,-295.1484375,151,Rainforest,Brown,0.5
 48853,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_08,801,304,8019530467,95,67,Satakalaam,801.7421875,-304.4765625,108,Rainforest,Brown,0.5
 47879,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,811,299,8112129957,21,57,Satakalaam,811.1640625,-299.5546875,85,Rainforest,Brown,0.5
@@ -2271,7 +2259,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48894,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_01,866,295,86612629561,126,61,Satakalaam,866.984375,-295.5234375,172,Rainforest,Brown,0.5
 49813,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_05,795,286,7958128640,81,40,Satakalaam,795.6328125,-286.6875,16,Rainforest,Brown,0.5
 49820,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_05,794,302,7947730260,77,60,Satakalaam,794.6015625,-302.53125,125,Rainforest,Brown,0.5
-48036,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,797,302,79768302128,68,128,Satakalaam,797.53125,-302,-65,Rainforest,Brown,0.5
+48036,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,797,302,79768302128,68,128,Satakalaam,797.53125,-302.0,-65,Rainforest,Brown,0.5
 49993,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_06,850,299,8507329983,73,83,Satakalaam,850.5703125,-299.3515625,-48,Rainforest,Brown,0.5
 49341,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_08,803,318,8033531869,35,69,Satakalaam,803.2734375,-318.4609375,151,Rainforest,Brown,0.5
 48512,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_03,794,298,79489298125,89,125,Satakalaam,794.6953125,-298.0234375,171,Rainforest,Brown,0.5
@@ -2338,7 +2326,7 @@ fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY
 48491,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,802,316,80293316111,93,111,Satakalaam,802.7265625,-316.1328125,-132,Rainforest,Brown,0.5
 50061,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_06,847,298,84711029814,110,14,Satakalaam,847.859375,-298.890625,-76,Rainforest,Brown,0.5
 49934,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_01,855,310,8558831014,88,14,Satakalaam,855.6875,-310.890625,67,Rainforest,Brown,0.5
-49710,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,842,306,84296306128,96,128,Satakalaam,842.75,-306,-102,Rainforest,Brown,0.5
+49710,Rocks,1,WOD_Rocks_Round_Brown_Grass_Large_07,842,306,84296306128,96,128,Satakalaam,842.75,-306.0,-102,Rainforest,Brown,0.5
 48530,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_12,830,291,8306629166,66,66,Satakalaam,830.515625,-291.484375,-178,Rainforest,Brown,0.5
 50134,Rocks,1,WOD_Rocks_Round_Brown_Grass_Small_09,810,306,81011130681,111,81,Satakalaam,810.8671875,-306.3671875,-53,Rainforest,Brown,0.5
 48484,Rocks,1,WOD_Rocks_Round_Brown_Grass_Medium_10,858,301,8581630169,16,69,Satakalaam,858.125,-301.4609375,-49,Rainforest,Brown,0.5
