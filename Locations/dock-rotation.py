@@ -49,21 +49,24 @@ with open('WOD_Docks.csv', mode='r') as file:
     for row in reader:
         try:
             rotYaxis = float(row[rotYaxis_index])
+            terrainX, terrainY = calculate_coordinates(rotYaxis)
+
+            # Update or add terrainX and terrainY in the row
+            if len(row) <= terrainX_index:
+                row.append(terrainX)
+            else:
+                row[terrainX_index] = terrainX
+
+            if len(row) <= terrainY_index:
+                row.append(terrainY)
+            else:
+                row[terrainY_index] = terrainY
+
         except ValueError:
-            continue
-
-        terrainX, terrainY = calculate_coordinates(rotYaxis)
-
-        # Update or add terrainX and terrainY in the row
-        if len(row) <= terrainX_index:
-            row.append(terrainX)
-        else:
-            row[terrainX_index] = terrainX
-
-        if len(row) <= terrainY_index:
-            row.append(terrainY)
-        else:
-            row[terrainY_index] = terrainY
+            # If rotYaxis is not a float, leave the row unchanged
+            # Ensure the row has enough columns to match the headers
+            while len(row) < len(headers):
+                row.append(None)
 
         updated_data.append(row)
 
@@ -72,4 +75,5 @@ with open('WOD_Docks.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(updated_data)
 
-print("Original CSV file has been updated with 'terrainX' and 'terrainY' values.")
+print("Original CSV file has been updated with 'terrainX' and 'terrainY' values if 'rotYaxis' was provided.")
+
