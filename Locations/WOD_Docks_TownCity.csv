@@ -1,7 +1,7 @@
 name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,LocationType
 Westhead Moor,2,WOD_Dock_Lighthouse_Large_01,-90,207,223,1,64,2075022383,Daggerfall,207.390625,-223.3515625,1,TownCity
 Aldwall Rock,2,WOD_Anticlere_Dock_Lighthouse_Large_01,-90,401,183,0,64,4017018360,Anticlere,401.546875,-183.53125,1,TownCity
-Ripmore,2,WOD_Daggerfall_Dock_Lighthouse_Large_01,0,285,213,64,0,2855421367,Daggerfall,285.421875,-213.4765625,1,TownCity
+Ripmore,2,,0,285,213,64,0,2855421367,Daggerfall,285.421875,-213.4765625,1,TownCity
 Daggerfall,2,WOD_Dock_Medium_01,180,209,214,64,127,2097321454,Daggerfall,209.5703125,-214.578125,1,TownCity
 Daggerfall,2,WOD_Dock_Large_01,180,210,214,64,127,2107321454,Daggerfall,210.5703125,-214.578125,1,TownCity
 Daggerfall,2,WOD_Daggerfall_Dock_Lighthouse_Large_01,180,211,214,64,127,2117321454,Daggerfall,211.5703125,-214.578125,1,TownCity
