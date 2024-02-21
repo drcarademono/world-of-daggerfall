@@ -5,9 +5,9 @@
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>Rocks_Round_Gray_m_02</name>
-		<posX>-9.5</posX>
-		<posY>4.7</posY>
-		<posZ>5</posZ>
+		<posX>-6.5</posX>
+		<posY>-7.6</posY>
+		<posZ>3.6</posZ>
 		<scaleX>96.64503</scaleX>
 		<scaleY>96.64503</scaleY>
 		<scaleZ>96.64503</scaleZ>
@@ -18,19 +18,17 @@
 	</object>
 	<object>
 		<type>4</type>
-		<objectID>1</objectID>
-		<name>Rock_Flat_Gray_m_13</name>
-		<posX>-9.5</posX>
-		<posY>4.7</posY>
-		<posZ>5</posZ>
-		<scaleX>-96.64503</scaleX>
-		<scaleY>-96.64503</scaleY>
-		<scaleZ>-96.64503</scaleZ>
-		<extraData>{ "meta": { "type": "iceberg", "target": 0 } }</extraData>
-		<rotW>1</rotW>
+		<objectID>10</objectID>
+		<name>Rock_Flat_Gray_l_05</name>
+		<posX>-11.32087</posX>
+		<posY>-125.8</posY>
+		<posZ>11.43863</posZ>
+		<scaleX>74.43761</scaleX>
+		<scaleY>74.43761</scaleY>
+		<scaleZ>74.43761</scaleZ>
+		<rotW>0.996426</rotW>
 		<rotX>0</rotX>
-		<rotY>0</rotY>
+		<rotY>-0.08447068</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<winterPrefab>WOD_Rocks_Round_Gray_Snow_Small_10</winterPrefab>
 </locationPrefab>
