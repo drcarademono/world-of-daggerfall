@@ -1,523 +1,642 @@
-fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY,rotYaxis,climate,color,sink
-59070,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,454,6,454650605,65,5,Phrygias,454.5078125,-6.9609375,86,Haunted Woodlands,Gray,0.5
-58552,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,482,15,482721544,72,44,Phrygias,482.5625,-15.65625,-134,Haunted Woodlands,Gray,0.5
-59162,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,470,13,4701211376,121,76,Phrygias,470.9453125,-13.40625,-137,Haunted Woodlands,Gray,0.5
-58720,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,455,20,4551262004,126,4,Phrygias,455.984375,-20.96875,169,Haunted Woodlands,Gray,0.5
-58700,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,474,27,4741102780,110,80,Phrygias,474.859375,-27.375,17,Haunted Woodlands,Gray,0.5
-58802,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,567,1,567280161,28,61,Phrygias,567.21875,-1.5234375,-8,Mountains,Gray,0.5
-58385,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,457,22,4572322109,23,109,Phrygias,457.1796875,-22.1484375,8,Haunted Woodlands,Gray,0.5
-58696,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,486,12,486081282,8,82,Phrygias,486.0625,-12.359375,-160,Haunted Woodlands,Gray,0.5
-58843,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,475,10,4751151090,115,90,Phrygias,475.8984375,-10.296875,-19,Haunted Woodlands,Gray,0.5
-58950,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,587,5,587700594,70,94,Phrygias,587.546875,-5.265625,84,Mountains,Gray,0.5
-59136,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,475,20,475682010,68,10,Phrygias,475.53125,-20.921875,-45,Haunted Woodlands,Gray,0.5
-58487,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,595,16,5950116109,1,109,Phrygias,595.0078125,-16.1484375,-141,Mountains,Gray,0.5
-58549,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,471,10,471641010,64,10,Phrygias,471.5,-10.921875,86,Haunted Woodlands,Gray,0.5
-58606,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,456,16,4561001636,100,36,Phrygias,456.78125,-16.71875,-85,Haunted Woodlands,Gray,0.5
-58409,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,576,14,576881403,88,3,Phrygias,576.6875,-14.9765625,67,Mountains,Gray,0.5
-58968,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,589,1,5891180111,118,11,Phrygias,589.921875,-1.9140625,-38,Mountains,Gray,0.5
-58545,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,475,30,47510130103,101,103,Phrygias,475.7890625,-30.1953125,178,Haunted Woodlands,Gray,0.5
-59227,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,482,32,48211132107,111,107,Phrygias,482.8671875,-32.1640625,157,Haunted Woodlands,Gray,0.5
-58946,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,586,1,586830174,83,74,Phrygias,586.6484375,-1.421875,46,Mountains,Gray,0.5
-58721,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,489,5,489820599,82,99,Phrygias,489.640625,-5.2265625,163,Haunted Woodlands,Gray,0.5
-59059,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,605,12,605821212,82,12,Phrygias,605.640625,-12.90625,67,Mountains,Gray,0.5
-58884,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,605,21,6055121104,51,104,Phrygias,605.3984375,-21.1875,-91,Mountains,Gray,0.5
-58393,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,484,3,484180305,18,5,Phrygias,484.140625,-3.9609375,-24,Haunted Woodlands,Gray,0.5
-58967,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,477,26,4774226123,42,123,Phrygias,477.328125,-26.0390625,-138,Haunted Woodlands,Gray,0.5
-58717,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,605,10,605621084,62,84,Phrygias,605.484375,-10.34375,-83,Mountains,Gray,0.5
-58896,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,584,9,584290974,29,74,Phrygias,584.2265625,-9.421875,176,Mountains,Gray,0.5
-58821,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,448,9,448090927,9,27,Phrygias,448.0703125,-9.7890625,-111,Haunted Woodlands,Gray,0.5
-58970,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,456,6,456500637,50,37,Phrygias,456.390625,-6.7109375,22,Haunted Woodlands,Gray,0.5
-58694,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,449,19,449591949,59,49,Phrygias,449.4609375,-19.6171875,29,Haunted Woodlands,Gray,0.5
-59012,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,587,14,58711114104,111,104,Phrygias,587.8671875,-14.1875,168,Mountains,Gray,0.5
-58862,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,467,14,4671041482,104,82,Phrygias,467.8125,-14.359375,-83,Haunted Woodlands,Gray,0.5
-59171,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,474,17,474771703,77,3,Phrygias,474.6015625,-17.9765625,-126,Haunted Woodlands,Gray,0.5
-58493,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,460,9,460840968,84,68,Phrygias,460.65625,-9.46875,44,Haunted Woodlands,Gray,0.5
-58499,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,597,21,597532178,53,78,Phrygias,597.4140625,-21.390625,18,Mountains,Gray,0.5
-58392,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,485,7,485090785,9,85,Phrygias,485.0703125,-7.3359375,164,Haunted Woodlands,Gray,0.5
-58448,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,467,21,4672821111,28,111,Phrygias,467.21875,-21.1328125,65,Haunted Woodlands,Gray,0.5
-59057,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,472,19,4721021929,102,29,Phrygias,472.796875,-19.7734375,-109,Haunted Woodlands,Gray,0.5
-58594,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,482,9,4828509110,85,110,Phrygias,482.6640625,-9.140625,48,Haunted Woodlands,Gray,0.5
-58406,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,580,16,580831605,83,5,Phrygias,580.6484375,-16.9609375,97,Mountains,Gray,0.5
-58367,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,494,9,4941080983,108,83,Phrygias,494.84375,-9.3515625,2,Haunted Woodlands,Gray,0.5
-58825,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,482,17,482321736,32,36,Phrygias,482.25,-17.71875,-73,Haunted Woodlands,Gray,0.5
-58959,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,583,20,583692091,69,91,Phrygias,583.5390625,-20.2890625,-157,Mountains,Gray,0.5
-58699,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,444,3,4445103128,51,128,Phrygias,444.3984375,-3.0,42,Haunted Woodlands,Gray,0.5
-59226,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,593,13,593291331,29,31,Phrygias,593.2265625,-13.7578125,-19,Mountains,Gray,0.5
-58947,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,565,8,565680891,68,91,Phrygias,565.53125,-8.2890625,-118,Mountains,Gray,0.5
-58596,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,477,16,477981639,98,39,Phrygias,477.765625,-16.6953125,87,Haunted Woodlands,Gray,0.5
-59052,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,583,17,583211759,21,59,Phrygias,583.1640625,-17.5390625,-134,Mountains,Gray,0.5
-58423,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,573,1,573360106,36,6,Phrygias,573.28125,-1.953125,180,Mountains,Gray,0.5
-59126,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,595,2,595180247,18,47,Phrygias,595.140625,-2.6328125,155,Mountains,Gray,0.5
-58714,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,595,14,595831431,83,31,Phrygias,595.6484375,-14.7578125,47,Mountains,Gray,0.5
-58581,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,483,2,4837702110,77,110,Phrygias,483.6015625,-2.140625,-63,Haunted Woodlands,Gray,0.5
-58739,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,569,7,569220764,22,64,Phrygias,569.171875,-7.5,-146,Mountains,Gray,0.5
-58689,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,488,10,488221001,22,1,Phrygias,488.171875,-10.9921875,41,Haunted Woodlands,Gray,0.5
-58601,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,475,6,475170699,17,99,Phrygias,475.1328125,-6.2265625,9,Haunted Woodlands,Gray,0.5
-58461,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,605,22,6050122117,1,117,Phrygias,605.0078125,-22.0859375,12,Mountains,Gray,0.5
-58836,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,493,12,493431248,43,48,Phrygias,493.3359375,-12.625,-168,Haunted Woodlands,Gray,0.5
-58956,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,605,3,605150317,15,17,Phrygias,605.1171875,-3.8671875,27,Mountains,Gray,0.5
-58893,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,600,10,6001141060,114,60,Phrygias,600.890625,-10.53125,-145,Mountains,Gray,0.5
-58672,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,501,18,501991819,99,19,Phrygias,501.7734375,-18.8515625,137,Haunted Woodlands,Gray,0.5
-59168,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,502,12,502011267,1,67,Phrygias,502.0078125,-12.4765625,-126,Haunted Woodlands,Gray,0.5
-58629,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,478,21,478572179,57,79,Phrygias,478.4453125,-21.3828125,-60,Haunted Woodlands,Gray,0.5
-58614,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,499,10,4991191007,119,7,Phrygias,499.9296875,-10.9453125,8,Haunted Woodlands,Gray,0.5
-59037,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,587,3,587280323,28,23,Phrygias,587.21875,-3.8203125,-118,Mountains,Gray,0.5
-58635,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,563,1,563010130,1,30,Phrygias,563.0078125,-1.765625,40,Mountains,Gray,0.5
-59154,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,448,0,448710078,71,78,Phrygias,448.5546875,-0.390625,123,Haunted Woodlands,Gray,0.5
-58873,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,575,4,5759704107,97,107,Phrygias,575.7578125,-4.1640625,111,Mountains,Gray,0.5
-59176,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,582,3,5826903118,69,118,Phrygias,582.5390625,-3.078125,-159,Mountains,Gray,0.5
-59202,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,455,14,455231463,23,63,Phrygias,455.1796875,-14.5078125,60,Haunted Woodlands,Gray,0.5
-58683,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,599,14,599811498,81,98,Phrygias,599.6328125,-14.234375,-131,Mountains,Gray,0.5
-59005,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,574,13,5747613124,76,124,Phrygias,574.59375,-13.03125,-161,Mountains,Gray,0.5
-59087,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,589,3,5896603117,66,117,Phrygias,589.515625,-3.0859375,-93,Mountains,Gray,0.5
-58734,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,594,7,5941230709,123,9,Phrygias,594.9609375,-7.9296875,-98,Mountains,Gray,0.5
-58454,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,475,22,4754622109,46,109,Phrygias,475.359375,-22.1484375,5,Haunted Woodlands,Gray,0.5
-58408,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,482,20,4826220111,62,111,Phrygias,482.484375,-20.1328125,62,Haunted Woodlands,Gray,0.5
-58833,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,488,11,488341134,34,34,Phrygias,488.265625,-11.734375,-153,Haunted Woodlands,Gray,0.5
-58474,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,485,11,485751195,75,95,Phrygias,485.5859375,-11.2578125,58,Haunted Woodlands,Gray,0.5
-59183,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,592,1,592340145,34,45,Phrygias,592.265625,-1.6484375,52,Mountains,Gray,0.5
-58964,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,591,25,591602574,60,74,Phrygias,591.46875,-25.421875,47,Mountains,Gray,0.5
-59147,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,455,14,455251410,25,10,Phrygias,455.1953125,-14.921875,5,Haunted Woodlands,Gray,0.5
-58539,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,581,13,5811191346,119,46,Phrygias,581.9296875,-13.640625,-46,Mountains,Gray,0.5
-58886,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,476,15,4760215122,2,122,Phrygias,476.015625,-15.046875,90,Haunted Woodlands,Gray,0.5
-59006,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,446,19,4465719122,57,122,Phrygias,446.4453125,-19.046875,-109,Haunted Woodlands,Gray,0.5
-58767,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,482,17,482361706,36,6,Phrygias,482.28125,-17.953125,-97,Haunted Woodlands,Gray,0.5
-59148,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,605,20,605782091,78,91,Phrygias,605.609375,-20.2890625,-116,Mountains,Gray,0.5
-58820,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,478,0,478350076,35,76,Phrygias,478.2734375,-0.40625,-177,Haunted Woodlands,Gray,0.5
-58550,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,449,20,44912420114,124,114,Phrygias,449.96875,-20.109375,-141,Haunted Woodlands,Gray,0.5
-58698,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,444,9,444380991,38,91,Phrygias,444.296875,-9.2890625,155,Haunted Woodlands,Gray,0.5
-59111,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,449,4,44912404109,124,109,Phrygias,449.96875,-4.1484375,74,Haunted Woodlands,Gray,0.5
-58966,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,500,19,5001101978,110,78,Phrygias,500.859375,-19.390625,50,Haunted Woodlands,Gray,0.5
-58805,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,595,23,595552332,55,32,Phrygias,595.4296875,-23.75,-179,Mountains,Gray,0.5
-58730,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,484,18,4841031805,103,5,Phrygias,484.8046875,-18.9609375,66,Haunted Woodlands,Gray,0.5
-58590,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,465,5,465160522,16,22,Phrygias,465.125,-5.828125,81,Haunted Woodlands,Gray,0.5
-58507,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,565,2,565190233,19,33,Phrygias,565.1484375,-2.7421875,78,Mountains,Gray,0.5
-58531,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,477,23,477412353,41,53,Phrygias,477.3203125,-23.5859375,81,Haunted Woodlands,Gray,0.5
-58343,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,459,21,4593021119,30,119,Phrygias,459.234375,-21.0703125,56,Haunted Woodlands,Gray,0.5
-58607,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,469,22,46912822113,128,113,Phrygias,470.0,-22.1171875,-17,Haunted Woodlands,Gray,0.5
-58702,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,569,4,5698704123,87,123,Phrygias,569.6796875,-4.0390625,32,Mountains,Gray,0.5
-58676,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,584,14,584551405,55,5,Phrygias,584.4296875,-14.9609375,63,Mountains,Gray,0.5
-58885,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,472,19,472511961,51,61,Phrygias,472.3984375,-19.5234375,-139,Haunted Woodlands,Gray,0.5
-58817,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,444,8,444710898,71,98,Phrygias,444.5546875,-8.234375,87,Haunted Woodlands,Gray,0.5
-58592,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,484,5,4841030587,103,87,Phrygias,484.8046875,-5.3203125,79,Haunted Woodlands,Gray,0.5
-59229,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,465,29,46510529117,105,117,Phrygias,465.8203125,-29.0859375,-12,Haunted Woodlands,Gray,0.5
-58914,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,459,20,45912620101,126,101,Phrygias,459.984375,-20.2109375,106,Haunted Woodlands,Gray,0.5
-58563,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,582,8,582180891,18,91,Phrygias,582.140625,-8.2890625,43,Mountains,Gray,0.5
-59114,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,585,5,585640521,64,21,Phrygias,585.5,-5.8359375,14,Mountains,Gray,0.5
-58317,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,568,5,568640515,64,15,Phrygias,568.5,-5.8828125,136,Mountains,Gray,0.5
-58955,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,587,12,587941210,94,10,Phrygias,587.734375,-12.921875,7,Mountains,Gray,0.5
-59141,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,488,9,48811509119,115,119,Phrygias,488.8984375,-9.0703125,-180,Haunted Woodlands,Gray,0.5
-58781,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,585,16,585531690,53,90,Phrygias,585.4140625,-16.296875,38,Mountains,Gray,0.5
-59120,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,493,15,493481577,48,77,Phrygias,493.375,-15.3984375,-165,Haunted Woodlands,Gray,0.5
-58983,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,483,21,483892179,89,79,Phrygias,483.6953125,-21.3828125,174,Haunted Woodlands,Gray,0.5
-59035,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,483,15,483611543,61,43,Phrygias,483.4765625,-15.6640625,93,Haunted Woodlands,Gray,0.5
-58922,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,600,2,6001060239,106,39,Phrygias,600.828125,-2.6953125,121,Mountains,Gray,0.5
-58847,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,443,2,443360260,36,60,Phrygias,443.28125,-2.53125,-87,Haunted Woodlands,Gray,0.5
-59108,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,603,26,603952685,95,85,Phrygias,603.7421875,-26.3359375,30,Mountains,Gray,0.5
-58877,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,469,18,4691281805,128,5,Phrygias,470.0,-18.9609375,-134,Haunted Woodlands,Gray,0.5
-59081,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,484,24,484122470,12,70,Phrygias,484.09375,-24.453125,46,Haunted Woodlands,Gray,0.5
-59228,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,471,0,4711240050,124,50,Phrygias,471.96875,-0.609375,-26,Haunted Woodlands,Gray,0.5
-59058,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,449,17,4494617106,46,106,Phrygias,449.359375,-17.171875,-134,Haunted Woodlands,Gray,0.5
-58530,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,494,16,4949516112,95,112,Phrygias,494.7421875,-16.125,75,Haunted Woodlands,Gray,0.5
-58931,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,583,12,5831171253,117,53,Phrygias,583.9140625,-12.5859375,-178,Mountains,Gray,0.5
-59146,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,456,15,456451547,45,47,Phrygias,456.3515625,-15.6328125,146,Haunted Woodlands,Gray,0.5
-59186,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,471,28,471962874,96,74,Phrygias,471.75,-28.421875,106,Haunted Woodlands,Gray,0.5
-58872,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,460,20,4600320108,3,108,Phrygias,460.0234375,-20.15625,95,Haunted Woodlands,Gray,0.5
-58661,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,450,5,450900554,90,54,Phrygias,450.703125,-5.578125,-138,Haunted Woodlands,Gray,0.5
-58785,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,593,16,593611601,61,1,Phrygias,593.4765625,-16.9921875,134,Mountains,Gray,0.5
-58732,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,489,18,489961817,96,17,Phrygias,489.75,-18.8671875,34,Haunted Woodlands,Gray,0.5
-59019,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,601,11,6011231138,123,38,Phrygias,601.9609375,-11.703125,-144,Mountains,Gray,0.5
-58747,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,461,10,461301067,30,67,Phrygias,461.234375,-10.4765625,-12,Haunted Woodlands,Gray,0.5
-58346,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,490,17,490661733,66,33,Phrygias,490.515625,-17.7421875,34,Haunted Woodlands,Gray,0.5
-58546,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,594,26,59412526126,125,126,Phrygias,594.9765625,-26.015625,-135,Mountains,Gray,0.5
-59127,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,607,24,6071112439,111,39,Phrygias,607.8671875,-24.6953125,45,Mountains,Gray,0.5
-58841,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,596,0,5961110087,111,87,Phrygias,596.8671875,-0.3203125,-89,Mountains,Gray,0.5
-59010,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,600,6,600220689,22,89,Phrygias,600.171875,-6.3046875,80,Mountains,Gray,0.5
-58750,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,584,13,584961390,96,90,Phrygias,584.75,-13.296875,115,Mountains,Gray,0.5
-58538,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,596,4,596330432,33,32,Phrygias,596.2578125,-4.75,-121,Mountains,Gray,0.5
-58856,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,479,3,479480367,48,67,Phrygias,479.375,-3.4765625,-83,Haunted Woodlands,Gray,0.5
-58832,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,585,13,5851081307,108,7,Phrygias,585.84375,-13.9453125,-115,Mountains,Gray,0.5
-59143,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,464,9,4641010917,101,17,Phrygias,464.7890625,-9.8671875,109,Haunted Woodlands,Gray,0.5
-58372,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,489,5,489210518,21,18,Phrygias,489.1640625,-5.859375,-49,Haunted Woodlands,Gray,0.5
-58472,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,609,22,609482208,48,8,Phrygias,609.375,-22.9375,-30,Mountains,Gray,0.5
-59065,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,565,6,565980657,98,57,Phrygias,565.765625,-6.5546875,-4,Mountains,Gray,0.5
-58333,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,486,27,486592713,59,13,Phrygias,486.4609375,-27.8984375,65,Haunted Woodlands,Gray,0.5
-59188,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,465,10,465601044,60,44,Phrygias,465.46875,-10.65625,76,Haunted Woodlands,Gray,0.5
-58600,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,577,8,5771030845,103,45,Phrygias,577.8046875,-8.6484375,105,Mountains,Gray,0.5
-58708,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,601,18,60110618101,106,101,Phrygias,601.828125,-18.2109375,69,Mountains,Gray,0.5
-58677,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,586,3,5869303126,93,126,Phrygias,586.7265625,-3.015625,-78,Mountains,Gray,0.5
-58373,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,585,1,585580104,58,4,Phrygias,585.453125,-1.96875,110,Mountains,Gray,0.5
-58494,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,603,9,603690995,69,95,Phrygias,603.5390625,-9.2578125,90,Mountains,Gray,0.5
-58416,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,443,3,443650337,65,37,Phrygias,443.5078125,-3.7109375,178,Haunted Woodlands,Gray,0.5
-58623,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,597,9,597360908,36,8,Phrygias,597.28125,-9.9375,62,Mountains,Gray,0.5
-58575,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,455,2,455880210,88,10,Phrygias,455.6875,-2.921875,-81,Haunted Woodlands,Gray,0.5
-59001,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,477,16,4774916126,49,126,Phrygias,477.3828125,-16.015625,-60,Haunted Woodlands,Gray,0.5
-58565,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,481,21,4811052164,105,64,Phrygias,481.8203125,-21.5,-154,Haunted Woodlands,Gray,0.5
-59235,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,444,2,444530225,53,25,Phrygias,444.4140625,-2.8046875,-101,Haunted Woodlands,Gray,0.5
-58997,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,490,5,4905605114,56,114,Phrygias,490.4375,-5.109375,101,Haunted Woodlands,Gray,0.5
-58608,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,605,13,605041317,4,17,Phrygias,605.03125,-13.8671875,172,Mountains,Gray,0.5
-58927,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,591,6,591570645,57,45,Phrygias,591.4453125,-6.6484375,-80,Mountains,Gray,0.5
-58469,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,461,17,461701760,70,60,Phrygias,461.546875,-17.53125,-110,Haunted Woodlands,Gray,0.5
-59075,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,606,9,6061230976,123,76,Phrygias,606.9609375,-9.40625,92,Mountains,Gray,0.5
-58326,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,594,4,5941220402,122,2,Phrygias,594.953125,-4.984375,-77,Mountains,Gray,0.5
-59210,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,466,18,466761812,76,12,Phrygias,466.59375,-18.90625,60,Haunted Woodlands,Gray,0.5
-59180,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,468,29,468792997,79,97,Phrygias,468.6171875,-29.2421875,-177,Haunted Woodlands,Gray,0.5
-58554,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,480,5,4809505111,95,111,Phrygias,480.7421875,-5.1328125,126,Haunted Woodlands,Gray,0.5
-59034,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,451,10,451331091,33,91,Phrygias,451.2578125,-10.2890625,7,Haunted Woodlands,Gray,0.5
-59046,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,498,17,498841746,84,46,Phrygias,498.65625,-17.640625,-51,Haunted Woodlands,Gray,0.5
-59241,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,444,4,444940477,94,77,Phrygias,444.734375,-4.3984375,-18,Haunted Woodlands,Gray,0.5
-58627,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,471,10,4711110111,11,111,Phrygias,471.0859375,-10.1328125,157,Haunted Woodlands,Gray,0.5
-59038,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,454,13,454171390,17,90,Phrygias,454.1328125,-13.296875,48,Haunted Woodlands,Gray,0.5
-59093,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,607,24,607552435,55,35,Phrygias,607.4296875,-24.7265625,-82,Mountains,Gray,0.5
-58591,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,579,1,579860154,86,54,Phrygias,579.671875,-1.578125,179,Mountains,Gray,0.5
-58690,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,586,6,5867906121,79,121,Phrygias,586.6171875,-6.0546875,151,Mountains,Gray,0.5
-58846,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,468,13,46810113127,101,127,Phrygias,468.7890625,-13.0078125,-41,Haunted Woodlands,Gray,0.5
-58776,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,606,23,6065123124,51,124,Phrygias,606.3984375,-23.03125,122,Mountains,Gray,0.5
-58651,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,471,18,4711241833,124,33,Phrygias,471.96875,-18.7421875,-169,Haunted Woodlands,Gray,0.5
-59169,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,592,13,592461390,46,90,Phrygias,592.359375,-13.296875,-118,Mountains,Gray,0.5
-58881,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,466,25,466902516,90,16,Phrygias,466.703125,-25.875,-18,Haunted Woodlands,Gray,0.5
-58793,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,461,1,461490177,49,77,Phrygias,461.3828125,-1.3984375,168,Haunted Woodlands,Gray,0.5
-59214,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,494,14,494301452,30,52,Phrygias,494.234375,-14.59375,-166,Haunted Woodlands,Gray,0.5
-58782,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,499,8,49910808117,108,117,Phrygias,499.84375,-8.0859375,-168,Haunted Woodlands,Gray,0.5
-58362,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,466,8,4664308126,43,126,Phrygias,466.3359375,-8.015625,57,Haunted Woodlands,Gray,0.5
-58576,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,480,25,4801132576,113,76,Phrygias,480.8828125,-25.40625,115,Haunted Woodlands,Gray,0.5
-58441,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,483,19,483081905,8,5,Phrygias,483.0625,-19.9609375,-107,Haunted Woodlands,Gray,0.5
-58952,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,484,23,484192315,19,15,Phrygias,484.1484375,-23.8828125,77,Haunted Woodlands,Gray,0.5
-59158,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,485,19,485111913,11,13,Phrygias,485.0859375,-19.8984375,55,Haunted Woodlands,Gray,0.5
-59096,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,483,19,483481982,48,82,Phrygias,483.375,-19.359375,99,Haunted Woodlands,Gray,0.5
-58583,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,587,5,587470591,47,91,Phrygias,587.3671875,-5.2890625,-124,Mountains,Gray,0.5
-59067,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,446,3,446640360,64,60,Phrygias,446.5,-3.53125,-1,Haunted Woodlands,Gray,0.5
-58619,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,467,18,467771858,77,58,Phrygias,467.6015625,-18.546875,143,Haunted Woodlands,Gray,0.5
-59122,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,487,5,487520510,52,10,Phrygias,487.40625,-5.921875,87,Haunted Woodlands,Gray,0.5
-58991,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,484,30,484953092,95,92,Phrygias,484.7421875,-30.28125,134,Haunted Woodlands,Gray,0.5
-58791,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,494,16,494011612,1,12,Phrygias,494.0078125,-16.90625,9,Haunted Woodlands,Gray,0.5
-58898,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,475,9,475510975,51,75,Phrygias,475.3984375,-9.4140625,-21,Haunted Woodlands,Gray,0.5
-58559,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,448,18,4481111862,111,62,Phrygias,448.8671875,-18.515625,141,Haunted Woodlands,Gray,0.5
-58824,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,604,19,604631907,63,7,Phrygias,604.4921875,-19.9453125,-42,Mountains,Gray,0.5
-59218,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,462,22,462612291,61,91,Phrygias,462.4765625,-22.2890625,-41,Haunted Woodlands,Gray,0.5
-58668,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,478,27,478632703,63,3,Phrygias,478.4921875,-27.9765625,90,Haunted Woodlands,Gray,0.5
-59112,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,582,1,5821050128,105,28,Phrygias,582.8203125,-1.78125,21,Mountains,Gray,0.5
-58996,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,460,3,4601240374,124,74,Phrygias,460.96875,-3.421875,174,Haunted Woodlands,Gray,0.5
-58586,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,480,10,480121020,12,20,Phrygias,480.09375,-10.84375,20,Haunted Woodlands,Gray,0.5
-59184,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,446,16,446791601,79,1,Phrygias,446.6171875,-16.9921875,-145,Haunted Woodlands,Gray,0.5
-58641,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,595,12,5953312100,33,100,Phrygias,595.2578125,-12.21875,173,Mountains,Gray,0.5
-59083,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,461,24,461692497,69,97,Phrygias,461.5390625,-24.2421875,104,Haunted Woodlands,Gray,0.5
-58541,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,490,7,4905507119,55,119,Phrygias,490.4296875,-7.0703125,-137,Haunted Woodlands,Gray,0.5
-58514,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,478,30,4781243047,124,47,Phrygias,478.96875,-30.6328125,130,Haunted Woodlands,Gray,0.5
-58438,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,481,19,4811051917,105,17,Phrygias,481.8203125,-19.8671875,71,Haunted Woodlands,Gray,0.5
-58684,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,583,21,583402141,40,41,Phrygias,583.3125,-21.6796875,71,Mountains,Gray,0.5
-58535,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,484,12,4845012110,50,110,Phrygias,484.390625,-12.140625,158,Haunted Woodlands,Gray,0.5
-58615,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,482,25,482212527,21,27,Phrygias,482.1640625,-25.7890625,96,Haunted Woodlands,Gray,0.5
-59078,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,608,24,608052419,5,19,Phrygias,608.0390625,-24.8515625,-30,Mountains,Gray,0.5
-58475,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,495,4,4951250493,125,93,Phrygias,495.9765625,-4.2734375,-104,Haunted Woodlands,Gray,0.5
-59033,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,475,26,475342660,34,60,Phrygias,475.265625,-26.53125,128,Haunted Woodlands,Gray,0.5
-59000,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,584,21,584252113,25,13,Phrygias,584.1953125,-21.8984375,-165,Mountains,Gray,0.5
-59205,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,452,6,452600631,60,31,Phrygias,452.46875,-6.7578125,91,Haunted Woodlands,Gray,0.5
-58792,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,463,3,4639603118,96,118,Phrygias,463.75,-3.078125,67,Haunted Woodlands,Gray,0.5
-58940,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,480,0,480640071,64,71,Phrygias,480.5,-0.4453125,-22,Haunted Woodlands,Gray,0.5
-59131,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,489,7,489690707,69,7,Phrygias,489.5390625,-7.9453125,105,Haunted Woodlands,Gray,0.5
-59211,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,483,5,48310105103,101,103,Phrygias,483.7890625,-5.1953125,155,Haunted Woodlands,Gray,0.5
-58492,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,603,9,6031170997,117,97,Phrygias,603.9140625,-9.2421875,114,Mountains,Gray,0.5
-58798,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,582,16,5823416117,34,117,Phrygias,582.265625,-16.0859375,-93,Mountains,Gray,0.5
-58484,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,485,16,4857716128,77,128,Phrygias,485.6015625,-16.0,52,Haunted Woodlands,Gray,0.5
-58784,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,597,3,597420391,42,91,Phrygias,597.328125,-3.2890625,-164,Mountains,Gray,0.5
-58935,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,470,12,470321202,32,2,Phrygias,470.25,-12.984375,79,Haunted Woodlands,Gray,0.5
-58826,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,445,13,4455013125,50,125,Phrygias,445.390625,-13.0234375,-147,Haunted Woodlands,Gray,0.5
-58829,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,445,5,4455305119,53,119,Phrygias,445.4140625,-5.0703125,-59,Haunted Woodlands,Gray,0.5
-59220,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,587,14,5879214120,92,120,Phrygias,587.71875,-14.0625,61,Mountains,Gray,0.5
-58523,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,446,16,4461121617,112,17,Phrygias,446.875,-16.8671875,79,Haunted Woodlands,Gray,0.5
-58353,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,608,11,608131177,13,77,Phrygias,608.1015625,-11.3984375,-70,Mountains,Gray,0.5
-58501,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,466,4,466820448,82,48,Phrygias,466.640625,-4.625,70,Haunted Woodlands,Gray,0.5
-58386,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,467,8,467190892,19,92,Phrygias,467.1484375,-8.28125,-91,Haunted Woodlands,Gray,0.5
-58876,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,588,0,588600078,60,78,Phrygias,588.46875,-0.390625,180,Mountains,Gray,0.5
-58838,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,598,13,598611310,61,10,Phrygias,598.4765625,-13.921875,8,Mountains,Gray,0.5
-58771,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,470,21,4701112184,111,84,Phrygias,470.8671875,-21.34375,46,Haunted Woodlands,Gray,0.5
-58993,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,604,17,604781741,78,41,Phrygias,604.609375,-17.6796875,-136,Mountains,Gray,0.5
-58450,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,596,4,596760416,76,16,Phrygias,596.59375,-4.875,36,Mountains,Gray,0.5
-58509,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,567,12,567731222,73,22,Phrygias,567.5703125,-12.828125,-50,Mountains,Gray,0.5
-58948,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,447,0,447640058,64,58,Phrygias,447.5,-0.546875,-24,Haunted Woodlands,Gray,0.5
-59045,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,586,18,586851864,85,64,Phrygias,586.6640625,-18.5,-94,Mountains,Gray,0.5
-58352,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,594,26,59412126100,121,100,Phrygias,594.9453125,-26.21875,-136,Mountains,Gray,0.5
-58466,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,565,4,565140460,14,60,Phrygias,565.109375,-4.53125,55,Mountains,Gray,0.5
-58658,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,451,5,45111505121,115,121,Phrygias,451.8984375,-5.0546875,-120,Haunted Woodlands,Gray,0.5
-59177,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,593,4,593490431,49,31,Phrygias,593.3828125,-4.7578125,171,Mountains,Gray,0.5
-58618,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,606,17,6061191719,119,19,Phrygias,606.9296875,-17.8515625,24,Mountains,Gray,0.5
-59100,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,603,5,603210582,21,82,Phrygias,603.1640625,-5.359375,62,Mountains,Gray,0.5
-59199,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,488,10,4887310111,73,111,Phrygias,488.5703125,-10.1328125,-125,Haunted Woodlands,Gray,0.5
-58858,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,588,25,5885925128,59,128,Phrygias,588.4609375,-25.0,-162,Mountains,Gray,0.5
-58929,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,502,15,502241561,24,61,Phrygias,502.1875,-15.5234375,-25,Haunted Woodlands,Gray,0.5
-59085,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,493,6,4934006123,40,123,Phrygias,493.3125,-6.0390625,-161,Haunted Woodlands,Gray,0.5
-58680,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,478,9,4781060959,106,59,Phrygias,478.828125,-9.5390625,-106,Haunted Woodlands,Gray,0.5
-58972,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,453,1,453930147,93,47,Phrygias,453.7265625,-1.6328125,-176,Haunted Woodlands,Gray,0.5
-58845,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,487,11,487261113,26,13,Phrygias,487.203125,-11.8984375,-68,Haunted Woodlands,Gray,0.5
-59130,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,476,4,476350478,35,78,Phrygias,476.2734375,-4.390625,12,Haunted Woodlands,Gray,0.5
-58584,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,471,23,4718423126,84,126,Phrygias,471.65625,-23.015625,136,Haunted Woodlands,Gray,0.5
-58482,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,572,11,572641104,64,4,Phrygias,572.5,-11.96875,25,Mountains,Gray,0.5
-59209,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,474,29,4748529102,85,102,Phrygias,474.6640625,-29.203125,173,Haunted Woodlands,Gray,0.5
-58688,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,478,5,478090557,9,57,Phrygias,478.0703125,-5.5546875,97,Haunted Woodlands,Gray,0.5
-58777,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,452,11,452471187,47,87,Phrygias,452.3671875,-11.3203125,-175,Haunted Woodlands,Gray,0.5
-58660,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,498,15,4981615116,16,116,Phrygias,498.125,-15.09375,98,Haunted Woodlands,Gray,0.5
-58510,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,567,2,5675502117,55,117,Phrygias,567.4296875,-2.0859375,-103,Mountains,Gray,0.5
-58571,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,465,21,465412193,41,93,Phrygias,465.3203125,-21.2734375,108,Haunted Woodlands,Gray,0.5
-58453,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,465,15,4651015122,10,122,Phrygias,465.078125,-15.046875,-25,Haunted Woodlands,Gray,0.5
-58969,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,465,13,465601310,60,10,Phrygias,465.46875,-13.921875,7,Haunted Woodlands,Gray,0.5
-59160,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,464,5,464180596,18,96,Phrygias,464.140625,-5.25,104,Haunted Woodlands,Gray,0.5
-58671,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,592,3,592990322,99,22,Phrygias,592.7734375,-3.828125,-67,Mountains,Gray,0.5
-58485,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,467,2,467850286,85,86,Phrygias,467.6640625,-2.328125,-180,Haunted Woodlands,Gray,0.5
-58816,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,577,11,5772611114,26,114,Phrygias,577.203125,-11.109375,41,Mountains,Gray,0.5
-58977,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,450,6,4501120626,112,26,Phrygias,450.875,-6.796875,-53,Haunted Woodlands,Gray,0.5
-59207,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,483,15,4831091569,109,69,Phrygias,483.8515625,-15.4609375,-10,Haunted Woodlands,Gray,0.5
-58979,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,455,1,4557801104,78,104,Phrygias,455.609375,-1.1875,128,Haunted Woodlands,Gray,0.5
-58822,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,471,28,47110228106,102,106,Phrygias,471.796875,-28.171875,-27,Haunted Woodlands,Gray,0.5
-58735,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,461,1,461330150,33,50,Phrygias,461.2578125,-1.609375,108,Haunted Woodlands,Gray,0.5
-59039,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,586,9,586710944,71,44,Phrygias,586.5546875,-9.65625,-162,Mountains,Gray,0.5
-59068,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,580,4,580190451,19,51,Phrygias,580.1484375,-4.6015625,-147,Mountains,Gray,0.5
-58323,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,578,13,5785513110,55,110,Phrygias,578.4296875,-13.140625,2,Mountains,Gray,0.5
-58440,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,476,1,4763501101,35,101,Phrygias,476.2734375,-1.2109375,-163,Haunted Woodlands,Gray,0.5
-58957,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,475,18,4751191864,119,64,Phrygias,475.9296875,-18.5,-4,Haunted Woodlands,Gray,0.5
-58462,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,592,17,5921217122,12,122,Phrygias,592.09375,-17.046875,23,Mountains,Gray,0.5
-58678,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,579,1,579970144,97,44,Phrygias,579.7578125,-1.65625,-65,Mountains,Gray,0.5
-58649,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,454,20,454812094,81,94,Phrygias,454.6328125,-20.265625,35,Haunted Woodlands,Gray,0.5
-58340,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,608,5,6081220599,122,99,Phrygias,608.953125,-5.2265625,19,Mountains,Gray,0.5
-58518,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,604,18,6041071889,107,89,Phrygias,604.8359375,-18.3046875,-167,Mountains,Gray,0.5
-59036,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,451,8,451310825,31,25,Phrygias,451.2421875,-8.8046875,-116,Haunted Woodlands,Gray,0.5
-58528,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,480,25,4801052559,105,59,Phrygias,480.8203125,-25.5390625,132,Haunted Woodlands,Gray,0.5
-59089,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,478,13,4781131386,113,86,Phrygias,478.8828125,-13.328125,11,Haunted Woodlands,Gray,0.5
-58411,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,569,5,569270507,27,7,Phrygias,569.2109375,-5.9453125,-112,Mountains,Gray,0.5
-58740,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,587,18,587701889,70,89,Phrygias,587.546875,-18.3046875,-92,Mountains,Gray,0.5
-58321,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,483,3,483640302,64,2,Phrygias,483.5,-3.984375,-118,Haunted Woodlands,Gray,0.5
-59142,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,598,19,5988719105,87,105,Phrygias,598.6796875,-19.1796875,109,Mountains,Gray,0.5
-58593,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,478,12,4781031250,103,50,Phrygias,478.8046875,-12.609375,52,Haunted Woodlands,Gray,0.5
-59082,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,466,12,4660512126,5,126,Phrygias,466.0390625,-12.015625,-154,Haunted Woodlands,Gray,0.5
-58800,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,458,5,4585605113,56,113,Phrygias,458.4375,-5.1171875,-112,Haunted Woodlands,Gray,0.5
-58980,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,461,5,461850540,85,40,Phrygias,461.6640625,-5.6875,71,Haunted Woodlands,Gray,0.5
-58943,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,590,1,590860192,86,92,Phrygias,590.671875,-1.28125,75,Mountains,Gray,0.5
-59088,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,580,6,5801260695,126,95,Phrygias,580.984375,-6.2578125,-172,Mountains,Gray,0.5
-58561,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,585,11,5858511116,85,116,Phrygias,585.6640625,-11.09375,-158,Mountains,Gray,0.5
-59124,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,471,29,471712930,71,30,Phrygias,471.5546875,-29.765625,15,Haunted Woodlands,Gray,0.5
-58975,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,462,26,4621082679,108,79,Phrygias,462.84375,-26.3828125,69,Haunted Woodlands,Gray,0.5
-58994,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,450,4,450090494,9,94,Phrygias,450.0703125,-4.265625,62,Haunted Woodlands,Gray,0.5
-58486,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,572,2,5727302105,73,105,Phrygias,572.5703125,-2.1796875,-159,Mountains,Gray,0.5
-59066,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,586,22,586472235,47,35,Phrygias,586.3671875,-22.7265625,163,Mountains,Gray,0.5
-58365,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,602,23,6021262380,126,80,Phrygias,602.984375,-23.375,58,Mountains,Gray,0.5
-59178,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,563,0,563760010,76,10,Phrygias,563.59375,-0.921875,-29,Mountains,Gray,0.5
-59203,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,567,1,567420126,42,26,Phrygias,567.328125,-1.796875,71,Mountains,Gray,0.5
-58774,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,453,3,453950308,95,8,Phrygias,453.7421875,-3.9375,-23,Haunted Woodlands,Gray,0.5
-58701,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,573,7,5731110788,111,88,Phrygias,573.8671875,-7.3125,-158,Mountains,Gray,0.5
-59116,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,602,17,6021041706,104,6,Phrygias,602.8125,-17.953125,142,Mountains,Gray,0.5
-59103,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,462,4,462040461,4,61,Phrygias,462.03125,-4.5234375,104,Haunted Woodlands,Gray,0.5
-58663,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,476,12,476341257,34,57,Phrygias,476.265625,-12.5546875,-170,Haunted Woodlands,Gray,0.5
-58318,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,582,14,5827214110,72,110,Phrygias,582.5625,-14.140625,-90,Mountains,Gray,0.5
-58930,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,460,12,4601111279,111,79,Phrygias,460.8671875,-12.3828125,-168,Haunted Woodlands,Gray,0.5
-58325,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,447,18,447851897,85,97,Phrygias,447.6640625,-18.2421875,-151,Haunted Woodlands,Gray,0.5
-58787,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,601,23,6011232358,123,58,Phrygias,601.9609375,-23.546875,-63,Mountains,Gray,0.5
-58428,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,453,8,453320869,32,69,Phrygias,453.25,-8.4609375,-6,Haunted Woodlands,Gray,0.5
-58396,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,584,18,5842218123,22,123,Phrygias,584.171875,-18.0390625,132,Mountains,Gray,0.5
-58891,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,474,8,4741080842,108,42,Phrygias,474.84375,-8.671875,-153,Haunted Woodlands,Gray,0.5
-58989,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,605,7,605150715,15,15,Phrygias,605.1171875,-7.8828125,141,Mountains,Gray,0.5
-58558,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,474,11,474381131,38,31,Phrygias,474.296875,-11.7578125,24,Haunted Woodlands,Gray,0.5
-58442,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,582,14,5820314128,3,128,Phrygias,582.0234375,-14.0,-66,Mountains,Gray,0.5
-58381,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,476,13,476331308,33,8,Phrygias,476.2578125,-13.9375,-111,Haunted Woodlands,Gray,0.5
-59016,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,478,16,478851692,85,92,Phrygias,478.6640625,-16.28125,-120,Haunted Woodlands,Gray,0.5
-58842,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,491,14,4918714118,87,118,Phrygias,491.6796875,-14.078125,-31,Haunted Woodlands,Gray,0.5
-58444,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,597,5,5971260597,126,97,Phrygias,597.984375,-5.2421875,-85,Mountains,Gray,0.5
-59101,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,503,12,503191257,19,57,Phrygias,503.1484375,-12.5546875,104,Haunted Woodlands,Gray,0.5
-59097,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,447,2,447720229,72,29,Phrygias,447.5625,-2.7734375,63,Haunted Woodlands,Gray,0.5
-58382,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,472,26,4721262675,126,75,Phrygias,472.984375,-26.4140625,-5,Haunted Woodlands,Gray,0.5
-58502,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,460,14,4602014109,20,109,Phrygias,460.15625,-14.1484375,37,Haunted Woodlands,Gray,0.5
-58604,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,467,1,467570154,57,54,Phrygias,467.4453125,-1.578125,-51,Haunted Woodlands,Gray,0.5
-58901,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,487,10,48711310114,113,114,Phrygias,487.8828125,-10.109375,-114,Haunted Woodlands,Gray,0.5
-58520,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,480,14,4801251450,125,50,Phrygias,480.9765625,-14.609375,-2,Haunted Woodlands,Gray,0.5
-59003,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,602,22,602812230,81,30,Phrygias,602.6328125,-22.765625,-141,Mountains,Gray,0.5
-58418,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,587,1,5871120102,112,2,Phrygias,587.875,-1.984375,-156,Mountains,Gray,0.5
-59115,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,503,12,503701229,70,29,Phrygias,503.546875,-12.7734375,-78,Haunted Woodlands,Gray,0.5
-59113,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,487,12,487921268,92,68,Phrygias,487.71875,-12.46875,168,Haunted Woodlands,Gray,0.5
-59216,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,449,10,449701021,70,21,Phrygias,449.546875,-10.8359375,-166,Haunted Woodlands,Gray,0.5
-59071,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,580,15,580411549,41,49,Phrygias,580.3203125,-15.6171875,90,Mountains,Gray,0.5
-59170,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,483,15,4838515113,85,113,Phrygias,483.6640625,-15.1171875,-147,Haunted Woodlands,Gray,0.5
-58626,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,450,3,450270363,27,63,Phrygias,450.2109375,-3.5078125,-91,Haunted Woodlands,Gray,0.5
-59237,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,489,13,489311319,31,19,Phrygias,489.2421875,-13.8515625,10,Haunted Woodlands,Gray,0.5
-59137,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,465,18,4652418102,24,102,Phrygias,465.1875,-18.203125,149,Haunted Woodlands,Gray,0.5
-58555,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,606,1,606280164,28,64,Phrygias,606.21875,-1.5,129,Mountains,Gray,0.5
-58521,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,497,7,497320751,32,51,Phrygias,497.25,-7.6015625,-22,Haunted Woodlands,Gray,0.5
-59042,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,478,19,4781021967,102,67,Phrygias,478.796875,-19.4765625,-96,Haunted Woodlands,Gray,0.5
-59161,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,597,10,5971211096,121,96,Phrygias,597.9453125,-10.25,76,Mountains,Gray,0.5
-58951,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,452,12,4521151224,115,24,Phrygias,452.8984375,-12.8125,-77,Haunted Woodlands,Gray,0.5
-59079,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,480,10,480671015,67,15,Phrygias,480.5234375,-10.8828125,80,Haunted Woodlands,Gray,0.5
-58479,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,581,1,5810201112,2,112,Phrygias,581.015625,-1.125,-13,Mountains,Gray,0.5
-58899,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,583,11,583611184,61,84,Phrygias,583.4765625,-11.34375,114,Mountains,Gray,0.5
-58511,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,491,19,4911071942,107,42,Phrygias,491.8359375,-19.671875,28,Haunted Woodlands,Gray,0.5
-58640,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,607,7,6071150742,115,42,Phrygias,607.8984375,-7.671875,25,Mountains,Gray,0.5
-58834,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,565,2,565120233,12,33,Phrygias,565.09375,-2.7421875,-112,Mountains,Gray,0.5
-58819,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,448,7,448440740,44,40,Phrygias,448.34375,-7.6875,-121,Haunted Woodlands,Gray,0.5
-58745,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,590,7,590210721,21,21,Phrygias,590.1640625,-7.8359375,-152,Mountains,Gray,0.5
-59002,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,480,13,480251369,25,69,Phrygias,480.1953125,-13.4609375,-129,Haunted Woodlands,Gray,0.5
-59099,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,476,4,476100411,10,11,Phrygias,476.078125,-4.9140625,-103,Haunted Woodlands,Gray,0.5
-59208,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,574,0,574540078,54,78,Phrygias,574.421875,-0.390625,-88,Mountains,Gray,0.5
-59091,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,586,8,586630895,63,95,Phrygias,586.4921875,-8.2578125,127,Mountains,Gray,0.5
-58664,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,483,2,483830269,83,69,Phrygias,483.6484375,-2.4609375,-67,Haunted Woodlands,Gray,0.5
-58572,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,457,20,457822039,82,39,Phrygias,457.640625,-20.6953125,-157,Haunted Woodlands,Gray,0.5
-59149,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,503,13,503671381,67,81,Phrygias,503.5234375,-13.3671875,78,Haunted Woodlands,Gray,0.5
-59217,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,483,18,4831001809,100,9,Phrygias,483.78125,-18.9296875,-18,Haunted Woodlands,Gray,0.5
-59156,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,470,11,470221105,22,5,Phrygias,470.171875,-11.9609375,46,Haunted Woodlands,Gray,0.5
-59105,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,585,22,585382256,38,56,Phrygias,585.296875,-22.5625,70,Mountains,Gray,0.5
-58920,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,455,16,455331651,33,51,Phrygias,455.2578125,-16.6015625,-173,Haunted Woodlands,Gray,0.5
-58863,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,468,16,468511660,51,60,Phrygias,468.3984375,-16.53125,-109,Haunted Woodlands,Gray,0.5
-58912,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,481,5,481910527,91,27,Phrygias,481.7109375,-5.7890625,22,Haunted Woodlands,Gray,0.5
-59048,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,470,5,4701280558,128,58,Phrygias,471.0,-5.546875,140,Haunted Woodlands,Gray,0.5
-58630,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,459,5,459660577,66,77,Phrygias,459.515625,-5.3984375,-178,Haunted Woodlands,Gray,0.5
-58425,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,592,5,592450551,45,51,Phrygias,592.3515625,-5.6015625,-162,Mountains,Gray,0.5
-58659,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,454,22,4541162251,116,51,Phrygias,454.90625,-22.6015625,-32,Haunted Woodlands,Gray,0.5
-58857,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,585,1,585490170,49,70,Phrygias,585.3828125,-1.453125,15,Mountains,Gray,0.5
-59064,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,479,30,479373042,37,42,Phrygias,479.2890625,-30.671875,95,Haunted Woodlands,Gray,0.5
-58797,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,583,17,583671767,67,67,Phrygias,583.5234375,-17.4765625,-158,Mountains,Gray,0.5
-58516,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,489,14,4891191447,119,47,Phrygias,489.9296875,-14.6328125,-165,Haunted Woodlands,Gray,0.5
-58799,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,456,22,456312242,31,42,Phrygias,456.2421875,-22.671875,124,Haunted Woodlands,Gray,0.5
-58761,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,570,0,570810048,81,48,Phrygias,570.6328125,-0.625,-9,Mountains,Gray,0.5
-59195,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,465,10,4651111012,111,12,Phrygias,465.8671875,-10.90625,-164,Haunted Woodlands,Gray,0.5
-58311,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,574,2,5743102120,31,120,Phrygias,574.2421875,-2.0625,77,Mountains,Gray,0.5
-58985,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,586,5,5868005103,80,103,Phrygias,586.625,-5.1953125,49,Mountains,Gray,0.5
-58840,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,452,3,4521130342,113,42,Phrygias,452.8828125,-3.671875,14,Haunted Woodlands,Gray,0.5
-58722,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,581,16,5811816110,18,110,Phrygias,581.140625,-16.140625,2,Mountains,Gray,0.5
-58882,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,457,4,4571270412,127,12,Phrygias,457.9921875,-4.90625,73,Haunted Woodlands,Gray,0.5
-58625,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,582,17,5820617117,6,117,Phrygias,582.046875,-17.0859375,-151,Mountains,Gray,0.5
-58860,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,472,15,472161527,16,27,Phrygias,472.125,-15.7890625,-71,Haunted Woodlands,Gray,0.5
-59063,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,603,24,603962488,96,88,Phrygias,603.75,-24.3125,103,Mountains,Gray,0.5
-59163,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,501,17,5010917108,9,108,Phrygias,501.0703125,-17.15625,-37,Haunted Woodlands,Gray,0.5
-58910,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,468,16,468941664,94,64,Phrygias,468.734375,-16.5,-73,Haunted Woodlands,Gray,0.5
-58921,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,455,1,455940146,94,46,Phrygias,455.734375,-1.640625,168,Haunted Woodlands,Gray,0.5
-58471,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,601,10,601011054,1,54,Phrygias,601.0078125,-10.578125,-112,Mountains,Gray,0.5
-59009,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,564,4,5641250486,125,86,Phrygias,564.9765625,-4.328125,-149,Mountains,Gray,0.5
-58503,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,477,4,477380422,38,22,Phrygias,477.296875,-4.828125,174,Haunted Woodlands,Gray,0.5
-59150,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,448,1,4485101101,51,101,Phrygias,448.3984375,-1.2109375,43,Haunted Woodlands,Gray,0.5
-59040,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,473,6,473690692,69,92,Phrygias,473.5390625,-6.28125,129,Haunted Woodlands,Gray,0.5
-58925,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,594,12,594621235,62,35,Phrygias,594.484375,-12.7265625,178,Mountains,Gray,0.5
-58871,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,500,11,500431183,43,83,Phrygias,500.3359375,-11.3515625,30,Haunted Woodlands,Gray,0.5
-59072,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,576,14,576571445,57,45,Phrygias,576.4453125,-14.6484375,-174,Mountains,Gray,0.5
-58533,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,495,5,495230527,23,27,Phrygias,495.1796875,-5.7890625,-54,Haunted Woodlands,Gray,0.5
-58595,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,594,25,5941142528,114,28,Phrygias,594.890625,-25.78125,-36,Mountains,Gray,0.5
-58691,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,570,13,570771397,77,97,Phrygias,570.6015625,-13.2421875,-18,Mountains,Gray,0.5
-58723,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_09,589,12,5896012108,60,108,Phrygias,589.46875,-12.15625,-70,Mountains,Gray,0.5
-59164,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,445,19,4451281982,128,82,Phrygias,446.0,-19.359375,-112,Haunted Woodlands,Gray,0.5
-58850,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,479,3,4791160366,116,66,Phrygias,479.90625,-3.484375,41,Haunted Woodlands,Gray,0.5
-58790,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,468,9,468030967,3,67,Phrygias,468.0234375,-9.4765625,-124,Haunted Woodlands,Gray,0.5
-59060,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,481,19,481511928,51,28,Phrygias,481.3984375,-19.78125,107,Haunted Woodlands,Gray,0.5
-58706,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,598,8,5981220856,122,56,Phrygias,598.953125,-8.5625,8,Mountains,Gray,0.5
-58634,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,465,14,465021484,2,84,Phrygias,465.015625,-14.34375,116,Haunted Woodlands,Gray,0.5
-58513,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,469,30,469523045,52,45,Phrygias,469.40625,-30.6484375,61,Haunted Woodlands,Gray,0.5
-59198,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,605,20,605612056,61,56,Phrygias,605.4765625,-20.5625,42,Mountains,Gray,0.5
-58917,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_10,471,12,471441272,44,72,Phrygias,471.34375,-12.4375,-100,Haunted Woodlands,Gray,0.5
-58355,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,501,13,501941313,94,13,Phrygias,501.734375,-13.8984375,-40,Haunted Woodlands,Gray,0.5
-58913,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,586,17,5861061781,106,81,Phrygias,586.828125,-17.3671875,3,Mountains,Gray,0.5
-58804,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,483,23,483492319,49,19,Phrygias,483.3828125,-23.8515625,-41,Haunted Woodlands,Gray,0.5
-59106,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,489,11,489161125,16,25,Phrygias,489.125,-11.8046875,48,Haunted Woodlands,Gray,0.5
-58987,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,606,9,606690937,69,37,Phrygias,606.5390625,-9.7109375,159,Mountains,Gray,0.5
-59240,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,458,6,458680690,68,90,Phrygias,458.53125,-6.296875,104,Haunted Woodlands,Gray,0.5
-58924,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,604,23,604322330,32,30,Phrygias,604.25,-23.765625,-53,Mountains,Gray,0.5
-59134,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,467,10,46711910101,119,101,Phrygias,467.9296875,-10.2109375,-16,Haunted Woodlands,Gray,0.5
-59233,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,461,1,461750109,75,9,Phrygias,461.5859375,-1.9296875,-26,Haunted Woodlands,Gray,0.5
-58766,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,460,20,460392062,39,62,Phrygias,460.3046875,-20.515625,74,Haunted Woodlands,Gray,0.5
-58861,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,605,6,605900681,90,81,Phrygias,605.703125,-6.3671875,-30,Mountains,Gray,0.5
-59152,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,468,9,468860979,86,79,Phrygias,468.671875,-9.3828125,126,Haunted Woodlands,Gray,0.5
-59030,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,481,8,481800867,80,67,Phrygias,481.625,-8.4765625,-150,Haunted Woodlands,Gray,0.5
-58839,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,596,6,596280610,28,10,Phrygias,596.21875,-6.921875,-145,Mountains,Gray,0.5
-58427,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,590,20,5906320121,63,121,Phrygias,590.4921875,-20.0546875,-144,Mountains,Gray,0.5
-58830,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,582,5,582790557,79,57,Phrygias,582.6171875,-5.5546875,-158,Mountains,Gray,0.5
-59024,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,483,2,483940248,94,48,Phrygias,483.734375,-2.625,32,Haunted Woodlands,Gray,0.5
-58990,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,568,11,568161158,16,58,Phrygias,568.125,-11.546875,157,Mountains,Gray,0.5
-58540,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,484,9,4848509107,85,107,Phrygias,484.6640625,-9.1640625,75,Haunted Woodlands,Gray,0.5
-58864,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,488,18,488901899,90,99,Phrygias,488.703125,-18.2265625,-146,Haunted Woodlands,Gray,0.5
-58415,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,461,7,4613007121,30,121,Phrygias,461.234375,-7.0546875,-62,Haunted Woodlands,Gray,0.5
-59069,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,456,15,456971520,97,20,Phrygias,456.7578125,-15.84375,-103,Haunted Woodlands,Gray,0.5
-58616,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,460,5,4609605123,96,123,Phrygias,460.75,-5.0390625,26,Haunted Woodlands,Gray,0.5
-58973,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,492,13,492021372,2,72,Phrygias,492.015625,-13.4375,-89,Haunted Woodlands,Gray,0.5
-58574,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,568,4,568570432,57,32,Phrygias,568.4453125,-4.75,134,Mountains,Gray,0.5
-58459,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,474,11,474621107,62,7,Phrygias,474.484375,-11.9453125,142,Haunted Woodlands,Gray,0.5
-58936,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,447,11,447111198,11,98,Phrygias,447.0859375,-11.234375,109,Haunted Woodlands,Gray,0.5
-58786,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,604,15,604761597,76,97,Phrygias,604.59375,-15.2421875,-91,Mountains,Gray,0.5
-58737,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,474,10,474381079,38,79,Phrygias,474.296875,-10.3828125,81,Haunted Woodlands,Gray,0.5
-59023,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,476,24,4761724106,17,106,Phrygias,476.1328125,-24.171875,-99,Haunted Woodlands,Gray,0.5
-59239,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,452,15,4521201547,120,47,Phrygias,452.9375,-15.6328125,155,Haunted Woodlands,Gray,0.5
-59021,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,471,17,471151717,15,17,Phrygias,471.1171875,-17.8671875,-18,Haunted Woodlands,Gray,0.5
-58814,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,480,23,4801252331,125,31,Phrygias,480.9765625,-23.7578125,94,Haunted Woodlands,Gray,0.5
-58874,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,445,6,4457706103,77,103,Phrygias,445.6015625,-6.1953125,-148,Haunted Woodlands,Gray,0.5
-59197,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,473,1,473660171,66,71,Phrygias,473.515625,-1.4453125,-9,Haunted Woodlands,Gray,0.5
-58588,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,479,29,479282926,28,26,Phrygias,479.21875,-29.796875,-67,Haunted Woodlands,Gray,0.5
-58313,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,501,14,5015914123,59,123,Phrygias,501.4609375,-14.0390625,-46,Haunted Woodlands,Gray,0.5
-58865,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,479,4,479560446,56,46,Phrygias,479.4375,-4.640625,12,Haunted Woodlands,Gray,0.5
-59232,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,595,25,5951262551,126,51,Phrygias,595.984375,-25.6015625,81,Mountains,Gray,0.5
-59004,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,474,21,474192177,19,77,Phrygias,474.1484375,-21.3984375,104,Haunted Woodlands,Gray,0.5
-58908,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,590,2,59012602108,126,108,Phrygias,590.984375,-2.15625,-159,Mountains,Gray,0.5
-58356,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,451,6,4511210613,121,13,Phrygias,451.9453125,-6.8984375,-122,Haunted Woodlands,Gray,0.5
-58853,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,489,4,4892404122,24,122,Phrygias,489.1875,-4.046875,168,Haunted Woodlands,Gray,0.5
-59029,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,570,3,570610350,61,50,Phrygias,570.4765625,-3.609375,-47,Mountains,Gray,0.5
-59167,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_02,473,1,473190155,19,55,Phrygias,473.1484375,-1.5703125,156,Haunted Woodlands,Gray,0.5
-58646,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,487,30,4871173017,117,17,Phrygias,487.9140625,-30.8671875,161,Haunted Woodlands,Gray,0.5
-58673,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,446,2,4461502110,15,110,Phrygias,446.1171875,-2.140625,119,Haunted Woodlands,Gray,0.5
-58329,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,604,13,604751314,75,14,Phrygias,604.5859375,-13.890625,9,Mountains,Gray,0.5
-58878,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,499,12,499761240,76,40,Phrygias,499.59375,-12.6875,-175,Haunted Woodlands,Gray,0.5
-58589,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,463,4,463590450,59,50,Phrygias,463.4609375,-4.609375,144,Haunted Woodlands,Gray,0.5
-58715,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,478,4,478250453,25,53,Phrygias,478.1953125,-4.5859375,-148,Haunted Woodlands,Gray,0.5
-58375,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,479,6,4795806116,58,116,Phrygias,479.453125,-6.09375,176,Haunted Woodlands,Gray,0.5
-58653,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_07,465,17,465561764,56,64,Phrygias,465.4375,-17.5,94,Haunted Woodlands,Gray,0.5
-58490,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,501,18,501651841,65,41,Phrygias,501.5078125,-18.6796875,-38,Haunted Woodlands,Gray,0.5
-58998,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,473,14,473911447,91,47,Phrygias,473.7109375,-14.6328125,-155,Haunted Woodlands,Gray,0.5
-58336,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,576,14,576431409,43,9,Phrygias,576.3359375,-14.9296875,42,Mountains,Gray,0.5
-58796,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,571,8,571400812,40,12,Phrygias,571.3125,-8.90625,-158,Mountains,Gray,0.5
-58693,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_07,488,9,4881040992,104,92,Phrygias,488.8125,-9.28125,-66,Haunted Woodlands,Gray,0.5
-59182,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,585,21,585042168,4,68,Phrygias,585.03125,-21.46875,-106,Mountains,Gray,0.5
-59132,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,479,19,479801910,80,10,Phrygias,479.625,-19.921875,-137,Haunted Woodlands,Gray,0.5
-58650,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,491,3,491830316,83,16,Phrygias,491.6484375,-3.875,85,Haunted Woodlands,Gray,0.5
-58544,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,484,26,4841142608,114,8,Phrygias,484.890625,-26.9375,115,Haunted Woodlands,Gray,0.5
-58810,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_05,566,8,566490804,49,4,Phrygias,566.3828125,-8.96875,-119,Mountains,Gray,0.5
-58654,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,495,16,495991625,99,25,Phrygias,495.7734375,-16.8046875,29,Haunted Woodlands,Gray,0.5
-59172,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,448,4,448640486,64,86,Phrygias,448.5,-4.328125,166,Haunted Woodlands,Gray,0.5
-59213,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,567,9,567200984,20,84,Phrygias,567.15625,-9.34375,-161,Mountains,Gray,0.5
-58451,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,493,19,493721910,72,10,Phrygias,493.5625,-19.921875,-105,Haunted Woodlands,Gray,0.5
-58662,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,457,6,457890646,89,46,Phrygias,457.6953125,-6.640625,113,Haunted Woodlands,Gray,0.5
-59221,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,467,5,467390566,39,66,Phrygias,467.3046875,-5.484375,177,Haunted Woodlands,Gray,0.5
-58488,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,601,21,6010921101,9,101,Phrygias,601.0703125,-21.2109375,-63,Mountains,Gray,0.5
-58868,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_01,502,19,5021019106,10,106,Phrygias,502.078125,-19.171875,176,Haunted Woodlands,Gray,0.5
-58731,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,604,13,604771386,77,86,Phrygias,604.6015625,-13.328125,77,Mountains,Gray,0.5
-58436,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,561,1,561300102,30,2,Phrygias,561.234375,-1.984375,6,Mountains,Gray,0.5
-58811,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,463,4,463350497,35,97,Phrygias,463.2734375,-4.2421875,-166,Haunted Woodlands,Gray,0.5
-58622,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,444,0,444650040,65,40,Phrygias,444.5078125,-0.6875,52,Haunted Woodlands,Gray,0.5
-58919,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_03,583,12,5831241214,124,14,Phrygias,583.96875,-12.890625,36,Mountains,Gray,0.5
-58374,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_09,585,14,5851114116,11,116,Phrygias,585.0859375,-14.09375,-31,Mountains,Gray,0.5
-59138,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_06,500,15,5004315113,43,113,Phrygias,500.3359375,-15.1171875,-91,Haunted Woodlands,Gray,0.5
-58733,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,447,7,4472907114,29,114,Phrygias,447.2265625,-7.109375,-156,Haunted Woodlands,Gray,0.5
-58807,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_11,485,2,485250246,25,46,Phrygias,485.1953125,-2.640625,96,Haunted Woodlands,Gray,0.5
-59104,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,458,6,4588406123,84,123,Phrygias,458.65625,-6.0390625,111,Haunted Woodlands,Gray,0.5
-58573,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,500,9,500740995,74,95,Phrygias,500.578125,-9.2578125,-108,Haunted Woodlands,Gray,0.5
-58497,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_03,483,15,483631584,63,84,Phrygias,483.4921875,-15.34375,153,Haunted Woodlands,Gray,0.5
-58613,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,597,16,5971001686,100,86,Phrygias,597.78125,-16.328125,-137,Mountains,Gray,0.5
-58548,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,454,6,454790673,79,73,Phrygias,454.6171875,-6.4296875,-141,Haunted Woodlands,Gray,0.5
-59076,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,500,16,500861645,86,45,Phrygias,500.671875,-16.6484375,26,Haunted Woodlands,Gray,0.5
-59061,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_08,587,18,587441891,44,91,Phrygias,587.34375,-18.2890625,-53,Mountains,Gray,0.5
-59073,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_01,586,11,586781167,78,67,Phrygias,586.609375,-11.4765625,-118,Mountains,Gray,0.5
-58314,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,597,25,59711725117,117,117,Phrygias,597.9140625,-25.0859375,-142,Mountains,Gray,0.5
-58704,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_08,460,15,4601121503,112,3,Phrygias,460.875,-15.9765625,0,Haunted Woodlands,Gray,0.5
-59153,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_06,470,16,470601645,60,45,Phrygias,470.46875,-16.6484375,-155,Haunted Woodlands,Gray,0.5
-58713,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,471,5,4711020547,102,47,Phrygias,471.796875,-5.6328125,-99,Haunted Woodlands,Gray,0.5
-58870,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,603,1,6033601110,36,110,Phrygias,603.28125,-1.140625,74,Mountains,Gray,0.5
-58515,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_04,484,6,484550627,55,27,Phrygias,484.4296875,-6.7890625,11,Haunted Woodlands,Gray,0.5
-58718,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,584,11,584601123,60,23,Phrygias,584.46875,-11.8203125,-13,Mountains,Gray,0.5
-58757,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,456,21,4561222185,122,85,Phrygias,456.953125,-21.3359375,-24,Haunted Woodlands,Gray,0.5
-58849,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,481,31,481203198,20,98,Phrygias,481.15625,-31.234375,177,Haunted Woodlands,Gray,0.5
-58403,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,443,4,4431230491,123,91,Phrygias,443.9609375,-4.2890625,77,Haunted Woodlands,Gray,0.5
-58529,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,595,4,595230422,23,22,Phrygias,595.1796875,-4.828125,17,Mountains,Gray,0.5
-58938,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_05,458,14,458451465,45,65,Phrygias,458.3515625,-14.4921875,139,Haunted Woodlands,Gray,0.5
-58609,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_04,463,5,4631230505,123,5,Phrygias,463.9609375,-5.9609375,6,Haunted Woodlands,Gray,0.5
-58505,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_02,597,1,5971190185,119,85,Phrygias,597.9296875,-1.3359375,105,Mountains,Gray,0.5
-58480,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_04,558,0,558530074,53,74,Phrygias,558.4140625,-0.421875,-42,Mountains,Gray,0.5
-58437,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_12,484,3,484720302,72,2,Phrygias,484.5625,-3.984375,-138,Haunted Woodlands,Gray,0.5
-59128,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,454,5,454750551,75,51,Phrygias,454.5859375,-5.6015625,163,Haunted Woodlands,Gray,0.5
-58918,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_02,596,12,596371217,37,17,Phrygias,596.2890625,-12.8671875,-150,Mountains,Gray,0.5
-59020,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_05,464,25,464822564,82,64,Phrygias,464.640625,-25.5,-91,Haunted Woodlands,Gray,0.5
-58764,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_08,590,6,590290652,29,52,Phrygias,590.2265625,-6.59375,-86,Mountains,Gray,0.5
-58837,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_07,452,19,452221976,22,76,Phrygias,452.171875,-19.40625,-56,Haunted Woodlands,Gray,0.5
-58465,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_01,465,19,465041993,4,93,Phrygias,465.03125,-19.2734375,84,Haunted Woodlands,Gray,0.5
-58780,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_10,482,22,4821072232,107,32,Phrygias,482.8359375,-22.75,177,Haunted Woodlands,Gray,0.5
-58643,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Small_03,465,1,465630157,63,57,Phrygias,465.4921875,-1.5546875,20,Haunted Woodlands,Gray,0.5
-58500,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Large_06,478,28,478862886,86,86,Phrygias,478.671875,-28.328125,38,Haunted Woodlands,Gray,0.5
-58875,Rocks,1,WOD_Rocks_RoundSpiky_Gray_Medium_09,477,25,477622518,62,18,Phrygias,477.484375,-25.859375,36,Haunted Woodlands,Gray,0.5
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,altitude,sink
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-118,515,5,35,98,515350435,Phrygias,515.2734375,-5.234375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-81,479,27,81,1,479812765,Phrygias,479.6328125,-27.9921875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-32,571,2,24,109,571240146,Phrygias,571.1875,-2.1484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-85,587,15,123,29,5871231593,Phrygias,587.9609375,-15.7734375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,45,587,17,111,15,5871111779,Phrygias,587.8671875,-17.8828125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-31,529,8,111,12,5291110876,Phrygias,529.8671875,-8.90625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,169,474,21,54,104,474542041,Phrygias,474.421875,-21.1875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-33,577,5,26,41,5772605105,Phrygias,577.203125,-5.6796875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-79,511,6,6,63,5110606127,Phrygias,511.046875,-6.5078125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,155,601,3,127,103,6011270240,Phrygias,601.9921875,-3.1953125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,164,585,17,127,72,5851271609,Phrygias,585.9921875,-17.4375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-169,486,28,44,61,4864428125,Phrygias,486.34375,-28.5234375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,4,509,0,10,36,5091000100,Phrygias,509.078125,-0.71875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,22,531,7,37,8,531370772,Phrygias,531.2890625,-7.9375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-166,537,8,14,26,537140890,Phrygias,537.109375,-8.796875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,52,473,23,51,96,473512233,Phrygias,473.3984375,-23.25,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-32,600,7,64,100,600640637,Phrygias,600.5,-7.21875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,101,587,12,68,60,5876812124,Phrygias,587.53125,-12.53125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,62,538,5,63,80,538630417,Phrygias,538.4921875,-5.375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,113,524,6,124,42,52412406106,Phrygias,524.96875,-6.671875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,93,583,15,115,89,5831151426,Phrygias,583.8984375,-15.3046875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-98,603,26,56,28,603562692,Phrygias,603.4375,-26.78125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,23,529,6,50,10,529500674,Phrygias,529.390625,-6.921875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,165,582,2,114,52,58211402116,Phrygias,582.890625,-2.59375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,128,503,1,100,27,5031000191,Phrygias,503.78125,-1.7890625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,0,507,5,115,23,5071150587,Phrygias,507.8984375,-5.8203125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-45,572,8,38,66,572380703,Phrygias,572.296875,-8.484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,74,479,25,99,26,479992590,Phrygias,479.7734375,-25.796875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-33,512,5,36,60,5123605124,Phrygias,512.28125,-5.53125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,154,548,13,127,121,5481271258,Phrygias,548.9921875,-13.0546875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,15,480,21,31,115,480312052,Phrygias,480.2421875,-21.1015625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,157,531,3,69,37,5316903101,Phrygias,531.5390625,-3.7109375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,133,463,27,5,108,463052645,Phrygias,463.0390625,-27.15625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-156,585,2,74,13,585740277,Phrygias,585.578125,-2.8984375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-76,573,2,41,98,573410135,Phrygias,573.3203125,-2.234375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,117,570,9,45,46,5704509110,Phrygias,570.3515625,-9.640625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-92,517,2,115,55,51711502119,Phrygias,517.8984375,-2.5703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-162,478,24,91,126,478912363,Phrygias,478.7109375,-24.015625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-69,526,5,0,60,5260005124,Phrygias,526.0,-5.53125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,69,474,26,93,86,474932523,Phrygias,474.7265625,-26.328125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-146,483,19,115,61,48311519125,Phrygias,483.8984375,-19.5234375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-6,515,5,46,82,515460419,Phrygias,515.359375,-5.359375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,170,581,3,55,82,581550219,Phrygias,581.4296875,-3.359375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,152,606,2,5,28,606050292,Phrygias,606.0390625,-2.78125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-117,475,24,40,117,475402354,Phrygias,475.3125,-24.0859375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,29,575,6,12,46,5751206110,Phrygias,575.09375,-6.640625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-96,535,6,70,68,535700505,Phrygias,535.546875,-6.46875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,163,571,8,69,52,5716908116,Phrygias,571.5390625,-8.59375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,128,604,4,15,17,604150481,Phrygias,604.1171875,-4.8671875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-100,511,0,24,3,511240067,Phrygias,511.1875,-0.9765625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-154,603,3,59,66,603590203,Phrygias,603.4609375,-3.484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-2,586,14,60,45,5866014109,Phrygias,586.46875,-14.6484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-129,584,12,59,110,584591147,Phrygias,584.4609375,-12.140625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,47,588,9,1,72,588010809,Phrygias,588.0078125,-9.4375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-16,478,21,76,15,478762179,Phrygias,478.59375,-21.8828125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,108,586,14,72,22,586721486,Phrygias,586.5625,-14.828125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,81,535,8,127,76,5351270713,Phrygias,535.9921875,-8.40625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,78,476,22,105,23,4761052287,Phrygias,476.8203125,-22.8203125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,53,530,6,61,22,530610686,Phrygias,530.4765625,-6.828125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,96,585,23,32,6,585322370,Phrygias,585.25,-23.953125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,26,527,3,108,12,5271080376,Phrygias,527.84375,-3.90625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,66,532,5,60,9,532600573,Phrygias,532.46875,-5.9296875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,123,519,2,88,99,519880136,Phrygias,519.6875,-2.2265625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,146,605,9,113,63,60511309127,Phrygias,605.8828125,-9.5078125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,151,487,22,14,26,487142290,Phrygias,487.109375,-22.796875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,62,508,1,73,115,508730052,Phrygias,508.5703125,-1.1015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,39,577,9,86,26,577860990,Phrygias,577.671875,-9.796875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,134,517,7,12,83,517120620,Phrygias,517.09375,-7.3515625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-79,576,16,40,63,576401500,Phrygias,576.3125,-16.5078125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,6,478,20,60,31,478602095,Phrygias,478.46875,-20.7578125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-140,576,5,64,19,576640583,Phrygias,576.5,-5.8515625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-115,557,14,5,99,557051336,Phrygias,557.0390625,-14.2265625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,110,586,20,90,20,586902084,Phrygias,586.703125,-20.84375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-62,599,6,90,10,599900674,Phrygias,599.703125,-6.921875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-99,451,30,49,124,451492961,Phrygias,451.3828125,-30.03125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,73,523,6,63,18,523630682,Phrygias,523.4921875,-6.859375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,24,532,7,45,0,532450764,Phrygias,532.3515625,-8.0,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,90,471,25,106,126,4711062463,Phrygias,471.828125,-25.015625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-63,587,8,67,23,587670887,Phrygias,587.5234375,-8.8203125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,82,527,8,115,59,52711508123,Phrygias,527.8984375,-8.5390625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-166,556,14,124,75,5561241312,Phrygias,556.96875,-14.4140625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-12,483,28,33,18,483332882,Phrygias,483.2578125,-28.859375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-109,593,24,63,58,5936324122,Phrygias,593.4921875,-24.546875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,44,585,21,58,27,585582191,Phrygias,585.453125,-21.7890625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,111,566,7,81,36,5668107100,Phrygias,566.6328125,-7.71875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-32,546,9,83,83,546830820,Phrygias,546.6484375,-9.3515625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-102,521,2,92,109,521920146,Phrygias,521.71875,-2.1484375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,117,484,26,101,52,48410126116,Phrygias,484.7890625,-26.59375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-72,472,24,27,69,472272306,Phrygias,472.2109375,-24.4609375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-54,516,3,44,51,5164403115,Phrygias,516.34375,-3.6015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-10,602,25,69,99,602692436,Phrygias,602.5390625,-25.2265625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,57,459,28,81,99,459812736,Phrygias,459.6328125,-28.2265625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,32,582,1,128,1,5821280165,Phrygias,583.0,-1.9921875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-50,511,7,74,119,511740656,Phrygias,511.578125,-7.0703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-18,546,12,60,92,546601129,Phrygias,546.46875,-12.28125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-150,549,15,46,118,549461455,Phrygias,549.359375,-15.078125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,111,546,8,76,109,546760746,Phrygias,546.59375,-8.1484375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-142,485,21,33,27,485332191,Phrygias,485.2578125,-21.7890625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,105,486,25,28,76,486282413,Phrygias,486.21875,-25.40625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,54,471,27,14,20,471142784,Phrygias,471.109375,-27.84375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-68,581,20,45,92,581451929,Phrygias,581.3515625,-20.28125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-115,568,8,56,119,568560756,Phrygias,568.4375,-8.0703125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-27,507,3,29,110,507290247,Phrygias,507.2265625,-3.140625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,78,482,25,127,96,4821272433,Phrygias,482.9921875,-25.25,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,118,576,1,56,13,576560177,Phrygias,576.4375,-1.8984375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-150,503,1,32,105,503320042,Phrygias,503.25,-1.1796875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,37,525,3,64,33,525640397,Phrygias,525.5,-3.7421875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,60,545,8,127,38,54512708102,Phrygias,545.9921875,-8.703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-43,594,25,96,67,594962404,Phrygias,594.75,-25.4765625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,3,598,0,37,4,598370068,Phrygias,598.2890625,-0.96875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,157,602,26,76,90,602762527,Phrygias,602.59375,-26.296875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-71,487,22,14,76,487142113,Phrygias,487.109375,-22.40625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,65,511,4,95,60,5119504124,Phrygias,511.7421875,-4.53125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-142,597,5,122,124,5971220461,Phrygias,597.953125,-5.03125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,4,531,6,3,60,5310306124,Phrygias,531.0234375,-6.53125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,86,484,23,45,104,484452241,Phrygias,484.3515625,-23.1875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-166,539,6,97,49,5399706113,Phrygias,539.7578125,-6.6171875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-59,597,5,15,101,597150438,Phrygias,597.1171875,-5.2109375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-172,576,5,92,60,5769205124,Phrygias,576.71875,-5.53125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,30,572,15,1,20,572011584,Phrygias,572.0078125,-15.84375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-81,587,17,86,87,587861624,Phrygias,587.671875,-17.3203125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,151,463,26,9,80,463092517,Phrygias,463.0703125,-26.375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-38,518,4,99,63,518990300,Phrygias,518.7734375,-4.5078125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,148,577,6,41,124,577410561,Phrygias,577.3203125,-6.03125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-116,528,5,106,85,5281060422,Phrygias,528.828125,-5.3359375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,160,484,21,96,109,484962046,Phrygias,484.75,-21.1484375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,174,598,5,101,85,5981010422,Phrygias,598.7890625,-5.3359375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,42,463,29,10,35,463102999,Phrygias,463.078125,-29.7265625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-107,585,18,115,15,5851151879,Phrygias,585.8984375,-18.8828125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-90,471,25,18,18,471182582,Phrygias,471.140625,-25.859375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-170,571,7,111,0,5711110764,Phrygias,571.8671875,-8.0,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-35,534,6,124,33,5341240697,Phrygias,534.96875,-6.7421875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,173,518,2,23,108,518230145,Phrygias,518.1796875,-2.15625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-10,575,9,45,20,575450984,Phrygias,575.3515625,-9.84375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-118,580,3,5,124,580050261,Phrygias,580.0390625,-3.03125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-46,484,21,38,40,4843821104,Phrygias,484.296875,-21.6875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,114,532,6,29,75,532290512,Phrygias,532.2265625,-6.4140625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-19,537,7,96,27,537960791,Phrygias,537.75,-7.7890625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-2,569,8,33,0,569330864,Phrygias,569.2578125,-9.0,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-63,588,12,56,114,588561151,Phrygias,588.4375,-12.109375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,138,480,25,46,117,480462454,Phrygias,480.359375,-25.0859375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-20,575,7,38,115,575380652,Phrygias,575.296875,-7.1015625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,73,587,15,109,104,5871091441,Phrygias,587.8515625,-15.1875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-159,582,24,3,115,582032352,Phrygias,582.0234375,-24.1015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-46,484,27,99,38,4849927102,Phrygias,484.7734375,-27.703125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-52,539,8,63,32,539630896,Phrygias,539.4921875,-8.75,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-142,450,29,124,68,4501242805,Phrygias,450.96875,-29.46875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,173,484,27,100,8,4841002772,Phrygias,484.78125,-27.9375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,50,469,25,106,22,4691062586,Phrygias,469.828125,-25.828125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-177,600,1,54,117,600540054,Phrygias,600.421875,-1.0859375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-151,543,8,97,103,543970740,Phrygias,543.7578125,-8.1953125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-159,539,9,14,42,5391409106,Phrygias,539.109375,-9.671875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-31,478,21,87,60,4788721124,Phrygias,478.6796875,-21.53125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,97,575,5,64,10,575640574,Phrygias,575.5,-5.921875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,171,579,11,41,64,5794111128,Phrygias,579.3203125,-11.5,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,36,606,0,91,4,606910068,Phrygias,606.7109375,-0.96875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,83,482,29,115,33,4821152997,Phrygias,482.8984375,-29.7421875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-98,475,22,31,52,4753122116,Phrygias,475.2421875,-22.59375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,11,502,2,29,42,5022902106,Phrygias,502.2265625,-2.671875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-29,605,26,76,12,605762676,Phrygias,605.59375,-26.90625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,62,577,4,70,114,577700351,Phrygias,577.546875,-4.109375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,47,465,26,33,77,465332514,Phrygias,465.2578125,-26.3984375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-38,547,13,5,50,5470513114,Phrygias,547.0390625,-13.609375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-98,546,7,40,28,546400792,Phrygias,546.3125,-7.78125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-170,469,24,64,50,4696424114,Phrygias,469.5,-24.609375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,170,546,14,95,99,546951336,Phrygias,546.7421875,-14.2265625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-23,504,5,72,59,5047205123,Phrygias,504.5625,-5.5390625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-145,596,25,96,52,5969625116,Phrygias,596.75,-25.59375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,137,582,15,92,54,5829215118,Phrygias,582.71875,-15.578125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-93,573,6,101,119,5731010556,Phrygias,573.7890625,-6.0703125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,111,581,16,19,100,581191537,Phrygias,581.1484375,-16.21875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-7,592,20,84,122,592841959,Phrygias,592.65625,-20.046875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-15,481,21,49,61,4814921125,Phrygias,481.3828125,-21.5234375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-13,480,21,35,75,480352012,Phrygias,480.2734375,-21.4140625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-71,475,24,41,58,4754124122,Phrygias,475.3203125,-24.546875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-157,588,10,8,19,588081083,Phrygias,588.0625,-10.8515625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,38,557,15,67,89,557671426,Phrygias,557.5234375,-15.3046875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-121,515,2,102,47,51510202111,Phrygias,515.796875,-2.6328125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-141,532,3,72,4,532720368,Phrygias,532.5625,-3.96875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,9,504,5,95,123,504950460,Phrygias,504.7421875,-5.0390625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-130,583,1,123,12,5831230176,Phrygias,583.9609375,-1.90625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,77,600,23,19,96,600192233,Phrygias,600.1484375,-23.25,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-151,520,3,78,99,520780236,Phrygias,520.609375,-3.2265625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-80,485,23,88,46,4858823110,Phrygias,485.6875,-23.640625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-4,574,6,86,66,574860503,Phrygias,574.671875,-6.484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,170,576,23,60,72,576602209,Phrygias,576.46875,-23.4375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,23,542,9,101,64,54210109128,Phrygias,542.7890625,-9.5,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-154,572,4,114,13,5721140477,Phrygias,572.890625,-4.8984375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-86,605,26,28,44,6052826108,Phrygias,605.21875,-26.65625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-103,508,3,35,45,5083503109,Phrygias,508.2734375,-3.6484375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-50,485,27,104,12,4851042776,Phrygias,485.8125,-27.90625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,171,485,20,77,71,485771908,Phrygias,485.6015625,-20.4453125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-18,556,14,91,19,556911483,Phrygias,556.7109375,-14.8515625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,77,597,20,4,69,597041906,Phrygias,597.03125,-20.4609375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,32,474,22,24,23,474242287,Phrygias,474.1875,-22.8203125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,7,544,13,12,115,544121252,Phrygias,544.09375,-13.1015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-7,607,26,92,29,607922693,Phrygias,607.71875,-26.7734375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-167,565,8,36,112,565360749,Phrygias,565.28125,-8.125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,74,589,23,26,94,589262231,Phrygias,589.203125,-23.265625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,118,572,16,113,49,57211316113,Phrygias,572.8828125,-16.6171875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-156,519,2,90,20,519900284,Phrygias,519.703125,-2.84375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-56,507,2,49,117,507490154,Phrygias,507.3828125,-2.0859375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,4,540,9,118,66,5401180803,Phrygias,540.921875,-9.484375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,137,538,4,63,69,538630306,Phrygias,538.4921875,-4.4609375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-131,582,24,97,55,5829724119,Phrygias,582.7578125,-24.5703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,50,449,30,59,86,449592923,Phrygias,449.4609375,-30.328125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-90,533,8,1,119,533010756,Phrygias,533.0078125,-8.0703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-178,482,23,18,76,482182213,Phrygias,482.140625,-23.40625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-54,544,11,26,13,544261177,Phrygias,544.203125,-11.8984375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,128,510,6,78,46,5107806110,Phrygias,510.609375,-6.640625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-143,586,17,90,28,586901792,Phrygias,586.703125,-17.78125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,84,484,22,110,40,48411022104,Phrygias,484.859375,-22.6875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-112,567,9,84,114,567840851,Phrygias,567.65625,-9.109375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-132,547,8,20,36,5472008100,Phrygias,547.15625,-8.71875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-66,523,8,110,98,5231100735,Phrygias,523.859375,-8.234375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-103,546,8,84,50,5468408114,Phrygias,546.65625,-8.609375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-130,590,14,87,27,590871491,Phrygias,590.6796875,-14.7890625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,93,473,23,50,91,473502228,Phrygias,473.390625,-23.2890625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,40,543,12,24,124,543241161,Phrygias,543.1875,-12.03125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,178,533,5,76,73,533760410,Phrygias,533.59375,-5.4296875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,128,582,23,47,3,582472367,Phrygias,582.3671875,-23.9765625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,109,546,7,73,1,546730765,Phrygias,546.5703125,-7.9921875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-89,582,3,105,55,58210503119,Phrygias,582.8203125,-3.5703125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,96,507,1,92,101,507920038,Phrygias,507.71875,-1.2109375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-157,476,21,45,68,476452005,Phrygias,476.3515625,-21.46875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,149,594,18,90,86,594901723,Phrygias,594.703125,-18.328125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,143,546,9,109,55,54610909119,Phrygias,546.8515625,-9.5703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-159,476,24,26,58,4762624122,Phrygias,476.203125,-24.546875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-166,483,26,105,105,4831052542,Phrygias,483.8203125,-26.1796875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-151,596,1,102,99,5961020036,Phrygias,596.796875,-1.2265625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-149,477,26,18,92,477182529,Phrygias,477.140625,-26.28125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,65,538,5,122,89,5381220426,Phrygias,538.953125,-5.3046875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,127,560,15,14,58,5601415122,Phrygias,560.109375,-15.546875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,98,603,5,105,37,60310505101,Phrygias,603.8203125,-5.7109375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,102,470,27,108,110,4701082647,Phrygias,470.84375,-27.140625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-155,596,25,97,118,596972455,Phrygias,596.7578125,-25.078125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-127,603,4,8,37,6030804101,Phrygias,603.0625,-4.7109375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,64,597,0,14,19,597140083,Phrygias,597.109375,-0.8515625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,118,517,7,29,42,5172907106,Phrygias,517.2265625,-7.671875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,50,507,4,56,4,507560468,Phrygias,507.4375,-4.96875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-129,524,7,83,104,524830641,Phrygias,524.6484375,-7.1875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-15,586,15,22,124,586221461,Phrygias,586.171875,-15.03125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,17,504,0,10,24,504100088,Phrygias,504.078125,-0.8125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,15,584,14,41,77,584411314,Phrygias,584.3203125,-14.3984375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-65,603,26,118,94,6031182531,Phrygias,603.921875,-26.265625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-120,576,3,124,114,5761240251,Phrygias,576.96875,-3.109375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-120,511,6,81,27,511810691,Phrygias,511.6328125,-6.7890625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,111,473,27,22,86,473222623,Phrygias,473.171875,-27.328125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-46,483,25,73,28,483732592,Phrygias,483.5703125,-25.78125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,61,477,24,106,123,4771062360,Phrygias,477.828125,-24.0390625,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-44,520,4,82,3,520820467,Phrygias,520.640625,-4.9765625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-179,600,22,86,24,600862288,Phrygias,600.671875,-22.8125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,106,484,25,81,32,484812596,Phrygias,484.6328125,-25.75,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-49,604,24,97,9,604972473,Phrygias,604.7578125,-24.9296875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,169,520,2,28,64,520280101,Phrygias,520.21875,-2.5,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-47,580,20,116,100,5801161937,Phrygias,580.90625,-20.21875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,41,597,7,32,72,597320609,Phrygias,597.25,-7.4375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,7,572,3,55,41,5725503105,Phrygias,572.4296875,-3.6796875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-72,469,28,23,113,469232750,Phrygias,469.1796875,-28.1171875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,160,596,24,61,20,596612484,Phrygias,596.4765625,-24.84375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,37,599,5,60,20,599600584,Phrygias,599.46875,-5.84375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,152,602,7,40,1,602400765,Phrygias,602.3125,-7.9921875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-94,463,27,51,109,463512646,Phrygias,463.3984375,-27.1484375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,32,479,23,37,80,479372217,Phrygias,479.2890625,-23.375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-164,602,11,114,123,6021141060,Phrygias,602.890625,-11.0390625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,69,585,14,106,45,58510614109,Phrygias,585.828125,-14.6484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,30,546,9,9,60,5460909124,Phrygias,546.0703125,-9.53125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-116,597,6,51,73,597510510,Phrygias,597.3984375,-6.4296875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,48,510,4,97,5,510970469,Phrygias,510.7578125,-4.9609375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-126,586,18,12,6,586121870,Phrygias,586.09375,-18.953125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,141,589,24,58,83,589582320,Phrygias,589.453125,-24.3515625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,90,515,3,60,66,515600203,Phrygias,515.46875,-3.484375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-36,604,1,128,109,6041280046,Phrygias,605.0,-1.1484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,148,511,4,37,9,511370473,Phrygias,511.2890625,-4.9296875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,118,600,6,120,66,6001200503,Phrygias,600.9375,-6.484375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-61,460,27,46,108,460462645,Phrygias,460.359375,-27.15625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-24,503,3,93,82,503930219,Phrygias,503.7265625,-3.359375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-129,531,6,47,31,531470695,Phrygias,531.3671875,-6.7578125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-110,532,7,119,107,5321190644,Phrygias,532.9296875,-7.1640625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,29,485,27,93,17,485932781,Phrygias,485.7265625,-27.8671875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-155,481,25,76,64,481762401,Phrygias,481.59375,-25.5,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-120,513,3,24,117,513240254,Phrygias,513.1875,-3.0859375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-15,519,2,114,55,51911402119,Phrygias,519.890625,-2.5703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,128,472,22,45,38,4724522102,Phrygias,472.3515625,-22.703125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-96,515,3,88,75,515880212,Phrygias,515.6875,-3.4140625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,19,601,1,86,100,601860037,Phrygias,601.671875,-1.21875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,102,521,4,113,77,5211130314,Phrygias,521.8828125,-4.3984375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-35,505,6,58,103,505580540,Phrygias,505.453125,-6.1953125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,51,603,11,14,94,603141031,Phrygias,603.109375,-11.265625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,154,478,23,99,77,478992214,Phrygias,478.7734375,-23.3984375,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-80,577,16,3,71,577031508,Phrygias,577.0234375,-16.4453125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-77,522,3,36,0,522360364,Phrygias,522.28125,-4.0,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,30,604,4,49,35,604490499,Phrygias,604.3828125,-4.7265625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,154,544,8,124,6,5441240870,Phrygias,544.96875,-8.953125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,4,451,28,6,114,451062751,Phrygias,451.046875,-28.109375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-70,571,9,22,58,5712209122,Phrygias,571.171875,-9.546875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,121,514,4,119,45,51411904109,Phrygias,514.9296875,-4.6484375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-89,450,29,27,68,450272805,Phrygias,450.2109375,-29.46875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,13,538,4,65,71,538650308,Phrygias,538.5078125,-4.4453125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-153,602,8,0,67,602000704,Phrygias,602.0,-8.4765625,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-54,527,5,99,14,527990578,Phrygias,527.7734375,-5.890625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-179,504,3,46,115,504460252,Phrygias,504.359375,-3.1015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,63,538,3,1,50,5380103114,Phrygias,538.0078125,-3.609375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-173,570,8,18,69,570180706,Phrygias,570.140625,-8.4609375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-91,470,25,13,81,470132418,Phrygias,470.1015625,-25.3671875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-92,506,5,9,126,506090463,Phrygias,506.0703125,-5.015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,33,538,4,119,44,53811904108,Phrygias,538.9296875,-4.65625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-19,600,0,101,1,6001010065,Phrygias,600.7890625,-0.9921875,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-105,482,30,119,95,4821192932,Phrygias,482.9296875,-30.2578125,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,36,520,6,26,100,520260537,Phrygias,520.203125,-6.21875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,99,602,26,102,118,6021022555,Phrygias,602.796875,-26.078125,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-73,596,9,17,20,596170984,Phrygias,596.1328125,-9.84375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-176,535,6,44,85,535440522,Phrygias,535.34375,-6.3359375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,59,516,1,105,33,5161050197,Phrygias,516.8203125,-1.7421875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,47,593,16,38,64,593381501,Phrygias,593.296875,-16.5,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-159,593,8,23,98,593230735,Phrygias,593.1796875,-8.234375,4,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,119,484,23,70,40,4847023104,Phrygias,484.546875,-23.6875,2,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-3,574,10,111,100,5741110937,Phrygias,574.8671875,-10.21875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,88,584,25,109,71,5841092408,Phrygias,584.8515625,-25.4453125,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-154,597,20,28,104,597281941,Phrygias,597.21875,-20.1875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,99,596,26,96,72,596962509,Phrygias,596.75,-26.4375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-137,579,10,20,15,579201079,Phrygias,579.15625,-10.8828125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,37,608,10,54,108,608540945,Phrygias,608.421875,-10.15625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,7,580,21,88,98,580882035,Phrygias,580.6875,-21.234375,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,120,606,8,35,0,606350864,Phrygias,606.2734375,-9.0,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,86,603,7,51,108,603510645,Phrygias,603.3984375,-7.15625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-64,603,0,106,37,60310600101,Phrygias,603.828125,-0.7109375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-134,594,16,22,23,594221687,Phrygias,594.171875,-16.8203125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,75,486,25,65,82,486652419,Phrygias,486.5078125,-25.359375,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-27,582,23,70,44,5827023108,Phrygias,582.546875,-23.65625,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-45,597,26,111,115,5971112552,Phrygias,597.8671875,-26.1015625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,95,584,22,122,96,5841222133,Phrygias,584.953125,-22.25,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-136,581,5,81,76,581810413,Phrygias,581.6328125,-5.40625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,49,605,7,91,110,605910647,Phrygias,605.7109375,-7.140625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-151,598,18,19,20,598191884,Phrygias,598.1484375,-18.84375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,26,580,13,109,41,58010913105,Phrygias,580.8515625,-13.6796875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-176,602,10,56,68,602560905,Phrygias,602.4375,-10.46875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-76,598,6,69,109,598690546,Phrygias,598.5390625,-6.1484375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-136,581,4,9,29,581090493,Phrygias,581.0703125,-4.7734375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,164,584,14,93,28,584931492,Phrygias,584.7265625,-14.78125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,79,597,20,105,19,5971052083,Phrygias,597.8203125,-20.8515625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,175,606,7,5,99,606050636,Phrygias,606.0390625,-7.2265625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-18,597,24,19,9,597192473,Phrygias,597.1484375,-24.9296875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-52,606,10,1,83,606010920,Phrygias,606.0078125,-10.3515625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,78,580,12,124,64,5801241101,Phrygias,580.96875,-12.5,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-56,597,25,95,4,597952568,Phrygias,597.7421875,-25.96875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,169,606,11,84,20,606841184,Phrygias,606.65625,-11.84375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-100,578,6,27,28,578270692,Phrygias,578.2109375,-6.78125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-152,606,4,95,12,606950476,Phrygias,606.7421875,-4.90625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-44,585,17,20,14,585201778,Phrygias,585.15625,-17.890625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,107,599,24,87,5,599872469,Phrygias,599.6796875,-24.9609375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,74,582,21,23,101,582232038,Phrygias,582.1796875,-21.2109375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,28,473,25,4,96,473042433,Phrygias,473.03125,-25.25,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-144,577,12,105,86,5771051123,Phrygias,577.8203125,-12.328125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-165,468,30,45,77,468452914,Phrygias,468.3515625,-30.3984375,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-132,478,24,67,56,4786724120,Phrygias,478.5234375,-24.5625,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-156,597,21,120,110,5971202047,Phrygias,597.9375,-21.140625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,166,592,14,26,23,592261487,Phrygias,592.203125,-14.8203125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,88,607,11,38,94,607381031,Phrygias,607.296875,-11.265625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,160,580,13,72,41,5807213105,Phrygias,580.5625,-13.6796875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-59,478,25,91,67,478912404,Phrygias,478.7109375,-25.4765625,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-164,578,12,120,37,57812012101,Phrygias,578.9375,-12.7109375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-152,594,26,93,123,594932560,Phrygias,594.7265625,-26.0390625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,70,455,28,102,98,4551022735,Phrygias,455.796875,-28.234375,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,46,607,4,91,44,6079104108,Phrygias,607.7109375,-4.65625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,41,580,4,59,5,580590469,Phrygias,580.4609375,-4.9609375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-42,581,12,88,33,581881297,Phrygias,581.6875,-12.7421875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-53,580,12,111,6,5801111270,Phrygias,580.8671875,-12.953125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-16,575,10,56,10,575561074,Phrygias,575.4375,-10.921875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-72,578,12,31,54,5783112118,Phrygias,578.2421875,-12.578125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-81,584,4,83,31,584830495,Phrygias,584.6484375,-4.7578125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,25,577,10,115,5,5771151069,Phrygias,577.8984375,-10.9609375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,26,585,9,14,66,585140803,Phrygias,585.109375,-9.484375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-105,599,24,44,98,599442335,Phrygias,599.34375,-24.234375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,87,581,22,29,77,581292114,Phrygias,581.2265625,-22.3984375,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,53,578,14,100,117,5781001354,Phrygias,578.78125,-14.0859375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,177,602,8,125,59,60212508123,Phrygias,602.9765625,-8.5390625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-43,593,21,17,45,5931721109,Phrygias,593.1328125,-21.6484375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,171,605,8,118,96,6051180733,Phrygias,605.921875,-8.25,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-112,576,7,56,35,576560799,Phrygias,576.4375,-7.7265625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,79,575,10,36,73,575360910,Phrygias,575.28125,-10.4296875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,78,580,7,109,94,5801090631,Phrygias,580.8515625,-7.265625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-46,584,24,93,119,584932356,Phrygias,584.7265625,-24.0703125,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,88,581,5,13,22,581130586,Phrygias,581.1015625,-5.828125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,24,608,8,41,44,6084108108,Phrygias,608.3203125,-8.65625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,125,597,20,45,112,597451949,Phrygias,597.3515625,-20.125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-148,594,17,72,0,594721764,Phrygias,594.5625,-18.0,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-53,591,14,122,35,5911221499,Phrygias,591.953125,-14.7265625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-136,578,10,105,29,5781051093,Phrygias,578.8203125,-10.7734375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,102,582,11,45,63,5824511127,Phrygias,582.3515625,-11.5078125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-79,606,11,37,35,606371199,Phrygias,606.2890625,-11.7265625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-121,596,11,20,104,596201041,Phrygias,596.15625,-11.1875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,128,581,22,82,90,581822127,Phrygias,581.640625,-22.296875,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,2,580,14,72,103,580721340,Phrygias,580.5625,-14.1953125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,41,580,10,23,91,580230928,Phrygias,580.1796875,-10.2890625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,87,605,10,122,96,6051220933,Phrygias,605.953125,-10.25,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-51,606,12,101,75,6061011112,Phrygias,606.7890625,-12.4140625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,130,606,7,127,82,6061270619,Phrygias,606.9921875,-7.359375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,109,463,28,12,22,463122886,Phrygias,463.09375,-28.828125,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-155,577,8,54,50,5775408114,Phrygias,577.421875,-8.609375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,80,609,5,60,91,609600428,Phrygias,609.46875,-5.2890625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,41,601,9,1,23,601010987,Phrygias,601.0078125,-9.8203125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,77,598,20,87,124,598871961,Phrygias,598.6796875,-20.03125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-125,606,10,31,60,6063110124,Phrygias,606.2421875,-10.53125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,144,581,4,82,91,581820328,Phrygias,581.640625,-4.2890625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-125,587,9,63,15,587630979,Phrygias,587.4921875,-9.8828125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-159,581,5,79,23,581790587,Phrygias,581.6171875,-5.8203125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,118,578,14,108,101,5781081338,Phrygias,578.84375,-14.2109375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,7,582,11,22,14,582221178,Phrygias,582.171875,-11.890625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,12,584,4,115,1,5841150465,Phrygias,584.8984375,-4.9921875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-67,586,8,42,10,586420874,Phrygias,586.328125,-8.921875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,13,581,20,99,18,581992082,Phrygias,581.7734375,-20.859375,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,150,473,25,17,1,473172565,Phrygias,473.1328125,-25.9921875,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,58,587,10,68,33,587681097,Phrygias,587.53125,-10.7421875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-178,575,12,96,47,5759612111,Phrygias,575.75,-12.6328125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-168,606,8,96,19,606960883,Phrygias,606.75,-8.8515625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,101,609,9,5,99,609050836,Phrygias,609.0390625,-9.2265625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,37,576,7,99,10,576990774,Phrygias,576.7734375,-7.921875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-160,576,11,10,19,576101183,Phrygias,576.078125,-11.8515625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-122,472,27,60,98,472602635,Phrygias,472.46875,-27.234375,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,171,586,9,13,55,5861309119,Phrygias,586.1015625,-9.5703125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-134,581,7,122,98,5811220635,Phrygias,581.953125,-7.234375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,174,596,24,6,82,596062319,Phrygias,596.046875,-24.359375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-103,599,24,61,37,5996124101,Phrygias,599.4765625,-24.7109375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-138,577,11,14,85,577141022,Phrygias,577.109375,-11.3359375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-123,582,11,49,66,582491003,Phrygias,582.3828125,-11.484375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,106,608,9,52,104,608520841,Phrygias,608.40625,-9.1875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-170,596,10,8,87,596080924,Phrygias,596.0625,-10.3203125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,81,575,11,109,27,5751091191,Phrygias,575.8515625,-11.7890625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,81,584,5,84,118,584840455,Phrygias,584.65625,-5.078125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-130,606,8,92,58,6069208122,Phrygias,606.71875,-8.546875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-170,588,24,73,71,588732308,Phrygias,588.5703125,-24.4453125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,112,599,24,122,22,5991222486,Phrygias,599.953125,-24.828125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-94,575,10,72,4,575721068,Phrygias,575.5625,-10.96875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,54,607,8,38,78,607380715,Phrygias,607.296875,-8.390625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,164,578,13,50,61,5785013125,Phrygias,578.390625,-13.5234375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,103,580,14,111,105,5801111342,Phrygias,580.8671875,-14.1796875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,116,581,4,19,71,581190308,Phrygias,581.1484375,-4.4453125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-154,582,8,18,1,582180865,Phrygias,582.140625,-8.9921875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-134,597,26,118,121,5971182558,Phrygias,597.921875,-26.0546875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,118,596,11,27,46,5962711110,Phrygias,596.2109375,-11.640625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,69,578,15,78,69,578781406,Phrygias,578.609375,-15.4609375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-173,584,21,41,87,584412024,Phrygias,584.3203125,-21.3203125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,59,580,11,99,123,580991060,Phrygias,580.7734375,-11.0390625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-102,579,9,50,81,579500818,Phrygias,579.390625,-9.3671875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,28,586,9,49,113,586490850,Phrygias,586.3828125,-9.1171875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,98,593,16,122,76,5931221513,Phrygias,593.953125,-16.40625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-129,598,6,101,60,59810106124,Phrygias,598.7890625,-6.53125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,74,596,24,29,64,596292301,Phrygias,596.2265625,-24.5,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-101,608,9,95,54,6089509118,Phrygias,608.7421875,-9.578125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-61,593,21,42,42,5934221106,Phrygias,593.328125,-21.671875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-24,580,11,113,3,5801131167,Phrygias,580.8828125,-11.9765625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,120,605,8,26,36,6052608100,Phrygias,605.203125,-8.71875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-20,608,9,13,81,608130818,Phrygias,608.1015625,-9.3671875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-92,575,10,12,101,575120938,Phrygias,575.09375,-10.2109375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-144,577,8,1,61,5770108125,Phrygias,577.0078125,-8.5234375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,146,606,11,60,124,606601061,Phrygias,606.46875,-11.03125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,12,591,14,97,83,591971320,Phrygias,591.7578125,-14.3515625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,0,609,8,24,22,609240886,Phrygias,609.1875,-8.828125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-164,602,0,36,24,602360088,Phrygias,602.28125,-0.8125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,26,597,18,127,82,5971271719,Phrygias,597.9921875,-18.359375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-1,607,8,86,100,607860737,Phrygias,607.671875,-8.21875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-41,583,5,106,69,5831060406,Phrygias,583.828125,-5.4609375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,101,579,10,123,117,5791230954,Phrygias,579.9609375,-10.0859375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,21,468,30,114,121,4681142958,Phrygias,468.890625,-30.0546875,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-114,574,9,22,81,574220818,Phrygias,574.171875,-9.3671875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,52,468,30,64,56,4686430120,Phrygias,468.5,-30.5625,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,175,584,5,106,92,5841060429,Phrygias,584.828125,-5.28125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,14,576,11,74,36,5767411100,Phrygias,576.578125,-11.71875,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,146,603,8,14,55,6031408119,Phrygias,603.109375,-8.5703125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,40,594,14,64,110,594641347,Phrygias,594.5,-14.140625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-56,578,7,68,82,578680619,Phrygias,578.53125,-7.359375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-41,472,25,14,36,4721425100,Phrygias,472.109375,-25.71875,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,11,580,10,95,109,580950946,Phrygias,580.7421875,-10.1484375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-151,581,9,56,15,581560979,Phrygias,581.4375,-9.8828125,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,145,584,17,123,77,5841231614,Phrygias,584.9609375,-17.3984375,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,164,579,10,46,123,579460960,Phrygias,579.359375,-10.0390625,4,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,159,473,26,40,118,473402555,Phrygias,473.3125,-26.078125,2,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-10,599,25,102,45,59910225109,Phrygias,599.796875,-25.6484375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,97,608,12,108,41,60810812105,Phrygias,608.84375,-12.6796875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,160,597,26,61,38,5976126102,Phrygias,597.4765625,-26.703125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,68,603,10,127,123,6031270960,Phrygias,603.9921875,-10.0390625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-64,593,14,88,80,593881317,Phrygias,593.6875,-14.375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-150,596,23,13,54,5961323118,Phrygias,596.1015625,-23.578125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-104,585,8,40,46,5854008110,Phrygias,585.3125,-8.640625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,94,597,23,20,8,597202372,Phrygias,597.15625,-23.9375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-78,604,9,6,55,6040609119,Phrygias,604.046875,-9.5703125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,119,607,12,127,20,6071271284,Phrygias,607.9921875,-12.84375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,180,608,5,13,103,608130440,Phrygias,608.1015625,-5.1953125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-116,608,7,4,107,608040644,Phrygias,608.03125,-7.1640625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,8,600,26,88,72,600882509,Phrygias,600.6875,-26.4375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,178,600,27,37,109,600372646,Phrygias,600.2890625,-27.1484375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,162,594,18,110,100,5941101737,Phrygias,594.859375,-18.21875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-34,595,17,23,85,595231622,Phrygias,595.1796875,-17.3359375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,121,578,10,60,105,578600942,Phrygias,578.46875,-10.1796875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,75,599,25,27,64,5992725128,Phrygias,599.2109375,-25.5,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-71,605,10,78,13,605781077,Phrygias,605.609375,-10.8984375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-163,597,18,60,63,597601700,Phrygias,597.46875,-18.5078125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-103,605,11,72,14,605721178,Phrygias,605.5625,-11.890625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-140,595,26,42,36,5954226100,Phrygias,595.328125,-26.71875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-109,605,10,33,36,6053310100,Phrygias,605.2578125,-10.71875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-5,605,10,36,68,605360905,Phrygias,605.28125,-10.46875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-115,607,12,88,99,607881136,Phrygias,607.6875,-12.2265625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,87,607,12,118,113,6071181150,Phrygias,607.921875,-12.1171875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-163,594,21,125,19,5941252183,Phrygias,594.9765625,-21.8515625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-172,596,15,42,44,5964215108,Phrygias,596.328125,-15.65625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,180,585,7,64,1,585640765,Phrygias,585.5,-7.9921875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,108,608,11,69,26,608691190,Phrygias,608.5390625,-11.796875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-97,600,25,72,17,600722581,Phrygias,600.5625,-25.8671875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,137,585,7,77,27,585770791,Phrygias,585.6015625,-7.7890625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,70,608,13,76,113,608761250,Phrygias,608.59375,-13.1171875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,60,600,25,4,78,600042415,Phrygias,600.03125,-25.390625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,36,573,9,22,46,5732209110,Phrygias,573.171875,-9.640625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-16,607,6,76,119,607760556,Phrygias,607.59375,-6.0703125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,129,593,21,95,10,593952174,Phrygias,593.7421875,-21.921875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,11,597,24,41,92,597412329,Phrygias,597.3203125,-24.28125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-137,596,23,50,40,5965023104,Phrygias,596.390625,-23.6875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-50,592,14,106,19,5921061483,Phrygias,592.828125,-14.8515625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-89,604,9,12,23,604120987,Phrygias,604.09375,-9.8203125,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-43,596,10,17,5,596171069,Phrygias,596.1328125,-10.9609375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,179,593,14,63,99,593631336,Phrygias,593.4921875,-14.2265625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-135,605,11,127,114,6051271051,Phrygias,605.9921875,-11.109375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,22,598,26,47,107,598472544,Phrygias,598.3671875,-26.1640625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-57,594,16,38,52,5943816116,Phrygias,594.296875,-16.59375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,146,609,12,95,124,609951161,Phrygias,609.7421875,-12.03125,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-52,598,23,51,46,5985123110,Phrygias,598.3984375,-23.640625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-40,584,7,120,35,5841200799,Phrygias,584.9375,-7.7265625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,21,583,22,22,4,583222268,Phrygias,583.171875,-22.96875,1,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-45,592,14,102,4,5921021468,Phrygias,592.796875,-14.96875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-82,578,10,114,119,5781140956,Phrygias,578.890625,-10.0703125,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,29,605,11,81,20,605811184,Phrygias,605.6328125,-11.84375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,46,604,8,101,67,6041010704,Phrygias,604.7890625,-8.4765625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,112,604,9,17,67,604170804,Phrygias,604.1328125,-9.4765625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-143,585,7,45,24,585450788,Phrygias,585.3515625,-7.8125,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,129,596,17,110,100,5961101637,Phrygias,596.859375,-17.21875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-147,609,11,36,109,609361046,Phrygias,609.28125,-11.1484375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,88,596,16,81,1,596811665,Phrygias,596.6328125,-16.9921875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,158,594,23,79,69,594792206,Phrygias,594.6171875,-23.4609375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-11,604,8,95,75,604950712,Phrygias,604.7421875,-8.4140625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,161,598,26,42,82,598422519,Phrygias,598.328125,-26.359375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-93,607,6,114,81,6071140518,Phrygias,607.890625,-6.3671875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,25,603,8,102,26,6031020890,Phrygias,603.796875,-8.796875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-10,598,24,110,14,5981102478,Phrygias,598.859375,-24.890625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,2,609,11,70,103,609701040,Phrygias,609.546875,-11.1953125,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,111,578,10,96,105,578960942,Phrygias,578.75,-10.1796875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,13,573,10,9,124,573090961,Phrygias,573.0703125,-10.03125,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,27,595,23,102,40,59510223104,Phrygias,595.796875,-23.6875,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-119,597,18,6,67,597061704,Phrygias,597.046875,-18.4765625,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,173,608,5,124,38,60812405102,Phrygias,608.96875,-5.703125,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,12,584,7,95,8,584950772,Phrygias,584.7421875,-7.9375,4,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,122,598,24,12,55,5981224119,Phrygias,598.09375,-24.5703125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,15,581,15,52,121,581521458,Phrygias,581.40625,-15.0546875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,88,592,14,83,69,592831306,Phrygias,592.6484375,-14.4609375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-72,596,18,9,28,596091892,Phrygias,596.0703125,-18.78125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-170,596,21,18,3,596182167,Phrygias,596.140625,-21.9765625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-167,583,22,49,85,583492122,Phrygias,583.3828125,-22.3359375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-83,596,18,59,5,596591869,Phrygias,596.4609375,-18.9609375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-52,585,7,78,17,585780781,Phrygias,585.609375,-7.8671875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,21,583,23,63,112,583632249,Phrygias,583.4921875,-23.125,1,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-102,608,4,49,22,608490486,Phrygias,608.3828125,-4.828125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,44,573,10,96,110,573960947,Phrygias,573.75,-10.140625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-44,594,24,120,114,5941202351,Phrygias,594.9375,-24.109375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,1,599,26,52,10,599522674,Phrygias,599.40625,-26.921875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,137,609,5,13,32,609130596,Phrygias,609.1015625,-5.75,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-63,583,23,114,37,58311423101,Phrygias,583.890625,-23.7109375,1,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-22,608,12,42,110,608421147,Phrygias,608.328125,-12.140625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,12,604,10,40,81,604400918,Phrygias,604.3125,-10.3671875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-117,598,24,59,37,5985924101,Phrygias,598.4609375,-24.7109375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,145,583,23,3,50,5830323114,Phrygias,583.0234375,-23.609375,1,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-136,585,10,3,13,585031077,Phrygias,585.0234375,-10.8984375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,58,609,8,106,52,60910608116,Phrygias,609.828125,-8.59375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,64,584,11,127,117,5841271054,Phrygias,584.9921875,-11.0859375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,24,608,12,46,29,608461293,Phrygias,608.359375,-12.7734375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-108,596,23,100,33,5961002397,Phrygias,596.78125,-23.7421875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-6,573,9,52,36,5735209100,Phrygias,573.40625,-9.71875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-37,608,13,118,115,6081181252,Phrygias,608.921875,-13.1015625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,146,600,26,125,96,6001252533,Phrygias,600.9765625,-26.25,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,115,601,27,8,103,601082640,Phrygias,601.0625,-27.1953125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-142,596,15,31,32,596311596,Phrygias,596.2421875,-15.75,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-110,584,10,90,20,584901084,Phrygias,584.703125,-10.84375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,179,598,27,36,94,598362631,Phrygias,598.28125,-27.265625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,27,594,17,109,124,5941091661,Phrygias,594.8515625,-17.03125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,141,594,14,110,33,5941101497,Phrygias,594.859375,-14.7421875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,123,607,8,82,33,607820897,Phrygias,607.640625,-8.7421875,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,114,609,11,61,37,6096111101,Phrygias,609.4765625,-11.7109375,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,70,585,7,24,91,585240628,Phrygias,585.1875,-7.2890625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-64,605,10,63,64,605630901,Phrygias,605.4921875,-10.5,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,33,584,7,96,91,584960628,Phrygias,584.75,-7.2890625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,138,581,15,38,99,581381436,Phrygias,581.296875,-15.2265625,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,6,594,20,28,23,594282087,Phrygias,594.21875,-20.8203125,4,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-127,595,18,115,69,5951151706,Phrygias,595.8984375,-18.4609375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,57,594,21,92,15,594922179,Phrygias,594.71875,-21.8828125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,26,593,14,84,64,5938414128,Phrygias,593.65625,-14.5,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-38,593,14,26,26,593261490,Phrygias,593.203125,-14.796875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,89,594,16,56,71,594561508,Phrygias,594.4375,-16.4453125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,56,595,16,52,119,595521556,Phrygias,595.40625,-16.0703125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,93,594,22,96,77,594962114,Phrygias,594.75,-22.3984375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-58,595,22,31,82,595312119,Phrygias,595.2421875,-22.359375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-59,594,14,44,1,594441465,Phrygias,594.34375,-14.9921875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-176,594,22,67,73,594672110,Phrygias,594.5234375,-22.4296875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-37,594,15,116,19,5941161583,Phrygias,594.90625,-15.8515625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-98,609,11,97,119,609971056,Phrygias,609.7578125,-11.0703125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,125,609,7,3,68,609030605,Phrygias,609.0234375,-7.46875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-18,608,5,110,4,6081100568,Phrygias,608.859375,-5.96875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-93,593,15,122,107,5931221444,Phrygias,593.953125,-15.1640625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,170,596,23,3,122,596032259,Phrygias,596.0234375,-23.046875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-94,574,10,70,13,574701077,Phrygias,574.546875,-10.8984375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,159,593,15,122,103,5931221440,Phrygias,593.953125,-15.1953125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,105,595,22,54,37,5955422101,Phrygias,595.421875,-22.7109375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-85,596,17,3,99,596031636,Phrygias,596.0234375,-17.2265625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-23,609,6,40,27,609400691,Phrygias,609.3125,-6.7890625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-96,594,22,111,126,5941112163,Phrygias,594.8671875,-22.015625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-140,594,16,51,95,594511532,Phrygias,594.3984375,-16.2578125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,7,594,23,86,123,594862260,Phrygias,594.671875,-23.0390625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,135,609,7,56,108,609560645,Phrygias,609.4375,-7.15625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,111,593,14,82,1,593821465,Phrygias,593.640625,-14.9921875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-160,595,17,88,82,595881619,Phrygias,595.6875,-17.359375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-114,595,23,0,80,595002217,Phrygias,595.0,-23.375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-111,608,6,61,55,6086106119,Phrygias,608.4765625,-6.5703125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-86,594,21,101,44,59410121108,Phrygias,594.7890625,-21.65625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-166,596,18,17,69,596171706,Phrygias,596.1328125,-18.4609375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-131,608,6,123,45,60812306109,Phrygias,608.9609375,-6.6484375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-76,609,6,64,22,609640686,Phrygias,609.5,-6.828125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-21,594,15,3,40,5940315104,Phrygias,594.0234375,-15.6875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-53,574,10,27,63,5742710127,Phrygias,574.2109375,-10.5078125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-17,608,6,100,38,60810006102,Phrygias,608.78125,-6.703125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-19,609,7,110,44,60911007108,Phrygias,609.859375,-7.65625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-114,599,26,118,110,5991182547,Phrygias,599.921875,-26.140625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-40,596,18,55,76,596551713,Phrygias,596.4296875,-18.40625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-142,594,16,77,114,594771551,Phrygias,594.6015625,-16.109375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,169,595,23,84,103,595842240,Phrygias,595.65625,-23.1953125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-59,594,22,74,124,594742161,Phrygias,594.578125,-22.03125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-24,609,8,63,124,609630761,Phrygias,609.4921875,-8.03125,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,169,594,23,105,121,5941052258,Phrygias,594.8203125,-23.0546875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-20,594,22,65,59,5946522123,Phrygias,594.5078125,-22.5390625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,109,595,23,101,104,5951012241,Phrygias,595.7890625,-23.1875,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,5,595,22,47,35,595472299,Phrygias,595.3671875,-22.7265625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,27,593,15,110,78,5931101415,Phrygias,593.859375,-15.390625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-77,609,11,119,98,6091191035,Phrygias,609.9296875,-11.234375,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-174,595,18,49,94,595491731,Phrygias,595.3828125,-18.265625,4,7.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-76,609,6,13,41,6091306105,Phrygias,609.1015625,-6.6796875,4,7.0,0.5

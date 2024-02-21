@@ -1,59 +1,274 @@
-fid,name,type,prefab,worldX,worldY,locationID,terrainX,terrainY,region,gisX,gixY,rotYaxis,climate,color,sink
-89113,Rocks,1,WOD_Rocks_Round_Gray_Small_09,135,100,13512410060,124,60,Glenumbra Moors,135.96875,-100.53125,-61,Woodland Hills,Gray,0.5
-89101,Rocks,1,WOD_Rocks_Round_Gray_Large_03,135,102,1354210222,42,22,Glenumbra Moors,135.328125,-102.828125,1,Woodland Hills,Gray,0.5
-89593,Rocks,1,WOD_Rocks_Round_Gray_Medium_02,134,102,13429102109,29,109,Glenumbra Moors,134.2265625,-102.1484375,63,Woodland Hills,Gray,0.5
-89470,Rocks,1,WOD_Rocks_Round_Gray_Medium_08,146,97,1469397120,93,120,Glenumbra Moors,146.7265625,-97.0625,-30,Woodland Hills,Gray,0.5
-89379,Rocks,1,WOD_Rocks_Round_Gray_Large_04,141,91,141599190,59,90,Glenumbra Moors,141.4609375,-91.296875,-23,Woodland Hills,Gray,0.5
-88988,Rocks,1,WOD_Rocks_Round_Gray_Medium_05,142,100,14202100103,2,103,Glenumbra Moors,142.015625,-100.1953125,-122,Woodland Hills,Gray,0.5
-88982,Rocks,1,WOD_Rocks_Round_Gray_Small_09,142,94,142639412,63,12,Glenumbra Moors,142.4921875,-94.90625,128,Woodland Hills,Gray,0.5
-89525,Rocks,1,WOD_Rocks_Round_Gray_Small_04,137,103,13706103121,6,121,Glenumbra Moors,137.046875,-103.0546875,-74,Woodland Hills,Gray,0.5
-89548,Rocks,1,WOD_Rocks_Round_Gray_Medium_01,138,102,13811310298,113,98,Glenumbra Moors,138.8828125,-102.234375,-74,Woodland Hills,Gray,0.5
-89253,Rocks,1,WOD_Rocks_Round_Gray_Medium_06,144,91,1443991110,39,110,Glenumbra Moors,144.3046875,-91.140625,-30,Woodland Hills,Gray,0.5
-89282,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,141,96,1419496108,94,108,Glenumbra Moors,141.734375,-96.15625,107,Woodland Hills,Gray,0.5
-89552,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_06,143,86,143238627,23,27,Glenumbra Moors,143.1796875,-86.7890625,114,Woodland Hills,Gray,0.5
-89099,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,135,100,13510410058,104,58,Glenumbra Moors,135.8125,-100.546875,-46,Woodland Hills,Gray,0.5
-89258,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_01,143,85,143228587,22,87,Glenumbra Moors,143.171875,-85.3203125,-112,Woodland Hills,Gray,0.5
-89528,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,145,93,14512493123,124,123,Glenumbra Moors,145.96875,-93.0390625,-88,Woodland Hills,Gray,0.5
-88906,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,140,101,14011210162,112,62,Glenumbra Moors,140.875,-101.515625,6,Woodland Hills,Gray,0.5
-88991,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_08,134,102,1341310262,13,62,Glenumbra Moors,134.1015625,-102.515625,-117,Woodland Hills,Gray,0.5
-88872,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_04,142,87,1422487128,24,128,Glenumbra Moors,142.1875,-87.0,165,Woodland Hills,Gray,0.5
-89166,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,140,97,1406497119,64,119,Glenumbra Moors,140.5,-97.0703125,-66,Woodland Hills,Gray,0.5
-89290,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_07,144,85,144068584,6,84,Glenumbra Moors,144.046875,-85.34375,156,Woodland Hills,Gray,0.5
-89489,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_04,138,96,138779639,77,39,Glenumbra Moors,138.6015625,-96.6953125,-45,Woodland Hills,Gray,0.5
-89022,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,139,102,1393210249,32,49,Glenumbra Moors,139.25,-102.6171875,20,Woodland Hills,Gray,0.5
-89488,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_01,139,93,139029377,2,77,Glenumbra Moors,139.015625,-93.3984375,80,Woodland Hills,Gray,0.5
-89403,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_11,140,100,1402110081,21,81,Glenumbra Moors,140.1640625,-100.3671875,6,Woodland Hills,Gray,0.5
-89042,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,148,88,148308866,30,66,Glenumbra Moors,148.234375,-88.484375,-91,Woodland Hills,Gray,0.5
-88801,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,141,92,1414392114,43,114,Glenumbra Moors,141.3359375,-92.109375,-114,Woodland Hills,Gray,0.5
-89361,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,136,98,136919805,91,5,Glenumbra Moors,136.7109375,-98.9609375,100,Woodland Hills,Gray,0.5
-89426,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_10,146,95,1461169568,116,68,Glenumbra Moors,146.90625,-95.46875,-74,Woodland Hills,Gray,0.5
-89620,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,141,99,141969921,96,21,Glenumbra Moors,141.75,-99.8359375,144,Woodland Hills,Gray,0.5
-89624,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_10,142,91,142629186,62,86,Glenumbra Moors,142.484375,-91.328125,-63,Woodland Hills,Gray,0.5
-89149,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_03,136,98,136859808,85,8,Glenumbra Moors,136.6640625,-98.9375,-51,Woodland Hills,Gray,0.5
-88952,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,146,85,146688553,68,53,Glenumbra Moors,146.53125,-85.5859375,-89,Woodland Hills,Gray,0.5
-89165,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_03,139,100,13955100123,55,123,Glenumbra Moors,139.4296875,-100.0390625,138,Woodland Hills,Gray,0.5
-88852,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,145,83,1459783127,97,127,Glenumbra Moors,145.7578125,-83.0078125,89,Woodland Hills,Gray,0.5
-88800,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,145,84,1451088460,108,60,Glenumbra Moors,145.84375,-84.53125,-169,Woodland Hills,Gray,0.5
-89568,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,145,88,145018832,1,32,Glenumbra Moors,145.0078125,-88.75,-25,Woodland Hills,Gray,0.5
-89004,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,135,101,1356210135,62,35,Glenumbra Moors,135.484375,-101.7265625,-96,Woodland Hills,Gray,0.5
-89266,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,143,95,143909535,90,35,Glenumbra Moors,143.703125,-95.7265625,-154,Woodland Hills,Gray,0.5
-88913,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,143,99,143349991,34,91,Glenumbra Moors,143.265625,-99.2890625,-153,Woodland Hills,Gray,0.5
-89423,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,142,85,142348536,34,36,Glenumbra Moors,142.265625,-85.71875,102,Woodland Hills,Gray,0.5
-88939,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_07,143,98,1431039801,103,1,Glenumbra Moors,143.8046875,-98.9921875,64,Woodland Hills,Gray,0.5
-89051,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_06,148,97,148529769,52,69,Glenumbra Moors,148.40625,-97.4609375,176,Woodland Hills,Gray,0.5
-89033,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_10,140,90,140789041,78,41,Glenumbra Moors,140.609375,-90.6796875,-78,Woodland Hills,Gray,0.5
-88873,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,144,95,1441099515,109,15,Glenumbra Moors,144.8515625,-95.8828125,61,Woodland Hills,Gray,0.5
-89140,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_05,145,90,145169084,16,84,Glenumbra Moors,145.125,-90.34375,77,Woodland Hills,Gray,0.5
-89203,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,137,96,137349644,34,44,Glenumbra Moors,137.265625,-96.65625,-113,Woodland Hills,Gray,0.5
-89038,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_05,145,86,145048654,4,54,Glenumbra Moors,145.03125,-86.578125,-63,Woodland Hills,Gray,0.5
-89170,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_09,136,102,13674102100,74,100,Glenumbra Moors,136.578125,-102.21875,-122,Woodland Hills,Gray,0.5
-89020,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,138,97,1383497102,34,102,Glenumbra Moors,138.265625,-97.203125,-113,Woodland Hills,Gray,0.5
-88943,Rocks,1,WOD_Rocks_Round_Gray_Grass_Medium_12,141,93,1416193113,61,113,Glenumbra Moors,141.4765625,-93.1171875,-100,Woodland Hills,Gray,0.5
-89367,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,143,95,143839510,83,10,Glenumbra Moors,143.6484375,-95.921875,42,Woodland Hills,Gray,0.5
-89023,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,140,94,1401994128,19,128,Glenumbra Moors,140.1484375,-94.0,-36,Woodland Hills,Gray,0.5
-89036,Rocks,1,WOD_Rocks_Round_Gray_Grass_Large_02,136,103,13687103123,87,123,Glenumbra Moors,136.6796875,-103.0390625,175,Woodland Hills,Gray,0.5
-89527,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,143,84,143378419,37,19,Glenumbra Moors,143.2890625,-84.8515625,155,Woodland Hills,Gray,0.5
-89588,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,141,94,141419428,41,28,Glenumbra Moors,141.3203125,-94.78125,75,Woodland Hills,Gray,0.5
-89026,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,143,84,1431048414,104,14,Glenumbra Moors,143.8125,-84.890625,26,Woodland Hills,Gray,0.5
-89531,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,135,103,1351010383,10,83,Glenumbra Moors,135.078125,-103.3515625,-129,Woodland Hills,Gray,0.5
-89543,Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,146,86,146278668,27,68,Glenumbra Moors,146.2109375,-86.46875,-31,Woodland Hills,Gray,0.5
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,altitude,sink
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,154,127,95,111,75,1271119412,Glenumbra Moors,127.8671875,-95.4140625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,32,125,101,99,78,1259910015,Glenumbra Moors,125.7734375,-101.390625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,88,136,82,31,107,136318144,Glenumbra Moors,136.2421875,-82.1640625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,0,136,71,111,100,1361117037,Glenumbra Moors,136.8671875,-71.21875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,176,136,99,120,67,1361209804,Glenumbra Moors,136.9375,-99.4765625,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,114,136,98,4,96,136049733,Glenumbra Moors,136.03125,-98.25,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,125,121,99,27,61,1212799125,Glenumbra Moors,121.2109375,-99.5234375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,179,128,76,100,36,12810076100,Glenumbra Moors,128.78125,-76.71875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,150,133,103,24,3,1332410367,Glenumbra Moors,133.1875,-103.9765625,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-98,136,79,92,9,136927973,Glenumbra Moors,136.71875,-79.9296875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,175,140,98,113,91,1401139728,Glenumbra Moors,140.8828125,-98.2890625,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-72,127,90,99,42,1279990106,Glenumbra Moors,127.7734375,-90.671875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,106,139,78,49,118,139497755,Glenumbra Moors,139.3828125,-78.078125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-53,123,100,68,104,123689941,Glenumbra Moors,123.53125,-100.1875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,172,135,63,110,20,1351106384,Glenumbra Moors,135.859375,-63.84375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,106,139,78,49,92,139497729,Glenumbra Moors,139.3828125,-78.28125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,102,136,97,81,33,136819797,Glenumbra Moors,136.6328125,-97.7421875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-50,135,73,45,38,1354573102,Glenumbra Moors,135.3515625,-73.703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-52,125,101,45,89,1254510026,Glenumbra Moors,125.3515625,-101.3046875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-46,141,90,127,85,1411278922,Glenumbra Moors,141.9921875,-90.3359375,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,12,129,88,54,41,1295488105,Glenumbra Moors,129.421875,-88.6796875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-135,135,73,50,80,135507217,Glenumbra Moors,135.390625,-73.375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,17,116,102,68,105,1166810142,Glenumbra Moors,116.53125,-102.1796875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,56,136,102,47,126,1364710163,Glenumbra Moors,136.3671875,-102.015625,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-99,141,74,29,67,141297304,Glenumbra Moors,141.2265625,-74.4765625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,80,123,99,18,121,123189858,Glenumbra Moors,123.140625,-99.0546875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,43,129,90,54,91,129548928,Glenumbra Moors,129.421875,-90.2890625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,33,134,73,44,113,134447250,Glenumbra Moors,134.34375,-73.1171875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-169,142,91,5,64,142059001,Glenumbra Moors,142.0390625,-91.5,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,159,129,80,36,44,1293680108,Glenumbra Moors,129.28125,-80.65625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,90,138,79,41,15,138417979,Glenumbra Moors,138.3203125,-79.8828125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,116,128,77,35,114,128357651,Glenumbra Moors,128.2734375,-77.109375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-97,141,92,79,90,141799127,Glenumbra Moors,141.6171875,-92.296875,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,150,141,97,22,72,141229609,Glenumbra Moors,141.171875,-97.4375,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,134,136,82,32,9,136328273,Glenumbra Moors,136.25,-82.9296875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-17,143,78,99,78,143997715,Glenumbra Moors,143.7734375,-78.390625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,65,140,77,119,23,1401197787,Glenumbra Moors,140.9296875,-77.8203125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,172,137,92,58,78,137589115,Glenumbra Moors,137.453125,-92.390625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,132,136,74,8,19,136087483,Glenumbra Moors,136.0625,-74.8515625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,14,147,95,45,85,147459422,Glenumbra Moors,147.3515625,-95.3359375,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,26,130,90,114,61,13011490125,Glenumbra Moors,130.890625,-90.5234375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-105,133,104,13,71,1331310308,Glenumbra Moors,133.1015625,-104.4453125,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,16,137,95,18,27,137189591,Glenumbra Moors,137.140625,-95.7890625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,8,135,63,104,86,1351046223,Glenumbra Moors,135.8125,-63.328125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-82,137,79,97,71,137977808,Glenumbra Moors,137.7578125,-79.4453125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-142,123,101,32,108,1233210045,Glenumbra Moors,123.25,-101.15625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-167,135,63,109,112,1351096249,Glenumbra Moors,135.8515625,-63.125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-57,144,73,84,8,144847372,Glenumbra Moors,144.65625,-73.9375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-161,129,81,15,85,129158022,Glenumbra Moors,129.1171875,-81.3359375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-24,136,102,113,26,13611310290,Glenumbra Moors,136.8828125,-102.796875,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-97,143,100,3,89,143039926,Glenumbra Moors,143.0234375,-100.3046875,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-126,129,83,37,87,129378224,Glenumbra Moors,129.2890625,-83.3203125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-77,142,95,79,76,142799413,Glenumbra Moors,142.6171875,-95.40625,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,26,138,95,41,73,138419410,Glenumbra Moors,138.3203125,-95.4296875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-111,144,75,52,45,1445275109,Glenumbra Moors,144.40625,-75.6484375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,75,126,94,70,27,126709491,Glenumbra Moors,126.546875,-94.7890625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,108,136,80,123,126,1361237963,Glenumbra Moors,136.9609375,-80.015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,49,135,79,92,5,135927969,Glenumbra Moors,135.71875,-79.9609375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-179,137,104,31,17,1373110481,Glenumbra Moors,137.2421875,-104.8671875,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-153,146,95,122,92,1461229429,Glenumbra Moors,146.953125,-95.28125,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,127,125,100,54,83,125549920,Glenumbra Moors,125.421875,-100.3515625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-115,135,69,1,26,135016990,Glenumbra Moors,135.0078125,-69.796875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,54,125,101,54,126,1255410063,Glenumbra Moors,125.421875,-101.015625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,81,129,80,28,67,129287904,Glenumbra Moors,129.21875,-80.4765625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-126,128,86,14,118,128148555,Glenumbra Moors,128.109375,-86.078125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,105,136,69,127,3,1361276967,Glenumbra Moors,136.9921875,-69.9765625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-48,141,101,54,15,1415410179,Glenumbra Moors,141.421875,-101.8828125,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-132,135,80,114,56,13511480120,Glenumbra Moors,135.890625,-80.5625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,6,144,74,91,24,144917488,Glenumbra Moors,144.7109375,-74.8125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,52,137,68,88,0,137886864,Glenumbra Moors,137.6875,-69.0,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-117,128,77,111,19,1281117783,Glenumbra Moors,128.8671875,-77.8515625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,126,125,95,72,100,125729437,Glenumbra Moors,125.5625,-95.21875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,3,130,88,63,15,130638879,Glenumbra Moors,130.4921875,-88.8828125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-82,143,99,76,94,143769831,Glenumbra Moors,143.59375,-99.265625,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,164,141,97,28,8,141289772,Glenumbra Moors,141.21875,-97.9375,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-14,128,77,35,40,1283577104,Glenumbra Moors,128.2734375,-77.6875,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,177,140,90,22,124,140228961,Glenumbra Moors,140.171875,-90.03125,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,166,135,76,91,114,135917551,Glenumbra Moors,135.7109375,-76.109375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-56,140,103,105,72,14010510209,Glenumbra Moors,140.8203125,-103.4375,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-1,128,86,45,83,128458520,Glenumbra Moors,128.3515625,-86.3515625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-116,138,93,111,95,1381119232,Glenumbra Moors,138.8671875,-93.2578125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-61,145,75,4,108,145047445,Glenumbra Moors,145.03125,-75.15625,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,157,136,99,47,78,136479815,Glenumbra Moors,136.3671875,-99.390625,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,159,146,85,109,15,1461098579,Glenumbra Moors,146.8515625,-85.8828125,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,97,73,97,116,54,7311697118,Glenumbra Moors,73.90625,-97.578125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-103,127,92,106,124,1271069161,Glenumbra Moors,127.828125,-92.03125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,20,138,71,1,55,1380171119,Glenumbra Moors,138.0078125,-71.5703125,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,52,135,83,3,0,135038364,Glenumbra Moors,135.0234375,-84.0,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,180,141,96,109,69,1411099506,Glenumbra Moors,141.8515625,-96.4609375,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,121,142,73,45,8,142457372,Glenumbra Moors,142.3515625,-73.9375,1,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,17,141,91,118,96,1411189033,Glenumbra Moors,141.921875,-91.25,3,4.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,61,145,94,100,8,1451009472,Glenumbra Moors,145.78125,-94.9375,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-72,142,100,9,71,142099908,Glenumbra Moors,142.0703125,-100.4453125,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-76,138,96,111,67,1381119504,Glenumbra Moors,138.8671875,-96.4765625,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-50,143,93,123,40,14312393104,Glenumbra Moors,143.9609375,-93.6875,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-156,142,99,29,22,142299986,Glenumbra Moors,142.2265625,-99.828125,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-101,135,103,120,6,13512010370,Glenumbra Moors,135.9375,-103.953125,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,50,141,90,42,67,141428904,Glenumbra Moors,141.328125,-90.4765625,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-43,136,100,58,77,136589914,Glenumbra Moors,136.453125,-100.3984375,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,68,142,93,17,44,1421793108,Glenumbra Moors,142.1328125,-93.65625,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-76,142,98,58,23,142589887,Glenumbra Moors,142.453125,-98.8203125,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,50,131,101,120,18,13112010182,Glenumbra Moors,131.9375,-101.859375,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,67,145,96,44,49,1454496113,Glenumbra Moors,145.34375,-96.6171875,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-46,136,104,123,6,13612310470,Glenumbra Moors,136.9609375,-104.953125,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-48,136,100,95,87,136959924,Glenumbra Moors,136.7421875,-100.3203125,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,127,130,103,26,38,13026103102,Glenumbra Moors,130.203125,-103.703125,1,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,108,141,93,113,58,14111393122,Glenumbra Moors,141.8828125,-93.546875,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-125,142,99,106,82,1421069819,Glenumbra Moors,142.828125,-99.359375,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,140,146,94,4,26,146049490,Glenumbra Moors,146.03125,-94.796875,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,42,136,101,37,19,1363710183,Glenumbra Moors,136.2890625,-101.8515625,3,5.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-36,140,102,86,38,14086102102,Glenumbra Moors,140.671875,-102.703125,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,180,145,97,106,94,1451069631,Glenumbra Moors,145.828125,-97.265625,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-126,137,105,105,73,13710510410,Glenumbra Moors,137.8203125,-105.4296875,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,99,139,90,90,20,139909084,Glenumbra Moors,139.703125,-90.84375,1,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-178,145,95,95,55,1459595119,Glenumbra Moors,145.7421875,-95.5703125,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-110,140,102,125,47,140125102111,Glenumbra Moors,140.9765625,-102.6328125,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-5,145,95,101,40,14510195104,Glenumbra Moors,145.7890625,-95.6875,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,24,135,105,116,96,13511610433,Glenumbra Moors,135.90625,-105.25,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-110,138,103,118,19,13811810383,Glenumbra Moors,138.921875,-103.8515625,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-101,140,102,49,1,1404910265,Glenumbra Moors,140.3828125,-102.9921875,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,68,139,91,26,61,1392691125,Glenumbra Moors,139.203125,-91.5234375,1,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,15,138,102,56,6,1385610270,Glenumbra Moors,138.4375,-102.953125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,8,140,102,99,45,14099102109,Glenumbra Moors,140.7734375,-102.6484375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-67,145,95,4,32,145049596,Glenumbra Moors,145.03125,-95.75,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-90,138,105,65,73,1386510410,Glenumbra Moors,138.5078125,-105.4296875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-13,145,97,63,92,145639629,Glenumbra Moors,145.4921875,-97.28125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,67,135,105,114,103,13511410440,Glenumbra Moors,135.890625,-105.1953125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-32,139,103,82,96,1398210233,Glenumbra Moors,139.640625,-103.25,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,82,138,92,115,98,1381159135,Glenumbra Moors,138.8984375,-92.234375,1,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-72,146,97,72,58,1467297122,Glenumbra Moors,146.5625,-97.546875,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-19,140,103,24,100,1402410237,Glenumbra Moors,140.1875,-103.21875,3,6.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-67,132,105,90,114,1329010451,Glenumbra Moors,132.703125,-105.109375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-26,136,104,101,63,136101104127,Glenumbra Moors,136.7890625,-104.5078125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-159,135,102,54,8,1355410272,Glenumbra Moors,135.421875,-102.9375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,174,135,103,63,104,1356310241,Glenumbra Moors,135.4921875,-103.1875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-69,133,105,67,92,1336710429,Glenumbra Moors,133.5234375,-105.28125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-47,132,105,95,63,1329510400,Glenumbra Moors,132.7421875,-105.5078125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-55,134,104,99,73,1349910310,Glenumbra Moors,134.7734375,-104.4296875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,4,132,105,114,82,13211410419,Glenumbra Moors,132.890625,-105.359375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,143,134,104,61,59,13461104123,Glenumbra Moors,134.4765625,-104.5390625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,25,135,103,29,114,1352910251,Glenumbra Moors,135.2265625,-103.109375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-154,134,103,90,83,1349010220,Glenumbra Moors,134.703125,-103.3515625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-22,135,103,67,122,1356710259,Glenumbra Moors,135.5234375,-103.046875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,99,133,104,74,61,13374104125,Glenumbra Moors,133.578125,-104.5234375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-172,135,103,26,38,13526103102,Glenumbra Moors,135.203125,-103.703125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,3,133,104,101,13,13310110477,Glenumbra Moors,133.7890625,-104.8984375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-29,134,104,31,119,1343110356,Glenumbra Moors,134.2421875,-104.0703125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,81,133,104,65,77,1336510314,Glenumbra Moors,133.5078125,-104.3984375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,175,135,105,69,100,1356910437,Glenumbra Moors,135.5390625,-105.21875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-47,136,104,9,18,1360910482,Glenumbra Moors,136.0703125,-104.859375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,133,133,105,113,117,13311310454,Glenumbra Moors,133.8828125,-105.0859375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,129,133,104,1,15,1330110479,Glenumbra Moors,133.0078125,-104.8828125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,171,134,103,123,40,134123103104,Glenumbra Moors,134.9609375,-103.6875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,6,134,104,17,117,1341710354,Glenumbra Moors,134.1328125,-104.0859375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,91,136,102,23,44,13623102108,Glenumbra Moors,136.1796875,-102.65625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,70,133,104,35,24,1333510488,Glenumbra Moors,133.2734375,-104.8125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,74,135,105,46,91,1354610428,Glenumbra Moors,135.359375,-105.2890625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-32,134,104,32,69,1343210306,Glenumbra Moors,134.25,-104.4609375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,62,135,103,38,94,1353810231,Glenumbra Moors,135.296875,-103.265625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-9,134,103,88,59,13488103123,Glenumbra Moors,134.6875,-103.5390625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-170,135,105,36,90,1353610427,Glenumbra Moors,135.28125,-105.296875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-95,135,104,118,9,13511810473,Glenumbra Moors,135.921875,-104.9296875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,113,135,104,12,122,1351210359,Glenumbra Moors,135.09375,-104.046875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,4,133,104,84,0,1338410464,Glenumbra Moors,133.65625,-105.0,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,156,136,104,59,31,1365910495,Glenumbra Moors,136.4609375,-104.7578125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-37,134,104,10,82,1341010319,Glenumbra Moors,134.078125,-104.359375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-136,133,105,90,117,1339010454,Glenumbra Moors,133.703125,-105.0859375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,138,135,103,45,81,1354510218,Glenumbra Moors,135.3515625,-103.3671875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-129,134,103,110,107,13411010244,Glenumbra Moors,134.859375,-103.1640625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,133,135,102,70,8,1357010272,Glenumbra Moors,135.546875,-102.9375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,149,136,104,72,35,1367210499,Glenumbra Moors,136.5625,-104.7265625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,175,134,103,4,10,1340410374,Glenumbra Moors,134.03125,-103.921875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,82,135,105,4,109,1350410446,Glenumbra Moors,135.03125,-105.1484375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-9,135,105,63,123,1356310460,Glenumbra Moors,135.4921875,-105.0390625,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,80,133,104,104,31,13310410495,Glenumbra Moors,133.8125,-104.7578125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,106,133,104,111,9,13311110473,Glenumbra Moors,133.8671875,-104.9296875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,171,133,104,111,1,13311110465,Glenumbra Moors,133.8671875,-104.9921875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,-71,133,104,68,5,1336810469,Glenumbra Moors,133.53125,-104.9609375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-6,134,103,77,81,1347710218,Glenumbra Moors,134.6015625,-103.3671875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-56,135,105,88,92,1358810429,Glenumbra Moors,135.6875,-105.28125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,104,132,105,124,82,13212410419,Glenumbra Moors,132.96875,-105.359375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,-52,133,104,111,24,13311110488,Glenumbra Moors,133.8671875,-104.8125,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,148,136,104,38,36,13638104100,Glenumbra Moors,136.296875,-104.71875,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,139,133,103,93,13,1339310377,Glenumbra Moors,133.7265625,-103.8984375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-69,135,103,14,80,1351410217,Glenumbra Moors,135.109375,-103.375,3,9.0,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_08,25,135,103,33,22,1353310386,Glenumbra Moors,135.2578125,-103.828125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,-46,135,103,87,99,1358710236,Glenumbra Moors,135.6796875,-103.2265625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-4,134,103,91,86,1349110223,Glenumbra Moors,134.7109375,-103.328125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-112,134,103,28,15,1342810379,Glenumbra Moors,134.21875,-103.8828125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,151,133,105,12,91,1331210428,Glenumbra Moors,133.09375,-105.2890625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,142,135,103,79,115,1357910252,Glenumbra Moors,135.6171875,-103.1015625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,136,135,103,63,83,1356310220,Glenumbra Moors,135.4921875,-103.3515625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-25,134,104,13,28,1341310492,Glenumbra Moors,134.1015625,-104.78125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,114,132,104,108,6,13210810470,Glenumbra Moors,132.84375,-104.953125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,71,134,104,28,113,1342810350,Glenumbra Moors,134.21875,-104.1171875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-118,135,102,67,6,1356710270,Glenumbra Moors,135.5234375,-102.953125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,107,132,104,122,24,13212210488,Glenumbra Moors,132.953125,-104.8125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,20,132,105,106,105,13210610442,Glenumbra Moors,132.828125,-105.1796875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-80,135,105,5,114,1350510451,Glenumbra Moors,135.0390625,-105.109375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-171,135,105,6,92,1350610429,Glenumbra Moors,135.046875,-105.28125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-143,135,103,8,54,13508103118,Glenumbra Moors,135.0625,-103.578125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,80,134,104,99,90,1349910327,Glenumbra Moors,134.7734375,-104.296875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,116,133,103,122,32,13312210396,Glenumbra Moors,133.953125,-103.75,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-106,133,105,120,122,13312010459,Glenumbra Moors,133.9375,-105.046875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,79,134,104,84,92,1348410329,Glenumbra Moors,134.65625,-104.28125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,96,134,104,68,59,13468104123,Glenumbra Moors,134.53125,-104.5390625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-154,135,103,72,17,1357210381,Glenumbra Moors,135.5625,-103.8671875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,152,134,104,3,23,1340310487,Glenumbra Moors,134.0234375,-104.8203125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,88,134,104,59,86,1345910323,Glenumbra Moors,134.4609375,-104.328125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-39,133,104,15,59,13315104123,Glenumbra Moors,133.1171875,-104.5390625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-14,134,105,118,85,13411810422,Glenumbra Moors,134.921875,-105.3359375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-168,134,104,3,51,13403104115,Glenumbra Moors,134.0234375,-104.6015625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-166,134,105,116,75,13411610412,Glenumbra Moors,134.90625,-105.4140625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-132,134,104,115,101,13411510338,Glenumbra Moors,134.8984375,-104.2109375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-28,135,103,28,117,1352810254,Glenumbra Moors,135.21875,-103.0859375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,177,132,105,73,76,1327310413,Glenumbra Moors,132.5703125,-105.40625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,155,135,103,49,50,13549103114,Glenumbra Moors,135.3828125,-103.609375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-80,136,104,49,36,13649104100,Glenumbra Moors,136.3828125,-104.71875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,55,133,105,90,114,1339010451,Glenumbra Moors,133.703125,-105.109375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,-180,134,104,76,64,1347610301,Glenumbra Moors,134.59375,-104.5,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,52,132,105,123,71,13212310408,Glenumbra Moors,132.9609375,-105.4453125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-159,134,104,42,77,1344210314,Glenumbra Moors,134.328125,-104.3984375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-8,134,103,93,72,1349310209,Glenumbra Moors,134.7265625,-103.4375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-91,134,104,24,54,13424104118,Glenumbra Moors,134.1875,-104.578125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,155,135,103,41,64,13541103128,Glenumbra Moors,135.3203125,-103.5,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,70,136,104,47,29,1364710493,Glenumbra Moors,136.3671875,-104.7734375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,104,133,104,40,47,13340104111,Glenumbra Moors,133.3125,-104.6328125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,43,134,103,12,1,1341210365,Glenumbra Moors,134.09375,-103.9921875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-177,136,102,70,92,1367010129,Glenumbra Moors,136.546875,-102.28125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-91,134,103,116,20,13411610384,Glenumbra Moors,134.90625,-103.84375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,38,133,103,78,6,1337810370,Glenumbra Moors,133.609375,-103.953125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,49,134,104,100,99,13410010336,Glenumbra Moors,134.78125,-104.2265625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_07,-30,135,103,59,81,1355910218,Glenumbra Moors,135.4609375,-103.3671875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-159,132,105,109,95,13210910432,Glenumbra Moors,132.8515625,-105.2578125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-115,135,105,56,103,1355610440,Glenumbra Moors,135.4375,-105.1953125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_05,-29,135,104,8,126,1350810363,Glenumbra Moors,135.0625,-104.015625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,156,133,104,97,75,1339710312,Glenumbra Moors,133.7578125,-104.4140625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,92,134,104,93,122,1349310359,Glenumbra Moors,134.7265625,-104.046875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_06,-169,135,103,4,27,1350410391,Glenumbra Moors,135.03125,-103.7890625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,103,133,104,31,49,13331104113,Glenumbra Moors,133.2421875,-104.6171875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_10,-149,133,104,99,64,13399104128,Glenumbra Moors,133.7734375,-104.5,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-155,135,103,58,99,1355810236,Glenumbra Moors,135.453125,-103.2265625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-166,133,104,41,52,13341104116,Glenumbra Moors,133.3203125,-104.59375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,-120,135,103,1,15,1350110379,Glenumbra Moors,135.0078125,-103.8828125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-19,134,104,108,80,13410810317,Glenumbra Moors,134.84375,-104.375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,99,134,104,0,71,1340010308,Glenumbra Moors,134.0,-104.4453125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,-138,132,105,124,89,13212410426,Glenumbra Moors,132.96875,-105.3046875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-2,133,105,4,69,1330410406,Glenumbra Moors,133.03125,-105.4609375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,177,133,104,92,124,1339210361,Glenumbra Moors,133.71875,-104.03125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-117,133,104,123,40,133123104104,Glenumbra Moors,133.9609375,-104.6875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_01,89,135,103,9,98,1350910235,Glenumbra Moors,135.0703125,-103.234375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_03,33,135,103,32,31,1353210395,Glenumbra Moors,135.25,-103.7578125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_06,-29,135,105,19,112,1351910449,Glenumbra Moors,135.1484375,-105.125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_07,-9,134,103,28,22,1342810386,Glenumbra Moors,134.21875,-103.828125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,68,133,105,78,124,1337810461,Glenumbra Moors,133.609375,-105.03125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-3,133,104,81,15,1338110479,Glenumbra Moors,133.6328125,-104.8828125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_05,-43,134,104,18,90,1341810327,Glenumbra Moors,134.140625,-104.296875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-126,134,104,54,123,1345410360,Glenumbra Moors,134.421875,-104.0390625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,3,134,104,74,91,1347410328,Glenumbra Moors,134.578125,-104.2890625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,3,135,103,37,91,1353710228,Glenumbra Moors,135.2890625,-103.2890625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_02,107,132,104,114,33,13211410497,Glenumbra Moors,132.890625,-104.7421875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_09,-137,134,104,118,67,13411810304,Glenumbra Moors,134.921875,-104.4765625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-139,132,105,109,117,13210910454,Glenumbra Moors,132.8515625,-105.0859375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-161,134,104,115,107,13411510344,Glenumbra Moors,134.8984375,-104.1640625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_08,-102,132,104,125,22,13212510486,Glenumbra Moors,132.9765625,-104.828125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_02,143,134,103,59,5,1345910369,Glenumbra Moors,134.4609375,-103.9609375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_01,-81,133,105,44,78,1334410415,Glenumbra Moors,133.34375,-105.390625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,-87,134,103,78,82,1347810219,Glenumbra Moors,134.609375,-103.359375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_04,-100,135,103,22,40,13522103104,Glenumbra Moors,135.171875,-103.6875,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_03,-22,133,104,64,54,13364104118,Glenumbra Moors,133.5,-104.578125,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_10,113,135,103,76,51,13576103115,Glenumbra Moors,135.59375,-103.6015625,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Small_04,84,133,105,41,69,1334110406,Glenumbra Moors,133.3203125,-105.4609375,3,,0.5
+Rocks,1,WOD_Rocks_Round_Gray_Grass_Small_09,-38,134,104,78,110,1347810347,Glenumbra Moors,134.609375,-104.140625,3,,0.5
