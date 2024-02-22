@@ -17,11 +17,11 @@ def process_file(file_path):
 
         # Divide the scale values by 100, if they exist
         if scaleX is not None:
-            scaleX.text = str(float(scaleX.text) / 100)
+            scaleX.text = str(float(scaleX.text) * 100)
         if scaleY is not None:
-            scaleY.text = str(float(scaleY.text) / 100)
+            scaleY.text = str(float(scaleY.text) * 100)
         if scaleZ is not None:
-            scaleZ.text = str(float(scaleZ.text) / 100)
+            scaleZ.text = str(float(scaleZ.text) * 100)
 
     # Save the modified XML back to the file
     tree.write(file_path)
