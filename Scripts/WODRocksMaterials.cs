@@ -188,7 +188,6 @@ namespace WODRocksMaterials
                     case MapsFile.Climates.Desert:
                     case MapsFile.Climates.Mountain:
                     case MapsFile.Climates.Rainforest:
-                    case MapsFile.Climates.MountainWoods:
                     case MapsFile.Climates.HauntedWoodlands:
                         selectedMaterials = climateMaterialSettings.woodlands; // Fallback to Woodlands
                         break;
@@ -200,6 +199,9 @@ namespace WODRocksMaterials
                         break;
                     case MapsFile.Climates.Subtropical:
                         selectedMaterials = climateMaterialSettings.desert; // Fallback to Desert
+                        break;
+                   case MapsFile.Climates.MountainWoods:
+                        selectedMaterials = climateMaterialSettings.mountain; // Fallback to Desert
                         break;
                 }
             }
