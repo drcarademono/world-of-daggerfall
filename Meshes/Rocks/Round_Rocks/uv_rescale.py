@@ -13,8 +13,8 @@ for obj in bpy.context.selected_objects:
             # Iterate through the UV map data
             for data in uvmap.data:
                 # Scale each UV coordinate
-                data.uv[0] *= 2  # Scale U coordinate
-                data.uv[1] *= 2  # Scale V coordinate
+                data.uv[0] *= 4  # Scale U coordinate
+                data.uv[1] *= 4  # Scale V coordinate
 
 # Save the modified file
 bpy.ops.wm.save_as_mainfile(filepath=bpy.data.filepath)
