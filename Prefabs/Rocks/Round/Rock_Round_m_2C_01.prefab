@@ -13,8 +13,9 @@ GameObject:
   - component: {fileID: 2343742}
   - component: {fileID: 6496132}
   - component: {fileID: 6657753788379040664}
+  - component: {fileID: -15767602404804558}
   m_Layer: 0
-  m_Name: Rock_Round_Gray_Grass_m_2C_01
+  m_Name: Rock_Round_m_2C_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -110,3 +111,15 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 91ec728f74c3c864d82787669dc33a0f, type: 3}
+--- !u!114 &-15767602404804558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426f76434556e931a830bf5c83c73b54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
