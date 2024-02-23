@@ -1,5 +1,5 @@
 <locationPrefab>
-	<height>36</height>
+	<height>1</height>
 	<width>36</width>
 	<object>
 		<type>4</type>
@@ -89,6 +89,21 @@
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>5</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>1.703443</posX>
+		<posY>-262.4</posY>
+		<posZ>-7.9</posZ>
+		<scaleX>104.5961</scaleX>
+		<scaleY>104.5961</scaleY>
+		<scaleZ>104.5961</scaleZ>
+		<rotW>-0.9543772</rotW>
+		<rotX>0</rotX>
+		<rotY>0.2986037</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>

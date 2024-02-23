@@ -35,15 +35,60 @@
 		<type>4</type>
 		<objectID>1</objectID>
 		<name>WOD_Rock_Flat_l_2C_05</name>
-		<posX>6.6</posX>
-		<posY>-222.2</posY>
-		<posZ>-3.8</posZ>
-		<scaleX>136.4952</scaleX>
-		<scaleY>136.4952</scaleY>
-		<scaleZ>136.4952</scaleZ>
+		<posX>9.5073</posX>
+		<posY>-117.1</posY>
+		<posZ>-1.0702</posZ>
+		<scaleX>70.3701</scaleX>
+		<scaleY>70.3701</scaleY>
+		<scaleZ>70.3701</scaleZ>
 		<rotW>0.7553682</rotW>
 		<rotX>0</rotX>
 		<rotY>0.6553006</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>17</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>16.54783</posX>
+		<posY>-117.1</posY>
+		<posZ>69.06561</posZ>
+		<scaleX>70.3701</scaleX>
+		<scaleY>70.3701</scaleY>
+		<scaleZ>70.3701</scaleZ>
+		<rotW>0.785346</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.6190571</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>18</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-10.8</posX>
+		<posY>-117.1</posY>
+		<posZ>-33.2</posZ>
+		<scaleX>70.3701</scaleX>
+		<scaleY>70.3701</scaleY>
+		<scaleZ>70.3701</scaleZ>
+		<rotW>0.785346</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.6190571</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>19</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>69.11616</posX>
+		<posY>-117.1</posY>
+		<posZ>-34.43943</posZ>
+		<scaleX>70.3701</scaleX>
+		<scaleY>70.3701</scaleY>
+		<scaleZ>70.3701</scaleZ>
+		<rotW>0.8725362</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.4885495</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
