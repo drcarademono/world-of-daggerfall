@@ -6,7 +6,7 @@
       {"archive": 2, "record": 3, "frame": 0},{"archive": 2, "record": 3, "frame": 0}
     ],
     "winterMaterials": [
-      {"archive": 2, "record": 3, "frame": 0},{"archive": 3, "record": 3, "frame": 0}
+      {"archive": 2, "record": 3, "frame": 0},{"archive": 45, "record": 2, "frame": 0}
     ]
   },
   "desert2": {
@@ -23,10 +23,10 @@
   },
   "mountainHammerfell": {
     "defaultMaterials": [
-      {"archive": 402, "record": 2, "frame": 0},{"archive": 402, "record": 2, "frame": 0}
+      {"archive": 45, "record": 2, "frame": 0},{"archive": 45, "record": 2, "frame": 0}
     ],
     "winterMaterials": [
-      {"archive": 402, "record": 2, "frame": 0},{"archive": 403, "record": 2, "frame": 0}
+      {"archive": 45, "record": 2, "frame": 0},{"archive": 103, "record": 3, "frame": 0}
     ]
   },
   "rainforest": {

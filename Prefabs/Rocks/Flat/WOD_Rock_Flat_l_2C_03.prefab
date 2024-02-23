@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2377112}
   - component: {fileID: 6408884}
   - component: {fileID: -7165701760081073222}
+  - component: {fileID: 3080486399743706090}
   m_Layer: 0
   m_Name: WOD_Rock_Flat_l_2C_03
   m_TagString: Untagged
@@ -110,3 +111,15 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 16c28a390cbf4f34eb60b0ea01360d8e, type: 3}
+--- !u!114 &3080486399743706090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426f76434556e931a830bf5c83c73b54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
