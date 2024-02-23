@@ -1,13 +1,13 @@
 <locationPrefab>
-	<height>48</height>
-	<width>48</width>
+	<height>36</height>
+	<width>36</width>
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>WOD_Rock_Round_m_2C_03</name>
-		<posX>-15.5</posX>
+		<posX>18</posX>
 		<posY>-15.7</posY>
-		<posZ>-26.8</posZ>
+		<posZ>-23.1</posZ>
 		<scaleX>116.1696</scaleX>
 		<scaleY>116.1696</scaleY>
 		<scaleZ>116.1696</scaleZ>
@@ -20,24 +20,24 @@
 		<type>4</type>
 		<objectID>4</objectID>
 		<name>WOD_Rock_Round_s_2C_02</name>
-		<posX>-88.1</posX>
+		<posX>-76.2</posX>
 		<posY>-4.1</posY>
-		<posZ>104.6</posZ>
+		<posZ>3.500001</posZ>
 		<scaleX>188.8482</scaleX>
 		<scaleY>188.8482</scaleY>
 		<scaleZ>188.8482</scaleZ>
-		<rotW>0.7604081</rotW>
+		<rotW>-0.05233103</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.6494456</rotY>
+		<rotY>-0.9986298</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
 		<type>4</type>
 		<objectID>6</objectID>
 		<name>WOD_Rock_Round_m_2C_03</name>
-		<posX>25.3</posX>
+		<posX>61.1</posX>
 		<posY>-15.7</posY>
-		<posZ>79.7</posZ>
+		<posZ>30.8</posZ>
 		<scaleX>116.1696</scaleX>
 		<scaleY>116.1696</scaleY>
 		<scaleZ>116.1696</scaleZ>
@@ -50,15 +50,45 @@
 		<type>4</type>
 		<objectID>1</objectID>
 		<name>WOD_Rock_Flat_l_2C_05</name>
-		<posX>-12.05346</posX>
-		<posY>-195</posY>
-		<posZ>55.1</posZ>
-		<scaleX>117.06309999999999</scaleX>
-		<scaleY>117.06309999999999</scaleY>
-		<scaleZ>117.06309999999999</scaleZ>
-		<rotW>-0.5904517</rotW>
+		<posX>51.1</posX>
+		<posY>-150.9</posY>
+		<posZ>65</posZ>
+		<scaleX>56.96642</scaleX>
+		<scaleY>56.96642</scaleY>
+		<scaleZ>56.96642</scaleZ>
+		<rotW>0.006499277</rotW>
 		<rotX>0</rotX>
-		<rotY>0.807073</rotY>
+		<rotY>0.9999789</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>2</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>5.1</posX>
+		<posY>-148.6</posY>
+		<posZ>-56.2</posZ>
+		<scaleX>66.05224</scaleX>
+		<scaleY>66.05224</scaleY>
+		<scaleZ>66.05224</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>3</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-55.9</posX>
+		<posY>-93.8</posY>
+		<posZ>5.400002</posZ>
+		<scaleX>54.5376</scaleX>
+		<scaleY>54.5376</scaleY>
+		<scaleZ>54.5376</scaleZ>
+		<rotW>1</rotW>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
