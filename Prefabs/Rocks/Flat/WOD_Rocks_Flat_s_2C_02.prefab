@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2348320}
   - component: {fileID: 7663555138691923117}
   m_Layer: 0
-  m_Name: Rocks_Flat_DarkBrown_Snow_s_2C_02
+  m_Name: WOD_Rocks_Flat_s_2C_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,8 +59,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5ea4e8444ea8b732b81f52bf70a3ac4e, type: 2}
-  - {fileID: 2100000, guid: 5ea4e8444ea8b732b81f52bf70a3ac4e, type: 2}
+  - {fileID: 2100000, guid: b15f4fc1521c0006297ccb9993ad2596, type: 2}
+  - {fileID: 2100000, guid: 52b6094dd49011221a76c36a526d7a28, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
