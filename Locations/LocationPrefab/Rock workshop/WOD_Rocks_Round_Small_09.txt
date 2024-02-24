@@ -1,16 +1,16 @@
 <locationPrefab>
-	<height>32</height>
-	<width>32</width>
+	<height>25</height>
+	<width>25</width>
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>WOD_Rock_Round_s_2C_02</name>
-		<posX>-35.91201</posX>
-		<posY>-2</posY>
-		<posZ>61.95996</posZ>
-		<scaleX>176.6545</scaleX>
-		<scaleY>176.6545</scaleY>
-		<scaleZ>176.6545</scaleZ>
+		<posX>-36.4</posX>
+		<posY>3.3267</posY>
+		<posZ>7.4</posZ>
+		<scaleX>68.06456</scaleX>
+		<scaleY>68.06456</scaleY>
+		<scaleZ>68.06456</scaleZ>
 		<rotW>0.9863403</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.1647208</rotY>
@@ -20,12 +20,12 @@
 		<type>4</type>
 		<objectID>1</objectID>
 		<name>WOD_Rock_Round_m_2C_05</name>
-		<posX>1.3</posX>
-		<posY>-18.6</posY>
-		<posZ>24.6</posZ>
-		<scaleX>84.50304</scaleX>
-		<scaleY>84.50304</scaleY>
-		<scaleZ>84.50304</scaleZ>
+		<posX>-2.395002</posX>
+		<posY>-13.128</posY>
+		<posZ>44.536</posZ>
+		<scaleX>67.35159</scaleX>
+		<scaleY>67.35159</scaleY>
+		<scaleZ>67.35159</scaleZ>
 		<rotW>0.9372586</rotW>
 		<rotX>0</rotX>
 		<rotY>0.348635</rotY>
@@ -35,9 +35,9 @@
 		<type>4</type>
 		<objectID>8</objectID>
 		<name>WOD_Rock_Round_m_2C_14</name>
-		<posX>13.96208</posX>
-		<posY>-7.2</posY>
-		<posZ>-48.88181</posZ>
+		<posX>8.862078</posX>
+		<posY>-9.4</posY>
+		<posZ>-28.88181</posZ>
 		<scaleX>60.11158</scaleX>
 		<scaleY>60.11158</scaleY>
 		<scaleZ>60.11158</scaleZ>
@@ -50,15 +50,30 @@
 		<type>4</type>
 		<objectID>9</objectID>
 		<name>WOD_Rock_Flat_l_2C_05</name>
-		<posX>-14.9</posX>
-		<posY>-150</posY>
-		<posZ>-2.4</posZ>
-		<scaleX>92.51877</scaleX>
-		<scaleY>92.51877</scaleY>
-		<scaleZ>92.51877</scaleZ>
-		<rotW>0.7812312</rotW>
+		<posX>-0.7803049</posX>
+		<posY>-82.5</posY>
+		<posZ>14.2</posZ>
+		<scaleX>50.62221</scaleX>
+		<scaleY>50.62221</scaleY>
+		<scaleZ>50.62221</scaleZ>
+		<rotW>-0.9392898</rotW>
 		<rotX>0</rotX>
-		<rotY>0.6242418</rotY>
+		<rotY>0.3431249</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>27</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>8.993769</posX>
+		<posY>-82.5</posY>
+		<posZ>-26.1147</posZ>
+		<scaleX>50.62221</scaleX>
+		<scaleY>50.62221</scaleY>
+		<scaleZ>50.62221</scaleZ>
+		<rotW>-0.861314</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.5080731</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>

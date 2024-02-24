@@ -5,12 +5,12 @@
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>WOD_Rocks_Round_l_2C_02</name>
-		<posX>-1.5</posX>
-		<posY>-28.4</posY>
-		<posZ>-5.9</posZ>
-		<scaleX>46.25029</scaleX>
-		<scaleY>46.25029</scaleY>
-		<scaleZ>46.25029</scaleZ>
+		<posX>1.6</posX>
+		<posY>-24.427</posY>
+		<posZ>-11.7</posZ>
+		<scaleX>157.8203</scaleX>
+		<scaleY>157.8203</scaleY>
+		<scaleZ>157.8203</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -21,7 +21,7 @@
 		<objectID>4</objectID>
 		<name>WOD_Rocks_Round_m_2C_01</name>
 		<posX>47.2</posX>
-		<posY>-7</posY>
+		<posY>1.6</posY>
 		<posZ>96.4</posZ>
 		<scaleX>79.46049</scaleX>
 		<scaleY>79.46049</scaleY>
@@ -65,15 +65,60 @@
 		<type>4</type>
 		<objectID>8</objectID>
 		<name>WOD_Rock_Flat_l_2C_05</name>
-		<posX>68.6</posX>
-		<posY>-261.3</posY>
-		<posZ>-22.026</posZ>
-		<scaleX>161.5686</scaleX>
-		<scaleY>161.5686</scaleY>
-		<scaleZ>161.5686</scaleZ>
-		<rotW>0.9034444</rotW>
+		<posX>39.65987</posX>
+		<posY>-127.6</posY>
+		<posZ>96.01786</posZ>
+		<scaleX>74.78365</scaleX>
+		<scaleY>74.78365</scaleY>
+		<scaleZ>74.78365</scaleZ>
+		<rotW>-0.2161049</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.4287054</rotY>
+		<rotY>-0.9763702</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>24</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-36</posX>
+		<posY>-127.6</posY>
+		<posZ>-90.5</posZ>
+		<scaleX>74.78365</scaleX>
+		<scaleY>74.78365</scaleY>
+		<scaleZ>74.78365</scaleZ>
+		<rotW>-0.2161049</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.9763702</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>25</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-1.2</posX>
+		<posY>-133.4</posY>
+		<posZ>-30.21416</posZ>
+		<scaleX>74.78365</scaleX>
+		<scaleY>74.78365</scaleY>
+		<scaleZ>74.78365</scaleZ>
+		<rotW>-0.5613916</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.8275503</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>26</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>45.2</posX>
+		<posY>-127.6</posY>
+		<posZ>-116</posZ>
+		<scaleX>74.78365</scaleX>
+		<scaleY>74.78365</scaleY>
+		<scaleZ>74.78365</scaleZ>
+		<rotW>0.06191723</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.9980813</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
