@@ -201,7 +201,7 @@ namespace WODRocksMaterials
                         selectedMaterials = climateMaterialSettings.desert; // Fallback to Desert
                         break;
                    case MapsFile.Climates.MountainWoods:
-                        selectedMaterials = climateMaterialSettings.mountain; // Fallback to Desert
+                        selectedMaterials = climateMaterialSettings.mountainHighrock; // Fallback to mountainHighrock
                         break;
                 }
             }
