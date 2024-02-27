@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 412046}
   - component: {fileID: 3331772}
   - component: {fileID: 2398696}
-  - component: {fileID: 3332893877173306313}
   - component: {fileID: -9011280462493942409}
+  - component: {fileID: -4731375986461123436}
   m_Layer: 0
   m_Name: WOD_Rocks_Flat_s_2C_04
   m_TagString: Untagged
@@ -82,7 +82,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &3332893877173306313
+--- !u!114 &-9011280462493942409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426f76434556e931a830bf5c83c73b54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &-4731375986461123436
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -96,15 +108,3 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 824008ebf8111b94d92bd1de1ba4246f, type: 3}
---- !u!114 &-9011280462493942409
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 171932}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 426f76434556e931a830bf5c83c73b54, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

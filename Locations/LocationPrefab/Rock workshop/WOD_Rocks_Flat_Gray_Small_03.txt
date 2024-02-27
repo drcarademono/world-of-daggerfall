@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Rocks_Flat_Gray_m_02.prefab</name>
+		<name>WOD_Rocks_Flat_m_2C_02.prefab</name>
 		<posX>45.6</posX>
 		<posY>-8.8</posY>
 		<posZ>57.3</posZ>
@@ -18,40 +18,8 @@
 	</object>
 	<object>
 		<type>4</type>
-		<objectID>1</objectID>
-		<name>Rock_Flat_Gray_m_13</name>
-		<posX>-10.25554</posX>
-		<posY>-8.8</posY>
-		<posZ>-8.717731</posZ>
-		<scaleX>-138.6293</scaleX>
-		<scaleY>-138.6293</scaleY>
-		<scaleZ>-138.6293</scaleZ>
-		<extraData>{ "meta": { "type": "iceberg", "target": 3 } }</extraData>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>4</type>
-		<objectID>2</objectID>
-		<name>Rock_Flat_Gray_m_13</name>
-		<posX>-47.35554</posX>
-		<posY>-8.8</posY>
-		<posZ>-55.61773</posZ>
-		<scaleX>-94.97242</scaleX>
-		<scaleY>-94.97242</scaleY>
-		<scaleZ>-94.97242</scaleZ>
-		<extraData>{ "meta": { "type": "iceberg", "target": 4 } }</extraData>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>4</type>
 		<objectID>3</objectID>
-		<name>Rock_Flat_Gray_m_11.prefab</name>
+		<name>WOD_Rock_Flat_m_2C_11.prefab</name>
 		<posX>-10.25554</posX>
 		<posY>-8.8</posY>
 		<posZ>-8.717731</posZ>
@@ -66,10 +34,10 @@
 	<object>
 		<type>4</type>
 		<objectID>4</objectID>
-		<name>Rocks_Flat_Gray_m_02.prefab</name>
-		<posX>-47.35554</posX>
-		<posY>-8.8</posY>
-		<posZ>-55.61773</posZ>
+		<name>WOD_Rocks_Flat_m_2C_02.prefab</name>
+		<posX>-78.4</posX>
+		<posY>-40.9</posY>
+		<posZ>-56.8</posZ>
 		<scaleX>94.97242</scaleX>
 		<scaleY>94.97242</scaleY>
 		<scaleZ>94.97242</scaleZ>
@@ -80,19 +48,62 @@
 	</object>
 	<object>
 		<type>4</type>
-		<objectID>5</objectID>
-		<name>Rock_Flat_Gray_m_13</name>
-		<posX>45.6</posX>
-		<posY>-8.8</posY>
-		<posZ>57.3</posZ>
-		<scaleX>-94.97242</scaleX>
-		<scaleY>-94.97242</scaleY>
-		<scaleZ>-94.97242</scaleZ>
-		<extraData>{ "meta": { "type": "iceberg", "target": 0 } }</extraData>
-		<rotW>0.8692422</rotW>
+		<objectID>1</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>52.2</posX>
+		<posY>-111.9</posY>
+		<posZ>70.2</posZ>
+		<scaleX>65.02178</scaleX>
+		<scaleY>65.02178</scaleY>
+		<scaleZ>65.02178</scaleZ>
+		<rotW>1</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.4943865</rotY>
+		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<winterPrefab>WOD_Rocks_Flat_Gray_Snow_Small_03</winterPrefab>
+	<object>
+		<type>4</type>
+		<objectID>2</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-5.82211</posX>
+		<posY>-111.9</posY>
+		<posZ>-30.00541</posZ>
+		<scaleX>65.02178</scaleX>
+		<scaleY>65.02178</scaleY>
+		<scaleZ>65.02178</scaleZ>
+		<rotW>0.5357463</rotW>
+		<rotX>0</rotX>
+		<rotY>0.8443789</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>5</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-59.7</posX>
+		<posY>-111.9</posY>
+		<posZ>-9.223514</posZ>
+		<scaleX>65.02178</scaleX>
+		<scaleY>65.02178</scaleY>
+		<scaleZ>65.02178</scaleZ>
+		<rotW>0.9911276</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.1329142</rotY>
+		<rotZ>0</rotZ>
+	</object>
+	<object>
+		<type>4</type>
+		<objectID>9</objectID>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-89.9</posX>
+		<posY>-142.5</posY>
+		<posZ>-52.2</posZ>
+		<scaleX>65.02178</scaleX>
+		<scaleY>65.02178</scaleY>
+		<scaleZ>65.02178</scaleZ>
+		<rotW>0.9911276</rotW>
+		<rotX>0</rotX>
+		<rotY>-0.1329142</rotY>
+		<rotZ>0</rotZ>
+	</object>
 </locationPrefab>

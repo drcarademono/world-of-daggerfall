@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>5</objectID>
-		<name>Rock_Flat_Gray_m_09.prefab</name>
+		<name>WOD_Rock_Flat_m_2C_09.prefab</name>
 		<posX>29.82</posX>
 		<posY>-5.7</posY>
 		<posZ>-10.587</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Rock_Flat_Gray_m_13</name>
+		<name>WOD_Rock_Flat_m_2C_13</name>
 		<posX>29.82</posX>
 		<posY>-5.7</posY>
 		<posZ>-10.587</posZ>
@@ -32,5 +32,5 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<winterPrefab>WOD_Rocks_Flat_Gray_Snow_Small_07</winterPrefab>
+	<winterPrefab>WOD_Rocks_Flat_Snow_Small_2C_07</winterPrefab>
 </locationPrefab>
