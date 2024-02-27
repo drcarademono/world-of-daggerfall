@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Rocks_Round_Gray_Snow_m_2C_01</name>
+		<name>WOD_Rocks_Round_m_2C_01</name>
 		<posX>-39.8</posX>
 		<posY>5.5</posY>
 		<posZ>49.6</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>1</objectID>
-		<name>Rock_Flat_Gray_Snow_m_2C_13</name>
+		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>-39.8</posX>
 		<posY>5.5</posY>
 		<posZ>49.6</posZ>
@@ -35,7 +35,7 @@
 	<object>
 		<type>4</type>
 		<objectID>2</objectID>
-		<name>Rock_Flat_Gray_Snow_m_2C_13</name>
+		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>12.82573</posX>
 		<posY>-9.1</posY>
 		<posZ>-47.73244</posZ>
@@ -51,7 +51,7 @@
 	<object>
 		<type>4</type>
 		<objectID>3</objectID>
-		<name>Rock_Flat_Gray_Snow_m_2C_13</name>
+		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>-19.6</posX>
 		<posY>54.6</posY>
 		<posZ>-60.2</posZ>
@@ -67,7 +67,7 @@
 	<object>
 		<type>4</type>
 		<objectID>4</objectID>
-		<name>Rocks_Round_Gray_Snow_m_2C_02</name>
+		<name>WOD_Rocks_Round_m_2C_02</name>
 		<posX>12.82573</posX>
 		<posY>-9.1</posY>
 		<posZ>-47.73244</posZ>
@@ -82,13 +82,13 @@
 	<object>
 		<type>4</type>
 		<objectID>35</objectID>
-		<name>Rock_Round_Gray_Snow_l_2C_07</name>
-		<posX>-19.6</posX>
-		<posY>54.6</posY>
-		<posZ>-60.2</posZ>
-		<scaleX>51.16051</scaleX>
-		<scaleY>51.16051</scaleY>
-		<scaleZ>51.16051</scaleZ>
+		<name>WOD_Rock_Round_l_2C_07</name>
+		<posX>-8.3</posX>
+		<posY>64.7</posY>
+		<posZ>-67.1</posZ>
+		<scaleX>145.4851</scaleX>
+		<scaleY>145.4851</scaleY>
+		<scaleZ>145.4851</scaleZ>
 		<rotW>0.8849559</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.4656748</rotY>
@@ -97,13 +97,13 @@
 	<object>
 		<type>4</type>
 		<objectID>36</objectID>
-		<name>Rock_Round_Gray_Snow_l_2C_05</name>
+		<name>WOD_Rock_Round_l_2C_05</name>
 		<posX>-35.8</posX>
-		<posY>65</posY>
+		<posY>75.1</posY>
 		<posZ>21</posZ>
-		<scaleX>39.24636</scaleX>
-		<scaleY>39.24636</scaleY>
-		<scaleZ>39.24636</scaleZ>
+		<scaleX>143.1221</scaleX>
+		<scaleY>143.1221</scaleY>
+		<scaleZ>143.1221</scaleZ>
 		<rotW>1</rotW>
 		<rotX>0</rotX>
 		<rotY>0</rotY>
@@ -112,7 +112,7 @@
 	<object>
 		<type>4</type>
 		<objectID>5</objectID>
-		<name>Rock_Flat_Gray_Snow_m_2C_13</name>
+		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>-35.8</posX>
 		<posY>65</posY>
 		<posZ>21</posZ>

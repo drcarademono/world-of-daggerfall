@@ -4,13 +4,13 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Rock_Round_Gray_Snow_l_2C_02</name>
-		<posX>-4.2</posX>
-		<posY>97.2</posY>
-		<posZ>-4.6</posZ>
-		<scaleX>102.2553</scaleX>
-		<scaleY>102.2553</scaleY>
-		<scaleZ>102.2553</scaleZ>
+		<name>WOD_Rock_Round_l_2C_02</name>
+		<posX>-19.3</posX>
+		<posY>37.7</posY>
+		<posZ>-16.6</posZ>
+		<scaleX>189.6529</scaleX>
+		<scaleY>189.6529</scaleY>
+		<scaleZ>189.6529</scaleZ>
 		<rotW>0.1836757</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.9829869</rotY>
@@ -19,13 +19,13 @@
 	<object>
 		<type>4</type>
 		<objectID>1</objectID>
-		<name>Rock_Flat_Gray_Snow_m_2C_13</name>
-		<posX>-21</posX>
-		<posY>-6.1</posY>
-		<posZ>-2.1</posZ>
-		<scaleX>-107.9169</scaleX>
-		<scaleY>-107.9169</scaleY>
-		<scaleZ>-107.9169</scaleZ>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-19.3</posX>
+		<posY>-8.0211</posY>
+		<posZ>-8.7014</posZ>
+		<scaleX>-95.39604</scaleX>
+		<scaleY>-95.39604</scaleY>
+		<scaleZ>-95.39604</scaleZ>
 		<extraData>{ "meta": { "type": "iceberg", "target": 2 } }</extraData>
 		<rotW>0.8136584</rotW>
 		<rotX>0</rotX>
@@ -35,13 +35,13 @@
 	<object>
 		<type>4</type>
 		<objectID>2</objectID>
-		<name>Rock_Round_Gray_Snow_l_2C_01</name>
-		<posX>-21</posX>
-		<posY>-6.1</posY>
-		<posZ>-2.1</posZ>
-		<scaleX>107.9169</scaleX>
-		<scaleY>107.9169</scaleY>
-		<scaleZ>107.9169</scaleZ>
+		<name>WOD_Rock_Round_l_2C_01</name>
+		<posX>-14.92599</posX>
+		<posY>0.8760014</posY>
+		<posZ>-8.073501</posZ>
+		<scaleX>200.1535</scaleX>
+		<scaleY>200.1535</scaleY>
+		<scaleZ>200.1535</scaleZ>
 		<rotW>0.8136584</rotW>
 		<rotX>0</rotX>
 		<rotY>0.5813433</rotY>
@@ -50,13 +50,13 @@
 	<object>
 		<type>4</type>
 		<objectID>3</objectID>
-		<name>Rock_Flat_Gray_Snow_m_2C_13</name>
-		<posX>-4.2</posX>
-		<posY>97.2</posY>
-		<posZ>-4.6</posZ>
-		<scaleX>-102.2553</scaleX>
-		<scaleY>-102.2553</scaleY>
-		<scaleZ>-102.2553</scaleZ>
+		<name>WOD_Rock_Flat_l_2C_05</name>
+		<posX>-4.4496</posX>
+		<posY>-3.5128</posY>
+		<posZ>-10.911</posZ>
+		<scaleX>-90.39132</scaleX>
+		<scaleY>-90.39132</scaleY>
+		<scaleZ>-90.39132</scaleZ>
 		<extraData>{ "meta": { "type": "iceberg", "target": 0 } }</extraData>
 		<rotW>0.1836757</rotW>
 		<rotX>0</rotX>
