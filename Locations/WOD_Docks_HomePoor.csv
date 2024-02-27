@@ -1,22 +1,22 @@
 Location,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,LocationType
-Old D'urdca's Shack,2.0,WOD_HF_Dock_Small_01,0.0,186,451,64,0,1865645161,Abibon-gora,186.4375,-451.5234375,7,HomePoor
-The Old Kingwing Place,2.0,WOD_Dock_Small_01,180.0,455,172,64,127,4555517228,Anticlere,455.4296875,-172.78125,1,HomePoor
-The Old Hearthwing Hovel,2.0,WOD_Dock_Small_01,-90.0,607,146,0,64,6076114659,Bhoriane,607.4765625,-146.5390625,1,HomePoor
-The Old Rausten Shack,2.0,WOD_HF_Dock_Small_01,0.0,728,282,64,0,7286528263,Lainlyn,728.5078125,-282.5078125,5,HomePoor
-The Boirch Cabin,2.0,WOD_HF_Dock_Small_01,-45.0,296,397,127,0,2966339764,Myrkwasa,296.4921875,-397.5,7,HomePoor
-The Old Turder Hovel,2.0,WOD_HF_Dock_Small_01,0.0,815,279,64,0,8156527963,Satakalaam,815.5078125,-279.5078125,5,HomePoor
-The Old Thush Place,2.0,WOD_HF_Dock_Small_01,0.0,385,369,64,0,3856536963,Sentinel,385.5078125,-369.5078125,7,HomePoor
-The Rhujten Cabin,2.0,WOD_HF_Dock_Small_01,0.0,388,369,64,0,3886536963,Sentinel,388.5078125,-369.5078125,7,HomePoor
-The C'avar Cabin,2.0,WOD_HF_Dock_Small_01,0.0,422,373,64,0,4226737358,Sentinel,422.5234375,-373.546875,7,HomePoor
-Old Mhirpti's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,439,372,64,0,4396337264,Sentinel,439.4921875,-372.5,7,HomePoor
-Old Rhardja's Hovel,2.0,WOD_HF_Dock_Small_01,180.0,596,279,64,127,5966927973,Tigonus,596.5390625,-279.4296875,4,HomePoor
-The Old Buckinghouse Place,2.0,WOD_Dock_Small_01,180.0,840,225,64,127,8406122558,Wayrest,840.4765625,-225.546875,1,HomePoor
-Old Elyssa's Hovel,2.0,WOD_Dock_Small_01,180.0,866,249,64,127,8666124958,Wayrest,866.4765625,-249.546875,1,HomePoor
-The Old Kharcur Shack,2.0,WOD_HF_Dock_Small_01,-45.0,470,351,127,0,4706535154,Tigonus,470.5078125,-351.578125,0,HomePoor
-Old Rloski's Shack,2.0,WOD_HF_Dock_Small_01,0.0,364,354,64,0,3645535460,Sentinel,364.4296875,-354.53125,7,HomePoor
-Old Burktha's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,162,476,64,0,1626547660,Abibon-gora,162.5078125,-476.53125,7,HomePoor
-The Old Copperwing Hovel,,,,240,23,67,52,240672352,Northmoor,240.5234375,-23.59375,1,HomePoor
-The Old Buckingcroft Place,,,,279,194,68,60,2796819460,Daggerfall,279.53125,-194.53125,1,HomePoor
-Old Maarhtfa's Shack,,,,918,346,65,72,9186534672,Totambu,918.5078125,-346.4375,5,HomePoor
-The Old Mhilp'kern Shack,,,,218,432,59,58,2185943258,Kairou,218.4609375,-432.546875,7,HomePoor
-Old Caildta's Place,,,,763,310,82,65,7638231065,Lainlyn,763.640625,-310.4921875,5,HomePoor
+Old D'urdca's Shack,2.0,WOD_HF_Dock_Small_01,0.0,186,451,64,0,1865645161,Abibon-gora,186.4375,-451.5234375,7.0,HomePoor
+The Old Kingwing Place,2.0,WOD_Dock_Small_01,180.0,455,172,64,127,4555517228,Anticlere,455.4296875,-172.78125,1.0,HomePoor
+The Old Hearthwing Hovel,2.0,WOD_Dock_Small_01,-90.0,607,146,0,64,6076114659,Bhoriane,607.4765625,-146.5390625,1.0,HomePoor
+The Old Rausten Shack,2.0,WOD_HF_Dock_Small_01,0.0,728,282,64,0,7286528263,Lainlyn,728.5078125,-282.5078125,5.0,HomePoor
+The Boirch Cabin,2.0,WOD_HF_Dock_Small_01,-45.0,296,397,127,0,2966339764,Myrkwasa,296.4921875,-397.5,7.0,HomePoor
+The Old Turder Hovel,2.0,WOD_HF_Dock_Small_01,0.0,815,279,64,0,8156527963,Satakalaam,815.5078125,-279.5078125,5.0,HomePoor
+The Old Thush Place,2.0,WOD_HF_Dock_Small_01,0.0,385,369,64,0,3856536963,Sentinel,385.5078125,-369.5078125,7.0,HomePoor
+The Rhujten Cabin,2.0,WOD_HF_Dock_Small_01,0.0,388,369,64,0,3886536963,Sentinel,388.5078125,-369.5078125,7.0,HomePoor
+The C'avar Cabin,2.0,WOD_HF_Dock_Small_01,0.0,422,373,64,0,4226737358,Sentinel,422.5234375,-373.546875,7.0,HomePoor
+Old Mhirpti's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,439,372,64,0,4396337264,Sentinel,439.4921875,-372.5,7.0,HomePoor
+Old Rhardja's Hovel,2.0,WOD_HF_Dock_Small_01,180.0,596,279,64,127,5966927973,Tigonus,596.5390625,-279.4296875,4.0,HomePoor
+The Old Buckinghouse Place,2.0,WOD_Dock_Small_01,180.0,840,225,64,127,8406122558,Wayrest,840.4765625,-225.546875,1.0,HomePoor
+Old Elyssa's Hovel,2.0,WOD_Dock_Small_01,180.0,866,249,64,127,8666124958,Wayrest,866.4765625,-249.546875,1.0,HomePoor
+The Old Kharcur Shack,2.0,WOD_HF_Dock_Small_01,-45.0,470,351,127,0,4706535154,Tigonus,470.5078125,-351.578125,0.0,HomePoor
+Old Rloski's Shack,2.0,WOD_HF_Dock_Small_01,0.0,364,354,64,0,3645535460,Sentinel,364.4296875,-354.53125,7.0,HomePoor
+Old Burktha's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,162,476,64,0,1626547660,Abibon-gora,162.5078125,-476.53125,7.0,HomePoor
+The Old Copperwing Hovel,,nan,,240,23,67,52,240672352,Northmoor,240.5234375,-23.59375,1.0,HomePoor
+The Old Buckingcroft Place,,nan,,279,194,68,60,2796819460,Daggerfall,279.53125,-194.53125,1.0,HomePoor
+Old Maarhtfa's Shack,,nan,,918,346,65,72,9186534672,Totambu,918.5078125,-346.4375,5.0,HomePoor
+The Old Mhilp'kern Shack,,nan,,218,432,59,58,2185943258,Kairou,218.4609375,-432.546875,7.0,HomePoor
+Old Caildta's Place,,nan,,763,310,82,65,7638231065,Lainlyn,763.640625,-310.4921875,5.0,HomePoor
