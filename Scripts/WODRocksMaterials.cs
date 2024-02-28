@@ -78,7 +78,7 @@ namespace WODRocksMaterials
 
        private void LoadClimateMaterialSettings()
         {
-            string cleanName = gameObject.name.Replace("(Clone)", "").Trim();
+            string cleanName = gameObject.name.Replace("(Clone)", "").Replace(".prefab", "").Trim();
             Debug.Log($"[WODRocksMaterials] Attempting to load JSON for '{cleanName}'");
 
             if (ModManager.Instance.TryGetAsset(cleanName + ".json", clone: false, out TextAsset jsonAsset))
