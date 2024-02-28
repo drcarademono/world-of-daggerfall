@@ -17,7 +17,7 @@ def process_file(file_path):
         scaleZ = obj.find('scaleZ')
 
         # Check if this is the specific object we want to modify
-        if name == 'WOD_Rock_Flat_l_2C_05':
+        if name == 'WOD_Rock_Flat_l_2C_04':
             # Multiply the scale values by 50, if they exist
             if scaleX is not None:
                 scaleX.text = str(float(scaleX.text) / 50)
