@@ -1,6 +1,6 @@
 <locationPrefab>
-	<height>700</height>
-	<width>700</width>
+	<height>300</height>
+	<width>365</width>
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
@@ -31,5 +31,4 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<winterPrefab>WOD_Mountain_Snow_08</winterPrefab>
 </locationPrefab>
