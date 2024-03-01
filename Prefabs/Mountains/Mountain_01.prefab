@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3310732}
   - component: {fileID: 2306184}
   - component: {fileID: 6433266}
+  - component: {fileID: 9149109864745103509}
   m_Layer: 0
   m_Name: Mountain_01
   m_TagString: Untagged
@@ -59,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ad434ff42cfbce2f383675cdd4925bb3, type: 2}
+  - {fileID: 2100000, guid: 55e82931da0e9d1048e883b20a4155fb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -94,3 +95,15 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: aa5727992701a1348ac0e26d8f961f60, type: 3}
+--- !u!114 &9149109864745103509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 198858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426f76434556e931a830bf5c83c73b54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

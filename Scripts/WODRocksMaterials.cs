@@ -43,8 +43,8 @@ namespace WODRocksMaterials
         public ClimateMaterials hauntedWoodlands = new ClimateMaterials();
 
         // Add new fields for mountain variants
+        public ClimateMaterials mountainBalfiera = new ClimateMaterials();
         public ClimateMaterials mountainHammerfell = new ClimateMaterials();
-        public ClimateMaterials mountainHighrock = new ClimateMaterials();
     }
 
     [ImportedComponent]
@@ -201,7 +201,7 @@ namespace WODRocksMaterials
                         selectedMaterials = climateMaterialSettings.desert; // Fallback to Desert
                         break;
                    case MapsFile.Climates.MountainWoods:
-                        selectedMaterials = climateMaterialSettings.mountainHighrock; // Fallback to mountainHighrock
+                        selectedMaterials = climateMaterialSettings.mountain; // Fallback to mountain
                         break;
                 }
             }
@@ -212,36 +212,35 @@ namespace WODRocksMaterials
         private void UpdateMaterialBasedOnClimateAndSeason()
         {
             MapsFile.Climates currentClimate = GetCurrentClimate();
-            bool isWinter = IsWinter(); // Determine if it's winter
-            string currentRegionName = GameManager.Instance.PlayerGPS.CurrentRegionName; // Get the current region name
+            bool isWinter = IsWinter();
+            string currentRegionName = GameManager.Instance.PlayerGPS.CurrentRegionName;
 
-            // Determine the correct materials for climate, considering region for mountain climate
-            ClimateMaterials materialsForClimate;
+            // Initialize materialsForClimate with a default
+            ClimateMaterials materialsForClimate = GetMaterialsForClimate(currentClimate, isWinter);
+
+            // Specifically handle mountain climate regions
             if (currentClimate == MapsFile.Climates.Mountain)
             {
                 string[] hammerfellRegions = new string[] { "Alik'r Desert", "Dragontail Mountains", "Dak'fron", "Lainlyn", "Tigonus", "Ephesus", "Santaki" };
-                if (hammerfellRegions.Contains(currentRegionName))
+                string[] balfieraRegion = new string[] { "Isle of Balfiera" };
+
+                // Check if mountainHammerfell is not null and then check the arrays
+                if (hammerfellRegions.Contains(currentRegionName) && climateMaterialSettings.mountainHammerfell != null && climateMaterialSettings.mountainHammerfell.defaultMaterials?.Length > 0 && climateMaterialSettings.mountainHammerfell.winterMaterials?.Length > 0)
                 {
-                    // Assign the ClimateMaterials instance directly
                     materialsForClimate = climateMaterialSettings.mountainHammerfell;
                 }
-                else
+                // Check if mountainBalfiera is not null and then check the arrays
+                else if (balfieraRegion.Contains(currentRegionName) && climateMaterialSettings.mountainBalfiera != null && climateMaterialSettings.mountainBalfiera.defaultMaterials?.Length > 0 && climateMaterialSettings.mountainBalfiera.winterMaterials?.Length > 0)
                 {
-                    // Assign the ClimateMaterials instance directly
-                    materialsForClimate = climateMaterialSettings.mountainHighrock;
+                    materialsForClimate = climateMaterialSettings.mountainBalfiera;
                 }
-            }
-            else
-            {
-                // Fallback to original method if not in a mountain climate
-                materialsForClimate = GetMaterialsForClimate(currentClimate, isWinter);
+                // If neither region matches or the arrays are null/empty, keep the default mountain materials
             }
 
-            // Determine which set of MaterialDefinition to use based on season AFTER selecting the correct ClimateMaterials instance
+            // Now that materialsForClimate is set, proceed to load and apply materials
             MaterialDefinition[] definitions = isWinter ? materialsForClimate.winterMaterials : materialsForClimate.defaultMaterials;
-
-            // Load and apply materials based on the definitions
             Material[] selectedMaterials = LoadMaterialsFromDefinitions(definitions);
+
             if (selectedMaterials != null && selectedMaterials.Length > 0 && meshRenderer != null)
             {
                 meshRenderer.materials = selectedMaterials;
