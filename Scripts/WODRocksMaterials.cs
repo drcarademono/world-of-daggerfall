@@ -215,29 +215,32 @@ namespace WODRocksMaterials
             bool isWinter = IsWinter();
             string currentRegionName = GameManager.Instance.PlayerGPS.CurrentRegionName;
 
-            // Initialize materialsForClimate with a default
+            // Start with the default materials for the current climate
             ClimateMaterials materialsForClimate = GetMaterialsForClimate(currentClimate, isWinter);
 
-            // Specifically handle mountain climate regions
+            // Adjust materials based on specific regions and their climates
             if (currentClimate == MapsFile.Climates.Mountain)
             {
                 string[] hammerfellRegions = new string[] { "Alik'r Desert", "Dragontail Mountains", "Dak'fron", "Lainlyn", "Tigonus", "Ephesus", "Santaki" };
                 string[] balfieraRegion = new string[] { "Isle of Balfiera" };
 
-                // Check if mountainHammerfell is not null and then check the arrays
-                if (hammerfellRegions.Contains(currentRegionName) && climateMaterialSettings.mountainHammerfell != null && climateMaterialSettings.mountainHammerfell.defaultMaterials?.Length > 0 && climateMaterialSettings.mountainHammerfell.winterMaterials?.Length > 0)
+                if (hammerfellRegions.Contains(currentRegionName) && climateMaterialSettings.mountainHammerfell != null && (climateMaterialSettings.mountainHammerfell.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainHammerfell.winterMaterials?.Length > 0))
                 {
                     materialsForClimate = climateMaterialSettings.mountainHammerfell;
                 }
-                // Check if mountainBalfiera is not null and then check the arrays
-                else if (balfieraRegion.Contains(currentRegionName) && climateMaterialSettings.mountainBalfiera != null && climateMaterialSettings.mountainBalfiera.defaultMaterials?.Length > 0 && climateMaterialSettings.mountainBalfiera.winterMaterials?.Length > 0)
+                else if (balfieraRegion.Contains(currentRegionName) && climateMaterialSettings.mountainBalfiera != null && (climateMaterialSettings.mountainBalfiera.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainBalfiera.winterMaterials?.Length > 0))
                 {
                     materialsForClimate = climateMaterialSettings.mountainBalfiera;
                 }
-                // If neither region matches or the arrays are null/empty, keep the default mountain materials
+                // No else needed here; it already defaults to mountain materials if none of the specific conditions are met
+            }
+            else
+            {
+                // For non-mountain climates, ensure we're not assigning mountain materials erroneously
+                // This else block helps to clarify behavior but may not be strictly necessary if GetMaterialsForClimate always returns valid materials for the current climate
             }
 
-            // Now that materialsForClimate is set, proceed to load and apply materials
+            // Load and apply materials based on the definitions
             MaterialDefinition[] definitions = isWinter ? materialsForClimate.winterMaterials : materialsForClimate.defaultMaterials;
             Material[] selectedMaterials = LoadMaterialsFromDefinitions(definitions);
 
