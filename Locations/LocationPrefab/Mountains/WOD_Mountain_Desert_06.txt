@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>2</objectID>
-		<name>Mountain_Brown_02</name>
+		<name>Mountain_02</name>
 		<posX>209.844</posX>
 		<posY>0</posY>
 		<posZ>-88.41001</posZ>
@@ -19,7 +19,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Mountain_Brown_03</name>
+		<name>Mountain_03</name>
 		<posX>-103</posX>
 		<posY>0</posY>
 		<posZ>354</posZ>
@@ -34,7 +34,7 @@
 	<object>
 		<type>4</type>
 		<objectID>1</objectID>
-		<name>Mountain_Brown_03</name>
+		<name>Mountain_03</name>
 		<posX>666.46</posX>
 		<posY>0</posY>
 		<posZ>-357.64</posZ>
@@ -44,21 +44,6 @@
 		<rotW>0.5685723</rotW>
 		<rotX>0</rotX>
 		<rotY>-0.8226334</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>3</type>
-		<objectID>12</objectID>
-		<name>WOD_Mountain_Brown_Base</name>
-		<posX>174.84</posX>
-		<posY>-6</posY>
-		<posZ>19.69099</posZ>
-		<scaleX>1.287672</scaleX>
-		<scaleY>1.287672</scaleY>
-		<scaleZ>1.287672</scaleZ>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
 </locationPrefab>
