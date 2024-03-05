@@ -159,5 +159,30 @@
       }
     ]
   },
-  "hauntedWoodlands": {}
+  "hauntedWoodlands": {
+    "defaultMaterials": [
+      {
+        "archive": 304,
+        "record": 3,
+        "frame": 0
+      },
+      {
+        "archive": 304,
+        "record": 3,
+        "frame": 0
+      }
+    ],
+    "winterMaterials": [
+      {
+        "archive": 304,
+        "record": 3,
+        "frame": 0
+      },
+      {
+        "archive": 303,
+        "record": 3,
+        "frame": 0
+      }
+    ]
+  }
 }

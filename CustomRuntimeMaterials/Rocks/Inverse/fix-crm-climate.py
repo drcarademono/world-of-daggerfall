@@ -12,7 +12,7 @@ def update_json_structure(data):
                 updated_material = {"archive": 304, "record": 3, "frame": 0}
                 winter_material = {"archive": 303, "record": 3, "frame": 0}
                 data[key]["defaultMaterials"] = [updated_material, updated_material]
-                data[key]["winterMaterials"] = [updated_material, winter_material]
+                data[key]["winterMaterials"] = [winter_material, updated_material]
             else:
                 # Continue searching through the dictionary
                 update_json_structure(value)
