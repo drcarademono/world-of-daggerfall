@@ -27,7 +27,20 @@
     ]
   },
   "desert2": {
-    "defaultMaterials": []
+    "defaultMaterials": [
+      {
+        "archive": 2005,
+        "record": 1,
+        "frame": 0
+      }
+    ],
+    "winterMaterials": [
+      {
+        "archive": 2005,
+        "record": 1,
+        "frame": 0
+      }
+    ]
   },
   "mountain": {
     "defaultMaterials": [
