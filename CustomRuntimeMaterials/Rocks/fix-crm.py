@@ -12,8 +12,8 @@ def update_json_structure(data):
     elif isinstance(data, list):
         for i, item in enumerate(data):
             # Check if the item matches the target structure
-            if item == {"archive": 2, "record": 3, "frame": 0}:
-                data[i] = {"archive": 372, "record": 1, "frame": 0}
+            if item == {"archive": 372, "record": 2, "frame": 0}:
+                data[i] = {"archive": 2003, "record": 4, "frame": 0}
             else:
                 update_json_structure(item)
 
