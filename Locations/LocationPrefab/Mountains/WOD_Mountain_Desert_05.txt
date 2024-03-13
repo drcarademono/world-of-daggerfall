@@ -1,12 +1,12 @@
 <locationPrefab>
-	<height>500</height>
-	<width>500</width>
+	<height>327</height>
+	<width>347</width>
 	<object>
 		<type>4</type>
 		<objectID>1</objectID>
 		<name>Mountain_02</name>
-		<posX>410.57</posX>
-		<posY>-1</posY>
+		<posX>305</posX>
+		<posY>-26</posY>
 		<posZ>153.54</posZ>
 		<scaleX>14.85071</scaleX>
 		<scaleY>9.0276</scaleY>
@@ -20,8 +20,8 @@
 		<type>4</type>
 		<objectID>2</objectID>
 		<name>Mountain_02</name>
-		<posX>681</posX>
-		<posY>-1</posY>
+		<posX>575.43</posX>
+		<posY>-26</posY>
 		<posZ>-481</posZ>
 		<scaleX>11.49267</scaleX>
 		<scaleY>6.986279</scaleY>
@@ -35,8 +35,8 @@
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>Mountain_02</name>
-		<posX>-361.66</posX>
-		<posY>-1</posY>
+		<posX>-467.23</posX>
+		<posY>-26</posY>
 		<posZ>-411.33</posZ>
 		<scaleX>11.49267</scaleX>
 		<scaleY>6.986279</scaleY>
