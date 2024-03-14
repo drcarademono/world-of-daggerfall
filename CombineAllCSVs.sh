@@ -8,7 +8,7 @@ python CombineCSVs.py *_Guardtowers_Roadside.csv CombinedCSVs/Guardtowers_Roadsi
 python CombineCSVs.py *_LoggingCamps.csv CombinedCSVs/LoggingCamps.csv
 python CombineCSVs.py *_Mountains.csv CombinedCSVs/Mountains.csv
 python CombineCSVs.py *_Mountains_Small.csv CombinedCSVs/Mountains_Small.csv
-python CombineCSVs.py *_Mountains_Small.csv CombinedCSVs/Mountains_Small.csv
+python CombineCSVs.py *_Mountains_Desert.csv CombinedCSVs/Mountains_Desert.csv
 python CombineCSVs.py *_OrcCamps.csv CombinedCSVs/OrcCamps.csv
 python CombineCSVs.py *_Rocks.csv CombinedCSVs/Rocks.csv
 python CombineCSVs.py *_Ruins.csv CombinedCSVs/Ruins.csv
