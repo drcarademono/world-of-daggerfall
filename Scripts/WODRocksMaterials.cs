@@ -1,3 +1,5 @@
+//#define WOD_ROCKS_FULL_LOGS
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -66,31 +68,41 @@ namespace WODRocksMaterials
         private void Awake()
         {
             meshRenderer = GetComponent<MeshRenderer>();
+#if WOD_ROCKS_FULL_LOGS
             Debug.Log($"[WODRocksMaterials] Awake called for {gameObject.name}");
+#endif
             LoadClimateMaterialSettings();
         }
 
         private void Start()
         {
+#if WOD_ROCKS_FULL_LOGS
             Debug.Log("[WODRocksMaterials] Start called");
+#endif
             UpdateMaterialBasedOnClimateAndSeason();
         }
 
        private void LoadClimateMaterialSettings()
         {
             string cleanName = gameObject.name.Replace("(Clone)", "").Replace(".prefab", "").Trim();
+#if WOD_ROCKS_FULL_LOGS
             Debug.Log($"[WODRocksMaterials] Attempting to load JSON for '{cleanName}'");
+#endif
 
             if (ModManager.Instance.TryGetAsset(cleanName + ".json", clone: false, out TextAsset jsonAsset))
             {
                 string json = jsonAsset.text;
+#if WOD_ROCKS_FULL_LOGS
                 Debug.Log($"[WODRocksMaterials] JSON loaded successfully, contents: {json.Substring(0, Math.Min(json.Length, 500))}...");
+#endif
 
                 fsResult result = _serializer.TryDeserialize(fsJsonParser.Parse(json), ref climateMaterialSettings);
                 if (!result.Succeeded)
                     Debug.LogError($"[WODRocksMaterials] Deserialization failed: {result.FormattedMessages}");
+#if WOD_ROCKS_FULL_LOGS
                 else
                     Debug.Log("[WODRocksMaterials] Deserialization succeeded");
+#endif
             }
             else
             {
