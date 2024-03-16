@@ -43,8 +43,6 @@ namespace WODRocksMaterials
         public ClimateMaterials mountainWoods = new ClimateMaterials();
         public ClimateMaterials woodlands = new ClimateMaterials();
         public ClimateMaterials hauntedWoodlands = new ClimateMaterials();
-
-        // Add new fields for mountain variants
         public ClimateMaterials mountainBalfiera = new ClimateMaterials();
         public ClimateMaterials mountainHammerfell = new ClimateMaterials();
     }
@@ -57,12 +55,19 @@ namespace WODRocksMaterials
         private static readonly fsSerializer _serializer = new fsSerializer();
 
         static Mod mod;
+        static bool WorldOfDaggerfallBiomesModEnabled = false;
 
         [Invoke(StateManager.StateTypes.Start, 0)]
         public static void Init(InitParams initParams)
         {
+            mod = initParams.Mod;
+            GameObject modGameObject = new GameObject(mod.Title);
+            modGameObject.AddComponent<WODRocksMaterials>();
+
+            Mod worldOfDaggerfallBiomesMod = ModManager.Instance.GetModFromGUID("3b4319ac-34bb-411d-aa2c-d52b7b9eb69d");
+            WorldOfDaggerfallBiomesModEnabled = worldOfDaggerfallBiomesMod != null && worldOfDaggerfallBiomesMod.Enabled;
+
             Debug.Log("WODRocksMaterials: Init called.");
- 
         }
 
         private void Awake()
@@ -82,7 +87,7 @@ namespace WODRocksMaterials
             UpdateMaterialBasedOnClimateAndSeason();
         }
 
-       private void LoadClimateMaterialSettings()
+        private void LoadClimateMaterialSettings()
         {
             string cleanName = gameObject.name.Replace("(Clone)", "").Replace(".prefab", "").Trim();
 #if WOD_ROCKS_FULL_LOGS
@@ -98,11 +103,17 @@ namespace WODRocksMaterials
 
                 fsResult result = _serializer.TryDeserialize(fsJsonParser.Parse(json), ref climateMaterialSettings);
                 if (!result.Succeeded)
-                    Debug.LogError($"[WODRocksMaterials] Deserialization failed: {result.FormattedMessages}");
+                {
 #if WOD_ROCKS_FULL_LOGS
+                    Debug.LogError($"[WODRocksMaterials] Deserialization failed: {result.FormattedMessages}");
+#endif
+                }
                 else
+                {
+#if WOD_ROCKS_FULL_LOGS
                     Debug.Log("[WODRocksMaterials] Deserialization succeeded");
 #endif
+                }
             }
             else
             {
@@ -114,23 +125,34 @@ namespace WODRocksMaterials
         private Material[] LoadMaterialsFromDefinitions(MaterialDefinition[] definitions)
         {
             if (definitions == null || definitions.Length == 0)
-                return null;
+            {
+#if WOD_ROCKS_FULL_LOGS
+                Debug.LogWarning("No definitions provided to LoadMaterialsFromDefinitions.");
+#endif
+                return new Material[0]; // Return an empty array.
+            }
+
+            if (DaggerfallUnity.Instance == null || DaggerfallUnity.Instance.MaterialReader == null)
+            {
+#if WOD_ROCKS_FULL_LOGS
+                Debug.LogError("DaggerfallUnity.Instance or MaterialReader is not initialized.");
+#endif
+                return null; // Return null or handle appropriately.
+            }
 
             List<Material> materials = new List<Material>();
             foreach (var def in definitions)
             {
                 Material loadedMaterial = null;
-                Rect rectOut; // Required by GetMaterial but not necessarily used afterwards in this context
+                Rect rectOut;
 
-                // Get the MaterialReader instance from DaggerfallUnity
+                // This is now safe to call after the null checks
                 MaterialReader materialReader = DaggerfallUnity.Instance.MaterialReader;
-
-                // Attempt to use GetMaterial first
+                
                 loadedMaterial = materialReader.GetMaterial(def.archive, def.record, def.frame, 0, out rectOut, 0, false, false);
 
                 if (loadedMaterial == null)
                 {
-                    // Fallback to TryImportMaterial if GetMaterial fails
                     if (TextureReplacement.TryImportMaterial(def.archive, def.record, def.frame, out loadedMaterial))
                     {
                         materials.Add(loadedMaterial);
@@ -138,12 +160,12 @@ namespace WODRocksMaterials
                     else
                     {
                         Debug.LogWarning($"Could not load material for archive: {def.archive}, record: {def.record}, frame: {def.frame}");
-                        materials.Add(null); // Handle missing materials as needed
+                        // Consider not adding nulls to the list to avoid potential issues downstream
                     }
                 }
                 else
                 {
-                    materials.Add(loadedMaterial); // Successfully loaded with GetMaterial
+                    materials.Add(loadedMaterial);
                 }
             }
             return materials.ToArray();
@@ -151,74 +173,51 @@ namespace WODRocksMaterials
 
         private ClimateMaterials GetMaterialsForClimate(MapsFile.Climates climate, bool isWinter)
         {
-            // Function to select materials based on climate and whether it's winter
-            Func<ClimateMaterials, MaterialDefinition[]> selectMaterials = (materials) =>
-                isWinter ? materials.winterMaterials : materials.defaultMaterials;
+            ClimateMaterials selectedMaterials;
 
-            // Initial selection based on the current climate
-            ClimateMaterials selectedMaterials = climateMaterialSettings.woodlands; // Default fallback
-
-            // Define the primary materials based on the current climate
-            switch (climate)
+            // Restrict material selection when the "World of Daggerfall Biomes" mod is not enabled
+            if (!WorldOfDaggerfallBiomesModEnabled)
             {
-                case MapsFile.Climates.Ocean:
-                    selectedMaterials = climateMaterialSettings.ocean;
-                    break;
-                case MapsFile.Climates.Desert:
-                    selectedMaterials = climateMaterialSettings.desert;
-                    break;
-                case MapsFile.Climates.Desert2:
-                    selectedMaterials = climateMaterialSettings.desert2;
-                    break;
-                case MapsFile.Climates.Mountain:
-                    selectedMaterials = climateMaterialSettings.mountain;
-                    break;
-                case MapsFile.Climates.Rainforest:
-                    selectedMaterials = climateMaterialSettings.rainforest;
-                    break;
-                case MapsFile.Climates.Swamp:
-                    selectedMaterials = climateMaterialSettings.swamp;
-                    break;
-                case MapsFile.Climates.Subtropical:
-                    selectedMaterials = climateMaterialSettings.subtropical;
-                    break;
-                case MapsFile.Climates.MountainWoods:
-                    selectedMaterials = climateMaterialSettings.mountainWoods;
-                    break;
-                case MapsFile.Climates.HauntedWoodlands:
-                    selectedMaterials = climateMaterialSettings.hauntedWoodlands;
-                    break;
-            }
-
-            // Check if the selected materials are available; if not, use the fallback
-            if (selectMaterials(selectedMaterials) == null || selectMaterials(selectedMaterials).Length == 0)
-            {
-                // Fallback logic
                 switch (climate)
                 {
-                    case MapsFile.Climates.Ocean:
                     case MapsFile.Climates.Desert:
                     case MapsFile.Climates.Mountain:
                     case MapsFile.Climates.Rainforest:
-                    case MapsFile.Climates.HauntedWoodlands:
-                        selectedMaterials = climateMaterialSettings.woodlands; // Fallback to Woodlands
-                        break;
-                    case MapsFile.Climates.Desert2:
-                        selectedMaterials = climateMaterialSettings.desert; // Fallback to Desert
-                        break;
                     case MapsFile.Climates.Swamp:
-                        selectedMaterials = climateMaterialSettings.rainforest; // Fallback to Rainforest
+                    case MapsFile.Climates.Woodlands:
+                        selectedMaterials = climateMaterialSettings.GetType().GetField(climate.ToString().ToLower()).GetValue(climateMaterialSettings) as ClimateMaterials;
                         break;
-                    case MapsFile.Climates.Subtropical:
-                        selectedMaterials = climateMaterialSettings.desert; // Fallback to Desert
-                        break;
-                   case MapsFile.Climates.MountainWoods:
-                        selectedMaterials = climateMaterialSettings.mountain; // Fallback to mountain
+                    default:
+                        selectedMaterials = GetFallbackMaterialsForClimate(climate);
                         break;
                 }
             }
+            else
+            {
+                // If the mod is enabled, use the original climate material selection logic without restrictions
+                selectedMaterials = climateMaterialSettings.GetType().GetField(climate.ToString().ToLower()).GetValue(climateMaterialSettings) as ClimateMaterials;
+            }
 
-            return selectedMaterials;
+            return selectedMaterials ?? climateMaterialSettings.woodlands; // Ensure a valid selection is always returned
+        }
+
+        private ClimateMaterials GetFallbackMaterialsForClimate(MapsFile.Climates climate)
+        {
+            switch (climate)
+            {
+                case MapsFile.Climates.HauntedWoodlands:
+                    return climateMaterialSettings.woodlands;
+                case MapsFile.Climates.Desert2:
+                    return climateMaterialSettings.desert;
+                case MapsFile.Climates.MountainWoods:
+                    return climateMaterialSettings.mountain;
+                case MapsFile.Climates.Ocean:
+                case MapsFile.Climates.Subtropical:
+                    // Assume a generalized fallback for climates not explicitly handled
+                    return climateMaterialSettings.desert;
+                default:
+                    return climateMaterialSettings.woodlands; // Default fallback
+            }
         }
 
         private void UpdateMaterialBasedOnClimateAndSeason()
@@ -236,20 +235,16 @@ namespace WODRocksMaterials
                 string[] hammerfellRegions = new string[] { "Alik'r Desert", "Dragontail Mountains", "Dak'fron", "Lainlyn", "Tigonus", "Ephesus", "Santaki" };
                 string[] balfieraRegion = new string[] { "Isle of Balfiera" };
 
-                if (hammerfellRegions.Contains(currentRegionName) && climateMaterialSettings.mountainHammerfell != null && (climateMaterialSettings.mountainHammerfell.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainHammerfell.winterMaterials?.Length > 0))
-                {
-                    materialsForClimate = climateMaterialSettings.mountainHammerfell;
-                }
-                else if (balfieraRegion.Contains(currentRegionName) && climateMaterialSettings.mountainBalfiera != null && (climateMaterialSettings.mountainBalfiera.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainBalfiera.winterMaterials?.Length > 0))
+                // Check for Balfiera region and apply Balfiera mountains setting regardless of the mod status
+                if (balfieraRegion.Contains(currentRegionName) && climateMaterialSettings.mountainBalfiera != null && (climateMaterialSettings.mountainBalfiera.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainBalfiera.winterMaterials?.Length > 0))
                 {
                     materialsForClimate = climateMaterialSettings.mountainBalfiera;
                 }
-                // No else needed here; it already defaults to mountain materials if none of the specific conditions are met
-            }
-            else
-            {
-                // For non-mountain climates, ensure we're not assigning mountain materials erroneously
-                // This else block helps to clarify behavior but may not be strictly necessary if GetMaterialsForClimate always returns valid materials for the current climate
+                // Apply Hammerfell mountains setting only if the World of Daggerfall - Biomes mod is present
+                else if (WorldOfDaggerfallBiomesModEnabled && hammerfellRegions.Contains(currentRegionName) && climateMaterialSettings.mountainHammerfell != null && (climateMaterialSettings.mountainHammerfell.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainHammerfell.winterMaterials?.Length > 0))
+                {
+                    materialsForClimate = climateMaterialSettings.mountainHammerfell;
+                }
             }
 
             // Load and apply materials based on the definitions
@@ -278,3 +273,4 @@ namespace WODRocksMaterials
         }
     }
 }
+
