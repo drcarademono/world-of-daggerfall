@@ -26,8 +26,8 @@ namespace WODRocksMaterials
     [Serializable]
     public class ClimateMaterials
     {
-        public MaterialDefinition[] defaultMaterials;
-        public MaterialDefinition[] winterMaterials;
+        public MaterialDefinition[] defaultMaterials = new MaterialDefinition[0];
+        public MaterialDefinition[] winterMaterials = new MaterialDefinition[0];
     }
 
     [Serializable]
@@ -173,11 +173,11 @@ namespace WODRocksMaterials
 
         private ClimateMaterials GetMaterialsForClimate(MapsFile.Climates climate, bool isWinter)
         {
-            ClimateMaterials selectedMaterials;
+            ClimateMaterials selectedMaterials = null;
 
-            // Restrict material selection when the "World of Daggerfall Biomes" mod is not enabled
             if (!WorldOfDaggerfallBiomesModEnabled)
             {
+                // Logic when the World of Daggerfall Biomes Mod is not enabled
                 switch (climate)
                 {
                     case MapsFile.Climates.Desert:
@@ -194,12 +194,17 @@ namespace WODRocksMaterials
             }
             else
             {
-                // If the mod is enabled, use the original climate material selection logic without restrictions
+                // Original logic for selecting materials without restrictions
                 selectedMaterials = climateMaterialSettings.GetType().GetField(climate.ToString().ToLower()).GetValue(climateMaterialSettings) as ClimateMaterials;
+                if (selectedMaterials == null || (selectedMaterials.defaultMaterials.Length == 0 && selectedMaterials.winterMaterials.Length == 0))
+                {
+                    selectedMaterials = GetFallbackMaterialsForClimate(climate); // Ensure fallback is used if materials are undefined
+                }
             }
 
-            return selectedMaterials ?? climateMaterialSettings.woodlands; // Ensure a valid selection is always returned
+            return selectedMaterials ?? climateMaterialSettings.woodlands; // Default to woodlands if no materials found
         }
+
 
         private ClimateMaterials GetFallbackMaterialsForClimate(MapsFile.Climates climate)
         {
