@@ -244,6 +244,9 @@ namespace WODRocksMaterials
                 else if (WorldOfDaggerfallBiomesModEnabled && hammerfellRegions.Contains(currentRegionName) && climateMaterialSettings.mountainHammerfell != null && (climateMaterialSettings.mountainHammerfell.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainHammerfell.winterMaterials?.Length > 0))
                 {
                     materialsForClimate = climateMaterialSettings.mountainHammerfell;
+                } else if (!WorldOfDaggerfallBiomesModEnabled && hammerfellRegions.Contains(currentRegionName) && climateMaterialSettings.mountainBalfiera != null && (climateMaterialSettings.mountainBalfiera.defaultMaterials?.Length > 0 || climateMaterialSettings.mountainBalfiera.winterMaterials?.Length > 0))
+                {
+                    materialsForClimate = climateMaterialSettings.mountainBalfiera; // Use Balfiera settings for Hammerfell if World of Daggerfall - Biomes mod not present
                 }
             }
 
