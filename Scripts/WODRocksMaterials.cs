@@ -264,7 +264,7 @@ namespace WODRocksMaterials
             }
             else
             {
-                Debug.LogError("[WODRocksMaterials] No valid materials found for the current climate and season.");
+                Debug.LogError($"[WODRocksMaterials] No valid materials found for the current climate and season for {gameObject.name}.");
             }
         }
 
