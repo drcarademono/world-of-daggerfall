@@ -1,13 +1,13 @@
 <locationPrefab>
-	<height>54</height>
-	<width>54</width>
+	<height>31</height>
+	<width>35</width>
 	<object>
 		<type>4</type>
 		<objectID>6</objectID>
 		<name>WOD_Rock_Flat_s_2C_10</name>
-		<posX>-50</posX>
+		<posX>-45.623</posX>
 		<posY>-5.7</posY>
-		<posZ>-20</posZ>
+		<posZ>-44.81845</posZ>
 		<scaleX>223.2938</scaleX>
 		<scaleY>223.2938</scaleY>
 		<scaleZ>223.2938</scaleZ>
@@ -20,9 +20,9 @@
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>WOD_Rock_Flat_l_2C_05</name>
-		<posX>-13.877</posX>
+		<posX>-9.5</posX>
 		<posY>-7</posY>
-		<posZ>30.21845</posZ>
+		<posZ>5.4</posZ>
 		<scaleX>-116.1661</scaleX>
 		<scaleY>-116.1661</scaleY>
 		<scaleZ>-116.1661</scaleZ>
@@ -36,9 +36,9 @@
 		<type>4</type>
 		<objectID>13</objectID>
 		<name>WOD_Rocks_Flat_m_2C_01</name>
-		<posX>34.2023</posX>
+		<posX>38.5793</posX>
 		<posY>-11.43</posY>
-		<posZ>73.50031</posZ>
+		<posZ>48.68186</posZ>
 		<scaleX>77.90004</scaleX>
 		<scaleY>77.90004</scaleY>
 		<scaleZ>77.90004</scaleZ>

@@ -1,13 +1,13 @@
 <locationPrefab>
-	<height>48</height>
-	<width>48</width>
+	<height>32</height>
+	<width>38</width>
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
 		<name>WOD_Rocks_Round_m_2C_01</name>
 		<posX>3.4</posX>
 		<posY>-27.3</posY>
-		<posZ>38.1</posZ>
+		<posZ>59.6</posZ>
 		<scaleX>94.7625</scaleX>
 		<scaleY>94.7625</scaleY>
 		<scaleZ>94.7625</scaleZ>
@@ -22,7 +22,7 @@
 		<name>WOD_Rocks_Round_m_2C_02</name>
 		<posX>50.6</posX>
 		<posY>-0.54356</posY>
-		<posZ>-78.3</posZ>
+		<posZ>-56.8</posZ>
 		<scaleX>89.73916</scaleX>
 		<scaleY>89.73916</scaleY>
 		<scaleZ>89.73916</scaleZ>
@@ -37,7 +37,7 @@
 		<name>WOD_Rock_Round_m_2C_08</name>
 		<posX>-78.2</posX>
 		<posY>-26.6</posY>
-		<posZ>-80.6</posZ>
+		<posZ>-59.09999</posZ>
 		<scaleX>65.98198</scaleX>
 		<scaleY>65.98198</scaleY>
 		<scaleZ>65.98198</scaleZ>
@@ -52,7 +52,7 @@
 		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>-1.2539</posX>
 		<posY>-101.6</posY>
-		<posZ>-48.881</posZ>
+		<posZ>-27.381</posZ>
 		<scaleX>56.29443</scaleX>
 		<scaleY>56.29443</scaleY>
 		<scaleZ>56.29443</scaleZ>
@@ -67,7 +67,7 @@
 		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>19.7</posX>
 		<posY>-128.5</posY>
-		<posZ>68.5</posZ>
+		<posZ>90</posZ>
 		<scaleX>64.97419</scaleX>
 		<scaleY>64.97419</scaleY>
 		<scaleZ>64.97419</scaleZ>
@@ -82,7 +82,7 @@
 		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>48.6</posX>
 		<posY>-105.8</posY>
-		<posZ>-26.1</posZ>
+		<posZ>-4.599997</posZ>
 		<scaleX>64.97419</scaleX>
 		<scaleY>64.97419</scaleY>
 		<scaleZ>64.97419</scaleZ>
@@ -97,7 +97,7 @@
 		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>46.23304</posX>
 		<posY>-105.8</posY>
-		<posZ>-77.1423</posZ>
+		<posZ>-55.6423</posZ>
 		<scaleX>64.97419</scaleX>
 		<scaleY>64.97419</scaleY>
 		<scaleZ>64.97419</scaleZ>
@@ -112,7 +112,7 @@
 		<name>WOD_Rock_Flat_l_2C_05</name>
 		<posX>-52.37077</posX>
 		<posY>-105.8</posY>
-		<posZ>-72.47747</posZ>
+		<posZ>-50.97747</posZ>
 		<scaleX>64.97419</scaleX>
 		<scaleY>64.97419</scaleY>
 		<scaleZ>64.97419</scaleZ>
