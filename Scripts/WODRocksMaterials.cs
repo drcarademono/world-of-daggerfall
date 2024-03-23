@@ -72,17 +72,36 @@ namespace WODRocksMaterials
 
         private void Awake()
         {
+            // Check if the game object's name is "World of Daggerfall" and skip loading materials if it is.
+            if(gameObject.name == "World of Daggerfall")
+            {
+        #if WOD_ROCKS_FULL_LOGS
+                Debug.Log("[WODRocksMaterials] Skipping material loading for 'World of Daggerfall'.");
+        #endif
+                return; // Skip loading materials for this game object.
+            }
+
             meshRenderer = GetComponent<MeshRenderer>();
-#if WOD_ROCKS_FULL_LOGS
+
+        #if WOD_ROCKS_FULL_LOGS
             Debug.Log($"[WODRocksMaterials] Awake called for {gameObject.name}");
-#endif
+        #endif
             LoadClimateMaterialSettings();
         }
 
         private void Start()
         {
+            // Check if the game object's name is "World of Daggerfall" and skip loading materials if it is.
+            if(gameObject.name == "World of Daggerfall")
+            {
+        #if WOD_ROCKS_FULL_LOGS
+                Debug.Log("[WODRocksMaterials] Skipping material loading for 'World of Daggerfall'.");
+        #endif
+                return; // Skip loading materials for this game object.
+            }
+
 #if WOD_ROCKS_FULL_LOGS
-            Debug.Log("[WODRocksMaterials] Start called");
+            Debug.Log($"[WODRocksMaterials] Start called for {gameObject.name}.");
 #endif
             UpdateMaterialBasedOnClimateAndSeason();
         }
@@ -104,18 +123,18 @@ namespace WODRocksMaterials
                 fsResult result = _serializer.TryDeserialize(fsJsonParser.Parse(json), ref climateMaterialSettings);
                 if (!result.Succeeded)
                 {
-                    Debug.LogError($"[WODRocksMaterials] Deserialization failed: {result.FormattedMessages}");
+                    Debug.LogError($"[WODRocksMaterials] Deserialization failed for {gameObject.name}: {result.FormattedMessages}");
                 }
                 else
                 {
 #if WOD_ROCKS_FULL_LOGS
-                    Debug.Log("[WODRocksMaterials] Deserialization succeeded");
+                    Debug.Log($"[WODRocksMaterials] Deserialization succeeded for {gameObject.name}");
 #endif
                 }
             }
             else
             {
-                Debug.LogError("[WODRocksMaterials] JSON file for material settings not found");
+                Debug.LogError($"[WODRocksMaterials] JSON file for material settings not found for {gameObject.name}.");
                 climateMaterialSettings = new ClimateMaterialSettings(); // Fallback to default
             }
         }
@@ -125,7 +144,7 @@ namespace WODRocksMaterials
             if (definitions == null || definitions.Length == 0)
             {
 #if WOD_ROCKS_FULL_LOGS
-                Debug.LogWarning("No definitions provided to LoadMaterialsFromDefinitions.");
+                Debug.LogWarning($"No definitions provided to LoadMaterialsFromDefinitions for {gameObject.name}.");
 #endif
                 return new Material[0]; // Return an empty array.
             }
