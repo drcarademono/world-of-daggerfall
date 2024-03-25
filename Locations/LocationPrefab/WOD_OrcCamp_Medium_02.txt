@@ -1156,51 +1156,6 @@
 		<rotZ>0</rotZ>
 	</object>
 	<object>
-		<type>0</type>
-		<objectID>148</objectID>
-		<name>41714</name>
-		<posX>27.4</posX>
-		<posY>-3.41</posY>
-		<posZ>19.55</posZ>
-		<scaleX>1.12</scaleX>
-		<scaleY>1.48</scaleY>
-		<scaleZ>0.70659</scaleZ>
-		<rotW>-0.7207197</rotW>
-		<rotX>0</rotX>
-		<rotY>0.6932266</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>149</objectID>
-		<name>41716</name>
-		<posX>-28.241</posX>
-		<posY>-5.81</posY>
-		<posZ>24.24</posZ>
-		<scaleX>0.7382928</scaleX>
-		<scaleY>1.48</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>-0.7207197</rotW>
-		<rotX>0</rotX>
-		<rotY>0.6932266</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>150</objectID>
-		<name>41717</name>
-		<posX>-26.79</posX>
-		<posY>-5.81</posY>
-		<posZ>-17.95</posZ>
-		<scaleX>0.7382928</scaleX>
-		<scaleY>1.48</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>-0.9557931</rotW>
-		<rotX>0</rotX>
-		<rotY>0.29404</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
 		<type>4</type>
 		<objectID>151</objectID>
 		<name>FX_Smoke</name>

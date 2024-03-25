@@ -4,7 +4,7 @@
 	<object>
 		<type>4</type>
 		<objectID>0</objectID>
-		<name>Rock_Arch_Brown_04</name>
+		<name>WOD_Rock_Arch_04</name>
 		<posX>-1.051451</posX>
 		<posY>5.078737</posY>
 		<posZ>-17.893</posZ>
@@ -30,7 +30,7 @@
 	<object>
 		<type>4</type>
 		<objectID>2</objectID>
-		<name>Rock_Arch_Brown_04</name>
+		<name>WOD_Rock_Arch_04</name>
 		<posX>-16.77</posX>
 		<posY>4.799999</posY>
 		<posZ>17.007</posZ>
@@ -45,7 +45,7 @@
 	<object>
 		<type>4</type>
 		<objectID>3</objectID>
-		<name>Rock_Flat_Brown_l_04</name>
+		<name>WOD_Rock_Flat_l_04</name>
 		<posX>20.64</posX>
 		<posY>-1.02</posY>
 		<posZ>46.557</posZ>
@@ -60,7 +60,7 @@
 	<object>
 		<type>4</type>
 		<objectID>4</objectID>
-		<name>Rock_Round_Brown_l_07</name>
+		<name>WOD_Rock_Round_l_07</name>
 		<posX>40.99</posX>
 		<posY>4.34</posY>
 		<posZ>-13.393</posZ>
@@ -75,7 +75,7 @@
 	<object>
 		<type>4</type>
 		<objectID>5</objectID>
-		<name>Rock_Round_Brown_l_02</name>
+		<name>WOD_Rock_Round_l_02</name>
 		<posX>35.03</posX>
 		<posY>-0.52</posY>
 		<posZ>-21.753</posZ>
@@ -90,7 +90,7 @@
 	<object>
 		<type>4</type>
 		<objectID>6</objectID>
-		<name>Rock_Round_Brown_l_02</name>
+		<name>WOD_Rock_Round_l_02</name>
 		<posX>29.08</posX>
 		<posY>1.83</posY>
 		<posZ>-10.683</posZ>
@@ -105,7 +105,7 @@
 	<object>
 		<type>4</type>
 		<objectID>7</objectID>
-		<name>Rock_Flat_Brown_l_02</name>
+		<name>WOD_Rock_Flat_l_02</name>
 		<posX>31.23</posX>
 		<posY>-1.04</posY>
 		<posZ>24.407</posZ>
@@ -208,7 +208,7 @@
 	<object>
 		<type>4</type>
 		<objectID>16</objectID>
-		<name>Rock_Flat_Brown_crk_s_04</name>
+		<name>WOD_Rock_Flat_crk_s_04</name>
 		<posX>26.33</posX>
 		<posY>0</posY>
 		<posZ>-4.172998</posZ>
@@ -289,7 +289,7 @@
 	<object>
 		<type>4</type>
 		<objectID>23</objectID>
-		<name>Rock_Flat_Brown_crk_m_02</name>
+		<name>WOD_Rock_Flat_crk_m_02</name>
 		<posX>12.42</posX>
 		<posY>0.06999999</posY>
 		<posZ>5.417002</posZ>
@@ -304,7 +304,7 @@
 	<object>
 		<type>4</type>
 		<objectID>24</objectID>
-		<name>Rocks_Round_Brown_m_03</name>
+		<name>WOD_Rocks_Round_m_03</name>
 		<posX>-17.38</posX>
 		<posY>0.5699999</posY>
 		<posZ>2.217001</posZ>
@@ -319,7 +319,7 @@
 	<object>
 		<type>4</type>
 		<objectID>25</objectID>
-		<name>Rocks_Round_Brown_l_01</name>
+		<name>WOD_Rocks_Round_l_01</name>
 		<posX>-5.310001</posX>
 		<posY>-0.00999999</posY>
 		<posZ>35.627</posZ>
@@ -334,7 +334,7 @@
 	<object>
 		<type>4</type>
 		<objectID>26</objectID>
-		<name>Rocks_Round_Brown_l_02</name>
+		<name>WOD_Rocks_Round_l_02</name>
 		<posX>-9.040001</posX>
 		<posY>1.73</posY>
 		<posZ>-31.503</posZ>
@@ -503,7 +503,7 @@
 	<object>
 		<type>4</type>
 		<objectID>44</objectID>
-		<name>Rock_Round_Brown_l_08</name>
+		<name>WOD_Rock_Round_l_08</name>
 		<posX>6.25</posX>
 		<posY>1.817785</posY>
 		<posZ>18.487</posZ>

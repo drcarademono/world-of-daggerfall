@@ -118,7 +118,7 @@
 		<scaleZ>1</scaleZ>
 		<rotW>-0.2079967</rotW>
 		<rotX>0</rotX>
-		<rotY>-0.9781295</rotY>
+		<rotY>-0.9781296</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
@@ -996,9 +996,9 @@
 		<type>1</type>
 		<objectID>78</objectID>
 		<name>508.16</name>
-		<posX>-54.49</posX>
+		<posX>-50.4</posX>
 		<posY>0</posY>
-		<posZ>-8.030001</posZ>
+		<posZ>-6.7</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -1062,9 +1062,9 @@
 		<type>1</type>
 		<objectID>84</objectID>
 		<name>508.16</name>
-		<posX>-11.12</posX>
+		<posX>-11.1</posX>
 		<posY>0</posY>
-		<posZ>39.44</posZ>
+		<posZ>36.5</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -1624,60 +1624,15 @@
 		<type>0</type>
 		<objectID>140</objectID>
 		<name>41716</name>
-		<posX>49.1</posX>
+		<posX>37.9</posX>
 		<posY>-1.67</posY>
-		<posZ>-39.4</posZ>
+		<posZ>10.9</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
 		<rotW>0.1837823</rotW>
 		<rotX>0</rotX>
 		<rotY>0.982967</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>141</objectID>
-		<name>41719</name>
-		<posX>51.48</posX>
-		<posY>-3.45</posY>
-		<posZ>31.91</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<rotW>0.1837823</rotW>
-		<rotX>0</rotX>
-		<rotY>0.982967</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>142</objectID>
-		<name>41717</name>
-		<posX>-48.21809</posX>
-		<posY>-3.1</posY>
-		<posZ>37.62955</posZ>
-		<scaleX>0.8726876</scaleX>
-		<scaleY>0.8726876</scaleY>
-		<scaleZ>0.8726876</scaleZ>
-		<rotW>-0.4595347</rotW>
-		<rotX>0</rotX>
-		<rotY>0.8881599</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>143</objectID>
-		<name>41715</name>
-		<posX>-52.2</posX>
-		<posY>-0.9000001</posY>
-		<posZ>-36.6</posZ>
-		<scaleX>0.8726876</scaleX>
-		<scaleY>0.8726876</scaleY>
-		<scaleZ>0.8726876</scaleZ>
-		<rotW>-0.8787766</rotW>
-		<rotX>0</rotX>
-		<rotY>0.4772335</rotY>
 		<rotZ>0</rotZ>
 	</object>
 	<object>
