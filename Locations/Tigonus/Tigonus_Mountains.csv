@@ -1,4 +1,4 @@
-name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,altitude,sink,scale
-Mountain,1,WOD_Mountain_06,-147,586,344,64,55,5866434455,Tigonus,586.5,-344.5703125,4.0,5,1,0.7246426
-Mountain,1,WOD_Mountain_10,39,590,338,100,36,59010033836,Tigonus,590.78125,-338.71875,4.0,5,1,0.9878025
-Mountain,1,WOD_Mountain_06,-37,599,359,88,8,5998835908,Tigonus,599.6875,-359.9375,4.0,5,1,0.827616
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,region,gisX,gisY,climate,altitude,sink,scale
+Mountain,1,WOD_Mountain_06,-147,586,344,64,55,Tigonus,586.5,-344.5703125,4.0,5,1,0.7246426
+Mountain,1,WOD_Mountain_10,39,590,338,100,36,Tigonus,590.78125,-338.71875,4.0,5,1,0.9878025
+Mountain,1,WOD_Mountain_06,-37,599,359,88,8,Tigonus,599.6875,-359.9375,4.0,5,1,0.827616

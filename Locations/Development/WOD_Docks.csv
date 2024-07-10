@@ -1,385 +1,385 @@
-Location,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,LocationType
-Westhead Moor,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,207,223,0,64,2075022383,Daggerfall,207.390625,-223.3515625,1.0,TownCity
-Gallocart,2.0,WOD_Dock_Medium_01,135.0,92,157,0,127,927015774,Tulune,92.546875,-157.421875,1.0,TownVillage
-Inner Light of Stendarr,2.0,WOD_Dock_Lighthouse_Small_01,90.0,622,115,127,64,6224711570,Bhoriane,622.3671875,-115.453125,1.0,ReligionTemple
-The Buckinghart Plantation,2.0,WOD_Dock_Small_01,180.0,735,135,64,127,7356113558,Alcaire,735.4765625,-135.546875,1.0,HomeFarms
-The Gaerhouse Plantation,2.0,WOD_Dock_Lighthouse_Small_01,-180.0,629,158,64,127,6296415856,Isle of Balfiera,629.5,-158.5625,1.0,HomeFarms
-Fearful Redeemer of Julianos,2.0,WOD_HF_Dock_Small_01,0.0,866,289,64,0,8666528963,Satakalaam,866.5078125,-289.5078125,5.0,ReligionTemple
-The Mole and Giant Tavern,2.0,WOD_HF_Dock_Small_01,0.0,141,495,64,0,1415649561,Abibon-gora,141.4375,-495.5234375,7.0,Tavern
-Tsetudax,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,144,493,64,0,1446349364,Abibon-gora,144.4921875,-493.5,7.0,TownVillage
-Cudogudax,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,159,478,64,0,1595647861,Abibon-gora,159.4375,-478.5234375,7.0,TownVillage
-Singing Soul of Julianos,2.0,WOD_HF_Dock_Small_01,-90.0,169,473,0,64,1696347364,Abibon-gora,169.4921875,-473.5,7.0,ReligionTemple
-Singing Idol of Julianos,2.0,WOD_HF_Dock_Small_01,-90.0,171,463,0,64,1716346364,Abibon-gora,171.4921875,-463.5,7.0,ReligionTemple
-Kieran Theatre,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,173,461,64,0,1735646161,Abibon-gora,173.4375,-461.5234375,7.0,ReligionCult
-Papyrydai,2.0,WOD_HF_Dock_Lighthouse_Medium_01,-90.0,174,455,0,64,1746345564,Abibon-gora,174.4921875,-455.5,7.0,TownVillage
-Damu-Ij,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,180,451,64,0,1805645161,Abibon-gora,180.4375,-451.5234375,7.0,TownHamlet
-Old D'urdca's Shack,2.0,WOD_HF_Dock_Small_01,0.0,186,451,64,0,1865645161,Abibon-gora,186.4375,-451.5234375,7.0,HomePoor
-The Moorsley Farmstead,2.0,WOD_Dock_Small_01,180.0,701,133,64,127,7016113358,Alcaire,701.4765625,-133.546875,1.0,HomeFarms
-Cathborne,2.0,WOD_Dock_Medium_01,180.0,718,133,64,127,7186113358,Alcaire,718.4765625,-133.546875,1.0,TownHamlet
-Gaerhart Manor,2.0,WOD_Dock_Small_01,180.0,745,138,64,127,7456113858,Alcaire,745.4765625,-138.546875,1.0,HomeWealthy
-Wargate,2.0,WOD_Dock_Lighthouse_Medium_01,180.0,760,140,64,127,7606114058,Alcaire,760.4765625,-140.546875,1.0,TownVillage
-The Laughing Cat Hostel,2.0,WOD_Dock_Small_01,180.0,788,151,64,127,7886115158,Alcaire,788.4765625,-151.546875,4.0,Tavern
-Aldwall Rock,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,-90.0,401,183,0,64,4017018360,Anticlere,401.546875,-183.53125,1.0,TownCity
-Crossleigh,2.0,WOD_Dock_Medium_01,180.0,401,175,64,127,4016017558,Anticlere,401.46875,-175.546875,1.0,TownVillage
-Cathwold Heath,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,180.0,406,187,64,127,4066018758,Anticlere,406.46875,-187.546875,1.0,TownVillage
-Vanwood Hollow,2.0,WOD_Anticlere_Dock_Lighthouse_Large_01,0.0,353,195,64,0,3537319567,Anticlere,353.5703125,-195.4765625,1.0,TownVillage
-The Mastersmith Plantation,2.0,WOD_Dock_Small_01,180.0,356,200,64,127,3566420070,Anticlere,356.5,-200.453125,1.0,HomeFarms
-Ipspath,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,0.0,358,193,64,0,3587319367,Anticlere,358.5703125,-193.4765625,1.0,TownHamlet
-Yeomhart Manor,2.0,WOD_Dock_Lighthouse_Small_01,0.0,361,192,64,0,3617319267,Anticlere,361.5703125,-192.4765625,1.0,HomeWealthy
-Wilderbury Rock,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,180.0,366,197,64,127,3666419770,Anticlere,366.5,-197.453125,1.0,TownVillage
-The Old Kingwing Place,2.0,WOD_Dock_Small_01,180.0,455,172,64,127,4555517228,Anticlere,455.4296875,-172.78125,1.0,HomePoor
-Hawkwing Palace,2.0,WOD_Dock_Small_01,180.0,499,158,64,127,4995515828,Anticlere,499.4296875,-158.78125,1.0,HomeWealthy
-Umbopala,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,449,364,64,0,4496536463,Ayasofya,449.5078125,-364.5078125,7.0,TownVillage
-Kirkbeth Hamlet,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,114,255,0,64,1145925568,Betony,114.4609375,-255.46875,1.0,TownVillage
-Wilderleigh,2.0,WOD_Dock_Lighthouse_Small_01,180.0,558,137,64,127,5586113756,Bhoriane,558.4765625,-137.5625,1.0,TownHamlet
-Moorcroft Court,2.0,WOD_Dock_Small_01,180.0,561,137,64,127,5616113756,Bhoriane,561.4765625,-137.5625,1.0,HomeWealthy
-Arkbeth Garden,2.0,WOD_Dock_Lighthouse_Small_01,180.0,583,138,64,127,5836113858,Bhoriane,583.4765625,-138.546875,1.0,TownHamlet
-Wartale,2.0,WOD_Dock_Medium_01,0.0,588,139,64,0,5886113958,Bhoriane,588.4765625,-139.546875,1.0,TownVillage
-The Gaerford Plantation,2.0,WOD_Dock_Small_01,-90.0,631,111,0,64,6316111173,Bhoriane,631.4765625,-111.4296875,1.0,HomeFarms
-Fontbridge,2.0,WOD_Dock_Medium_01,180.0,637,113,64,127,6376111359,Bhoriane,637.4765625,-113.5390625,1.0,TownVillage
-The Masterton Farmstead,2.0,WOD_Dock_Small_01,180.0,645,111,64,127,6456111158,Bhoriane,645.4765625,-111.546875,1.0,HomeFarms
-The Thirsty Skull Hostel,2.0,WOD_Dock_Small_01,180.0,646,113,64,127,6466111358,Bhoriane,646.4765625,-113.546875,1.0,Tavern
-Strenner Haven,2.0,WOD_Dock_Lighthouse_Small_01,180.0,649,113,64,127,6496111358,Bhoriane,649.4765625,-113.546875,1.0,ReligionCult
-Stokbrone,2.0,WOD_Dock_Medium_01,180.0,652,112,64,127,6526111258,Bhoriane,652.4765625,-112.546875,1.0,TownHamlet
-Old Vannabyth's Farm,2.0,WOD_Dock_Small_01,-90.0,587,152,0,64,5876115259,Bhoriane,587.4765625,-152.5390625,1.0,HomeFarms
-The Old Hearthwing Hovel,2.0,WOD_Dock_Small_01,-90.0,607,146,0,64,6076114659,Bhoriane,607.4765625,-146.5390625,1.0,HomePoor
-Ipsmoth,2.0,WOD_Dock_Lighthouse_Small_01,,609,145,58,61,6095814561,Bhoriane,609.453125,-145.5234375,1.0,TownVillage
-Old Evelorya's Farm,2.0,WOD_Dock_Small_01,-45.0,614,147,127,0,6146114759,Bhoriane,614.4765625,-147.5390625,1.0,HomeFarms
-Whitecroft,2.0,WOD_Dock_Lighthouse_Medium_01,180.0,102,199,64,127,1026419991,Daggerfall,102.5,-199.2890625,1.0,TownHamlet
-Holwych,2.0,WOD_Dock_Medium_01,180.0,118,201,64,127,1186420191,Daggerfall,118.5,-201.2890625,1.0,TownVillage
-The Ashhouse Farmstead,2.0,WOD_Dock_Small_01,180.0,138,212,64,127,1385521267,Daggerfall,138.4296875,-212.4765625,1.0,HomeFarms
-Ripmore,2.0,WOD_Daggerfall_Dock_Lighthouse_Large_01,0.0,285,213,64,0,2855421367,Daggerfall,285.421875,-213.4765625,1.0,TownCity
-Daggerfall,2.0,WOD_Dock_Medium_01,180.0,209,214,64,127,2097321454,Daggerfall,209.5703125,-214.578125,1.0,TownCity
-Daggerfall,2.0,WOD_Dock_Large_01,180.0,210,214,64,127,2107321454,Daggerfall,210.5703125,-214.578125,1.0,TownCity
-Daggerfall,2.0,WOD_Daggerfall_Dock_Lighthouse_Large_01,180.0,211,214,64,127,2117321454,Daggerfall,211.5703125,-214.578125,1.0,TownCity
-Burning Martyr of Kynareth,2.0,WOD_Dock_Small_01,-90.0,97,189,0,64,976918959,Daggerfall,97.5390625,-189.5390625,1.0,ReligionTemple
-Holmarket,2.0,WOD_Dock_Lighthouse_Small_01,-90.0,111,199,0,64,11174199102,Daggerfall,111.578125,-199.203125,1.0,TownHamlet
-The Knave and Dragon Pub,2.0,WOD_Dock_Small_01,-90.0,132,210,0,64,1327021038,Daggerfall,132.546875,-210.703125,1.0,Tavern
-Fontborne,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,-90.0,160,221,0,64,1605022173,Daggerfall,160.390625,-221.4296875,1.0,TownVillage
-Longwich End,2.0,WOD_Dock_Medium_01,180.0,169,225,64,127,1696422561,Daggerfall,169.5,-225.5234375,1.0,TownVillage
-Wilderham,2.0,WOD_Dock_Medium_01,180.0,178,224,64,127,1786422461,Daggerfall,178.5,-224.5234375,1.0,TownVillage
-Midbrugh,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90.0,198,217,127,64,1987421755,Daggerfall,198.578125,-217.5703125,1.0,TownVillage
-Ashsly Hall,2.0,WOD_Dock_Small_01,-90.0,205,226,0,64,2055822664,Daggerfall,205.453125,-226.5,1.0,HomeWealthy
-Kinging Court,2.0,WOD_Dock_Lighthouse_Small_01,180.0,209,228,64,127,2096422845,Daggerfall,209.5,-228.6484375,1.0,HomeWealthy
-Vanvale,2.0,WOD_Dock_Medium_01,-90.0,294,214,0,64,2947021464,Daggerfall,294.546875,-214.5,1.0,TownHamlet
-Blackcart Hollow,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90.0,297,214,127,64,2975421481,Daggerfall,297.421875,-214.3671875,1.0,TownVillage
-Copperfield Manor,2.0,WOD_Dock_Small_01,180.0,207,214,64,127,2077321454,Daggerfall,207.5703125,-214.578125,1.0,HomeWealthy
-Masterston Court,2.0,WOD_Dock_Small_01,180.0,140,241,64,127,1406124156,Daggerfall,140.4765625,-241.5625,1.0,HomeWealthy
-The Woodhouse Farmstead,2.0,WOD_Dock_Small_01,180.0,146,239,64,127,1466123956,Daggerfall,146.4765625,-239.5625,1.0,HomeFarms
-Aldpath Hall,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,180.0,144,239,64,127,1446123956,Daggerfall,144.4765625,-239.5625,1.0,TownVillage
-Grimton,2.0,WOD_Dock_Medium_01,0.0,143,236,64,0,1436423654,Daggerfall,143.5,-236.578125,1.0,TownVillage
-Fonthope End,2.0,WOD_Dock_Lighthouse_Small_01,0.0,146,235,64,0,1466423554,Daggerfall,146.5,-235.578125,1.0,TownHamlet
-Madla,2.0,WOD_Dock_Lighthouse_Small_01,0.0,597,285,64,0,5976528563,Dragontail Mountains,597.5078125,-285.5078125,4.0,TownVillage
-Kingford Palace,2.0,WOD_Dock_Small_01,-90.0,513,149,0,64,5135214958,Dwynnen,513.40625,-149.546875,1.0,HomeWealthy
-Hawking Palace,2.0,WOD_Dock_Small_01,180.0,535,143,64,127,5356114365,Dwynnen,535.4765625,-143.4921875,1.0,HomeWealthy
-The Queen's Cat Inn,2.0,WOD_Dock_Small_01,180.0,542,143,64,127,5426114365,Dwynnen,542.4765625,-143.4921875,1.0,Tavern
-Ashfield Hall,2.0,WOD_Dock_Small_01,90.0,547,139,127,64,5475013958,Dwynnen,547.390625,-139.546875,1.0,HomeWealthy
-Tambridge,2.0,WOD_Dock_Medium_01,0.0,79,73,64,0,79617378,Glenumbra Moors,79.4765625,-73.390625,1.0,TownHamlet
-Deerpath,2.0,WOD_Dock_Medium_01,-90.0,77,77,0,64,77517767,Glenumbra Moors,77.3984375,-77.4765625,1.0,TownHamlet
-Old Lysausa's Farm,2.0,WOD_Dock_Small_01,-45.0,625,150,127,0,6256115059,Isle of Balfiera,625.4765625,-150.5390625,1.0,HomeFarms
-Warwych,2.0,WOD_Balfiera_Dock_Lighthouse_Small_01,,631,162,58,61,6315816261,Isle of Balfiera,631.453125,-162.5234375,1.0,TownHamlet
-Kingsly Orchard,2.0,WOD_Dock_Small_01,,640,169,58,61,6405816961,Isle of Balfiera,640.453125,-169.5234375,1.0,HomeFarms
-Gallomarket,2.0,WOD_Balfiera_Dock_Lighthouse_Small_01,-90.0,644,166,0,64,6446116659,Isle of Balfiera,644.4765625,-166.5390625,1.0,TownVillage
-The Moorhouse Farmstead,2.0,WOD_Dock_Small_01,-180.0,654,170,64,127,6546517065,Isle of Balfiera,654.5078125,-170.4921875,1.0,HomeFarms
-The Crypts of Kingham,2.0,WOD_Dock_Small_01,135.0,725,233,0,127,7266423464,Isle of Balfiera,726.5,-234.5,0.0,Graveyard
-Ruins of The Old Yeoming Hovel,2.0,WOD_Balfiera_Dock_Lighthouse_Small_01,-90.0,671,203,0,64,6715620368,Isle of Balfiera,671.4375,-203.46875,4.0,DungeonRuin
-Tlactrn Manor,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,202,435,64,0,2025643561,Kairou,202.4375,-435.5234375,7.0,HomeWealthy
-Kalunnunu,2.0,WOD_Dock_Lighthouse_Large_01,0.0,754,279,64,0,7546527963,Lainlyn,754.5078125,-279.5078125,5.0,TownCity
-The Crimson Barbarian Pub,2.0,WOD_HF_Dock_Small_01,-45.0,644,279,127,0,6445827964,Lainlyn,644.453125,-279.5,4.0,Tavern
-Syrotubu,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,658,281,64,0,6586528163,Lainlyn,658.5078125,-281.5078125,4.0,TownVillage
-The Kurgrn Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,663,281,64,0,6636528163,Lainlyn,663.5078125,-281.5078125,4.0,HomeFarms
-Papiladisu,2.0,WOD_HF_Dock_Medium_01,0.0,674,286,64,0,6746528663,Lainlyn,674.5078125,-286.5078125,5.0,TownVillage
-Pilliweyn,2.0,WOD_HF_Dock_Small_01,0.0,685,284,64,0,6856528463,Lainlyn,685.5078125,-284.5078125,5.0,TownHamlet
-Torch Manor,2.0,WOD_HF_Dock_Small_01,0.0,687,283,64,0,6876528363,Lainlyn,687.5078125,-283.5078125,5.0,HomeWealthy
-Syrallao,2.0,WOD_HF_Dock_Lighthouse_Large_01,0.0,699,281,64,0,6996528163,Lainlyn,699.5078125,-281.5078125,5.0,TownVillage
-Pythohajer,2.0,WOD_HF_Dock_Medium_01,0.0,702,281,64,0,7026528163,Lainlyn,702.5078125,-281.5078125,5.0,TownHamlet
-Krill'kern Orchard,2.0,WOD_HF_Dock_Small_01,0.0,707,283,64,0,7076528363,Lainlyn,707.5078125,-283.5078125,5.0,HomeFarms
-Burning Ascencion of Julianos,2.0,WOD_HF_Dock_Small_01,0.0,712,282,64,0,7126528263,Lainlyn,712.5078125,-282.5078125,5.0,ReligionTemple
-Reliquary of Sai,2.0,WOD_HF_Dock_Small_01,0.0,724,282,64,0,7246528263,Lainlyn,724.5078125,-282.5078125,5.0,ReligionCult
-The Old Rausten Shack,2.0,WOD_HF_Dock_Small_01,0.0,728,282,64,0,7286528263,Lainlyn,728.5078125,-282.5078125,5.0,HomePoor
-Blessed Tree of Julianos,2.0,WOD_HF_Dock_Small_01,0.0,734,282,64,0,7346528263,Lainlyn,734.5078125,-282.5078125,5.0,ReligionTemple
-Holy Ascencion of Julianos,2.0,WOD_HF_Dock_Small_01,-45.0,737,282,127,0,7376528263,Lainlyn,737.5078125,-282.5078125,5.0,ReligionTemple
-Morilliton,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,741,281,64,0,7416528163,Lainlyn,741.5078125,-281.5078125,5.0,TownHamlet
-Stuld Hall,2.0,WOD_HF_Dock_Small_01,0.0,747,280,64,0,7476528063,Lainlyn,747.5078125,-280.5078125,5.0,HomeWealthy
-Infinite Soul of Julianos,2.0,WOD_HF_Dock_Small_01,-45.0,749,279,127,0,7496327964,Lainlyn,749.4921875,-279.5,5.0,ReligionTemple
-Blarcan Hall,2.0,WOD_HF_Dock_Small_01,0.0,764,278,64,0,7646527863,Lainlyn,764.5078125,-278.5078125,5.0,HomeWealthy
-Baghascuwan,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,766,279,64,0,7666527963,Lainlyn,766.5078125,-279.5078125,5.0,TownHamlet
-The Silver Hedgehog Pub,2.0,WOD_Dock_Small_01,-90.0,800,181,0,64,8006118173,Menevia,800.4765625,-181.4296875,1.0,Tavern
-Chesterbrugh,2.0,WOD_Dock_Lighthouse_Large_01,180.0,791,216,64,127,7916121658,Menevia,791.4765625,-216.546875,1.0,TownVillage
-Old Vannyvyra's Farm,2.0,WOD_Dock_Small_01,-90.0,821,215,0,64,8215421563,Menevia,821.421875,-215.5078125,1.0,HomeFarms
-Wadijilanis,2.0,WOD_HF_Dock_Medium_01,0.0,898,285,64,0,8986528563,Mournoth,898.5078125,-285.5078125,5.0,TownVillage
-Meseraara,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,962,278,64,0,9626527863,Mournoth,962.5078125,-278.5078125,5.0,TownHamlet
-The Dirty Goat Inn,2.0,WOD_HF_Dock_Small_01,0.0,969,281,64,0,9696528163,Mournoth,969.5078125,-281.5078125,5.0,Tavern
-Elissinia,2.0,WOD_HF_Dock_Medium_01,0.0,279,403,64,0,2795640361,Myrkwasa,279.4375,-403.5234375,7.0,TownVillage
-The Boirch Cabin,2.0,WOD_HF_Dock_Small_01,-45.0,296,397,127,0,2966339764,Myrkwasa,296.4921875,-397.5,7.0,HomePoor
-Gothcroft,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,127,42,0,64,127674274,Northmoor,127.5234375,-42.421875,1.0,TownCity
-The Rat and Priest Hostel,2.0,WOD_Dock_Small_01,0.0,224,5,64,0,224670569,Northmoor,224.5234375,-5.4609375,1.0,Tavern
-The Mouse and Goblin Tavern,2.0,WOD_Dock_Small_01,0.0,222,5,64,0,222670569,Northmoor,222.5234375,-5.4609375,1.0,Tavern
-The Kingham Farmstead,2.0,WOD_Dock_Small_01,-90.0,215,11,0,64,215631158,Northmoor,215.4921875,-11.546875,1.0,HomeFarms
-Knightshope,2.0,WOD_Dock_Medium_01,0.0,229,5,64,0,229670569,Northmoor,229.5234375,-5.4609375,1.0,TownHamlet
-Stokwall,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,219,8,0,64,219630858,Northmoor,219.4921875,-8.546875,1.0,TownVillage
-Buckingsmith Manor,2.0,WOD_Dock_Small_01,0.0,210,14,64,0,210641467,Northmoor,210.5,-14.4765625,1.0,HomeWealthy
-Vanpath,2.0,WOD_Dock_Lighthouse_Medium_01,0.0,162,34,64,0,162553474,Northmoor,162.4296875,-34.421875,1.0,TownVillage
-Longham,2.0,WOD_Dock_Lighthouse_Small_01,0.0,152,35,64,0,152643564,Northmoor,152.5,-35.5,1.0,TownVillage
-Burgcart Heath,2.0,WOD_Dock_Lighthouse_Small_01,-90.0,124,45,0,64,124674574,Northmoor,124.5234375,-45.421875,1.0,TownVillage
-The Feather and Dog Tavern,2.0,WOD_HF_Dock_Small_01,0.0,235,408,64,0,2355640861,Pothago,235.4375,-408.5234375,7.0,Tavern
-Berbajan,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,266,406,64,0,2665640661,Pothago,266.4375,-406.5234375,7.0,TownVillage
-Berbajan,2.0,WOD_HF_Dock_Lighthouse_Small_01,45.0,266,406,127,127,2667640664,Pothago,266.59375,-406.5,7.0,TownVillage
-Tulajidax,2.0,WOD_HF_Dock_Lighthouse_Medium_01,45.0,779,283,127,127,7796328364,Satakalaam,779.4921875,-283.5,5.0,TownVillage
-The King's Dungeon Lodge,2.0,WOD_HF_Dock_Small_01,0.0,782,283,64,0,7826528363,Satakalaam,782.5078125,-283.5078125,5.0,Tavern
-Lopadai,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,798,277,0,64,7986327764,Satakalaam,798.4921875,-277.5,5.0,TownHamlet
-The Old Turder Hovel,2.0,WOD_HF_Dock_Small_01,0.0,815,279,64,0,8156527963,Satakalaam,815.5078125,-279.5078125,5.0,HomePoor
-Shrald Court,2.0,WOD_HF_Dock_Small_01,0.0,817,278,64,0,8176527863,Satakalaam,817.5078125,-278.5078125,5.0,HomeWealthy
-M'arkam Manor,2.0,WOD_HF_Dock_Small_01,0.0,843,278,64,0,8436527863,Satakalaam,843.5078125,-278.5078125,5.0,HomeWealthy
-Cellen Hall,2.0,WOD_HF_Dock_Small_01,0.0,842,294,64,0,8426529463,Satakalaam,842.5078125,-294.5078125,5.0,HomeWealthy
-Javibia,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,847,269,0,64,8475926959,Satakalaam,847.4609375,-269.5390625,5.0,TownHamlet
-Rlect Hall,2.0,WOD_HF_Dock_Small_01,180.0,825,264,64,127,8256426482,Satakalaam,825.5,-264.359375,5.0,HomeWealthy
-The Crimson Cat Inn,2.0,WOD_HF_Dock_Small_01,0.0,832,263,64,0,8325926369,Satakalaam,832.4609375,-263.4609375,5.0,Tavern
-Pibuda,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,329,376,64,0,3296537663,Sentinel,329.5078125,-376.5078125,7.0,TownVillage
-Zenuhno,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,347,359,64,0,3476335964,Sentinel,347.4921875,-359.5,7.0,TownVillage
-Zenuhno,2.0,WOD_HF_Dock_Medium_01,180.0,347,359,64,127,3476835969,Sentinel,347.53125,-359.4609375,7.0,TownVillage
-Mji-Ij,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,347,357,64,0,3476535763,Sentinel,347.5078125,-357.5078125,7.0,TownVillage
-Antelajda,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,355,358,64,0,3556535863,Sentinel,355.5078125,-358.5078125,7.0,TownVillage
-Naresa,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-90.0,370,350,0,64,3706335064,Sentinel,370.4921875,-350.5,7.0,TownCity
-The Bosam Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,372,348,64,0,3726534863,Sentinel,372.5078125,-348.5078125,7.0,HomeFarms
-Jalonia,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,375,347,64,0,3756534763,Sentinel,375.5078125,-347.5078125,7.0,TownVillage
-The M'erg Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,383,345,64,0,3836534563,Sentinel,383.5078125,-345.5078125,7.0,HomeFarms
-Ageliret,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,387,344,64,0,3876534463,Sentinel,387.5078125,-344.5078125,7.0,TownVillage
-Pallaton,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,392,341,64,0,3926534163,Sentinel,392.5078125,-341.5078125,7.0,TownHamlet
-Sentinel,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Large_01,45.0,397,342,127,127,3977334268,Sentinel,397.5703125,-342.46875,7.0,TownCity
-Mesiton,2.0,WOD_HF_Dock_Lighthouse_Small_01,180.0,396,348,64,127,3965834864,Sentinel,396.453125,-348.5,7.0,TownVillage
-Isfakabi,2.0,WOD_HF_Dock_Lighthouse_Small_01,180.0,392,351,64,127,3925835164,Sentinel,392.453125,-351.5,7.0,TownHamlet
-The Queen's Wolf Inn,2.0,WOD_HF_Dock_Small_01,90.0,387,353,127,64,3877635364,Sentinel,387.59375,-353.5,7.0,Tavern
-Zagumba-Kom,2.0,WOD_HF_Dock_Lighthouse_Small_01,90.0,382,361,127,64,3827636164,Sentinel,382.59375,-361.5,7.0,TownVillage
-The Old Thush Place,2.0,WOD_HF_Dock_Small_01,0.0,385,369,64,0,3856536963,Sentinel,385.5078125,-369.5078125,7.0,HomePoor
-The Rhujten Cabin,2.0,WOD_HF_Dock_Small_01,0.0,388,369,64,0,3886536963,Sentinel,388.5078125,-369.5078125,7.0,HomePoor
-Cudakasa,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,407,373,64,0,4076537363,Sentinel,407.5078125,-373.5078125,7.0,TownHamlet
-Bubumbaret,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,415,373,64,0,4156537363,Sentinel,415.5078125,-373.5078125,7.0,TownHamlet
-The V'uchin Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,419,374,64,0,4196537463,Sentinel,419.5078125,-374.5078125,7.0,HomeFarms
-The C'avar Cabin,2.0,WOD_HF_Dock_Small_01,0.0,422,373,64,0,4226737358,Sentinel,422.5234375,-373.546875,7.0,HomePoor
-The Dirty Mug Tavern,2.0,WOD_HF_Dock_Small_01,0.0,425,373,64,0,4256537363,Sentinel,425.5078125,-373.5078125,7.0,Tavern
-Bubaaqja,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,427,373,64,0,4276537363,Sentinel,427.5078125,-373.5078125,7.0,TownHamlet
-Old Mhirpti's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,439,372,64,0,4396337264,Sentinel,439.4921875,-372.5,7.0,HomePoor
-Shrine of Q'Olwen,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,441,370,64,0,4416537063,Sentinel,441.5078125,-370.5078125,7.0,ReligionCult
-Bubissidata,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-135.0,404,327,0,0,4045932764,Sentinel,404.4609375,-327.5,7.0,TownCity
-Rhorkke Hall,2.0,WOD_HF_Dock_Small_01,180.0,409,328,64,127,4096732876,Sentinel,409.5234375,-328.40625,7.0,HomeWealthy
-Antelibuton,2.0,WOD_HF_Dock_Lighthouse_Large_01,0.0,558,296,64,0,5586529663,Tigonus,558.5078125,-296.5078125,6.0,TownCity
-Khajocconu,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,475,346,0,64,4756334664,Tigonus,475.4921875,-346.5,6.0,TownVillage
-Mesanis,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,514,318,64,0,5146531863,Tigonus,514.5078125,-318.5078125,6.0,TownVillage
-Mesanis,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,514,318,0,64,5146331864,Tigonus,514.4921875,-318.5,6.0,TownVillage
-Paponirea,2.0,WOD_HF_Dock_Small_01,0.0,516,313,64,0,5166531363,Tigonus,516.5078125,-313.5078125,6.0,TownHamlet
-Millitor,2.0,WOD_HF_Dock_Small_01,0.0,518,312,64,0,5186531263,Tigonus,518.5078125,-312.5078125,6.0,TownHamlet
-Wadijerareg,2.0,WOD_HF_Dock_Medium_01,0.0,552,297,64,0,5526529763,Tigonus,552.5078125,-297.5078125,6.0,TownHamlet
-The Red Cat Tavern,2.0,WOD_HF_Dock_Small_01,0.0,569,294,64,0,5696529463,Tigonus,569.5078125,-294.5078125,6.0,Tavern
-The Thirsty Sword Tavern,2.0,WOD_HF_Dock_Small_01,0.0,521,309,64,0,5216530963,Tigonus,521.5078125,-309.5078125,6.0,Tavern
-The Rat and Barbarian Tavern,2.0,WOD_HF_Dock_Small_01,0.0,524,308,64,0,5246530863,Tigonus,524.5078125,-308.5078125,6.0,Tavern
-Kalureg,2.0,WOD_HF_Dock_Medium_01,0.0,527,308,64,0,5276530863,Tigonus,527.5078125,-308.5078125,6.0,TownVillage
-Baghada,2.0,WOD_HF_Dock_Small_01,0.0,530,308,64,0,5306530863,Tigonus,530.5078125,-308.5078125,6.0,TownHamlet
-The V'ev Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,534,305,64,0,5346530563,Tigonus,534.5078125,-305.5078125,6.0,HomeFarms
-The Krurta Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,582,290,64,0,5826529063,Tigonus,582.5078125,-290.5078125,7.0,HomeFarms
-Old Rhardja's Hovel,2.0,WOD_HF_Dock_Small_01,180.0,596,279,64,127,5966927973,Tigonus,596.5390625,-279.4296875,4.0,HomePoor
-Midmont,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,61,106,0,64,616410669,Tulune,61.5,-106.4609375,1.0,TownVillage
-The Lysyna Cabal,2.0,WOD_Dock_Small_01,-90.0,67,121,0,64,676412165,Tulune,67.5,-121.4921875,1.0,DungeonLabyrinth
-Lambrugh,2.0,WOD_Dock_Lighthouse_Medium_01,180.0,72,164,64,127,726016474,Tulune,72.46875,-164.421875,1.0,TownVillage
-Penwall Derry,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,90.0,846,243,127,64,8466924358,Wayrest,846.5390625,-243.546875,0.0,TownCity
-Tunmont,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,180.0,975,273,64,127,9756127358,Wayrest,975.4765625,-273.546875,1.0,TownCity
-Bleeding Ascencion of Akatosh,2.0,WOD_Dock_Small_01,-45.0,828,223,127,0,8286122373,Wayrest,828.4765625,-223.4296875,1.0,ReligionTemple
-The Old Buckinghouse Place,2.0,WOD_Dock_Small_01,180.0,840,225,64,127,8406122558,Wayrest,840.4765625,-225.546875,1.0,HomePoor
-The Yeomfield Farmstead,2.0,WOD_Dock_Small_01,-135.0,847,229,0,0,8476122958,Wayrest,847.4765625,-229.546875,1.0,HomeFarms
-Chestertower,2.0,WOD_Dock_Lighthouse_Small_01,-90.0,854,236,0,64,8546123673,Wayrest,854.4765625,-236.4296875,1.0,TownHamlet
-Tamvale Rock,2.0,WOD_Dock_Lighthouse_Small_01,0.0,841,240,64,0,8416724076,Wayrest,841.5234375,-240.40625,5.0,TownVillage
-Aldingshire,2.0,WOD_Dock_Small_01,90.0,839,249,127,64,8396924958,Wayrest,839.5390625,-249.546875,5.0,TownHamlet
-The Gaerham Farmstead,2.0,WOD_Dock_Small_01,180.0,836,247,64,127,8365524756,Wayrest,836.4296875,-247.5625,5.0,HomeFarms
-Wayrest,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,-45.0,859,244,127,0,8596124473,Wayrest,859.4765625,-244.4296875,1.0,TownCity
-Mertale Court,2.0,WOD_Dock_Small_01,-90.0,875,250,0,64,8756125073,Wayrest,875.4765625,-250.4296875,1.0,TownVillage
-The Laughing Porcupine Pub,2.0,WOD_Dock_Small_01,-90.0,876,255,0,64,8766125573,Wayrest,876.4765625,-255.4296875,1.0,Tavern
-Eastwold,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,-135.0,884,255,0,0,8846825568,Wayrest,884.53125,-255.46875,1.0,TownCity
-Chardale,2.0,WOD_Wayrest_Dock_Lighthouse_Medium_01,180.0,887,256,64,127,8876125658,Wayrest,887.4765625,-256.546875,1.0,TownVillage
-Eternal Prophet of Akatosh,2.0,WOD_Dock_Small_01,-90.0,861,249,0,64,8616124973,Wayrest,861.4765625,-249.4296875,1.0,ReligionTemple
-Old Elyssa's Hovel,2.0,WOD_Dock_Small_01,180.0,866,249,64,127,8666124958,Wayrest,866.4765625,-249.546875,1.0,HomePoor
-Inner Rebirth of Akatosh,2.0,WOD_Dock_Lighthouse_Small_01,180.0,889,257,64,127,8896125758,Wayrest,889.4765625,-257.546875,1.0,ReligionTemple
-Hawksley Hall,2.0,WOD_Dock_Small_01,180.0,892,258,64,127,8926125858,Wayrest,892.4765625,-258.546875,1.0,HomeWealthy
-Djen Lodge,2.0,WOD_Dock_Small_01,180.0,900,256,64,127,9006125658,Wayrest,900.4765625,-256.546875,1.0,ReligionCult
-Vanhope Hall,2.0,WOD_Dock_Lighthouse_Small_01,180.0,907,258,64,127,9076125858,Wayrest,907.4765625,-258.546875,1.0,TownHamlet
-Grayville Court,2.0,WOD_Dock_Small_01,0.0,907,262,64,0,9076726263,Wayrest,907.5234375,-262.5078125,1.0,TownHamlet
-The Lion and Castle Tavern,2.0,WOD_Dock_Small_01,-45.0,902,264,127,0,9026726463,Wayrest,902.5234375,-264.5078125,1.0,Tavern
-Burning Tree of Akatosh,2.0,WOD_Dock_Small_01,180.0,923,261,64,127,9236126158,Wayrest,923.4765625,-261.546875,1.0,ReligionTemple
-Coppersly Hall,2.0,WOD_Dock_Small_01,180.0,925,261,64,127,9256126158,Wayrest,925.4765625,-261.546875,1.0,HomeWealthy
-Longmore Field,2.0,WOD_Wayrest_Dock_Lighthouse_Medium_01,180.0,931,262,64,127,9316126258,Wayrest,931.4765625,-262.546875,1.0,TownVillage
-Kieran Theatre,2.0,WOD_Dock_Lighthouse_Small_01,180.0,940,264,64,127,9406126458,Wayrest,940.4765625,-264.546875,0.0,ReligionCult
-The Yeomsley Farmstead,2.0,WOD_Dock_Small_01,180.0,942,264,64,127,9426126458,Wayrest,942.4765625,-264.546875,0.0,HomeFarms
-Aldingbridge Moor,2.0,WOD_Dock_Lighthouse_Small_01,180.0,956,265,64,127,9566126558,Wayrest,956.4765625,-265.546875,1.0,TownHamlet
-Wartry Moor,2.0,WOD_Dock_Lighthouse_Small_01,180.0,964,266,64,127,9646126658,Wayrest,964.4765625,-266.546875,1.0,TownHamlet
-Pencart,2.0,WOD_Dock_Lighthouse_Small_01,0.0,152,38,64,0,152513879,Northmoor,152.3984375,-38.3828125,1.0,TownVillage
-The Elyzanna Assembly,2.0,WOD_Dock_Small_01,0.0,59,144,64,0,596814484,Tulune,59.53125,-144.34375,1.0,DungeonLabyrinth
-The Citadel of Hearthham,2.0,WOD_Dock_Small_01,45.0,62,148,127,127,628214882,Tulune,62.640625,-148.359375,1.0,DungeonLabyrinth
-Ruins of Castle Gaerton,2.0,WOD_Dock_Small_01,180.0,125,201,64,127,1256320163,Daggerfall,125.4921875,-201.5078125,1.0,DungeonRuin
-Aldbrugh,2.0,WOD_Dock_Lighthouse_Small_01,135.0,333,202,0,127,3336020264,Shalgora,333.46875,-202.5,1.0,TownHamlet
-The Moorwing Cemetery,2.0,WOD_Dock_Lighthouse_Medium_01,0.0,366,193,64,0,3666919370,Anticlere,366.5390625,-193.453125,1.0,Graveyard
-The Rusty Goblin Hostel,2.0,WOD_Dock_Small_01,90.0,544,137,127,64,5447013774,Dwynnen,544.546875,-137.421875,1.0,Tavern
-The Tomb of Veromaus,2.0,WOD_Dock_Small_01,-135.0,553,134,0,0,5536113458,Bhoriane,553.4765625,-134.546875,1.0,DungeonLabyrinth
-The Grave of Lithogheon,2.0,WOD_Dock_Small_01,90.0,593,137,127,64,5937213755,Bhoriane,593.5625,-137.5703125,1.0,DungeonLabyrinth
-Tower Kinghart,2.0,WOD_Dock_Small_01,0.0,589,148,64,0,5896314864,Bhoriane,589.4921875,-148.5,1.0,DungeonKeep
-The House of Lithivam,2.0,WOD_Dock_Small_01,90.0,591,151,127,64,5916515164,Bhoriane,591.5078125,-151.5,1.0,DungeonLabyrinth
-Demuagexia Hollow,2.0,WOD_Dock_Small_01,180.0,675,125,64,127,6756812559,Koegria,675.53125,-125.5390625,1.0,DungeonLabyrinth
-The Laboratory of Mordyval,2.0,WOD_Dock_Small_01,180.0,711,134,64,127,7116413460,Alcaire,711.5,-134.53125,1.0,DungeonLabyrinth
-The Stronghold of Ashfield,2.0,WOD_Dock_Small_01,180.0,713,135,64,127,7136413542,Alcaire,713.5,-135.671875,1.0,DungeonKeep
-Ruins of Moorford Manor,2.0,WOD_Dock_Small_01,180.0,717,135,64,127,7176913565,Alcaire,717.5390625,-135.4921875,1.0,DungeonRuin
-The Tower of Coppersly,2.0,WOD_Dock_Small_01,180.0,758,140,64,127,7586714054,Alcaire,758.5234375,-140.578125,1.0,DungeonKeep
-The Greenton Graveyard,2.0,WOD_Dock_Small_01,180.0,782,148,64,127,7826414869,Alcaire,782.5,-148.4609375,4.0,Graveyard
-The Kingham Graveyard,2.0,WOD_Dock_Small_01,-135.0,795,157,0,0,7955915772,Menevia,795.4609375,-157.4375,3.0,Graveyard
-Ruins of Old Vannorya's Place,2.0,WOD_Dock_Small_01,-90.0,793,193,0,64,7935919363,Menevia,793.4609375,-193.5078125,1.0,DungeonRuin
-The Dunynak Excavation,2.0,WOD_Dock_Small_01,-90.0,785,210,0,64,7856821059,Menevia,785.53125,-210.5390625,1.0,DungeonLabyrinth
-Joyous Light of Akatosh,2.0,WOD_Dock_Small_01,-90.0,856,242,0,64,8566024260,Wayrest,856.46875,-242.53125,1.0,ReligionTemple
-The Stronghold of Gaercroft,2.0,WOD_Dock_Small_01,0.0,900,264,64,0,9007026469,Wayrest,900.546875,-264.4609375,1.0,DungeonKeep
-Zagoparia,2.0,WOD_HF_Dock_Lighthouse_Medium_01,180.0,901,278,64,127,9016427865,Mournoth,901.5,-278.4921875,5.0,TownVillage
-The Prison of Rhurpur,2.0,WOD_HF_Dock_Small_01,0.0,872,281,64,0,8726328159,Mournoth,872.4921875,-281.5390625,5.0,DungeonLabyrinth
-The Hezthor Nest,2.0,WOD_HF_Dock_Small_01,180.0,829,287,64,127,8296728765,Satakalaam,829.5234375,-287.4921875,5.0,DungeonLabyrinth
-The Tomb of Verimyth,2.0,WOD_HF_Dock_Small_01,180.0,827,287,64,127,8277328756,Satakalaam,827.5703125,-287.5625,5.0,DungeonLabyrinth
-The Hold of Gav'kern,2.0,WOD_HF_Dock_Small_01,45.0,770,281,127,127,7707228165,Lainlyn,770.5625,-281.4921875,5.0,DungeonKeep
-The Prison of Grictke,2.0,WOD_HF_Dock_Small_01,0.0,751,277,64,0,7516927779,Lainlyn,751.5390625,-277.3828125,5.0,DungeonLabyrinth
-The Aviary of Yearock,2.0,WOD_HF_Dock_Small_01,0.0,731,282,64,0,7316028282,Lainlyn,731.46875,-282.359375,5.0,DungeonLabyrinth
-The Hold of Gort,2.0,WOD_HF_Dock_Small_01,0.0,704,281,64,0,7046928165,Lainlyn,704.5390625,-281.4921875,5.0,DungeonKeep
-Faurp's Hold,2.0,WOD_HF_Dock_Small_01,0.0,697,279,64,0,6976127977,Lainlyn,697.4765625,-279.3984375,5.0,DungeonLabyrinth
-The Prison of Glurkum,2.0,WOD_HF_Dock_Small_01,0.0,682,285,64,0,6827028564,Lainlyn,682.546875,-285.5,5.0,DungeonLabyrinth
-The Monastery of Baalibleusulla,2.0,WOD_HF_Dock_Small_01,0.0,656,281,64,0,6565928152,Lainlyn,656.4609375,-281.59375,4.0,DungeonLabyrinth
-Corranoth's Tomb,2.0,WOD_HF_Dock_Small_01,0.0,614,280,64,0,6146928063,Dragontail Mountains,614.5390625,-280.5078125,4.0,DungeonLabyrinth
-Inner Altar of Dibella,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,583,276,0,64,5835827672,Tigonus,583.453125,-276.4375,4.0,ReligionTemple
-Ruins of The Ghuldten Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,564,295,64,0,5645629560,Tigonus,564.4375,-295.53125,6.0,DungeonRuin
-The Old Kharcur Shack,2.0,WOD_HF_Dock_Small_01,-45.0,470,351,127,0,4706535154,Tigonus,470.5078125,-351.578125,0.0,HomePoor
-The Faollan Pit,2.0,WOD_HF_Dock_Small_01,-45.0,446,370,127,0,4465537067,Ayasofya,446.4296875,-370.4765625,7.0,DungeonLabyrinth
-The Cavern of Homuneusuna,2.0,WOD_HF_Dock_Small_01,0.0,429,373,64,0,4296937363,Sentinel,429.5390625,-373.5078125,7.0,DungeonLabyrinth
-Ruins of The Bernar Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,411,372,64,0,4116837273,Sentinel,411.53125,-372.4296875,7.0,DungeonRuin
-The Cavern of Homunateusia,2.0,WOD_HF_Dock_Small_01,90.0,381,364,127,64,3816936454,Sentinel,381.5390625,-364.578125,7.0,DungeonLabyrinth
-Tower Klolpon,2.0,WOD_HF_Dock_Small_01,180.0,398,346,64,127,3987334664,Sentinel,398.5703125,-346.5,7.0,DungeonKeep
-The Fortress of Fhojum,2.0,WOD_HF_Dock_Small_01,0.0,399,342,64,0,3996134254,Sentinel,399.4765625,-342.578125,7.0,DungeonLabyrinth
-Tower Dejom,2.0,WOD_HF_Dock_Small_01,0.0,378,345,64,0,3785634560,Sentinel,378.4375,-345.53125,7.0,DungeonKeep
-The Monastery of Baalebron,2.0,WOD_HF_Dock_Small_01,-90.0,369,352,0,64,3694935284,Sentinel,369.3828125,-352.34375,7.0,DungeonLabyrinth
-Old Rloski's Shack,2.0,WOD_HF_Dock_Small_01,0.0,364,354,64,0,3645535460,Sentinel,364.4296875,-354.53125,7.0,HomePoor
-Kieran Theatre,2.0,WOD_HF_Dock_Small_01,-45.0,300,393,127,0,3006339361,Myrkwasa,300.4921875,-393.5234375,7.0,ReligionCult
-Castle Mormun,2.0,WOD_HF_Dock_Small_01,-90.0,276,406,0,64,2766840660,Myrkwasa,276.53125,-406.53125,7.0,DungeonKeep
-T'over Tower,2.0,WOD_HF_Dock_Small_01,0.0,263,405,64,0,2635440554,Pothago,263.421875,-405.578125,7.0,DungeonLabyrinth
-Ruins of Tlolp'kern Manor,2.0,WOD_HF_Dock_Small_01,0.0,246,405,64,0,2466540554,Pothago,246.5078125,-405.578125,7.0,DungeonRuin
-The Nest of Skoedon,2.0,WOD_HF_Dock_Small_01,0.0,241,407,64,0,2416340765,Pothago,241.4921875,-407.4921875,7.0,DungeonLabyrinth
-The Vault of Garoghyth,2.0,WOD_HF_Dock_Small_01,-90.0,227,417,0,64,2277741759,Pothago,227.6015625,-417.5390625,7.0,DungeonLabyrinth
-The Tomb of Lithelaus,2.0,WOD_HF_Dock_Small_01,0.0,217,422,64,0,2175942264,Kairou,217.4609375,-422.5,7.0,DungeonLabyrinth
-Stifylir's Guard,2.0,WOD_HF_Dock_Small_01,0.0,205,433,64,0,2055643359,Kairou,205.4375,-433.5390625,7.0,DungeonKeep
-The Roost of Trogrugoth,2.0,WOD_HF_Dock_Small_01,-90.0,173,453,0,64,1735445358,Abibon-gora,173.421875,-453.546875,7.0,DungeonLabyrinth
-The Tower of T'ircten,2.0,WOD_HF_Dock_Small_01,-90.0,168,468,0,64,1686546851,Abibon-gora,168.5078125,-468.6015625,7.0,DungeonKeep
-Lhur's Hold,2.0,WOD_HF_Dock_Small_01,0.0,164,476,64,0,1646547658,Abibon-gora,164.5078125,-476.546875,7.0,DungeonKeep
-Old Burktha's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,162,476,64,0,1626547660,Abibon-gora,162.5078125,-476.53125,7.0,HomePoor
-Ruins of Saerk Hall,2.0,WOD_HF_Dock_Small_01,-90.0,153,483,0,64,1535648377,Abibon-gora,153.4375,-483.3984375,7.0,DungeonRuin
-Ruins of Cosh Hall,2.0,WOD_HF_Dock_Small_01,90.0,439,343,127,64,4396734361,Cybiades,439.5234375,-343.5234375,7.0,DungeonRuin
-The Selpar Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,406,325,64,0,4066732564,Sentinel,406.5234375,-325.5,7.0,HomeFarms
-The Nest of Helloth,2.0,WOD_HF_Dock_Small_01,-90.0,199,455,0,64,1997645568,Kairou,199.59375,-455.46875,7.0,DungeonLabyrinth
-Ruins of Mhoghton Orchard,2.0,WOD_HF_Dock_Small_01,0.0,198,458,64,0,1986945870,Abibon-gora,198.5390625,-458.453125,7.0,DungeonRuin
-Ruins of The Dhirtum Farmstead,2.0,WOD_HF_Dock_Small_01,-90.0,179,457,0,64,1795845765,Abibon-gora,179.453125,-457.4921875,7.0,DungeonRuin
-Ruins of Tower Darhtin,2.0,WOD_HF_Dock_Small_01,0.0,176,460,64,0,1765246067,Abibon-gora,176.40625,-460.4765625,7.0,DungeonRuin
-THe Crypts of Mastersmith,2.0,WOD_Dock_Small_01,180.0,712,234,64,127,7126423459,Isle of Balfiera,712.5,-234.5390625,4.0,Graveyard
-Ruins of Old Evelanna's Hovel,2.0,WOD_Dock_Small_01,0.0,727,188,64,0,7277018869,Isle of Balfiera,727.546875,-188.4609375,4.0,DungeonRuin
-The Yeomhart Graveyard,2.0,WOD_Dock_Small_01,-90.0,681,195,0,64,6817219570,Isle of Balfiera,681.5625,-195.453125,4.0,Graveyard
-Ruins of Coppercroft Court,2.0,WOD_Dock_Small_01,-135.0,685,225,0,0,6854622563,Isle of Balfiera,685.359375,-225.5078125,4.0,DungeonRuin
-Ruins of The Greening Cabin,2.0,WOD_Dock_Small_01,180.0,654,201,64,127,6546520165,Isle of Balfiera,654.5078125,-201.4921875,1.0,DungeonRuin
-Ruins of Old Lysayne's Hovel,2.0,WOD_Dock_Small_01,180.0,646,202,64,127,6465820261,Isle of Balfiera,646.453125,-202.5234375,1.0,DungeonRuin
-Ruins of Mastersley Grange,2.0,WOD_Dock_Small_01,0.0,663,178,64,0,6635417858,Isle of Balfiera,663.421875,-178.546875,1.0,DungeonRuin
-The Sahulessa Hermitage,2.0,WOD_Dock_Small_01,0.0,652,168,64,0,6525816883,Isle of Balfiera,652.453125,-168.3515625,1.0,DungeonLabyrinth
-The Masoleum of Darkivaron,2.0,WOD_Dock_Small_01,0.0,648,164,64,0,6487016446,Isle of Balfiera,648.546875,-164.640625,1.0,DungeonLabyrinth
-The Tombs of Masterhart,2.0,WOD_Dock_Small_01,90.0,646,162,127,64,6466416259,Isle of Balfiera,646.5,-162.5390625,1.0,Graveyard
-The Tower of Ghorkke,2.0,WOD_Dock_Small_01,-45.0,849,269,127,0,8497026974,Satakalaam,849.546875,-269.421875,5.0,DungeonKeep
-The Rusty Bird Tavern,2.0,WOD_Dock_Small_01,90.0,835,276,127,64,8355627658,Satakalaam,835.4375,-276.546875,5.0,Tavern
-The Cabal of Morgyrrya,2.0,WOD_Dock_Small_01,-90.0,139,239,0,64,1396523973,Daggerfall,139.5078125,-239.4296875,1.0,DungeonLabyrinth
-Tulune,,nan,,73,123,69,58,736912358,Tulune,73.5390625,-123.546875,1.0,TownCity
-The Moorcroft Plantation,,nan,,86,100,68,54,866810054,Tulune,86.53125,-100.578125,1.0,HomeFarms
-Glenumbra,,nan,,137,83,60,63,137608363,Glenumbra Moors,137.46875,-83.5078125,1.0,TownCity
-Djen Lodge,,nan,,150,96,63,61,150639661,Glenpoint,150.4921875,-96.5234375,3.0,ReligionCult
-The Hawking Cemetery,,nan,,104,75,60,70,104607570,Glenumbra Moors,104.46875,-75.453125,1.0,Graveyard
-Old Lysolda's Farm,,nan,,137,107,61,64,1376110764,Glenpoint,137.4765625,-107.5,3.0,HomeFarms
-Glenpoint,,nan,,167,109,64,63,1676410963,Glenpoint,167.5,-109.5078125,3.0,TownCity
-The Yeomston Vaults,,nan,,168,93,56,73,168569373,Glenpoint,168.4375,-93.4296875,3.0,Graveyard
-Whitebrone Hall,,nan,,170,91,64,60,170649160,Glenpoint,170.5,-91.53125,3.0,TownVillage
-The Dwarf and Goat Hostel,,nan,,212,96,64,61,212649661,Glenpoint,212.5,-96.5234375,3.0,Tavern
-Ilessan Hills,,nan,,218,86,60,67,218608667,Ilessan Hills,218.46875,-86.4765625,3.0,TownCity
-Northmoor,,nan,,219,49,63,70,219634970,Northmoor,219.4921875,-49.453125,1.0,TownCity
-The Old Copperwing Hovel,,nan,,240,23,67,52,240672352,Northmoor,240.5234375,-23.59375,1.0,HomePoor
-The Hold of Hawkcroft,,nan,,242,194,67,45,2426719445,Daggerfall,242.5234375,-194.6484375,1.0,DungeonKeep
-Moorcroft Manor,,nan,,245,196,60,65,2456019665,Daggerfall,245.46875,-196.4921875,1.0,HomeWealthy
-Warvale,,nan,,248,192,63,63,2486319263,Daggerfall,248.4921875,-192.5078125,1.0,TownVillage
-The Old Buckingcroft Place,,nan,,279,194,68,60,2796819460,Daggerfall,279.53125,-194.53125,1.0,HomePoor
-The Coven of Elyzyn,,nan,,263,184,58,70,2635818470,Daggerfall,263.453125,-184.453125,1.0,DungeonLabyrinth
-The Prison of Edwyrick,,nan,,333,89,56,61,333568961,Ilessan Hills,333.4375,-89.5234375,1.0,DungeonLabyrinth
-The Wicksley Farmstead,,nan,,334,86,60,74,334608674,Ilessan Hills,334.46875,-86.421875,1.0,HomeFarms
-Ruins of Greenhouse Manor,,nan,,361,40,72,65,361724065,Ykalon,361.5625,-40.4921875,1.0,DungeonRuin
-Ykalon,,nan,,347,29,63,72,347632972,Ykalon,347.4921875,-29.4375,1.0,TownCity
-Phrygias,,nan,,449,35,59,59,449593559,Phrygias,449.4609375,-35.5390625,1.0,TownCity
-Castle Wickhart,,nan,,483,41,56,60,483564160,Phrygias,483.4375,-41.53125,1.0,DungeonKeep
-Kambria,,nan,,637,56,68,63,637685663,Kambria,637.53125,-56.5078125,4.0,TownCity
-Wrothgaria,,nan,,763,22,69,60,763692260,Wrothgarian Mountains,763.5390625,-22.53125,4.0,TownCity
-Alcaire,,nan,,707,112,69,64,7076911264,Alcaire,707.5390625,-112.5,1.0,TownCity
-Koegria,,nan,,668,83,65,73,668658373,Koegria,668.5078125,-83.4296875,1.0,TownCity
-Gavaudon,,nan,,966,217,58,68,9665821768,Gavaudon,966.453125,-217.46875,3.0,TownCity
-Tuncart,,nan,,860,195,59,68,8605919568,Wayrest,860.4609375,-195.46875,1.0,TownHamlet
-Cathlech,,nan,,855,194,63,63,8556319463,Wayrest,855.4921875,-194.5078125,1.0,TownHamlet
-Menevia,,nan,,807,187,77,68,8077718768,Menevia,807.6015625,-187.46875,1.0,TownCity
-Bhoriane,,nan,,573,118,56,69,5735611869,Bhoriane,573.4375,-118.4609375,1.0,TownCity
-Dwynnen,,nan,,496,86,61,56,496618656,Dwynnen,496.4765625,-86.5625,1.0,TownCity
-Woodston Manor,,nan,,473,121,60,77,4736012177,Urvaius,473.46875,-121.3984375,1.0,HomeWealthy
-Urvaius,,nan,,449,129,67,63,4496712963,Urvaius,449.5234375,-129.5078125,1.0,TownCity
-Whitewych Commons,,nan,,463,148,69,59,4636914859,Anticlere,463.5390625,-148.5390625,1.0,TownHamlet
-The Tower of Moorhouse,,nan,,459,150,69,54,4596915054,Anticlere,459.5390625,-150.578125,1.0,DungeonKeep
-The Crypt of Garomezzar,,nan,,460,148,55,73,4605514873,Anticlere,460.4296875,-148.4296875,1.0,DungeonLabyrinth
-Wailing Tree of Mara,,nan,,377,121,59,67,3775912167,Anticlere,377.4609375,-121.4765625,1.0,ReligionTemple
-Greening Grange,,nan,,375,120,63,60,3756312060,Anticlere,375.4921875,-120.53125,1.0,HomeFarms
-Anticlere,,nan,,357,168,70,68,3577016868,Anticlere,357.546875,-168.46875,1.0,TownCity
-Shalgora,,nan,,305,160,52,79,3055216079,Shalgora,305.40625,-160.3828125,1.0,TownCity
-Daenia,,nan,,406,69,56,64,406566964,Daenia,406.4375,-69.5,1.0,TownCity
-Whitefort,,nan,,119,263,64,60,1196426360,Betony,119.5,-263.53125,1.0,TownHamlet
-Castle Faallem,,nan,,404,325,59,54,4045932554,Sentinel,404.4609375,-325.578125,7.0,DungeonKeep
-Blackhead,,nan,,676,205,63,81,6766320581,Isle of Balfiera,676.4921875,-205.3671875,4.0,TownHamlet
-Ruins of The Hold of Greenwing,,nan,,685,182,64,60,6856418260,Isle of Balfiera,685.5,-182.53125,4.0,DungeonRuin
-Singbrugh,,nan,,653,192,65,64,6536519264,Isle of Balfiera,653.5078125,-192.5,1.0,TownVillage
-Zagyry-Thar,,nan,,914,337,65,63,9146533763,Totambu,914.5078125,-337.5078125,5.0,TownHamlet
-The Unfortunate Guard Tavern,,nan,,912,338,68,72,9126833872,Totambu,912.53125,-338.4375,5.0,Tavern
-Sharcer Manor,,nan,,916,341,78,59,9167834159,Totambu,916.609375,-341.5390625,5.0,HomeWealthy
-Old Maarhtfa's Shack,,nan,,918,346,65,72,9186534672,Totambu,918.5078125,-346.4375,5.0,HomePoor
-Castle Rlirchem,,nan,,919,351,74,56,9197435156,Totambu,919.578125,-351.5625,5.0,DungeonKeep
-Morascubia,,nan,,916,354,46,60,9164635460,Totambu,916.359375,-354.53125,5.0,TownHamlet
-Isfeho,,nan,,915,357,67,68,9156735768,Totambu,915.5234375,-357.46875,5.0,TownHamlet
-T'orkun Manor,,nan,,918,357,65,61,9186535761,Totambu,918.5078125,-357.5234375,5.0,HomeWealthy
-Druthoth,,nan,,913,361,61,58,9136136158,Totambu,913.4765625,-361.546875,5.0,DungeonLabyrinth
-The Knave and Stag Hostel,,nan,,915,363,67,67,9156736367,Totambu,915.5234375,-363.4765625,5.0,Tavern
-Castle Faortta,,nan,,908,370,60,70,9086037070,Totambu,908.46875,-370.453125,5.0,DungeonLabyrinth
-Ruins of The Grusom Plantation,,nan,,888,379,51,69,8885137969,Totambu,888.3984375,-379.4609375,5.0,DungeonRuin
-Singing Seer of Zenithar,,nan,,885,380,74,60,8857438060,Totambu,885.578125,-380.53125,5.0,ReligionTemple
-The Fox and Hedgehog Lodge,,nan,,881,381,67,70,8816738170,Totambu,881.5234375,-381.453125,5.0,Tavern
-Ruins of Castle Gag,,nan,,879,382,58,67,8795838267,Totambu,879.453125,-382.4765625,5.0,DungeonRuin
-The Destten Vaults,,nan,,876,379,65,69,8766537969,Totambu,876.5078125,-379.4609375,5.0,Graveyard
-Dragontail,,nan,,856,485,60,58,8566048558,Dragontail Mountains,856.46875,-485.546875,4.0,TownCity
-Ephesus,,nan,,891,469,64,76,8916446976,Ephesus,891.5,-469.40625,4.0,TownCity
-Kozanset,,nan,,704,337,69,63,7046933763,Kozanset,704.5390625,-337.5078125,5.0,TownCity
-Castle Vlorgten,,nan,,695,292,68,65,6956829265,Lainlyn,695.53125,-292.4921875,5.0,DungeonKeep
-The Vojagon Aviary,,nan,,697,293,60,60,6976029360,Lainlyn,697.46875,-293.53125,5.0,DungeonLabyrinth
-Tigonus,,nan,,550,316,67,74,5506731674,Tigonus,550.5234375,-316.421875,6.0,TownCity
-The Queen's Goblin Hostel,,nan,,515,334,64,61,5156433461,Tigonus,515.5,-334.5234375,6.0,Tavern
-The Sirdam Farmstead,,nan,,496,339,59,55,4965933955,Tigonus,496.4609375,-339.5703125,6.0,HomeFarms
-The Norgoth Nest,,nan,,496,341,72,58,4967234158,Tigonus,496.5625,-341.546875,6.0,DungeonLabyrinth
-Ayasofya,,nan,,451,402,67,68,4516740268,Ayasofya,451.5234375,-402.46875,8.0,TownCity
-Alik'ra,,nan,,401,443,61,58,4016144358,Alik'r Desert,401.4765625,-443.546875,8.0,TownCity
-Pothago,,nan,,249,408,67,64,2496740864,Pothago,249.5234375,-408.5,7.0,TownCity
-The Old Mhilp'kern Shack,,nan,,218,432,59,58,2185943258,Kairou,218.4609375,-432.546875,7.0,HomePoor
-The Caeghton Farmstead,,nan,,188,468,70,72,1887046872,Abibon-gora,188.546875,-468.4375,7.0,HomeFarms
-The Faortrn Plantation,,nan,,177,477,64,55,1776447755,Abibon-gora,177.5,-477.5703125,7.0,HomeFarms
-Abibon-gora,,nan,,207,474,64,70,2076447470,Abibon-gora,207.5,-474.453125,7.0,TownCity
-Kairou,,nan,,220,459,60,74,2206045974,Kairou,220.46875,-459.421875,7.0,TownCity
-Myrkwasa,,nan,,291,418,63,65,2916341865,Myrkwasa,291.4921875,-418.4921875,7.0,TownCity
-Kaluhbia,,nan,,415,480,78,67,4157848067,Bergama,415.609375,-480.4765625,8.0,TownCity
-Bergama,,nan,,431,472,70,61,4317047261,Bergama,431.546875,-472.5234375,8.0,TownCity
-Antyphyllos,,nan,,471,446,63,65,4716344665,Antiphyllos,471.4921875,-446.4921875,8.0,TownCity
-Santaki,,nan,,653,437,73,72,6537343772,Santaki,653.5703125,-437.4375,9.0,TownCity
-Mogahanu,,nan,,766,311,72,76,7667231176,Lainlyn,766.5625,-311.40625,5.0,TownHamlet
-Old Caildta's Place,,nan,,763,310,82,65,7638231065,Lainlyn,763.640625,-310.4921875,5.0,HomePoor
-Lainlyn,,nan,,737,289,58,67,7375828967,Lainlyn,737.453125,-289.4765625,5.0,TownCity
-Totambu,,nan,,868,364,70,73,8687036473,Totambu,868.546875,-364.4296875,5.0,TownCity
-Ruins of The Tower of M'ofylom,,nan,,854,306,82,73,8548230673,Satakalaam,854.640625,-306.4296875,5.0,DungeonRuin
-Satakalaam,,nan,,839,302,67,78,8396730278,Satakalaam,839.5234375,-302.390625,5.0,TownCity
-Mournoth,,nan,,981,324,65,60,9816532460,Mournoth,981.5078125,-324.53125,5.0,TownCity
-The Ashham Tombs,,nan,,361,195,64,56,3616419556,Anticlere,361.5,-195.5625,1.0,Graveyard
+Location,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,region,gisX,gisY,climate,LocationType
+Westhead Moor,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,207,223,0,64,Daggerfall,207.390625,-223.3515625,1.0,TownCity
+Gallocart,2.0,WOD_Dock_Medium_01,135.0,92,157,0,127,Tulune,92.546875,-157.421875,1.0,TownVillage
+Inner Light of Stendarr,2.0,WOD_Dock_Lighthouse_Small_01,90.0,622,115,127,64,Bhoriane,622.3671875,-115.453125,1.0,ReligionTemple
+The Buckinghart Plantation,2.0,WOD_Dock_Small_01,180.0,735,135,64,127,Alcaire,735.4765625,-135.546875,1.0,HomeFarms
+The Gaerhouse Plantation,2.0,WOD_Dock_Lighthouse_Small_01,-180.0,629,158,64,127,Isle of Balfiera,629.5,-158.5625,1.0,HomeFarms
+Fearful Redeemer of Julianos,2.0,WOD_HF_Dock_Small_01,0.0,866,289,64,0,Satakalaam,866.5078125,-289.5078125,5.0,ReligionTemple
+The Mole and Giant Tavern,2.0,WOD_HF_Dock_Small_01,0.0,141,495,64,0,Abibon-gora,141.4375,-495.5234375,7.0,Tavern
+Tsetudax,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,144,493,64,0,Abibon-gora,144.4921875,-493.5,7.0,TownVillage
+Cudogudax,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,159,478,64,0,Abibon-gora,159.4375,-478.5234375,7.0,TownVillage
+Singing Soul of Julianos,2.0,WOD_HF_Dock_Small_01,-90.0,169,473,0,64,Abibon-gora,169.4921875,-473.5,7.0,ReligionTemple
+Singing Idol of Julianos,2.0,WOD_HF_Dock_Small_01,-90.0,171,463,0,64,Abibon-gora,171.4921875,-463.5,7.0,ReligionTemple
+Kieran Theatre,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,173,461,64,0,Abibon-gora,173.4375,-461.5234375,7.0,ReligionCult
+Papyrydai,2.0,WOD_HF_Dock_Lighthouse_Medium_01,-90.0,174,455,0,64,Abibon-gora,174.4921875,-455.5,7.0,TownVillage
+Damu-Ij,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,180,451,64,0,Abibon-gora,180.4375,-451.5234375,7.0,TownHamlet
+Old D'urdca's Shack,2.0,WOD_HF_Dock_Small_01,0.0,186,451,64,0,Abibon-gora,186.4375,-451.5234375,7.0,HomePoor
+The Moorsley Farmstead,2.0,WOD_Dock_Small_01,180.0,701,133,64,127,Alcaire,701.4765625,-133.546875,1.0,HomeFarms
+Cathborne,2.0,WOD_Dock_Medium_01,180.0,718,133,64,127,Alcaire,718.4765625,-133.546875,1.0,TownHamlet
+Gaerhart Manor,2.0,WOD_Dock_Small_01,180.0,745,138,64,127,Alcaire,745.4765625,-138.546875,1.0,HomeWealthy
+Wargate,2.0,WOD_Dock_Lighthouse_Medium_01,180.0,760,140,64,127,Alcaire,760.4765625,-140.546875,1.0,TownVillage
+The Laughing Cat Hostel,2.0,WOD_Dock_Small_01,180.0,788,151,64,127,Alcaire,788.4765625,-151.546875,4.0,Tavern
+Aldwall Rock,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,-90.0,401,183,0,64,Anticlere,401.546875,-183.53125,1.0,TownCity
+Crossleigh,2.0,WOD_Dock_Medium_01,180.0,401,175,64,127,Anticlere,401.46875,-175.546875,1.0,TownVillage
+Cathwold Heath,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,180.0,406,187,64,127,Anticlere,406.46875,-187.546875,1.0,TownVillage
+Vanwood Hollow,2.0,WOD_Anticlere_Dock_Lighthouse_Large_01,0.0,353,195,64,0,Anticlere,353.5703125,-195.4765625,1.0,TownVillage
+The Mastersmith Plantation,2.0,WOD_Dock_Small_01,180.0,356,200,64,127,Anticlere,356.5,-200.453125,1.0,HomeFarms
+Ipspath,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,0.0,358,193,64,0,Anticlere,358.5703125,-193.4765625,1.0,TownHamlet
+Yeomhart Manor,2.0,WOD_Dock_Lighthouse_Small_01,0.0,361,192,64,0,Anticlere,361.5703125,-192.4765625,1.0,HomeWealthy
+Wilderbury Rock,2.0,WOD_Anticlere_Dock_Lighthouse_Medium_01,180.0,366,197,64,127,Anticlere,366.5,-197.453125,1.0,TownVillage
+The Old Kingwing Place,2.0,WOD_Dock_Small_01,180.0,455,172,64,127,Anticlere,455.4296875,-172.78125,1.0,HomePoor
+Hawkwing Palace,2.0,WOD_Dock_Small_01,180.0,499,158,64,127,Anticlere,499.4296875,-158.78125,1.0,HomeWealthy
+Umbopala,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,449,364,64,0,Ayasofya,449.5078125,-364.5078125,7.0,TownVillage
+Kirkbeth Hamlet,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,114,255,0,64,Betony,114.4609375,-255.46875,1.0,TownVillage
+Wilderleigh,2.0,WOD_Dock_Lighthouse_Small_01,180.0,558,137,64,127,Bhoriane,558.4765625,-137.5625,1.0,TownHamlet
+Moorcroft Court,2.0,WOD_Dock_Small_01,180.0,561,137,64,127,Bhoriane,561.4765625,-137.5625,1.0,HomeWealthy
+Arkbeth Garden,2.0,WOD_Dock_Lighthouse_Small_01,180.0,583,138,64,127,Bhoriane,583.4765625,-138.546875,1.0,TownHamlet
+Wartale,2.0,WOD_Dock_Medium_01,0.0,588,139,64,0,Bhoriane,588.4765625,-139.546875,1.0,TownVillage
+The Gaerford Plantation,2.0,WOD_Dock_Small_01,-90.0,631,111,0,64,Bhoriane,631.4765625,-111.4296875,1.0,HomeFarms
+Fontbridge,2.0,WOD_Dock_Medium_01,180.0,637,113,64,127,Bhoriane,637.4765625,-113.5390625,1.0,TownVillage
+The Masterton Farmstead,2.0,WOD_Dock_Small_01,180.0,645,111,64,127,Bhoriane,645.4765625,-111.546875,1.0,HomeFarms
+The Thirsty Skull Hostel,2.0,WOD_Dock_Small_01,180.0,646,113,64,127,Bhoriane,646.4765625,-113.546875,1.0,Tavern
+Strenner Haven,2.0,WOD_Dock_Lighthouse_Small_01,180.0,649,113,64,127,Bhoriane,649.4765625,-113.546875,1.0,ReligionCult
+Stokbrone,2.0,WOD_Dock_Medium_01,180.0,652,112,64,127,Bhoriane,652.4765625,-112.546875,1.0,TownHamlet
+Old Vannabyth's Farm,2.0,WOD_Dock_Small_01,-90.0,587,152,0,64,Bhoriane,587.4765625,-152.5390625,1.0,HomeFarms
+The Old Hearthwing Hovel,2.0,WOD_Dock_Small_01,-90.0,607,146,0,64,Bhoriane,607.4765625,-146.5390625,1.0,HomePoor
+Ipsmoth,2.0,WOD_Dock_Lighthouse_Small_01,,609,145,58,61,Bhoriane,609.453125,-145.5234375,1.0,TownVillage
+Old Evelorya's Farm,2.0,WOD_Dock_Small_01,-45.0,614,147,127,0,Bhoriane,614.4765625,-147.5390625,1.0,HomeFarms
+Whitecroft,2.0,WOD_Dock_Lighthouse_Medium_01,180.0,102,199,64,127,Daggerfall,102.5,-199.2890625,1.0,TownHamlet
+Holwych,2.0,WOD_Dock_Medium_01,180.0,118,201,64,127,Daggerfall,118.5,-201.2890625,1.0,TownVillage
+The Ashhouse Farmstead,2.0,WOD_Dock_Small_01,180.0,138,212,64,127,Daggerfall,138.4296875,-212.4765625,1.0,HomeFarms
+Ripmore,2.0,WOD_Daggerfall_Dock_Lighthouse_Large_01,0.0,285,213,64,0,Daggerfall,285.421875,-213.4765625,1.0,TownCity
+Daggerfall,2.0,WOD_Dock_Medium_01,180.0,209,214,64,127,Daggerfall,209.5703125,-214.578125,1.0,TownCity
+Daggerfall,2.0,WOD_Dock_Large_01,180.0,210,214,64,127,Daggerfall,210.5703125,-214.578125,1.0,TownCity
+Daggerfall,2.0,WOD_Daggerfall_Dock_Lighthouse_Large_01,180.0,211,214,64,127,Daggerfall,211.5703125,-214.578125,1.0,TownCity
+Burning Martyr of Kynareth,2.0,WOD_Dock_Small_01,-90.0,97,189,0,64,Daggerfall,97.5390625,-189.5390625,1.0,ReligionTemple
+Holmarket,2.0,WOD_Dock_Lighthouse_Small_01,-90.0,111,199,0,64,Daggerfall,111.578125,-199.203125,1.0,TownHamlet
+The Knave and Dragon Pub,2.0,WOD_Dock_Small_01,-90.0,132,210,0,64,Daggerfall,132.546875,-210.703125,1.0,Tavern
+Fontborne,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,-90.0,160,221,0,64,Daggerfall,160.390625,-221.4296875,1.0,TownVillage
+Longwich End,2.0,WOD_Dock_Medium_01,180.0,169,225,64,127,Daggerfall,169.5,-225.5234375,1.0,TownVillage
+Wilderham,2.0,WOD_Dock_Medium_01,180.0,178,224,64,127,Daggerfall,178.5,-224.5234375,1.0,TownVillage
+Midbrugh,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90.0,198,217,127,64,Daggerfall,198.578125,-217.5703125,1.0,TownVillage
+Ashsly Hall,2.0,WOD_Dock_Small_01,-90.0,205,226,0,64,Daggerfall,205.453125,-226.5,1.0,HomeWealthy
+Kinging Court,2.0,WOD_Dock_Lighthouse_Small_01,180.0,209,228,64,127,Daggerfall,209.5,-228.6484375,1.0,HomeWealthy
+Vanvale,2.0,WOD_Dock_Medium_01,-90.0,294,214,0,64,Daggerfall,294.546875,-214.5,1.0,TownHamlet
+Blackcart Hollow,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,90.0,297,214,127,64,Daggerfall,297.421875,-214.3671875,1.0,TownVillage
+Copperfield Manor,2.0,WOD_Dock_Small_01,180.0,207,214,64,127,Daggerfall,207.5703125,-214.578125,1.0,HomeWealthy
+Masterston Court,2.0,WOD_Dock_Small_01,180.0,140,241,64,127,Daggerfall,140.4765625,-241.5625,1.0,HomeWealthy
+The Woodhouse Farmstead,2.0,WOD_Dock_Small_01,180.0,146,239,64,127,Daggerfall,146.4765625,-239.5625,1.0,HomeFarms
+Aldpath Hall,2.0,WOD_Daggerfall_Dock_Lighthouse_Medium_01,180.0,144,239,64,127,Daggerfall,144.4765625,-239.5625,1.0,TownVillage
+Grimton,2.0,WOD_Dock_Medium_01,0.0,143,236,64,0,Daggerfall,143.5,-236.578125,1.0,TownVillage
+Fonthope End,2.0,WOD_Dock_Lighthouse_Small_01,0.0,146,235,64,0,Daggerfall,146.5,-235.578125,1.0,TownHamlet
+Madla,2.0,WOD_Dock_Lighthouse_Small_01,0.0,597,285,64,0,Dragontail Mountains,597.5078125,-285.5078125,4.0,TownVillage
+Kingford Palace,2.0,WOD_Dock_Small_01,-90.0,513,149,0,64,Dwynnen,513.40625,-149.546875,1.0,HomeWealthy
+Hawking Palace,2.0,WOD_Dock_Small_01,180.0,535,143,64,127,Dwynnen,535.4765625,-143.4921875,1.0,HomeWealthy
+The Queen's Cat Inn,2.0,WOD_Dock_Small_01,180.0,542,143,64,127,Dwynnen,542.4765625,-143.4921875,1.0,Tavern
+Ashfield Hall,2.0,WOD_Dock_Small_01,90.0,547,139,127,64,Dwynnen,547.390625,-139.546875,1.0,HomeWealthy
+Tambridge,2.0,WOD_Dock_Medium_01,0.0,79,73,64,0,Glenumbra Moors,79.4765625,-73.390625,1.0,TownHamlet
+Deerpath,2.0,WOD_Dock_Medium_01,-90.0,77,77,0,64,Glenumbra Moors,77.3984375,-77.4765625,1.0,TownHamlet
+Old Lysausa's Farm,2.0,WOD_Dock_Small_01,-45.0,625,150,127,0,Isle of Balfiera,625.4765625,-150.5390625,1.0,HomeFarms
+Warwych,2.0,WOD_Balfiera_Dock_Lighthouse_Small_01,,631,162,58,61,Isle of Balfiera,631.453125,-162.5234375,1.0,TownHamlet
+Kingsly Orchard,2.0,WOD_Dock_Small_01,,640,169,58,61,Isle of Balfiera,640.453125,-169.5234375,1.0,HomeFarms
+Gallomarket,2.0,WOD_Balfiera_Dock_Lighthouse_Small_01,-90.0,644,166,0,64,Isle of Balfiera,644.4765625,-166.5390625,1.0,TownVillage
+The Moorhouse Farmstead,2.0,WOD_Dock_Small_01,-180.0,654,170,64,127,Isle of Balfiera,654.5078125,-170.4921875,1.0,HomeFarms
+The Crypts of Kingham,2.0,WOD_Dock_Small_01,135.0,725,233,0,127,Isle of Balfiera,726.5,-234.5,0.0,Graveyard
+Ruins of The Old Yeoming Hovel,2.0,WOD_Balfiera_Dock_Lighthouse_Small_01,-90.0,671,203,0,64,Isle of Balfiera,671.4375,-203.46875,4.0,DungeonRuin
+Tlactrn Manor,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,202,435,64,0,Kairou,202.4375,-435.5234375,7.0,HomeWealthy
+Kalunnunu,2.0,WOD_Dock_Lighthouse_Large_01,0.0,754,279,64,0,Lainlyn,754.5078125,-279.5078125,5.0,TownCity
+The Crimson Barbarian Pub,2.0,WOD_HF_Dock_Small_01,-45.0,644,279,127,0,Lainlyn,644.453125,-279.5,4.0,Tavern
+Syrotubu,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,658,281,64,0,Lainlyn,658.5078125,-281.5078125,4.0,TownVillage
+The Kurgrn Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,663,281,64,0,Lainlyn,663.5078125,-281.5078125,4.0,HomeFarms
+Papiladisu,2.0,WOD_HF_Dock_Medium_01,0.0,674,286,64,0,Lainlyn,674.5078125,-286.5078125,5.0,TownVillage
+Pilliweyn,2.0,WOD_HF_Dock_Small_01,0.0,685,284,64,0,Lainlyn,685.5078125,-284.5078125,5.0,TownHamlet
+Torch Manor,2.0,WOD_HF_Dock_Small_01,0.0,687,283,64,0,Lainlyn,687.5078125,-283.5078125,5.0,HomeWealthy
+Syrallao,2.0,WOD_HF_Dock_Lighthouse_Large_01,0.0,699,281,64,0,Lainlyn,699.5078125,-281.5078125,5.0,TownVillage
+Pythohajer,2.0,WOD_HF_Dock_Medium_01,0.0,702,281,64,0,Lainlyn,702.5078125,-281.5078125,5.0,TownHamlet
+Krill'kern Orchard,2.0,WOD_HF_Dock_Small_01,0.0,707,283,64,0,Lainlyn,707.5078125,-283.5078125,5.0,HomeFarms
+Burning Ascencion of Julianos,2.0,WOD_HF_Dock_Small_01,0.0,712,282,64,0,Lainlyn,712.5078125,-282.5078125,5.0,ReligionTemple
+Reliquary of Sai,2.0,WOD_HF_Dock_Small_01,0.0,724,282,64,0,Lainlyn,724.5078125,-282.5078125,5.0,ReligionCult
+The Old Rausten Shack,2.0,WOD_HF_Dock_Small_01,0.0,728,282,64,0,Lainlyn,728.5078125,-282.5078125,5.0,HomePoor
+Blessed Tree of Julianos,2.0,WOD_HF_Dock_Small_01,0.0,734,282,64,0,Lainlyn,734.5078125,-282.5078125,5.0,ReligionTemple
+Holy Ascencion of Julianos,2.0,WOD_HF_Dock_Small_01,-45.0,737,282,127,0,Lainlyn,737.5078125,-282.5078125,5.0,ReligionTemple
+Morilliton,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,741,281,64,0,Lainlyn,741.5078125,-281.5078125,5.0,TownHamlet
+Stuld Hall,2.0,WOD_HF_Dock_Small_01,0.0,747,280,64,0,Lainlyn,747.5078125,-280.5078125,5.0,HomeWealthy
+Infinite Soul of Julianos,2.0,WOD_HF_Dock_Small_01,-45.0,749,279,127,0,Lainlyn,749.4921875,-279.5,5.0,ReligionTemple
+Blarcan Hall,2.0,WOD_HF_Dock_Small_01,0.0,764,278,64,0,Lainlyn,764.5078125,-278.5078125,5.0,HomeWealthy
+Baghascuwan,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,766,279,64,0,Lainlyn,766.5078125,-279.5078125,5.0,TownHamlet
+The Silver Hedgehog Pub,2.0,WOD_Dock_Small_01,-90.0,800,181,0,64,Menevia,800.4765625,-181.4296875,1.0,Tavern
+Chesterbrugh,2.0,WOD_Dock_Lighthouse_Large_01,180.0,791,216,64,127,Menevia,791.4765625,-216.546875,1.0,TownVillage
+Old Vannyvyra's Farm,2.0,WOD_Dock_Small_01,-90.0,821,215,0,64,Menevia,821.421875,-215.5078125,1.0,HomeFarms
+Wadijilanis,2.0,WOD_HF_Dock_Medium_01,0.0,898,285,64,0,Mournoth,898.5078125,-285.5078125,5.0,TownVillage
+Meseraara,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,962,278,64,0,Mournoth,962.5078125,-278.5078125,5.0,TownHamlet
+The Dirty Goat Inn,2.0,WOD_HF_Dock_Small_01,0.0,969,281,64,0,Mournoth,969.5078125,-281.5078125,5.0,Tavern
+Elissinia,2.0,WOD_HF_Dock_Medium_01,0.0,279,403,64,0,Myrkwasa,279.4375,-403.5234375,7.0,TownVillage
+The Boirch Cabin,2.0,WOD_HF_Dock_Small_01,-45.0,296,397,127,0,Myrkwasa,296.4921875,-397.5,7.0,HomePoor
+Gothcroft,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,127,42,0,64,Northmoor,127.5234375,-42.421875,1.0,TownCity
+The Rat and Priest Hostel,2.0,WOD_Dock_Small_01,0.0,224,5,64,0,Northmoor,224.5234375,-5.4609375,1.0,Tavern
+The Mouse and Goblin Tavern,2.0,WOD_Dock_Small_01,0.0,222,5,64,0,Northmoor,222.5234375,-5.4609375,1.0,Tavern
+The Kingham Farmstead,2.0,WOD_Dock_Small_01,-90.0,215,11,0,64,Northmoor,215.4921875,-11.546875,1.0,HomeFarms
+Knightshope,2.0,WOD_Dock_Medium_01,0.0,229,5,64,0,Northmoor,229.5234375,-5.4609375,1.0,TownHamlet
+Stokwall,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,219,8,0,64,Northmoor,219.4921875,-8.546875,1.0,TownVillage
+Buckingsmith Manor,2.0,WOD_Dock_Small_01,0.0,210,14,64,0,Northmoor,210.5,-14.4765625,1.0,HomeWealthy
+Vanpath,2.0,WOD_Dock_Lighthouse_Medium_01,0.0,162,34,64,0,Northmoor,162.4296875,-34.421875,1.0,TownVillage
+Longham,2.0,WOD_Dock_Lighthouse_Small_01,0.0,152,35,64,0,Northmoor,152.5,-35.5,1.0,TownVillage
+Burgcart Heath,2.0,WOD_Dock_Lighthouse_Small_01,-90.0,124,45,0,64,Northmoor,124.5234375,-45.421875,1.0,TownVillage
+The Feather and Dog Tavern,2.0,WOD_HF_Dock_Small_01,0.0,235,408,64,0,Pothago,235.4375,-408.5234375,7.0,Tavern
+Berbajan,2.0,WOD_HF_Dock_Lighthouse_Medium_01,0.0,266,406,64,0,Pothago,266.4375,-406.5234375,7.0,TownVillage
+Berbajan,2.0,WOD_HF_Dock_Lighthouse_Small_01,45.0,266,406,127,127,Pothago,266.59375,-406.5,7.0,TownVillage
+Tulajidax,2.0,WOD_HF_Dock_Lighthouse_Medium_01,45.0,779,283,127,127,Satakalaam,779.4921875,-283.5,5.0,TownVillage
+The King's Dungeon Lodge,2.0,WOD_HF_Dock_Small_01,0.0,782,283,64,0,Satakalaam,782.5078125,-283.5078125,5.0,Tavern
+Lopadai,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,798,277,0,64,Satakalaam,798.4921875,-277.5,5.0,TownHamlet
+The Old Turder Hovel,2.0,WOD_HF_Dock_Small_01,0.0,815,279,64,0,Satakalaam,815.5078125,-279.5078125,5.0,HomePoor
+Shrald Court,2.0,WOD_HF_Dock_Small_01,0.0,817,278,64,0,Satakalaam,817.5078125,-278.5078125,5.0,HomeWealthy
+M'arkam Manor,2.0,WOD_HF_Dock_Small_01,0.0,843,278,64,0,Satakalaam,843.5078125,-278.5078125,5.0,HomeWealthy
+Cellen Hall,2.0,WOD_HF_Dock_Small_01,0.0,842,294,64,0,Satakalaam,842.5078125,-294.5078125,5.0,HomeWealthy
+Javibia,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,847,269,0,64,Satakalaam,847.4609375,-269.5390625,5.0,TownHamlet
+Rlect Hall,2.0,WOD_HF_Dock_Small_01,180.0,825,264,64,127,Satakalaam,825.5,-264.359375,5.0,HomeWealthy
+The Crimson Cat Inn,2.0,WOD_HF_Dock_Small_01,0.0,832,263,64,0,Satakalaam,832.4609375,-263.4609375,5.0,Tavern
+Pibuda,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,329,376,64,0,Sentinel,329.5078125,-376.5078125,7.0,TownVillage
+Zenuhno,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,347,359,64,0,Sentinel,347.4921875,-359.5,7.0,TownVillage
+Zenuhno,2.0,WOD_HF_Dock_Medium_01,180.0,347,359,64,127,Sentinel,347.53125,-359.4609375,7.0,TownVillage
+Mji-Ij,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,347,357,64,0,Sentinel,347.5078125,-357.5078125,7.0,TownVillage
+Antelajda,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,355,358,64,0,Sentinel,355.5078125,-358.5078125,7.0,TownVillage
+Naresa,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-90.0,370,350,0,64,Sentinel,370.4921875,-350.5,7.0,TownCity
+The Bosam Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,372,348,64,0,Sentinel,372.5078125,-348.5078125,7.0,HomeFarms
+Jalonia,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,375,347,64,0,Sentinel,375.5078125,-347.5078125,7.0,TownVillage
+The M'erg Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,383,345,64,0,Sentinel,383.5078125,-345.5078125,7.0,HomeFarms
+Ageliret,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,387,344,64,0,Sentinel,387.5078125,-344.5078125,7.0,TownVillage
+Pallaton,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,392,341,64,0,Sentinel,392.5078125,-341.5078125,7.0,TownHamlet
+Sentinel,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Large_01,45.0,397,342,127,127,Sentinel,397.5703125,-342.46875,7.0,TownCity
+Mesiton,2.0,WOD_HF_Dock_Lighthouse_Small_01,180.0,396,348,64,127,Sentinel,396.453125,-348.5,7.0,TownVillage
+Isfakabi,2.0,WOD_HF_Dock_Lighthouse_Small_01,180.0,392,351,64,127,Sentinel,392.453125,-351.5,7.0,TownHamlet
+The Queen's Wolf Inn,2.0,WOD_HF_Dock_Small_01,90.0,387,353,127,64,Sentinel,387.59375,-353.5,7.0,Tavern
+Zagumba-Kom,2.0,WOD_HF_Dock_Lighthouse_Small_01,90.0,382,361,127,64,Sentinel,382.59375,-361.5,7.0,TownVillage
+The Old Thush Place,2.0,WOD_HF_Dock_Small_01,0.0,385,369,64,0,Sentinel,385.5078125,-369.5078125,7.0,HomePoor
+The Rhujten Cabin,2.0,WOD_HF_Dock_Small_01,0.0,388,369,64,0,Sentinel,388.5078125,-369.5078125,7.0,HomePoor
+Cudakasa,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,407,373,64,0,Sentinel,407.5078125,-373.5078125,7.0,TownHamlet
+Bubumbaret,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,0.0,415,373,64,0,Sentinel,415.5078125,-373.5078125,7.0,TownHamlet
+The V'uchin Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,419,374,64,0,Sentinel,419.5078125,-374.5078125,7.0,HomeFarms
+The C'avar Cabin,2.0,WOD_HF_Dock_Small_01,0.0,422,373,64,0,Sentinel,422.5234375,-373.546875,7.0,HomePoor
+The Dirty Mug Tavern,2.0,WOD_HF_Dock_Small_01,0.0,425,373,64,0,Sentinel,425.5078125,-373.5078125,7.0,Tavern
+Bubaaqja,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,427,373,64,0,Sentinel,427.5078125,-373.5078125,7.0,TownHamlet
+Old Mhirpti's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,439,372,64,0,Sentinel,439.4921875,-372.5,7.0,HomePoor
+Shrine of Q'Olwen,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,441,370,64,0,Sentinel,441.5078125,-370.5078125,7.0,ReligionCult
+Bubissidata,2.0,WOD_HF_Sentinel_Dock_Lighthouse_Medium_01,-135.0,404,327,0,0,Sentinel,404.4609375,-327.5,7.0,TownCity
+Rhorkke Hall,2.0,WOD_HF_Dock_Small_01,180.0,409,328,64,127,Sentinel,409.5234375,-328.40625,7.0,HomeWealthy
+Antelibuton,2.0,WOD_HF_Dock_Lighthouse_Large_01,0.0,558,296,64,0,Tigonus,558.5078125,-296.5078125,6.0,TownCity
+Khajocconu,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,475,346,0,64,Tigonus,475.4921875,-346.5,6.0,TownVillage
+Mesanis,2.0,WOD_HF_Dock_Lighthouse_Small_01,0.0,514,318,64,0,Tigonus,514.5078125,-318.5078125,6.0,TownVillage
+Mesanis,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,514,318,0,64,Tigonus,514.4921875,-318.5,6.0,TownVillage
+Paponirea,2.0,WOD_HF_Dock_Small_01,0.0,516,313,64,0,Tigonus,516.5078125,-313.5078125,6.0,TownHamlet
+Millitor,2.0,WOD_HF_Dock_Small_01,0.0,518,312,64,0,Tigonus,518.5078125,-312.5078125,6.0,TownHamlet
+Wadijerareg,2.0,WOD_HF_Dock_Medium_01,0.0,552,297,64,0,Tigonus,552.5078125,-297.5078125,6.0,TownHamlet
+The Red Cat Tavern,2.0,WOD_HF_Dock_Small_01,0.0,569,294,64,0,Tigonus,569.5078125,-294.5078125,6.0,Tavern
+The Thirsty Sword Tavern,2.0,WOD_HF_Dock_Small_01,0.0,521,309,64,0,Tigonus,521.5078125,-309.5078125,6.0,Tavern
+The Rat and Barbarian Tavern,2.0,WOD_HF_Dock_Small_01,0.0,524,308,64,0,Tigonus,524.5078125,-308.5078125,6.0,Tavern
+Kalureg,2.0,WOD_HF_Dock_Medium_01,0.0,527,308,64,0,Tigonus,527.5078125,-308.5078125,6.0,TownVillage
+Baghada,2.0,WOD_HF_Dock_Small_01,0.0,530,308,64,0,Tigonus,530.5078125,-308.5078125,6.0,TownHamlet
+The V'ev Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,534,305,64,0,Tigonus,534.5078125,-305.5078125,6.0,HomeFarms
+The Krurta Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,582,290,64,0,Tigonus,582.5078125,-290.5078125,7.0,HomeFarms
+Old Rhardja's Hovel,2.0,WOD_HF_Dock_Small_01,180.0,596,279,64,127,Tigonus,596.5390625,-279.4296875,4.0,HomePoor
+Midmont,2.0,WOD_Dock_Lighthouse_Medium_01,-90.0,61,106,0,64,Tulune,61.5,-106.4609375,1.0,TownVillage
+The Lysyna Cabal,2.0,WOD_Dock_Small_01,-90.0,67,121,0,64,Tulune,67.5,-121.4921875,1.0,DungeonLabyrinth
+Lambrugh,2.0,WOD_Dock_Lighthouse_Medium_01,180.0,72,164,64,127,Tulune,72.46875,-164.421875,1.0,TownVillage
+Penwall Derry,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,90.0,846,243,127,64,Wayrest,846.5390625,-243.546875,0.0,TownCity
+Tunmont,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,180.0,975,273,64,127,Wayrest,975.4765625,-273.546875,1.0,TownCity
+Bleeding Ascencion of Akatosh,2.0,WOD_Dock_Small_01,-45.0,828,223,127,0,Wayrest,828.4765625,-223.4296875,1.0,ReligionTemple
+The Old Buckinghouse Place,2.0,WOD_Dock_Small_01,180.0,840,225,64,127,Wayrest,840.4765625,-225.546875,1.0,HomePoor
+The Yeomfield Farmstead,2.0,WOD_Dock_Small_01,-135.0,847,229,0,0,Wayrest,847.4765625,-229.546875,1.0,HomeFarms
+Chestertower,2.0,WOD_Dock_Lighthouse_Small_01,-90.0,854,236,0,64,Wayrest,854.4765625,-236.4296875,1.0,TownHamlet
+Tamvale Rock,2.0,WOD_Dock_Lighthouse_Small_01,0.0,841,240,64,0,Wayrest,841.5234375,-240.40625,5.0,TownVillage
+Aldingshire,2.0,WOD_Dock_Small_01,90.0,839,249,127,64,Wayrest,839.5390625,-249.546875,5.0,TownHamlet
+The Gaerham Farmstead,2.0,WOD_Dock_Small_01,180.0,836,247,64,127,Wayrest,836.4296875,-247.5625,5.0,HomeFarms
+Wayrest,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,-45.0,859,244,127,0,Wayrest,859.4765625,-244.4296875,1.0,TownCity
+Mertale Court,2.0,WOD_Dock_Small_01,-90.0,875,250,0,64,Wayrest,875.4765625,-250.4296875,1.0,TownVillage
+The Laughing Porcupine Pub,2.0,WOD_Dock_Small_01,-90.0,876,255,0,64,Wayrest,876.4765625,-255.4296875,1.0,Tavern
+Eastwold,2.0,WOD_Wayrest_Dock_Lighthouse_Large_01,-135.0,884,255,0,0,Wayrest,884.53125,-255.46875,1.0,TownCity
+Chardale,2.0,WOD_Wayrest_Dock_Lighthouse_Medium_01,180.0,887,256,64,127,Wayrest,887.4765625,-256.546875,1.0,TownVillage
+Eternal Prophet of Akatosh,2.0,WOD_Dock_Small_01,-90.0,861,249,0,64,Wayrest,861.4765625,-249.4296875,1.0,ReligionTemple
+Old Elyssa's Hovel,2.0,WOD_Dock_Small_01,180.0,866,249,64,127,Wayrest,866.4765625,-249.546875,1.0,HomePoor
+Inner Rebirth of Akatosh,2.0,WOD_Dock_Lighthouse_Small_01,180.0,889,257,64,127,Wayrest,889.4765625,-257.546875,1.0,ReligionTemple
+Hawksley Hall,2.0,WOD_Dock_Small_01,180.0,892,258,64,127,Wayrest,892.4765625,-258.546875,1.0,HomeWealthy
+Djen Lodge,2.0,WOD_Dock_Small_01,180.0,900,256,64,127,Wayrest,900.4765625,-256.546875,1.0,ReligionCult
+Vanhope Hall,2.0,WOD_Dock_Lighthouse_Small_01,180.0,907,258,64,127,Wayrest,907.4765625,-258.546875,1.0,TownHamlet
+Grayville Court,2.0,WOD_Dock_Small_01,0.0,907,262,64,0,Wayrest,907.5234375,-262.5078125,1.0,TownHamlet
+The Lion and Castle Tavern,2.0,WOD_Dock_Small_01,-45.0,902,264,127,0,Wayrest,902.5234375,-264.5078125,1.0,Tavern
+Burning Tree of Akatosh,2.0,WOD_Dock_Small_01,180.0,923,261,64,127,Wayrest,923.4765625,-261.546875,1.0,ReligionTemple
+Coppersly Hall,2.0,WOD_Dock_Small_01,180.0,925,261,64,127,Wayrest,925.4765625,-261.546875,1.0,HomeWealthy
+Longmore Field,2.0,WOD_Wayrest_Dock_Lighthouse_Medium_01,180.0,931,262,64,127,Wayrest,931.4765625,-262.546875,1.0,TownVillage
+Kieran Theatre,2.0,WOD_Dock_Lighthouse_Small_01,180.0,940,264,64,127,Wayrest,940.4765625,-264.546875,0.0,ReligionCult
+The Yeomsley Farmstead,2.0,WOD_Dock_Small_01,180.0,942,264,64,127,Wayrest,942.4765625,-264.546875,0.0,HomeFarms
+Aldingbridge Moor,2.0,WOD_Dock_Lighthouse_Small_01,180.0,956,265,64,127,Wayrest,956.4765625,-265.546875,1.0,TownHamlet
+Wartry Moor,2.0,WOD_Dock_Lighthouse_Small_01,180.0,964,266,64,127,Wayrest,964.4765625,-266.546875,1.0,TownHamlet
+Pencart,2.0,WOD_Dock_Lighthouse_Small_01,0.0,152,38,64,0,Northmoor,152.3984375,-38.3828125,1.0,TownVillage
+The Elyzanna Assembly,2.0,WOD_Dock_Small_01,0.0,59,144,64,0,Tulune,59.53125,-144.34375,1.0,DungeonLabyrinth
+The Citadel of Hearthham,2.0,WOD_Dock_Small_01,45.0,62,148,127,127,Tulune,62.640625,-148.359375,1.0,DungeonLabyrinth
+Ruins of Castle Gaerton,2.0,WOD_Dock_Small_01,180.0,125,201,64,127,Daggerfall,125.4921875,-201.5078125,1.0,DungeonRuin
+Aldbrugh,2.0,WOD_Dock_Lighthouse_Small_01,135.0,333,202,0,127,Shalgora,333.46875,-202.5,1.0,TownHamlet
+The Moorwing Cemetery,2.0,WOD_Dock_Lighthouse_Medium_01,0.0,366,193,64,0,Anticlere,366.5390625,-193.453125,1.0,Graveyard
+The Rusty Goblin Hostel,2.0,WOD_Dock_Small_01,90.0,544,137,127,64,Dwynnen,544.546875,-137.421875,1.0,Tavern
+The Tomb of Veromaus,2.0,WOD_Dock_Small_01,-135.0,553,134,0,0,Bhoriane,553.4765625,-134.546875,1.0,DungeonLabyrinth
+The Grave of Lithogheon,2.0,WOD_Dock_Small_01,90.0,593,137,127,64,Bhoriane,593.5625,-137.5703125,1.0,DungeonLabyrinth
+Tower Kinghart,2.0,WOD_Dock_Small_01,0.0,589,148,64,0,Bhoriane,589.4921875,-148.5,1.0,DungeonKeep
+The House of Lithivam,2.0,WOD_Dock_Small_01,90.0,591,151,127,64,Bhoriane,591.5078125,-151.5,1.0,DungeonLabyrinth
+Demuagexia Hollow,2.0,WOD_Dock_Small_01,180.0,675,125,64,127,Koegria,675.53125,-125.5390625,1.0,DungeonLabyrinth
+The Laboratory of Mordyval,2.0,WOD_Dock_Small_01,180.0,711,134,64,127,Alcaire,711.5,-134.53125,1.0,DungeonLabyrinth
+The Stronghold of Ashfield,2.0,WOD_Dock_Small_01,180.0,713,135,64,127,Alcaire,713.5,-135.671875,1.0,DungeonKeep
+Ruins of Moorford Manor,2.0,WOD_Dock_Small_01,180.0,717,135,64,127,Alcaire,717.5390625,-135.4921875,1.0,DungeonRuin
+The Tower of Coppersly,2.0,WOD_Dock_Small_01,180.0,758,140,64,127,Alcaire,758.5234375,-140.578125,1.0,DungeonKeep
+The Greenton Graveyard,2.0,WOD_Dock_Small_01,180.0,782,148,64,127,Alcaire,782.5,-148.4609375,4.0,Graveyard
+The Kingham Graveyard,2.0,WOD_Dock_Small_01,-135.0,795,157,0,0,Menevia,795.4609375,-157.4375,3.0,Graveyard
+Ruins of Old Vannorya's Place,2.0,WOD_Dock_Small_01,-90.0,793,193,0,64,Menevia,793.4609375,-193.5078125,1.0,DungeonRuin
+The Dunynak Excavation,2.0,WOD_Dock_Small_01,-90.0,785,210,0,64,Menevia,785.53125,-210.5390625,1.0,DungeonLabyrinth
+Joyous Light of Akatosh,2.0,WOD_Dock_Small_01,-90.0,856,242,0,64,Wayrest,856.46875,-242.53125,1.0,ReligionTemple
+The Stronghold of Gaercroft,2.0,WOD_Dock_Small_01,0.0,900,264,64,0,Wayrest,900.546875,-264.4609375,1.0,DungeonKeep
+Zagoparia,2.0,WOD_HF_Dock_Lighthouse_Medium_01,180.0,901,278,64,127,Mournoth,901.5,-278.4921875,5.0,TownVillage
+The Prison of Rhurpur,2.0,WOD_HF_Dock_Small_01,0.0,872,281,64,0,Mournoth,872.4921875,-281.5390625,5.0,DungeonLabyrinth
+The Hezthor Nest,2.0,WOD_HF_Dock_Small_01,180.0,829,287,64,127,Satakalaam,829.5234375,-287.4921875,5.0,DungeonLabyrinth
+The Tomb of Verimyth,2.0,WOD_HF_Dock_Small_01,180.0,827,287,64,127,Satakalaam,827.5703125,-287.5625,5.0,DungeonLabyrinth
+The Hold of Gav'kern,2.0,WOD_HF_Dock_Small_01,45.0,770,281,127,127,Lainlyn,770.5625,-281.4921875,5.0,DungeonKeep
+The Prison of Grictke,2.0,WOD_HF_Dock_Small_01,0.0,751,277,64,0,Lainlyn,751.5390625,-277.3828125,5.0,DungeonLabyrinth
+The Aviary of Yearock,2.0,WOD_HF_Dock_Small_01,0.0,731,282,64,0,Lainlyn,731.46875,-282.359375,5.0,DungeonLabyrinth
+The Hold of Gort,2.0,WOD_HF_Dock_Small_01,0.0,704,281,64,0,Lainlyn,704.5390625,-281.4921875,5.0,DungeonKeep
+Faurp's Hold,2.0,WOD_HF_Dock_Small_01,0.0,697,279,64,0,Lainlyn,697.4765625,-279.3984375,5.0,DungeonLabyrinth
+The Prison of Glurkum,2.0,WOD_HF_Dock_Small_01,0.0,682,285,64,0,Lainlyn,682.546875,-285.5,5.0,DungeonLabyrinth
+The Monastery of Baalibleusulla,2.0,WOD_HF_Dock_Small_01,0.0,656,281,64,0,Lainlyn,656.4609375,-281.59375,4.0,DungeonLabyrinth
+Corranoth's Tomb,2.0,WOD_HF_Dock_Small_01,0.0,614,280,64,0,Dragontail Mountains,614.5390625,-280.5078125,4.0,DungeonLabyrinth
+Inner Altar of Dibella,2.0,WOD_HF_Dock_Lighthouse_Small_01,-90.0,583,276,0,64,Tigonus,583.453125,-276.4375,4.0,ReligionTemple
+Ruins of The Ghuldten Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,564,295,64,0,Tigonus,564.4375,-295.53125,6.0,DungeonRuin
+The Old Kharcur Shack,2.0,WOD_HF_Dock_Small_01,-45.0,470,351,127,0,Tigonus,470.5078125,-351.578125,0.0,HomePoor
+The Faollan Pit,2.0,WOD_HF_Dock_Small_01,-45.0,446,370,127,0,Ayasofya,446.4296875,-370.4765625,7.0,DungeonLabyrinth
+The Cavern of Homuneusuna,2.0,WOD_HF_Dock_Small_01,0.0,429,373,64,0,Sentinel,429.5390625,-373.5078125,7.0,DungeonLabyrinth
+Ruins of The Bernar Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,411,372,64,0,Sentinel,411.53125,-372.4296875,7.0,DungeonRuin
+The Cavern of Homunateusia,2.0,WOD_HF_Dock_Small_01,90.0,381,364,127,64,Sentinel,381.5390625,-364.578125,7.0,DungeonLabyrinth
+Tower Klolpon,2.0,WOD_HF_Dock_Small_01,180.0,398,346,64,127,Sentinel,398.5703125,-346.5,7.0,DungeonKeep
+The Fortress of Fhojum,2.0,WOD_HF_Dock_Small_01,0.0,399,342,64,0,Sentinel,399.4765625,-342.578125,7.0,DungeonLabyrinth
+Tower Dejom,2.0,WOD_HF_Dock_Small_01,0.0,378,345,64,0,Sentinel,378.4375,-345.53125,7.0,DungeonKeep
+The Monastery of Baalebron,2.0,WOD_HF_Dock_Small_01,-90.0,369,352,0,64,Sentinel,369.3828125,-352.34375,7.0,DungeonLabyrinth
+Old Rloski's Shack,2.0,WOD_HF_Dock_Small_01,0.0,364,354,64,0,Sentinel,364.4296875,-354.53125,7.0,HomePoor
+Kieran Theatre,2.0,WOD_HF_Dock_Small_01,-45.0,300,393,127,0,Myrkwasa,300.4921875,-393.5234375,7.0,ReligionCult
+Castle Mormun,2.0,WOD_HF_Dock_Small_01,-90.0,276,406,0,64,Myrkwasa,276.53125,-406.53125,7.0,DungeonKeep
+T'over Tower,2.0,WOD_HF_Dock_Small_01,0.0,263,405,64,0,Pothago,263.421875,-405.578125,7.0,DungeonLabyrinth
+Ruins of Tlolp'kern Manor,2.0,WOD_HF_Dock_Small_01,0.0,246,405,64,0,Pothago,246.5078125,-405.578125,7.0,DungeonRuin
+The Nest of Skoedon,2.0,WOD_HF_Dock_Small_01,0.0,241,407,64,0,Pothago,241.4921875,-407.4921875,7.0,DungeonLabyrinth
+The Vault of Garoghyth,2.0,WOD_HF_Dock_Small_01,-90.0,227,417,0,64,Pothago,227.6015625,-417.5390625,7.0,DungeonLabyrinth
+The Tomb of Lithelaus,2.0,WOD_HF_Dock_Small_01,0.0,217,422,64,0,Kairou,217.4609375,-422.5,7.0,DungeonLabyrinth
+Stifylir's Guard,2.0,WOD_HF_Dock_Small_01,0.0,205,433,64,0,Kairou,205.4375,-433.5390625,7.0,DungeonKeep
+The Roost of Trogrugoth,2.0,WOD_HF_Dock_Small_01,-90.0,173,453,0,64,Abibon-gora,173.421875,-453.546875,7.0,DungeonLabyrinth
+The Tower of T'ircten,2.0,WOD_HF_Dock_Small_01,-90.0,168,468,0,64,Abibon-gora,168.5078125,-468.6015625,7.0,DungeonKeep
+Lhur's Hold,2.0,WOD_HF_Dock_Small_01,0.0,164,476,64,0,Abibon-gora,164.5078125,-476.546875,7.0,DungeonKeep
+Old Burktha's Hovel,2.0,WOD_HF_Dock_Small_01,0.0,162,476,64,0,Abibon-gora,162.5078125,-476.53125,7.0,HomePoor
+Ruins of Saerk Hall,2.0,WOD_HF_Dock_Small_01,-90.0,153,483,0,64,Abibon-gora,153.4375,-483.3984375,7.0,DungeonRuin
+Ruins of Cosh Hall,2.0,WOD_HF_Dock_Small_01,90.0,439,343,127,64,Cybiades,439.5234375,-343.5234375,7.0,DungeonRuin
+The Selpar Farmstead,2.0,WOD_HF_Dock_Small_01,0.0,406,325,64,0,Sentinel,406.5234375,-325.5,7.0,HomeFarms
+The Nest of Helloth,2.0,WOD_HF_Dock_Small_01,-90.0,199,455,0,64,Kairou,199.59375,-455.46875,7.0,DungeonLabyrinth
+Ruins of Mhoghton Orchard,2.0,WOD_HF_Dock_Small_01,0.0,198,458,64,0,Abibon-gora,198.5390625,-458.453125,7.0,DungeonRuin
+Ruins of The Dhirtum Farmstead,2.0,WOD_HF_Dock_Small_01,-90.0,179,457,0,64,Abibon-gora,179.453125,-457.4921875,7.0,DungeonRuin
+Ruins of Tower Darhtin,2.0,WOD_HF_Dock_Small_01,0.0,176,460,64,0,Abibon-gora,176.40625,-460.4765625,7.0,DungeonRuin
+THe Crypts of Mastersmith,2.0,WOD_Dock_Small_01,180.0,712,234,64,127,Isle of Balfiera,712.5,-234.5390625,4.0,Graveyard
+Ruins of Old Evelanna's Hovel,2.0,WOD_Dock_Small_01,0.0,727,188,64,0,Isle of Balfiera,727.546875,-188.4609375,4.0,DungeonRuin
+The Yeomhart Graveyard,2.0,WOD_Dock_Small_01,-90.0,681,195,0,64,Isle of Balfiera,681.5625,-195.453125,4.0,Graveyard
+Ruins of Coppercroft Court,2.0,WOD_Dock_Small_01,-135.0,685,225,0,0,Isle of Balfiera,685.359375,-225.5078125,4.0,DungeonRuin
+Ruins of The Greening Cabin,2.0,WOD_Dock_Small_01,180.0,654,201,64,127,Isle of Balfiera,654.5078125,-201.4921875,1.0,DungeonRuin
+Ruins of Old Lysayne's Hovel,2.0,WOD_Dock_Small_01,180.0,646,202,64,127,Isle of Balfiera,646.453125,-202.5234375,1.0,DungeonRuin
+Ruins of Mastersley Grange,2.0,WOD_Dock_Small_01,0.0,663,178,64,0,Isle of Balfiera,663.421875,-178.546875,1.0,DungeonRuin
+The Sahulessa Hermitage,2.0,WOD_Dock_Small_01,0.0,652,168,64,0,Isle of Balfiera,652.453125,-168.3515625,1.0,DungeonLabyrinth
+The Masoleum of Darkivaron,2.0,WOD_Dock_Small_01,0.0,648,164,64,0,Isle of Balfiera,648.546875,-164.640625,1.0,DungeonLabyrinth
+The Tombs of Masterhart,2.0,WOD_Dock_Small_01,90.0,646,162,127,64,Isle of Balfiera,646.5,-162.5390625,1.0,Graveyard
+The Tower of Ghorkke,2.0,WOD_Dock_Small_01,-45.0,849,269,127,0,Satakalaam,849.546875,-269.421875,5.0,DungeonKeep
+The Rusty Bird Tavern,2.0,WOD_Dock_Small_01,90.0,835,276,127,64,Satakalaam,835.4375,-276.546875,5.0,Tavern
+The Cabal of Morgyrrya,2.0,WOD_Dock_Small_01,-90.0,139,239,0,64,Daggerfall,139.5078125,-239.4296875,1.0,DungeonLabyrinth
+Tulune,,,,73,123,69,58,Tulune,73.5390625,-123.546875,1.0,TownCity
+The Moorcroft Plantation,,,,86,100,68,54,Tulune,86.53125,-100.578125,1.0,HomeFarms
+Glenumbra,,,,137,83,60,63,Glenumbra Moors,137.46875,-83.5078125,1.0,TownCity
+Djen Lodge,,,,150,96,63,61,Glenpoint,150.4921875,-96.5234375,3.0,ReligionCult
+The Hawking Cemetery,,,,104,75,60,70,Glenumbra Moors,104.46875,-75.453125,1.0,Graveyard
+Old Lysolda's Farm,,,,137,107,61,64,Glenpoint,137.4765625,-107.5,3.0,HomeFarms
+Glenpoint,,,,167,109,64,63,Glenpoint,167.5,-109.5078125,3.0,TownCity
+The Yeomston Vaults,,,,168,93,56,73,Glenpoint,168.4375,-93.4296875,3.0,Graveyard
+Whitebrone Hall,,,,170,91,64,60,Glenpoint,170.5,-91.53125,3.0,TownVillage
+The Dwarf and Goat Hostel,,,,212,96,64,61,Glenpoint,212.5,-96.5234375,3.0,Tavern
+Ilessan Hills,,,,218,86,60,67,Ilessan Hills,218.46875,-86.4765625,3.0,TownCity
+Northmoor,,,,219,49,63,70,Northmoor,219.4921875,-49.453125,1.0,TownCity
+The Old Copperwing Hovel,,,,240,23,67,52,Northmoor,240.5234375,-23.59375,1.0,HomePoor
+The Hold of Hawkcroft,,,,242,194,67,45,Daggerfall,242.5234375,-194.6484375,1.0,DungeonKeep
+Moorcroft Manor,,,,245,196,60,65,Daggerfall,245.46875,-196.4921875,1.0,HomeWealthy
+Warvale,,,,248,192,63,63,Daggerfall,248.4921875,-192.5078125,1.0,TownVillage
+The Old Buckingcroft Place,,,,279,194,68,60,Daggerfall,279.53125,-194.53125,1.0,HomePoor
+The Coven of Elyzyn,,,,263,184,58,70,Daggerfall,263.453125,-184.453125,1.0,DungeonLabyrinth
+The Prison of Edwyrick,,,,333,89,56,61,Ilessan Hills,333.4375,-89.5234375,1.0,DungeonLabyrinth
+The Wicksley Farmstead,,,,334,86,60,74,Ilessan Hills,334.46875,-86.421875,1.0,HomeFarms
+Ruins of Greenhouse Manor,,,,361,40,72,65,Ykalon,361.5625,-40.4921875,1.0,DungeonRuin
+Ykalon,,,,347,29,63,72,Ykalon,347.4921875,-29.4375,1.0,TownCity
+Phrygias,,,,449,35,59,59,Phrygias,449.4609375,-35.5390625,1.0,TownCity
+Castle Wickhart,,,,483,41,56,60,Phrygias,483.4375,-41.53125,1.0,DungeonKeep
+Kambria,,,,637,56,68,63,Kambria,637.53125,-56.5078125,4.0,TownCity
+Wrothgaria,,,,763,22,69,60,Wrothgarian Mountains,763.5390625,-22.53125,4.0,TownCity
+Alcaire,,,,707,112,69,64,Alcaire,707.5390625,-112.5,1.0,TownCity
+Koegria,,,,668,83,65,73,Koegria,668.5078125,-83.4296875,1.0,TownCity
+Gavaudon,,,,966,217,58,68,Gavaudon,966.453125,-217.46875,3.0,TownCity
+Tuncart,,,,860,195,59,68,Wayrest,860.4609375,-195.46875,1.0,TownHamlet
+Cathlech,,,,855,194,63,63,Wayrest,855.4921875,-194.5078125,1.0,TownHamlet
+Menevia,,,,807,187,77,68,Menevia,807.6015625,-187.46875,1.0,TownCity
+Bhoriane,,,,573,118,56,69,Bhoriane,573.4375,-118.4609375,1.0,TownCity
+Dwynnen,,,,496,86,61,56,Dwynnen,496.4765625,-86.5625,1.0,TownCity
+Woodston Manor,,,,473,121,60,77,Urvaius,473.46875,-121.3984375,1.0,HomeWealthy
+Urvaius,,,,449,129,67,63,Urvaius,449.5234375,-129.5078125,1.0,TownCity
+Whitewych Commons,,,,463,148,69,59,Anticlere,463.5390625,-148.5390625,1.0,TownHamlet
+The Tower of Moorhouse,,,,459,150,69,54,Anticlere,459.5390625,-150.578125,1.0,DungeonKeep
+The Crypt of Garomezzar,,,,460,148,55,73,Anticlere,460.4296875,-148.4296875,1.0,DungeonLabyrinth
+Wailing Tree of Mara,,,,377,121,59,67,Anticlere,377.4609375,-121.4765625,1.0,ReligionTemple
+Greening Grange,,,,375,120,63,60,Anticlere,375.4921875,-120.53125,1.0,HomeFarms
+Anticlere,,,,357,168,70,68,Anticlere,357.546875,-168.46875,1.0,TownCity
+Shalgora,,,,305,160,52,79,Shalgora,305.40625,-160.3828125,1.0,TownCity
+Daenia,,,,406,69,56,64,Daenia,406.4375,-69.5,1.0,TownCity
+Whitefort,,,,119,263,64,60,Betony,119.5,-263.53125,1.0,TownHamlet
+Castle Faallem,,,,404,325,59,54,Sentinel,404.4609375,-325.578125,7.0,DungeonKeep
+Blackhead,,,,676,205,63,81,Isle of Balfiera,676.4921875,-205.3671875,4.0,TownHamlet
+Ruins of The Hold of Greenwing,,,,685,182,64,60,Isle of Balfiera,685.5,-182.53125,4.0,DungeonRuin
+Singbrugh,,,,653,192,65,64,Isle of Balfiera,653.5078125,-192.5,1.0,TownVillage
+Zagyry-Thar,,,,914,337,65,63,Totambu,914.5078125,-337.5078125,5.0,TownHamlet
+The Unfortunate Guard Tavern,,,,912,338,68,72,Totambu,912.53125,-338.4375,5.0,Tavern
+Sharcer Manor,,,,916,341,78,59,Totambu,916.609375,-341.5390625,5.0,HomeWealthy
+Old Maarhtfa's Shack,,,,918,346,65,72,Totambu,918.5078125,-346.4375,5.0,HomePoor
+Castle Rlirchem,,,,919,351,74,56,Totambu,919.578125,-351.5625,5.0,DungeonKeep
+Morascubia,,,,916,354,46,60,Totambu,916.359375,-354.53125,5.0,TownHamlet
+Isfeho,,,,915,357,67,68,Totambu,915.5234375,-357.46875,5.0,TownHamlet
+T'orkun Manor,,,,918,357,65,61,Totambu,918.5078125,-357.5234375,5.0,HomeWealthy
+Druthoth,,,,913,361,61,58,Totambu,913.4765625,-361.546875,5.0,DungeonLabyrinth
+The Knave and Stag Hostel,,,,915,363,67,67,Totambu,915.5234375,-363.4765625,5.0,Tavern
+Castle Faortta,,,,908,370,60,70,Totambu,908.46875,-370.453125,5.0,DungeonLabyrinth
+Ruins of The Grusom Plantation,,,,888,379,51,69,Totambu,888.3984375,-379.4609375,5.0,DungeonRuin
+Singing Seer of Zenithar,,,,885,380,74,60,Totambu,885.578125,-380.53125,5.0,ReligionTemple
+The Fox and Hedgehog Lodge,,,,881,381,67,70,Totambu,881.5234375,-381.453125,5.0,Tavern
+Ruins of Castle Gag,,,,879,382,58,67,Totambu,879.453125,-382.4765625,5.0,DungeonRuin
+The Destten Vaults,,,,876,379,65,69,Totambu,876.5078125,-379.4609375,5.0,Graveyard
+Dragontail,,,,856,485,60,58,Dragontail Mountains,856.46875,-485.546875,4.0,TownCity
+Ephesus,,,,891,469,64,76,Ephesus,891.5,-469.40625,4.0,TownCity
+Kozanset,,,,704,337,69,63,Kozanset,704.5390625,-337.5078125,5.0,TownCity
+Castle Vlorgten,,,,695,292,68,65,Lainlyn,695.53125,-292.4921875,5.0,DungeonKeep
+The Vojagon Aviary,,,,697,293,60,60,Lainlyn,697.46875,-293.53125,5.0,DungeonLabyrinth
+Tigonus,,,,550,316,67,74,Tigonus,550.5234375,-316.421875,6.0,TownCity
+The Queen's Goblin Hostel,,,,515,334,64,61,Tigonus,515.5,-334.5234375,6.0,Tavern
+The Sirdam Farmstead,,,,496,339,59,55,Tigonus,496.4609375,-339.5703125,6.0,HomeFarms
+The Norgoth Nest,,,,496,341,72,58,Tigonus,496.5625,-341.546875,6.0,DungeonLabyrinth
+Ayasofya,,,,451,402,67,68,Ayasofya,451.5234375,-402.46875,8.0,TownCity
+Alik'ra,,,,401,443,61,58,Alik'r Desert,401.4765625,-443.546875,8.0,TownCity
+Pothago,,,,249,408,67,64,Pothago,249.5234375,-408.5,7.0,TownCity
+The Old Mhilp'kern Shack,,,,218,432,59,58,Kairou,218.4609375,-432.546875,7.0,HomePoor
+The Caeghton Farmstead,,,,188,468,70,72,Abibon-gora,188.546875,-468.4375,7.0,HomeFarms
+The Faortrn Plantation,,,,177,477,64,55,Abibon-gora,177.5,-477.5703125,7.0,HomeFarms
+Abibon-gora,,,,207,474,64,70,Abibon-gora,207.5,-474.453125,7.0,TownCity
+Kairou,,,,220,459,60,74,Kairou,220.46875,-459.421875,7.0,TownCity
+Myrkwasa,,,,291,418,63,65,Myrkwasa,291.4921875,-418.4921875,7.0,TownCity
+Kaluhbia,,,,415,480,78,67,Bergama,415.609375,-480.4765625,8.0,TownCity
+Bergama,,,,431,472,70,61,Bergama,431.546875,-472.5234375,8.0,TownCity
+Antyphyllos,,,,471,446,63,65,Antiphyllos,471.4921875,-446.4921875,8.0,TownCity
+Santaki,,,,653,437,73,72,Santaki,653.5703125,-437.4375,9.0,TownCity
+Mogahanu,,,,766,311,72,76,Lainlyn,766.5625,-311.40625,5.0,TownHamlet
+Old Caildta's Place,,,,763,310,82,65,Lainlyn,763.640625,-310.4921875,5.0,HomePoor
+Lainlyn,,,,737,289,58,67,Lainlyn,737.453125,-289.4765625,5.0,TownCity
+Totambu,,,,868,364,70,73,Totambu,868.546875,-364.4296875,5.0,TownCity
+Ruins of The Tower of M'ofylom,,,,854,306,82,73,Satakalaam,854.640625,-306.4296875,5.0,DungeonRuin
+Satakalaam,,,,839,302,67,78,Satakalaam,839.5234375,-302.390625,5.0,TownCity
+Mournoth,,,,981,324,65,60,Mournoth,981.5078125,-324.53125,5.0,TownCity
+The Ashham Tombs,,,,361,195,64,56,Anticlere,361.5,-195.5625,1.0,Graveyard

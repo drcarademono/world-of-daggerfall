@@ -1,3 +1,3 @@
-name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,sink,scale
-Desert Mountain,1,WOD_Mountain_Small_01,30,339,418,60,70,3396041870,Myrkwasa,339.46875,-418.453125,8,1,0.6459609
-Desert Mountain,1,WOD_Mountain_Small_01,128,308,425,44,106,30844425106,Myrkwasa,308.34375,-425.171875,8,1,0.7545511
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,region,gisX,gisY,climate,sink,scale
+Desert Mountain,1,WOD_Mountain_Small_01,30,339,418,60,70,Myrkwasa,339.46875,-418.453125,8,1,0.6459609
+Desert Mountain,1,WOD_Mountain_Small_01,128,308,425,44,106,Myrkwasa,308.34375,-425.171875,8,1,0.7545511

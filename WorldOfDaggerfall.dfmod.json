@@ -874,6 +874,18 @@
             "IsOptional": false,
             "IsPeer": true,
             "Version": "0.1.0"
+        },
+        {
+            "Name": "wilderness overhaul",
+            "IsOptional": true,
+            "IsPeer": true,
+            "Version": "0.3.0"
+        },
+        {
+            "Name": "rmb resource pack",
+            "IsOptional": true,
+            "IsPeer": true,
+            "Version": "0.1.4"
         }
     ]
 }

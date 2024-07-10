@@ -1,8 +1,8 @@
-name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,altitude,sink,scale
-Mountain,1,WOD_Mountain_10,-92,713,79,108,27,7131087927,Koegria,713.84375,-79.7890625,4.0,9,1,0.644971
-Mountain,1,WOD_Mountain_01,-30,658,48,54,17,658544817,Koegria,658.421875,-48.8671875,4.0,5,1,0.619226
-Mountain,1,WOD_Mountain_09,172,658,50,125,56,6581255056,Koegria,658.9765625,-50.5625,4.0,5,1,0.8611045
-Mountain,1,WOD_Mountain_04,-139,689,62,26,74,689266274,Koegria,689.203125,-62.421875,4.0,5,1,0.7770001
-Mountain,1,WOD_Mountain_06,-57,658,49,35,74,658354974,Koegria,658.2734375,-49.421875,4.0,5,1,0.9400901
-Mountain,1,WOD_Mountain_02,106,690,60,59,77,690596077,Koegria,690.4609375,-60.3984375,4.0,5,1,0.8483661
-Mountain,1,WOD_Mountain_02,159,692,61,92,109,6929261109,Koegria,692.71875,-61.1484375,4.0,5,1,0.7623307
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,region,gisX,gisY,climate,altitude,sink,scale
+Mountain,1,WOD_Mountain_10,-92,713,79,108,27,Koegria,713.84375,-79.7890625,4.0,9,1,0.644971
+Mountain,1,WOD_Mountain_01,-30,658,48,54,17,Koegria,658.421875,-48.8671875,4.0,5,1,0.619226
+Mountain,1,WOD_Mountain_09,172,658,50,125,56,Koegria,658.9765625,-50.5625,4.0,5,1,0.8611045
+Mountain,1,WOD_Mountain_04,-139,689,62,26,74,Koegria,689.203125,-62.421875,4.0,5,1,0.7770001
+Mountain,1,WOD_Mountain_06,-57,658,49,35,74,Koegria,658.2734375,-49.421875,4.0,5,1,0.9400901
+Mountain,1,WOD_Mountain_02,106,690,60,59,77,Koegria,690.4609375,-60.3984375,4.0,5,1,0.8483661
+Mountain,1,WOD_Mountain_02,159,692,61,92,109,Koegria,692.71875,-61.1484375,4.0,5,1,0.7623307

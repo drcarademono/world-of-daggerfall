@@ -1,5 +1,5 @@
-name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
-Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,270.0,744,138,64,20,7446413820,Alcaire,744.5,-138.84375
-Alcaire Border Tower,0,WOD_Alcaire_ScoutTower_01,180.0,728,98,102,38,7281029838,Alcaire,728.796875,-98.703125
-Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,180.0,742,123,116,51,74211612351,Alcaire,742.90625,-123.6015625
-Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,,688,113,14,99,6881411399,Alcaire,688.109375,-113.2265625
+name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,region,gisX,gisY
+Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,270.0,744,138,64,20,Alcaire,744.5,-138.84375
+Alcaire Border Tower,0,WOD_Alcaire_ScoutTower_01,180.0,728,98,102,38,Alcaire,728.796875,-98.703125
+Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,180.0,742,123,116,51,Alcaire,742.90625,-123.6015625
+Alcaire Border Tower,0,WOD_Alcaire_BorderTower_01,,688,113,14,99,Alcaire,688.109375,-113.2265625
