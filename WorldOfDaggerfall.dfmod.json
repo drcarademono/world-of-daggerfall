@@ -1,6 +1,6 @@
 {
     "ModTitle": "World of Daggerfall",
-    "ModVersion": "0.3.0",
+    "ModVersion": "0.3.2",
     "ModAuthor": "World of Daggerfall Team",
     "ContactInfo": "@kaboissonneault, @carademono",
     "DFUnity_Version": "1.0.0",
@@ -860,7 +860,28 @@
         "Assets/Game/Mods/world-of-daggerfall/CustomRuntimeMaterials/Rocks/WOD_Rock_Round_m_2C_03.json",
         "Assets/Game/Mods/world-of-daggerfall/CustomRuntimeMaterials/Rocks/WOD_Rock_Flat_m_2C_14.json",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_DakFron_BannerPost_01.txt",
-        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Bridges.csv"
+        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Bridges.csv",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_RMB.csv",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMAA00.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMAA01.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMBA03.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMBA01.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMAA02.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMBA02.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMAA04.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMBA00.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMAA03.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMBA04.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba00.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa00.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa02.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba02.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba03.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa03.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa04.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba04.txt"
     ],
     "Dependencies": [
         {
