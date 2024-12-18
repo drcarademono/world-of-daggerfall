@@ -2,50 +2,10 @@
 	<height>8</height>
 	<width>8</width>
 	<object>
-		<type>2</type>
-		<objectID>41</objectID>
-		<name>199.16</name>
-		<posX>0</posX>
-		<posY>0.56</posY>
-		<posZ>-1.06</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":17}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>44</objectID>
-		<name>199.16</name>
-		<posX>4.1</posX>
-		<posY>0.54</posY>
-		<posZ>0</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":17}</extraData>
-	</object>
-	<object>
 		<type>0</type>
 		<objectID>45</objectID>
 		<name>43129</name>
 		<posX>5.89</posX>
-		<posY>0.26</posY>
-		<posZ>4.23</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":17}</extraData>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>46</objectID>
-		<name>43129</name>
-		<posX>-8.22</posX>
 		<posY>0.26</posY>
 		<posZ>4.23</posZ>
 		<scaleX>1</scaleX>
@@ -64,38 +24,6 @@
 		<posX>5.89</posX>
 		<posY>-0.22</posY>
 		<posZ>-1.07</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":17}</extraData>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>48</objectID>
-		<name>43130</name>
-		<posX>-5.02</posX>
-		<posY>0.11</posY>
-		<posZ>6.75</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":17}</extraData>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>49</objectID>
-		<name>43065</name>
-		<posX>-2.62</posX>
-		<posY>1.33</posY>
-		<posZ>7.78</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -144,22 +72,6 @@
 		<posX>-7.78</posX>
 		<posY>1.38</posY>
 		<posZ>8.68</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":17}</extraData>
-		<rotW>1</rotW>
-		<rotX>0</rotX>
-		<rotY>0</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>53</objectID>
-		<name>43083</name>
-		<posX>-2.03</posX>
-		<posY>1.23</posY>
-		<posZ>-4.07</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -229,52 +141,4 @@
 		<rotY>0</rotY>
 		<rotZ>0</rotZ>
 	</object>
-	<object>
-		<type>0</type>
-		<objectID>38</objectID>
-		<name>517</name>
-		<posX>5.28</posX>
-		<posY>-0.01</posY>
-		<posZ>6.41</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":15}</extraData>
-		<rotW>0.7071068</rotW>
-		<rotX>0</rotX>
-		<rotY>0.7071068</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>39</objectID>
-		<name>517</name>
-		<posX>5.28</posX>
-		<posY>-0.01</posY>
-		<posZ>-6.13</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":15}</extraData>
-		<rotW>0</rotW>
-		<rotX>0</rotX>
-		<rotY>1</rotY>
-		<rotZ>0</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>40</objectID>
-		<name>517</name>
-		<posX>-6.7</posX>
-		<posY>-0.01</posY>
-		<posZ>-6.13</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":15}</extraData>
-		<rotW>0.7071068</rotW>
-		<rotX>0</rotX>
-		<rotY>-0.7071068</rotY>
-		<rotZ>0</rotZ>
-	</object>
-</locationPrefab>
+	</locationPrefab>

@@ -42,18 +42,6 @@
 	</object>
 	<object>
 		<type>1</type>
-		<objectID>48</objectID>
-		<name>210.19</name>
-		<posX>-2.786</posX>
-		<posY>11.4345</posY>
-		<posZ>2.858</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":33,"TeamOverride":13}</extraData>
-	</object>
-	<object>
-		<type>1</type>
 		<objectID>50</objectID>
 		<name>210.19</name>
 		<posX>-2.73</posX>
@@ -96,30 +84,6 @@
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>54</objectID>
-		<name>199.16</name>
-		<posX>2.58</posX>
-		<posY>15.51</posY>
-		<posZ>-1.25</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":1,"TeamOverride":13}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>55</objectID>
-		<name>199.16</name>
-		<posX>-3.18</posX>
-		<posY>14.12</posY>
-		<posZ>-2.27</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":1,"TeamOverride":13}</extraData>
 	</object>
 	<object>
 		<type>2</type>

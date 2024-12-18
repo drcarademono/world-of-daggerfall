@@ -41,48 +41,12 @@
 		<extraData>{"EnemyId":16,"TeamOverride":0}</extraData>
 	</object>
 	<object>
-		<type>2</type>
-		<objectID>39</objectID>
-		<name>199.16</name>
-		<posX>-12.8</posX>
-		<posY>1.12</posY>
-		<posZ>14.88</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16,"TeamOverride":0}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>40</objectID>
-		<name>210.1</name>
-		<posX>0.03</posX>
-		<posY>22.325</posY>
-		<posZ>0.6599996</posZ>
-		<scaleX>6</scaleX>
-		<scaleY>6</scaleY>
-		<scaleZ>6</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
 		<type>1</type>
 		<objectID>41</objectID>
 		<name>212.16</name>
 		<posX>4.52182</posX>
 		<posY>0.1550002</posY>
 		<posZ>17.38</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>42</objectID>
-		<name>212.1</name>
-		<posX>4.52182</posX>
-		<posY>-0.3750001</posY>
-		<posZ>-16.82</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -107,66 +71,6 @@
 		<posX>4.52182</posX>
 		<posY>0.45</posY>
 		<posZ>-9.620001</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>45</objectID>
-		<name>212.1</name>
-		<posX>-15.1</posX>
-		<posY>-0.1750001</posY>
-		<posZ>-6.02</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>46</objectID>
-		<name>206.30</name>
-		<posX>9.8</posX>
-		<posY>0.455</posY>
-		<posZ>6.46</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>47</objectID>
-		<name>206.31</name>
-		<posX>-1.12</posX>
-		<posY>0.3699998</posY>
-		<posZ>13.68</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>48</objectID>
-		<name>210.6</name>
-		<posX>-1.29</posX>
-		<posY>0.4399998</posY>
-		<posZ>-11.58</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>49</objectID>
-		<name>210.6</name>
-		<posX>-0.53</posX>
-		<posY>0.4399998</posY>
-		<posZ>20.1</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -222,30 +126,6 @@
 	</object>
 	<object>
 		<type>2</type>
-		<objectID>57</objectID>
-		<name>199.19</name>
-		<posX>10.4</posX>
-		<posY>0</posY>
-		<posZ>-4.320001</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>58</objectID>
-		<name>199.19</name>
-		<posX>-15.3</posX>
-		<posY>-0.01</posY>
-		<posZ>-2.22</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>2</type>
 		<objectID>59</objectID>
 		<name>199.19</name>
 		<posX>12.3</posX>
@@ -263,18 +143,6 @@
 		<posX>-8.03</posX>
 		<posY>-0.01500002</posY>
 		<posZ>-9.34</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>61</objectID>
-		<name>401.1</name>
-		<posX>7.62</posX>
-		<posY>-0.065</posY>
-		<posZ>-8.690001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>

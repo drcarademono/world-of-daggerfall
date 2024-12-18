@@ -42,42 +42,6 @@
 	</object>
 	<object>
 		<type>1</type>
-		<objectID>41</objectID>
-		<name>212.16</name>
-		<posX>-7.63</posX>
-		<posY>0.1550002</posY>
-		<posZ>7.78</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>42</objectID>
-		<name>212.1</name>
-		<posX>4.52182</posX>
-		<posY>0.525</posY>
-		<posZ>-9.75</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>43</objectID>
-		<name>211.15</name>
-		<posX>7.8</posX>
-		<posY>0.3749999</posY>
-		<posZ>7.66</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
 		<objectID>44</objectID>
 		<name>206.32</name>
 		<posX>9.4</posX>
@@ -90,47 +54,11 @@
 	</object>
 	<object>
 		<type>1</type>
-		<objectID>45</objectID>
-		<name>212.1</name>
-		<posX>-8.8</posX>
-		<posY>0.4949999</posY>
-		<posZ>-7.5</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
 		<objectID>46</objectID>
 		<name>206.30</name>
 		<posX>9.8</posX>
 		<posY>0.455</posY>
 		<posZ>-8.05</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>47</objectID>
-		<name>206.31</name>
-		<posX>-2.7</posX>
-		<posY>0.3699998</posY>
-		<posZ>6.39</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>48</objectID>
-		<name>210.6</name>
-		<posX>-1.29</posX>
-		<posY>0.4399998</posY>
-		<posZ>-13.06</posZ>
 		<scaleX>2</scaleX>
 		<scaleY>2</scaleY>
 		<scaleZ>2</scaleZ>
@@ -161,18 +89,6 @@
 		<extraData>{"EnemyId":16}</extraData>
 	</object>
 	<object>
-		<type>1</type>
-		<objectID>39</objectID>
-		<name>510.17</name>
-		<posX>4.52182</posX>
-		<posY>0.4000001</posY>
-		<posZ>-12.73</posZ>
-		<scaleX>2</scaleX>
-		<scaleY>2</scaleY>
-		<scaleZ>2</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-	<object>
 		<type>2</type>
 		<objectID>50</objectID>
 		<name>199.19</name>
@@ -196,16 +112,4 @@
 		<scaleZ>1</scaleZ>
 		<extraData>{"EnemyId":16}</extraData>
 	</object>
-	<object>
-		<type>2</type>
-		<objectID>52</objectID>
-		<name>199.19</name>
-		<posX>-2.15</posX>
-		<posY>0.03000003</posY>
-		<posZ>7.1</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":16}</extraData>
-	</object>
-</locationPrefab>
+	</locationPrefab>

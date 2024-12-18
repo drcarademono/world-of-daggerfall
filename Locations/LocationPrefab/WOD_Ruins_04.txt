@@ -415,18 +415,6 @@
 	</object>
 	<object>
 		<type>2</type>
-		<objectID>29</objectID>
-		<name>199.16</name>
-		<posX>-0.8500004</posX>
-		<posY>0.97</posY>
-		<posZ>-8.3</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
-	</object>
-	<object>
-		<type>2</type>
 		<objectID>30</objectID>
 		<name>199.16</name>
 		<posX>-0.8500004</posX>
@@ -459,30 +447,6 @@
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
 		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>34</objectID>
-		<name>199.16</name>
-		<posX>-0.8500004</posX>
-		<posY>0.97</posY>
-		<posZ>-8.3</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>35</objectID>
-		<name>199.16</name>
-		<posX>-0.8500004</posX>
-		<posY>0.97</posY>
-		<posZ>0.2600002</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
 		<type>2</type>

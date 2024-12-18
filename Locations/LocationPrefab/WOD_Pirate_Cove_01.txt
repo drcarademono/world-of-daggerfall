@@ -1907,47 +1907,11 @@
 	</object>
 	<object>
 		<type>2</type>
-		<objectID>140</objectID>
-		<name>199.16</name>
-		<posX>-71.18</posX>
-		<posY>1.568</posY>
-		<posZ>-52.63372</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":135}</extraData>
-	</object>
-	<object>
-		<type>2</type>
 		<objectID>141</objectID>
 		<name>199.16</name>
 		<posX>-57.47</posX>
 		<posY>1.568</posY>
 		<posZ>-59.9</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":135}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>142</objectID>
-		<name>199.16</name>
-		<posX>-70.03</posX>
-		<posY>1.568</posY>
-		<posZ>-77.54</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":135}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>143</objectID>
-		<name>199.16</name>
-		<posX>-103.284</posX>
-		<posY>2.338</posY>
-		<posZ>-50.41</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -1979,18 +1943,6 @@
 	</object>
 	<object>
 		<type>2</type>
-		<objectID>146</objectID>
-		<name>199.16</name>
-		<posX>-82.01</posX>
-		<posY>2.218</posY>
-		<posZ>-35.24</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":135}</extraData>
-	</object>
-	<object>
-		<type>2</type>
 		<objectID>147</objectID>
 		<name>199.16</name>
 		<posX>-68.46</posX>
@@ -2003,71 +1955,11 @@
 	</object>
 	<object>
 		<type>2</type>
-		<objectID>148</objectID>
-		<name>199.16</name>
-		<posX>-59.12</posX>
-		<posY>2.36</posY>
-		<posZ>-23.51</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":135}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>149</objectID>
-		<name>199.16</name>
-		<posX>-8.2</posX>
-		<posY>1.66</posY>
-		<posZ>44.944</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":0}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>150</objectID>
-		<name>199.16</name>
-		<posX>-2.073</posX>
-		<posY>1.66</posY>
-		<posZ>26.49</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":0}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>151</objectID>
-		<name>199.16</name>
-		<posX>-2.2</posX>
-		<posY>10.77</posY>
-		<posZ>-7.02</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":3}</extraData>
-	</object>
-	<object>
-		<type>2</type>
 		<objectID>152</objectID>
 		<name>199.16</name>
 		<posX>-5.89</posX>
 		<posY>9.85</posY>
 		<posZ>-27.35</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":3}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>153</objectID>
-		<name>210.6</name>
-		<posX>0.42</posX>
-		<posY>7.514997</posY>
-		<posZ>-28.866</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -2119,38 +2011,6 @@
 	</object>
 	<object>
 		<type>0</type>
-		<objectID>157</objectID>
-		<name>41713</name>
-		<posX>-81.4</posX>
-		<posY>42.07</posY>
-		<posZ>-152.12</posZ>
-		<scaleX>1.644421</scaleX>
-		<scaleY>6.701045</scaleY>
-		<scaleZ>1.299051</scaleZ>
-		<extraData>{"EnemyId":3}</extraData>
-		<rotW>0.05896832</rotW>
-		<rotX>-0.369051</rotX>
-		<rotY>-0.007334474</rotY>
-		<rotZ>0.9275076</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>158</objectID>
-		<name>41713</name>
-		<posX>-47</posX>
-		<posY>51.1</posY>
-		<posZ>-149.596</posZ>
-		<scaleX>1.644421</scaleX>
-		<scaleY>6.701045</scaleY>
-		<scaleZ>0.630362</scaleZ>
-		<extraData>{"EnemyId":3}</extraData>
-		<rotW>0.02565599</rotW>
-		<rotX>0.1097921</rotX>
-		<rotY>-0.01794568</rotY>
-		<rotZ>0.9934614</rotZ>
-	</object>
-	<object>
-		<type>0</type>
 		<objectID>159</objectID>
 		<name>41713</name>
 		<posX>-80.88</posX>
@@ -2196,22 +2056,6 @@
 		<rotX>-0.9902576</rotX>
 		<rotY>-0.05005477</rotY>
 		<rotZ>0.006559756</rotZ>
-	</object>
-	<object>
-		<type>0</type>
-		<objectID>163</objectID>
-		<name>41716</name>
-		<posX>-114.56</posX>
-		<posY>40.35997</posY>
-		<posZ>-74.4</posZ>
-		<scaleX>1.6719</scaleX>
-		<scaleY>1.7098</scaleY>
-		<scaleZ>1.5603</scaleZ>
-		<extraData>{"EnemyId":3}</extraData>
-		<rotW>0.3922128</rotW>
-		<rotX>-0.1939803</rotX>
-		<rotY>0.1531761</rotY>
-		<rotZ>-0.8860462</rotZ>
 	</object>
 	<object>
 		<type>0</type>

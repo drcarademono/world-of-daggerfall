@@ -114,18 +114,6 @@
 	</object>
 	<object>
 		<type>1</type>
-		<objectID>15</objectID>
-		<name>301.1</name>
-		<posX>-5.95</posX>
-		<posY>-0.2375</posY>
-		<posZ>4.41</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":4}</extraData>
-	</object>
-	<object>
-		<type>1</type>
 		<objectID>25</objectID>
 		<name>301.0</name>
 		<posX>-3.46</posX>
@@ -138,83 +126,11 @@
 	</object>
 	<object>
 		<type>1</type>
-		<objectID>26</objectID>
-		<name>301.0</name>
-		<posX>-3.46</posX>
-		<posY>-0.2375</posY>
-		<posZ>1.55</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":4}</extraData>
-	</object>
-	<object>
-		<type>1</type>
 		<objectID>27</objectID>
 		<name>301.0</name>
 		<posX>-5.88</posX>
 		<posY>-0.2375</posY>
 		<posZ>1.55</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":4}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>28</objectID>
-		<name>301.1</name>
-		<posX>-8.82</posX>
-		<posY>-0.2375</posY>
-		<posZ>1.55</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":4}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>29</objectID>
-		<name>301.1</name>
-		<posX>-5.89</posX>
-		<posY>-0.2375</posY>
-		<posZ>-1.24</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":4}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>30</objectID>
-		<name>301.0</name>
-		<posX>-3.34</posX>
-		<posY>-0.2375</posY>
-		<posZ>-1.24</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":4}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>31</objectID>
-		<name>301.0</name>
-		<posX>-8.7</posX>
-		<posY>-0.2375</posY>
-		<posZ>-1.24</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":4}</extraData>
-	</object>
-	<object>
-		<type>1</type>
-		<objectID>32</objectID>
-		<name>301.1</name>
-		<posX>-8.7</posX>
-		<posY>-0.2375</posY>
-		<posZ>-3.99</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>

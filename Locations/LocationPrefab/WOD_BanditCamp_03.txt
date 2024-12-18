@@ -351,42 +351,6 @@
 		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
 	</object>
 	<object>
-		<type>2</type>
-		<objectID>21</objectID>
-		<name>199.16</name>
-		<posX>18.3</posX>
-		<posY>1.04</posY>
-		<posZ>-22.69</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>27</objectID>
-		<name>199.16</name>
-		<posX>18.3</posX>
-		<posY>1.04</posY>
-		<posZ>25.22</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
-	</object>
-	<object>
-		<type>2</type>
-		<objectID>28</objectID>
-		<name>199.16</name>
-		<posX>-15.9</posX>
-		<posY>1.04</posY>
-		<posZ>25.22</posZ>
-		<scaleX>1</scaleX>
-		<scaleY>1</scaleY>
-		<scaleZ>1</scaleZ>
-		<extraData>{"EnemyId":138,"TeamOverride":0}</extraData>
-	</object>
-	<object>
 		<type>4</type>
 		<objectID>40</objectID>
 		<name>FX_Smoke</name>
