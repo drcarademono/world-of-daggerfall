@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6495572}
   - component: {fileID: 5574509813290946203}
   m_Layer: 0
-  m_Name: Mountain_07
+  m_Name: Mountain_1C_07
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -61,7 +61,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 3e4d55268c283f095b9f5891a139bc98, type: 2}
-  - {fileID: 2100000, guid: 935c2383a169026f4ba6389107d846e0, type: 2}
+  - {fileID: 2100000, guid: 3e4d55268c283f095b9f5891a139bc98, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

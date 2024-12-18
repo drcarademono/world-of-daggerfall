@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2329728}
   - component: {fileID: 6466158}
   m_Layer: 0
-  m_Name: Volcano_Mountain_01
+  m_Name: Volcano_1C_Mountain_1C_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 02e101631cf2bd46b8f09e660d4d3a9f, type: 2}
-  - {fileID: 2100000, guid: 02e101631cf2bd46b8f09e660d4d3a9f, type: 2}
+  - {fileID: 2100000, guid: 3e4d55268c283f095b9f5891a139bc98, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
