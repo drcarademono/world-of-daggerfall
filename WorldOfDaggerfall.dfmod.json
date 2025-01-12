@@ -1,6 +1,6 @@
 {
     "ModTitle": "World of Daggerfall",
-    "ModVersion": "0.3.4",
+    "ModVersion": "0.3.6",
     "ModAuthor": "World of Daggerfall Team",
     "ContactInfo": "@kaboissonneault, @carademono",
     "DFUnity_Version": "1.0.0",
@@ -835,7 +835,6 @@
         "Assets/Game/Mods/world-of-daggerfall/CustomRuntimeMaterials/Rocks/WOD_Rock_Flat_m_2C_14.json",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_DakFron_BannerPost_01.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Bridges.csv",
-        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_RMB.csv",
         "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMAA00.RMB.json",
         "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMAA01.RMB.json",
         "Assets/Game/Mods/world-of-daggerfall/WorldData/WODFARMBA03.RMB.json",
@@ -855,7 +854,8 @@
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa03.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa04.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba01.txt",
-        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba04.txt"
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba04.txt",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Docks.csv"
     ],
     "Dependencies": [
         {
@@ -881,6 +881,11 @@
             "IsOptional": true,
             "IsPeer": true,
             "Version": "0.1.4"
+        },
+        {
+            "Name": "fixed desert architecture",
+            "IsOptional": false,
+            "IsPeer": false
         }
     ]
 }
