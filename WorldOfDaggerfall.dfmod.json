@@ -1,6 +1,6 @@
 {
     "ModTitle": "World of Daggerfall",
-    "ModVersion": "0.3.6",
+    "ModVersion": "0.4.0",
     "ModAuthor": "World of Daggerfall Team",
     "ContactInfo": "@kaboissonneault, @carademono",
     "DFUnity_Version": "1.0.0",
@@ -855,7 +855,10 @@
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmaa04.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba01.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba04.txt",
-        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Docks.csv"
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/FOO.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/FOOBGR.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/FOOBAR.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Dock_Daggerfall_01.txt"
     ],
     "Dependencies": [
         {

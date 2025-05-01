@@ -1,0 +1,59 @@
+{
+    "FldHeader": {
+        "NumBlockDataRecords": 0,
+        "NumMisc3dObjectRecords": 0,
+        "NumMiscFlatObjectRecords": 0,
+        "BlockPositions": null,
+        "BuildingDataList": [],
+        "BlockDataSizes": null,
+        "GroundData": {
+
+        },
+        "AutoMapData": null,
+        "Name": null,
+        "OtherNames": null
+    },
+    "SubRecords": [],
+    "Misc3dObjectRecords": [
+        {
+            "ModelId": "41307",
+            "ModelIdNum": 41307,
+            "ObjectType": 0,
+            "XPos": 4284,
+            "YPos": -2694,
+            "ZPos": -7723,
+            "XScale": 1.0,
+            "YScale": 1.0,
+            "ZScale": 1.0,
+            "XRotation": 0,
+            "YRotation": -428,
+            "ZRotation": 0
+        },
+        {
+            "ModelId": "53500",
+            "ModelIdNum": 53500,
+            "ObjectType": 0,
+            "XPos": 4284,
+            "YPos": -2686,
+            "ZPos": -7723,
+            "XScale": 1.0,
+            "YScale": 1.0,
+            "ZScale": 1.0,
+            "XRotation": 0,
+            "YRotation": -1452,
+            "ZRotation": 0
+        }
+    ],
+    "MiscFlatObjectRecords": [
+        {
+            "Position": 6643,
+            "XPos": 4259,
+            "YPos": -2712,
+            "ZPos": -7714,
+            "TextureArchive": 210,
+            "TextureRecord": 19,
+            "FactionID": 0,
+            "Flags": 0
+        }
+    ]
+}
