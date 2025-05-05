@@ -5,9 +5,9 @@
 		<type>0</type>
 		<objectID>0</objectID>
 		<name>41606</name>
-		<posX>2.9</posX>
-		<posY>0.825</posY>
-		<posZ>-9.075</posZ>
+		<posX>2.899995</posX>
+		<posY>0.620252</posY>
+		<posZ>-9.075001</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
 		<scaleZ>1</scaleZ>
@@ -366,12 +366,12 @@
 		<extraData>{"EnemyId":136,"TeamOverride":0}</extraData>
 	</object>
 	<object>
-		<type>4</type>
+		<type>0</type>
 		<objectID>49</objectID>
-		<name>FX_Smoke</name>
-		<posX>-18.325</posX>
-		<posY>0</posY>
-		<posZ>24</posZ>
+		<name>52990</name>
+		<posX>0.59</posX>
+		<posY>1.09</posY>
+		<posZ>-1.58</posZ>
 		<scaleX>5.016391</scaleX>
 		<scaleY>2.612905</scaleY>
 		<scaleZ>4.246382</scaleZ>

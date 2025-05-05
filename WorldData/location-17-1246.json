@@ -1,0 +1,154 @@
+{
+    "Loaded": true,
+    "Name": "Port of Daggerfall",
+    "RegionName": "Daggerfall",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 1306739903,
+        "Latitude": 36520,
+        "Longitude": 26536,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 256
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 6797312,
+                "Y": 9353217,
+                "IsExterior": 32768,
+                "Unknown2": 1246,
+                "LocationId": 21773,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Port of Daggerfall"
+            }
+        },
+        "BuildingCount": 9,
+        "Buildings": [
+            {
+                "NameSeed": 30983,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 21773,
+                "BuildingType": "House1",
+                "Quality": 5
+            },
+            {
+                "NameSeed": 27983,
+                "FactionId": 0,
+                "Sector": 16,
+                "LocationId": 21773,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 32312,
+                "FactionId": 0,
+                "Sector": 26,
+                "LocationId": 21773,
+                "BuildingType": "House2",
+                "Quality": 1
+            },
+            {
+                "NameSeed": 16271,
+                "FactionId": 0,
+                "Sector": 33,
+                "LocationId": 21773,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 10248,
+                "FactionId": 0,
+                "Sector": 41,
+                "LocationId": 21773,
+                "BuildingType": "House2",
+                "Quality": 15
+            },
+            {
+                "NameSeed": 7587,
+                "FactionId": 0,
+                "Sector": 51,
+                "LocationId": 21773,
+                "BuildingType": "House2",
+                "Quality": 13
+            },
+            {
+                "NameSeed": 3127,
+                "FactionId": 0,
+                "Sector": 54,
+                "LocationId": 21773,
+                "BuildingType": "House2",
+                "Quality": 9
+            },
+            {
+                "NameSeed": 17195,
+                "FactionId": 0,
+                "Sector": 87,
+                "LocationId": 21773,
+                "BuildingType": "Tavern",
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32315,
+                "FactionId": 84,
+                "Sector": 90,
+                "LocationId": 21773,
+                "BuildingType": "Palace",
+                "Quality": 18
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Port of Daggerfall",
+            "MapId": 214207,
+            "LocationId": 0,
+            "Width": 3,
+            "Height": 3,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "TVRNAL00.RMB",
+                "TVRNAL03.RMB",
+                "TEMPAAH0.RMB",
+                "MARKAA01.RMB",
+                "PALAAA02.RMB",
+                "KDRAAL00.RMB",
+                "FARMAA02.RMB",
+                "GENRAL03.RMB"
+                "FARMAA07.RMB",
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 231,
+        "ClimateType": "Temperate",
+        "NatureSet": "Nature_TemperateWoodland",
+        "GroundArchive": 302,
+        "NatureArchive": 504,
+        "SkyBase": 16,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 145,
+    "RegionIndex": 17,
+    "LocationIndex": 1246
+}
