@@ -856,10 +856,22 @@
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba01.txt",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Farmba04.txt",
         "Assets/Game/Mods/world-of-daggerfall/WorldData/FOO.RMB.json",
-        "Assets/Game/Mods/world-of-daggerfall/WorldData/FOOBGR.RMB.json",
-        "Assets/Game/Mods/world-of-daggerfall/WorldData/FOOBAR.RMB.json",
         "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Dock_Daggerfall_01.txt",
-        "Assets/Game/Mods/world-of-daggerfall/WorldData/location-17-1246.json"
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/location-17-1246.json",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Docks_Clearance.csv",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/WOD_Docks.csv",
+        "Assets/Game/Mods/world-of-daggerfall/Locations/LocationPrefab/WOD_Dock_Clearance_01.txt",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/ALCHAS03.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/ALCHBS00.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/ALCHBS01.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/ALCHAS00.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/ALCHAS02.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/ALCHAS01.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/BANKAS02.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/BANKAS00.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/BANKBS00.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/BANKAS01.RMB.json",
+        "Assets/Game/Mods/world-of-daggerfall/WorldData/BANKBS01.RMB.json"
     ],
     "Dependencies": [
         {
@@ -885,6 +897,11 @@
             "IsOptional": true,
             "IsPeer": true,
             "Version": "0.1.4"
+        },
+        {
+            "Name": "beautiful villages",
+            "IsOptional": true,
+            "IsPeer": false
         }
     ]
 }
