@@ -57,6 +57,8 @@ namespace WODRocksMaterials
         static Mod mod;
         static bool WorldOfDaggerfallBiomesModEnabled = false;
 
+        static bool snowlessModEnabled;
+
         [Invoke(StateManager.StateTypes.Start, 0)]
         public static void Init(InitParams initParams)
         {
@@ -66,6 +68,11 @@ namespace WODRocksMaterials
 
             Mod worldOfDaggerfallBiomesMod = ModManager.Instance.GetModFromGUID("3b4319ac-34bb-411d-aa2c-d52b7b9eb69d");
             WorldOfDaggerfallBiomesModEnabled = worldOfDaggerfallBiomesMod != null && worldOfDaggerfallBiomesMod.Enabled;
+
+            var snowlessMod1 = ModManager.Instance.GetModFromGUID("4f7f8aa1-7bd8-4f33-bd02-bbb5ac758a5d");
+            var snowlessMod2 = ModManager.Instance.GetModFromGUID("510e24c8-8fc4-44c0-8927-8786b5bd0fe4");
+            snowlessModEnabled = (snowlessMod1 != null && snowlessMod1.Enabled)
+                              || (snowlessMod2 != null && snowlessMod2.Enabled);
 
             Debug.Log("WODRocksMaterials: Init called.");
         }
@@ -294,8 +301,17 @@ namespace WODRocksMaterials
 
         private bool IsWinter()
         {
-            DaggerfallDateTime now = DaggerfallUnity.Instance.WorldTime.Now;
-            return now.SeasonValue == DaggerfallDateTime.Seasons.Winter;
+            if (GameManager.Instance?.PlayerGPS == null) return false;
+            var now = DaggerfallUnity.Instance.WorldTime.Now;
+            int c = GameManager.Instance.PlayerGPS.CurrentClimateIndex;
+
+            return now.SeasonValue == DaggerfallDateTime.Seasons.Winter
+                && c != (int)MapsFile.Climates.Desert
+                && c != (int)MapsFile.Climates.Desert2
+                && c != (int)MapsFile.Climates.Subtropical
+                && (!snowlessModEnabled 
+                    || (c != (int)MapsFile.Climates.Rainforest 
+                     && c != (int)MapsFile.Climates.Swamp));
         }
     }
 }
